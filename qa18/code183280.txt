@@ -1,0 +1,152 @@
+
+qa18/private/code183280.bin:     file format binary
+
+
+Disassembly of section .data:
+
+00003280 <.data>:
+    3280:	fc                   	cld
+    3281:	00 f2                	add    dl,dh
+    3283:	00 fd                	add    ch,bh
+    3285:	00 f2                	add    dl,dh
+    3287:	00 fe                	add    dh,bh
+    3289:	00 f2                	add    dl,dh
+    328b:	00 ff                	add    bh,bh
+    328d:	00 f2                	add    dl,dh
+    328f:	00 00                	add    BYTE PTR [bx+si],al
+    3291:	01 f2                	add    dx,si
+    3293:	00 01                	add    BYTE PTR [bx+di],al
+    3295:	01 f2                	add    dx,si
+    3297:	00 02                	add    BYTE PTR [bp+si],al
+    3299:	01 f2                	add    dx,si
+    329b:	00 03                	add    BYTE PTR [bp+di],al
+    329d:	01 f2                	add    dx,si
+    329f:	00 04                	add    BYTE PTR [si],al
+    32a1:	01 f2                	add    dx,si
+    32a3:	00 05                	add    BYTE PTR [di],al
+    32a5:	01 f2                	add    dx,si
+    32a7:	00 06 01 f2          	add    BYTE PTR ds:0xf201,al
+    32ab:	00 07                	add    BYTE PTR [bx],al
+    32ad:	01 f2                	add    dx,si
+    32af:	00 08                	add    BYTE PTR [bx+si],cl
+    32b1:	01 f2                	add    dx,si
+    32b3:	00 09                	add    BYTE PTR [bx+di],cl
+    32b5:	01 f2                	add    dx,si
+    32b7:	00 0a                	add    BYTE PTR [bp+si],cl
+    32b9:	01 f2                	add    dx,si
+    32bb:	00 0b                	add    BYTE PTR [bp+di],cl
+    32bd:	01 f2                	add    dx,si
+    32bf:	00 0c                	add    BYTE PTR [si],cl
+    32c1:	01 f2                	add    dx,si
+    32c3:	00 0d                	add    BYTE PTR [di],cl
+    32c5:	01 f2                	add    dx,si
+    32c7:	00 0e 01 f2          	add    BYTE PTR ds:0xf201,cl
+    32cb:	00 0f                	add    BYTE PTR [bx],cl
+    32cd:	01 f3                	add    bx,si
+    32cf:	00 10                	add    BYTE PTR [bx+si],dl
+    32d1:	01 f3                	add    bx,si
+    32d3:	00 11                	add    BYTE PTR [bx+di],dl
+    32d5:	01 f3                	add    bx,si
+    32d7:	00 12                	add    BYTE PTR [bp+si],dl
+    32d9:	01 f3                	add    bx,si
+    32db:	00 13                	add    BYTE PTR [bp+di],dl
+    32dd:	01 f3                	add    bx,si
+    32df:	00 14                	add    BYTE PTR [si],dl
+    32e1:	01 f3                	add    bx,si
+    32e3:	00 15                	add    BYTE PTR [di],dl
+    32e5:	01 f3                	add    bx,si
+    32e7:	00 16 01 f3          	add    BYTE PTR ds:0xf301,dl
+    32eb:	00 17                	add    BYTE PTR [bx],dl
+    32ed:	01 f3                	add    bx,si
+    32ef:	00 18                	add    BYTE PTR [bx+si],bl
+    32f1:	01 f3                	add    bx,si
+    32f3:	00 19                	add    BYTE PTR [bx+di],bl
+    32f5:	01 f3                	add    bx,si
+    32f7:	00 1a                	add    BYTE PTR [bp+si],bl
+    32f9:	01 f3                	add    bx,si
+    32fb:	00 1b                	add    BYTE PTR [bp+di],bl
+    32fd:	01 f3                	add    bx,si
+    32ff:	00 1c                	add    BYTE PTR [si],bl
+    3301:	01 f3                	add    bx,si
+    3303:	00 1d                	add    BYTE PTR [di],bl
+    3305:	01 f3                	add    bx,si
+    3307:	00 1e 01 f3          	add    BYTE PTR ds:0xf301,bl
+    330b:	00 1f                	add    BYTE PTR [bx],bl
+    330d:	01 f3                	add    bx,si
+    330f:	00 20                	add    BYTE PTR [bx+si],ah
+    3311:	01 f3                	add    bx,si
+    3313:	00 21                	add    BYTE PTR [bx+di],ah
+    3315:	01 f3                	add    bx,si
+    3317:	00 22                	add    BYTE PTR [bp+si],ah
+    3319:	01 f3                	add    bx,si
+    331b:	00 23                	add    BYTE PTR [bp+di],ah
+    331d:	01 f3                	add    bx,si
+    331f:	00 24                	add    BYTE PTR [si],ah
+    3321:	01 f3                	add    bx,si
+    3323:	00 25                	add    BYTE PTR [di],ah
+    3325:	01 f3                	add    bx,si
+    3327:	00 26 01 f3          	add    BYTE PTR ds:0xf301,ah
+    332b:	00 27                	add    BYTE PTR [bx],ah
+    332d:	01 f3                	add    bx,si
+    332f:	00 28                	add    BYTE PTR [bx+si],ch
+    3331:	01 f3                	add    bx,si
+    3333:	00 29                	add    BYTE PTR [bx+di],ch
+    3335:	01 f3                	add    bx,si
+    3337:	00 2a                	add    BYTE PTR [bp+si],ch
+    3339:	01 f3                	add    bx,si
+    333b:	00 2b                	add    BYTE PTR [bp+di],ch
+    333d:	01 f3                	add    bx,si
+    333f:	00 2c                	add    BYTE PTR [si],ch
+    3341:	01 f3                	add    bx,si
+    3343:	00 2d                	add    BYTE PTR [di],ch
+    3345:	01 f3                	add    bx,si
+    3347:	00 2e 01 fa          	add    BYTE PTR ds:0xfa01,ch
+    334b:	00 2f                	add    BYTE PTR [bx],ch
+    334d:	01 fa                	add    dx,di
+    334f:	00 30                	add    BYTE PTR [bx+si],dh
+    3351:	01 fa                	add    dx,di
+    3353:	00 31                	add    BYTE PTR [bx+di],dh
+    3355:	01 fa                	add    dx,di
+    3357:	00 32                	add    BYTE PTR [bp+si],dh
+    3359:	01 fa                	add    dx,di
+    335b:	00 33                	add    BYTE PTR [bp+di],dh
+    335d:	01 fa                	add    dx,di
+    335f:	00 34                	add    BYTE PTR [si],dh
+    3361:	01 fa                	add    dx,di
+    3363:	00 35                	add    BYTE PTR [di],dh
+    3365:	01 fa                	add    dx,di
+    3367:	00 36 01 fa          	add    BYTE PTR ds:0xfa01,dh
+    336b:	00 37                	add    BYTE PTR [bx],dh
+    336d:	01 fa                	add    dx,di
+    336f:	00 38                	add    BYTE PTR [bx+si],bh
+    3371:	01 fa                	add    dx,di
+    3373:	00 39                	add    BYTE PTR [bx+di],bh
+    3375:	01 fa                	add    dx,di
+    3377:	00 3a                	add    BYTE PTR [bp+si],bh
+    3379:	01 fa                	add    dx,di
+    337b:	00 3b                	add    BYTE PTR [bp+di],bh
+    337d:	01 fa                	add    dx,di
+    337f:	00 3c                	add    BYTE PTR [si],bh
+    3381:	01 fa                	add    dx,di
+    3383:	00 3d                	add    BYTE PTR [di],bh
+    3385:	01 fa                	add    dx,di
+    3387:	00 3e 01 fa          	add    BYTE PTR ds:0xfa01,bh
+    338b:	00 3f                	add    BYTE PTR [bx],bh
+    338d:	01 fa                	add    dx,di
+    338f:	00 40 01             	add    BYTE PTR [bx+si+0x1],al
+    3392:	fa                   	cli
+    3393:	00 41 01             	add    BYTE PTR [bx+di+0x1],al
+    3396:	fa                   	cli
+    3397:	00 42 01             	add    BYTE PTR [bp+si+0x1],al
+    339a:	fa                   	cli
+    339b:	00 43 01             	add    BYTE PTR [bp+di+0x1],al
+    339e:	fa                   	cli
+    339f:	00 44 01             	add    BYTE PTR [si+0x1],al
+    33a2:	fa                   	cli
+    33a3:	00 45 01             	add    BYTE PTR [di+0x1],al
+    33a6:	fa                   	cli
+    33a7:	00 46 01             	add    BYTE PTR [bp+0x1],al
+    33aa:	fa                   	cli
+    33ab:	00 47 01             	add    BYTE PTR [bx+0x1],al
+    33ae:	fa                   	cli
+	...

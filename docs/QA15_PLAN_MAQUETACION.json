@@ -1,0 +1,32 @@
+{
+  "revision": "QA15_M1",
+  "layout_completed": 1,
+  "layout_base_total": 4,
+  "layout_base_remaining": 3,
+  "estimate_is_guarantee": false,
+  "unknown_contexts_explicit": true,
+  "linguistic_track": "SEPARATE_NOT_COMPLETED_BY_M1",
+  "iterations": [
+    {
+      "id": "M1",
+      "status": "COMPLETE_BOUNDED_INVENTORY_AND_ONE_FIX",
+      "work": "Map preset/consumer tables, controls, stable IDs, candidate widths and sampled native bindings; correct G05:M002."
+    },
+    {
+      "id": "M2",
+      "status": "PENDING",
+      "work": "Menus, inventory, status, shops, quantities, positive/negative levels and numeric boundaries; bind unresolved families to actual window consumers; inherit QA10/QA12 unchanged samples."
+    },
+    {
+      "id": "M3",
+      "status": "PENDING",
+      "work": "Dialogue/tutorial/event/credits layout. Resolve13 queued alerts, separate padding and special consumers, repairG03:M012 with linguistic provenance, exercise9 dynamic resources and native page/scroll variants. Map credit consumer before assuming getter coverage."
+    },
+    {
+      "id": "M4",
+      "status": "PENDING",
+      "work": "Integrate changes and bilingual edits, rerun affected native contexts, reconcile exclusions and coverage, build cumulative patch and close only verified scope."
+    }
+  ],
+  "reestimate_trigger": "Additional consumers/variants or unresolved source meaning exceed the bounded lots. Three remaining is a planning count, not a promise that unknowns are already covered."
+}

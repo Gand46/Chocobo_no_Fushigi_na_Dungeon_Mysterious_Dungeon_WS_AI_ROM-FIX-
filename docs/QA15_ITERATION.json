@@ -1,0 +1,22 @@
+{
+  "iteration": "Maquetacion M1/4",
+  "audit": "QA15",
+  "base": "HF10",
+  "output": "HF11 TEST",
+  "start_utc": "2026-10-14T20:11:02Z",
+  "closed_utc": "2026-10-14T20:36:20.289589+00:00",
+  "objective": "Inventario de ventanas/saltos/recortes/variables y correccion acotada demostrada",
+  "change": "G05:M002 reflow6bytes",
+  "translation": "Glyph order preserved; no new semantic translation or font",
+  "tests": [
+    "native500frames PASS_SYNTHETIC",
+    "source-only6byte-diff",
+    "11 existing tests PASS",
+    "independent BPS exact PASS"
+  ],
+  "quality": "One native text repair; thirteen alerts remain; global layout/linguistic not approved",
+  "remaining_layout_iterations_base": 3,
+  "timing_cap_minutes": 40,
+  "tokens_saved": "NOT_MEASURED",
+  "subagents": 0
+}

@@ -1,0 +1,258 @@
+{
+  "G06:M002": {
+    "text": "Ah, you are that moogle's friend.",
+    "reason": "Afirmación, no pregunta sobre la amistad."
+  },
+  "G06:M003": {
+    "text": "That moogle said he could not stay at the inn and asked me to lend him a house.",
+    "reason": "No afirma falta de habitaciones; pide una casa prestada."
+  },
+  "G06:M004": {
+    "text": "He went ahead and took the key to the empty house!",
+    "reason": "Restituye casa vacía y acción unilateral."
+  },
+  "G06:M010": {
+    "text": "I hear you have been bringing back all sorts of items lately.",
+    "reason": "Restituye información recibida y tiempo verbal."
+  },
+  "G06:M012": {
+    "text": "I see... Something possessed {Camilla's Dad}, and he built a dungeon under the inn.",
+    "reason": "Posesión y construcción, no rapto ni encargo."
+  },
+  "G06:M015": {
+    "text": "Yes, Professor!",
+    "reason": "先生: tratamiento coherente del investigador."
+  },
+  "G06:M016": {
+    "text": "Do you remember the four books found when this village was founded?",
+    "reason": "Corrige gramática y pregunta original."
+  },
+  "G06:M018": {
+    "text": "Could you find them for me?",
+    "reason": "探す: buscar, no mirar."
+  },
+  "G06:M019": {
+    "text": "Thank you for telling me. This may help us learn something.",
+    "reason": "Agradece información; no elogia educación ni interroga."
+  },
+  "G06:M026": {
+    "text": "Good to see you. We found two books!",
+    "reason": "Saludo y hallazgo; no mérito atribuido al visitante."
+  },
+  "G06:M027": {
+    "text": "{Regla} will tell you about the other book.",
+    "reason": "Corrige sujeto, destinatario y futuro."
+  },
+  "G06:M028": {
+    "text": "It is a mysterious book.",
+    "reason": "Restituye referente."
+  },
+  "G06:M029": {
+    "text": "I will look for the other two books as well.",
+    "reason": "Restituye cantidad dos."
+  },
+  "G06:M030": {
+    "text": "Hello. We found two books! The Professor has one of them.",
+    "reason": "Dos libros, no segundo libro; tratamiento coherente."
+  },
+  "G06:M031": {
+    "text": "It is a fascinating book.",
+    "reason": "興味深い: interesante, no peculiar."
+  },
+  "G06:M039": {
+    "text": "I will put the {Monster File} on the far right shelf. Feel free to read it.",
+    "reason": "Estante extremo derecho, espacio y permiso."
+  },
+  "G06:M040": {
+    "text": "I will look for the other two books as well.",
+    "reason": "Restituye cantidad dos."
+  },
+  "G06:M044": {
+    "text": "Train yourself and strengthen your weapons and armor!",
+    "reason": "Redacción natural de entrenamiento y mejora."
+  },
+  "G06:M047": {
+    "text": "Try using everything and learn from experience!",
+    "reason": "Restituye uso y aprendizaje práctico."
+  },
+  "G06:M048": {
+    "text": "If your Energy runs out, you will start losing HP.",
+    "reason": "Gramática y condición de pérdida gradual de HP."
+  },
+  "G06:M050": {
+    "text": "If you fall in a dungeon, your level drops by one.",
+    "reason": "Restituye condición dentro de mazmorra."
+  },
+  "G06:M054": {
+    "text": "The Professor has the fourth book.",
+    "reason": "Tratamiento coherente."
+  },
+  "G06:M060": {
+    "text": "{Camilla's Dad} is a gentle chocobo with few desires, so things did not get too serious.",
+    "reason": "Restituye consecuencia omitida, evita repetir deseos."
+  },
+  "G06:M061": {
+    "text": "But {Atla}... Surely you understand his desires better than anyone?",
+    "reason": "君: interlocutor, no Atla; enlace con deseo previo."
+  },
+  "G06:M063": {
+    "text": "The Professor has the book.",
+    "reason": "Tratamiento coherente."
+  },
+  "G06:M064": {
+    "text": "Those consumed by the Tyrian Crystal create a dungeon as deep as their own desires.",
+    "reason": "Restituye creación activa y relación con deseos."
+  },
+  "G06:M065": {
+    "text": "Many strange items lie within. It drains the souls of adventurers who enter in search of them.",
+    "reason": "Corrige seeked y presente; restituye drenaje de almas."
+  },
+  "G06:M066": {
+    "text": "After absorbing many souls, the Tyrian Crystal grows, splits, and spreads across the world.",
+    "reason": "Restituye división omitida y secuencia causal."
+  },
+  "G06:M067": {
+    "text": "We must seal the Tyrian Crystal before that happens. But how can we seal it?",
+    "reason": "Restituye prevención y referente, sin desplazar frase anterior."
+  },
+  "G06:M068": {
+    "text": "All we could do was defeat the one it had consumed and bury it deep underground.",
+    "reason": "Restituye limitación y persona poseída."
+  },
+  "G06:M072": {
+    "text": "Touch the front of the book to keep your level. Touch the back to start over from level one. I do not understand what this means...",
+    "reason": "Redacción clara de la pista; conserva perplejidad."
+  },
+  "G06:M077": {
+    "text": "Another mysterious book!",
+    "reason": "Redacción natural y referente."
+  },
+  "G06:M080": {
+    "text": "Yes, that is right. This one works the same way.",
+    "reason": "これもそう: confirmación, no entrega Here."
+  },
+  "G06:M091": {
+    "text": "The dungeon has appeared for the third time.",
+    "reason": "Restituye tercera aparición."
+  },
+  "G06:M092": {
+    "text": "The Professor and I are investigating a theory.",
+    "reason": "Trabajo conjunto presente, no idea por consultar."
+  },
+  "G06:M096": {
+    "text": "This is the very dungeon they wished for.",
+    "reason": "Continúa percepción de aldeanos; elimina residuo asbl."
+  },
+  "G07:M000": {
+    "text": "The village has grown quite large!",
+    "reason": "Texto inglés ilegible; restituye crecimiento del pueblo."
+  },
+  "G07:M001": {
+    "text": "I wonder how much more it will change.",
+    "reason": "かわる: cambiar, no saber."
+  },
+  "G07:M002": {
+    "text": "There is still room for more changes.",
+    "reason": "かわる: cambios del pueblo, no comprensión personal."
+  },
+  "G07:M003": {
+    "text": "A few more things will change.",
+    "reason": "かわる: cambiar, no entender."
+  },
+  "G08:M003": {
+    "text": "He said he would bring lots of items soon and asked me to make room in the storehouse.",
+    "reason": "Pide espacio libre; no alquiler explícito."
+  },
+  "G08:M004": {
+    "text": "Could he have found a dungeon?",
+    "reason": "Pregunta si encontró una mazmorra; no objetos en ella."
+  },
+  "G08:M012": {
+    "text": "Do not push yourself too hard. Take your time.",
+    "reason": "Inglés natural; consejo de no esforzarse demasiado."
+  },
+  "G08:M018": {
+    "text": "I hear {Mill} is going to live with {Chip}.",
+    "reason": "Restituye futuro y noticia recibida; espacio entre palabras."
+  },
+  "G08:M020": {
+    "text": "{Chip} and {Mill} have had babies! Three of them!",
+    "reason": "Gramática de nacimiento múltiple."
+  },
+  "G08:M023": {
+    "text": "It seems the scarecrow in the field has been possessed this time.",
+    "reason": "Posesión clara, no taken in ambiguo."
+  },
+  "G08:M024": {
+    "text": "Perhaps these desires did not come from just one heart.",
+    "reason": "Restituye deseos y origen."
+  },
+  "G08:M026": {
+    "text": "I think I understand. That dungeon reflects the hearts of everyone in the village, expressed through the scarecrow.",
+    "reason": "Corrige dirección de transmisión y relación mazmorra-corazones."
+  },
+  "G08:M028": {
+    "text": "Hmm... It feels as if the Tyrian Crystal is deceiving us...",
+    "reason": "Repara nombre ilegible y perspectiva del hablante."
+  },
+  "G10:M002": {
+    "text": "I have been calling for a while, but no one comes out. {Poulet}, help me call them!",
+    "reason": "Gramática de acción continuada."
+  },
+  "G10:M007": {
+    "text": "Rare items?",
+    "reason": "レアアイテム: término que la frase siguiente define."
+  },
+  "G10:M017": {
+    "text": "It will be fine! Just watch me.",
+    "reason": "Restituye invitación a observar."
+  },
+  "G10:M018": {
+    "text": "Let me see...",
+    "reason": "どれどれ: inspección."
+  },
+  "G10:M022": {
+    "text": "You are as slow as ever! I do not know how, but we are in a dungeon. And we found treasure right away!",
+    "reason": "Restituye sorpresa y secuencia, no causalidad inventada."
+  },
+  "G10:M026": {
+    "text": "Ow, ow! What happened this time?",
+    "reason": "Dolor y repetición."
+  },
+  "G10:M027": {
+    "text": "Oh, we are in front of the inn. Huh? In front of the inn?!",
+    "reason": "Restituye reconocimiento seguido de sorpresa."
+  },
+  "G10:M030": {
+    "text": "Well, that does not matter right now.",
+    "reason": "No ordena seguir caminando."
+  },
+  "G10:M031": {
+    "text": "The point is, that dungeon could be full of rare items!",
+    "reason": "Restituye cantidad y posibilidad, término rare items."
+  },
+  "G10:M032": {
+    "text": "I will find us a place to stay. {Poulet}, get the gear you need to explore the dungeon. See you later!",
+    "reason": "Restituye equipo y despedida omitidos."
+  },
+  "G11:M004": {
+    "text": "A pleasure to make your acquaintance.",
+    "reason": "Fórmula de presentación, no recuerdo previo."
+  },
+  "G11:M034": {
+    "text": "He does not think that way?",
+    "reason": "Repite negación de pensamiento, no mentira."
+  },
+  "G11:M035": {
+    "text": "Indeed, he thinks nothing of you at all.",
+    "reason": "Conserva tercera persona y giro amenazante."
+  },
+  "G11:M038": {
+    "text": "Thank you for all your hard work, {Krehl}.",
+    "reason": "Se dirige directamente a Krehl."
+  },
+  "G06:M081": {
+    "text": "Let us call this book the {Item File}.",
+    "reason": "Repara repetición de línea en ejecución nativa causada por control heredado."
+  }
+}

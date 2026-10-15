@@ -1,0 +1,225 @@
+{
+  "native_scale_full_title_reviewed": true,
+  "diagnostic_zoom": 2,
+  "ocr_used": false,
+  "samples": [
+    {
+      "sample": 1,
+      "visible": "S",
+      "expected": "S",
+      "pass": true
+    },
+    {
+      "sample": 2,
+      "visible": "G",
+      "expected": "G",
+      "pass": true
+    },
+    {
+      "sample": 3,
+      "visible": "T",
+      "expected": "T",
+      "pass": true
+    },
+    {
+      "sample": 4,
+      "visible": "O",
+      "expected": "O",
+      "pass": true
+    },
+    {
+      "sample": 5,
+      "visible": "Y",
+      "expected": "Y",
+      "pass": true
+    },
+    {
+      "sample": 6,
+      "visible": "N",
+      "expected": "N",
+      "pass": true
+    },
+    {
+      "sample": 7,
+      "visible": "B",
+      "expected": "B",
+      "pass": true
+    },
+    {
+      "sample": 8,
+      "visible": "M",
+      "expected": "M",
+      "pass": true
+    },
+    {
+      "sample": 9,
+      "visible": "E",
+      "expected": "E",
+      "pass": true
+    },
+    {
+      "sample": 10,
+      "visible": "N",
+      "expected": "N",
+      "pass": true
+    },
+    {
+      "sample": 11,
+      "visible": "N",
+      "expected": "N",
+      "pass": true
+    },
+    {
+      "sample": 12,
+      "visible": "D",
+      "expected": "D",
+      "pass": true
+    },
+    {
+      "sample": 13,
+      "visible": "C",
+      "expected": "C",
+      "pass": true
+    },
+    {
+      "sample": 14,
+      "visible": "'",
+      "expected": "'",
+      "pass": true
+    },
+    {
+      "sample": 15,
+      "visible": "U",
+      "expected": "U",
+      "pass": true
+    },
+    {
+      "sample": 16,
+      "visible": "O",
+      "expected": "O",
+      "pass": true
+    },
+    {
+      "sample": 17,
+      "visible": "W",
+      "expected": "W",
+      "pass": true
+    },
+    {
+      "sample": 18,
+      "visible": "R",
+      "expected": "R",
+      "pass": true
+    },
+    {
+      "sample": 19,
+      "visible": "S",
+      "expected": "S",
+      "pass": true
+    },
+    {
+      "sample": 20,
+      "visible": "A",
+      "expected": "A",
+      "pass": true
+    },
+    {
+      "sample": 21,
+      "visible": "E",
+      "expected": "E",
+      "pass": true
+    },
+    {
+      "sample": 22,
+      "visible": "O",
+      "expected": "O",
+      "pass": true
+    },
+    {
+      "sample": 23,
+      "visible": "R",
+      "expected": "R",
+      "pass": true
+    },
+    {
+      "sample": 24,
+      "visible": "O",
+      "expected": "O",
+      "pass": true
+    },
+    {
+      "sample": 25,
+      "visible": "N",
+      "expected": "N",
+      "pass": true
+    },
+    {
+      "sample": 26,
+      "visible": "O",
+      "expected": "O",
+      "pass": true
+    },
+    {
+      "sample": 27,
+      "visible": "S",
+      "expected": "S",
+      "pass": true
+    },
+    {
+      "sample": 28,
+      "visible": "R",
+      "expected": "R",
+      "pass": true
+    },
+    {
+      "sample": 29,
+      "visible": "D",
+      "expected": "D",
+      "pass": true
+    },
+    {
+      "sample": 30,
+      "visible": "E",
+      "expected": "E",
+      "pass": true
+    },
+    {
+      "sample": 31,
+      "visible": "Y",
+      "expected": "Y",
+      "pass": true
+    },
+    {
+      "sample": 32,
+      "visible": "W",
+      "expected": "W",
+      "pass": true
+    },
+    {
+      "sample": 33,
+      "visible": "H",
+      "expected": "H",
+      "pass": true
+    },
+    {
+      "sample": 34,
+      "visible": "C",
+      "expected": "C",
+      "pass": true
+    },
+    {
+      "sample": 35,
+      "visible": "F",
+      "expected": "F",
+      "pass": true
+    },
+    {
+      "sample": 36,
+      "visible": "O",
+      "expected": "O",
+      "pass": true
+    }
+  ],
+  "result": "PASS_36_ISOLATED_CROPS_WITH_NATIVE_SURFACE_REVIEW",
+  "initial_findings": "Animated row7 overwrote upper strokes; moved title below y63. Enlarged N counter, pointed A and used native-like solid small caption matching PUSH BUTTON hierarchy."
+}

@@ -1,0 +1,47 @@
+{
+  "DISCOVERED": {
+    "status": "PASS",
+    "scope": "PASS"
+  },
+  "TRANSLATED": {
+    "status": "PASS",
+    "scope": "PASS_SCOPED_EDITS_ONLY"
+  },
+  "INTEGRATED": {
+    "status": "PASS",
+    "scope": "PASS"
+  },
+  "RUNTIME_CONFIRMED": {
+    "status": "PASS",
+    "scope": "PASS_SYNTHETIC_SCOPED"
+  },
+  "LINGUISTIC_APPROVED": {
+    "status": "NOT_VALIDATED",
+    "scope": "NOT_VALIDATED_GLOBAL"
+  },
+  "TYPOGRAPHY_APPROVED": {
+    "status": "PASS",
+    "scope": "PASS_SCOPED"
+  },
+  "LEGIBILITY_APPROVED": {
+    "status": "PASS",
+    "scope": "PASS_SCOPED"
+  },
+  "DESIGN_APPROVED": {
+    "status": "N/A",
+    "scope": "N/A_NO_NEW_VISUAL_DESIGN"
+  },
+  "VISUAL_APPROVED": {
+    "status": "PASS",
+    "scope": "PASS_SCOPED"
+  },
+  "FUNCTIONAL_APPROVED": {
+    "status": "PASS",
+    "scope": "PASS_SCOPED_INPUT_AND_RETURN"
+  },
+  "FINAL_APPROVED": {
+    "status": "NOT_VALIDATED",
+    "approved": false,
+    "scope": "Global mandatory gates remain open."
+  }
+}

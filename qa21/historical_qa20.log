@@ -1,0 +1,60 @@
+{
+  "status": "V2_EXECUTED_SCOPED_WITH_SIX_CONTEXT_RESERVES",
+  "checks": 3787,
+  "references_reviewed": 248,
+  "references_changed": 74,
+  "scoped_pass": 242,
+  "context_pending": [
+    "G00:M252",
+    "G00:M253",
+    "G00:M254",
+    "G00:M255",
+    "G04:M033",
+    "G04:M034"
+  ],
+  "native_sessions_final": 252,
+  "story_terminators_reached": 247,
+  "incomplete_excluded_diagnostics": [
+    "G00:M255"
+  ],
+  "native_frames": 76311,
+  "visual_readings": 387,
+  "approved_nonblank_dropped_glyphs": 0,
+  "blank_padding_drops": 22,
+  "excluded_diagnostics": [
+    {
+      "id": "G00:M255",
+      "count": 2,
+      "status": "EXCLUDED_CONTEXT_DIAGNOSTIC"
+    }
+  ],
+  "changed_bytes_vs_hf14": 4279,
+  "independent_bps": "PASS_EXACT_BYTES",
+  "global_visual_approved": false,
+  "global_linguistic_approved": false,
+  "natural_reachability": "NOT_VALIDATED",
+  "static": {
+    "story_references": 3488,
+    "story_unique_pointers": 3472,
+    "story_nonempty": 3307,
+    "story_literal_references": 886,
+    "story_control_only_nonempty": 2421,
+    "story_dynamic_references": 9,
+    "story_unterminated": 0,
+    "horizontal_candidates": [
+      "G01:M031",
+      "G06:M022",
+      "G09:M063"
+    ],
+    "vertical_candidates": [],
+    "getter_entries": 2333,
+    "getter_nonempty": 1972,
+    "getter_unterminated": 0,
+    "window_presets": 141,
+    "unique_geometries": 79,
+    "status": "STATIC_ONLY_NOT_GLOBAL_VISUAL_APPROVAL"
+  },
+  "build": {
+    "scope": "HISTORICAL_HF15"
+  }
+}

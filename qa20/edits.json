@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "G00:M005_payload",
+    "offset": "0x1bdcd0",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cd00330100005000bc01000087020000800245017701fd01feff4b01b700b700b7000000c6001700020369030c0200005d028f00f2fffdffd00100002c015a020f008000f2ffffff",
+    "reason": "Restaurar transici\u00f3n de recuerdo y referente marido."
+  },
+  {
+    "id": "G00:M005_pointer",
+    "offset": "0x1b1e07",
+    "before": "9120",
+    "after": "d0dc",
+    "reason": "Restaurar transici\u00f3n de recuerdo y referente marido."
+  },
+  {
+    "id": "G00:M017_payload",
+    "offset": "0x1bdd18",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cd003301000067024a021803b7000000d2001c01000060020702feff4a010000e60178023d02050018031d039302f2ffffff",
+    "reason": "Preparaci\u00f3n de tienda, no inexistencia gen\u00e9rica de mercanc\u00eda."
+  },
+  {
+    "id": "G00:M017_pointer",
+    "offset": "0x1b1e1f",
+    "before": "5722",
+    "after": "18dd",
+    "reason": "Preparaci\u00f3n de tienda, no inexistencia gen\u00e9rica de mercanc\u00eda."
+  },
+  {
+    "id": "G00:M018_payload",
+    "offset": "0x1bdd4a",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d5004b011701d00100002c015a020f0061000601dc01b500feffdd0200001801bd020000e60180024501f7008702f2fffdff5d02a301b700f2ffffff",
+    "reason": "Restaurar causa expl\u00edcita."
+  },
+  {
+    "id": "G00:M018_pointer",
+    "offset": "0x1b1e21",
+    "before": "8722",
+    "after": "4add",
+    "reason": "Restaurar causa expl\u00edcita."
+  },
+  {
+    "id": "G00:M021_payload",
+    "offset": "0x1bdd86",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c700000070000000e601780285010e020000e00293000203feff69030c020000060178024b01b7000000d5007a00970169030c02f2fffdff5d02a30100004b01000087020000bc01ae00f2ffffff",
+    "reason": "No presupone compra previa; restaurar destinataria."
+  },
+  {
+    "id": "G00:M021_pointer",
+    "offset": "0x1b1e27",
+    "before": "e522",
+    "after": "86dd",
+    "reason": "No presupone compra previa; restaurar destinataria."
+  },
+  {
+    "id": "G00:M026_payload",
+    "offset": "0x1bddd4",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2001801e2015802870200000d009701800202034b018e005802feff69030c02000033004501f70022004c00b500000080020203f2fffdff6002070200004a01000070004501f700dd02a301b700f2ffffff",
+    "reason": "Eliminar ffffff y mejorar sintaxis causal."
+  },
+  {
+    "id": "G00:M026_pointer",
+    "offset": "0x1b1e31",
+    "before": "0324",
+    "after": "d4dd",
+    "reason": "Eliminar ffffff y mejorar sintaxis causal."
+  },
+  {
+    "id": "G00:M031_payload",
+    "offset": "0x1bde26",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "ce0011000100d90258020d00d9022b0300006702feff6103a102950000000f006100fc00eb019c01b700b700b700f2ffffff",
+    "reason": "Otonashii/odayaka: tranquilo y afable, no maduro."
+  },
+  {
+    "id": "G00:M031_pointer",
+    "offset": "0x1b1e3b",
+    "before": "5125",
+    "after": "26de",
+    "reason": "Otonashii/odayaka: tranquilo y afable, no maduro."
+  },
+  {
+    "id": "G00:M037_payload",
+    "offset": "0x1bde58",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c7000000e702db0193000000e00215000000e102a301feff180127028f00000087020000faff0600bf0084020100faff0000b700b700b700f2ffffff",
+    "reason": "Pregunta por destino futuro, no por hecho pasado."
+  },
+  {
+    "id": "G00:M037_pointer",
+    "offset": "0x1b1e47",
+    "before": "3d26",
+    "after": "58de",
+    "reason": "Pregunta por destino futuro, no por hecho pasado."
+  },
+  {
+    "id": "G00:M040_payload",
+    "offset": "0x1bde94",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d500180178020f000000a602ab029902970126029602f2ffffff",
+    "reason": "Hachi es maceta, no planta."
+  },
+  {
+    "id": "G00:M040_pointer",
+    "offset": "0x1b1e4d",
+    "before": "b326",
+    "after": "94de",
+    "reason": "Hachi es maceta, no planta."
+  },
+  {
+    "id": "G00:M044_payload",
+    "offset": "0x1bdeae",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "ce00ac02000080020203260278024501000001006d02e5011803feff68020b02b700f2ffffff",
+    "reason": "Referente maceta."
+  },
+  {
+    "id": "G00:M044_pointer",
+    "offset": "0x1b1e55",
+    "before": "4d27",
+    "after": "aede",
+    "reason": "Referente maceta."
+  },
+  {
+    "id": "G00:M045_payload",
+    "offset": "0x1bded4",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cd00da01020369030c02000066004a0066000000e0021500feff8702000023020f00940200002c0278024b0100004501f2fffdff80020203260293020000c7000000e102a301000079027c01feff42003d020000fd0100004b01b700f2ffffff",
+    "reason": "Restituir instrucci\u00f3n de introducir semilla y cuidado."
+  },
+  {
+    "id": "G00:M045_pointer",
+    "offset": "0x1b1e57",
+    "before": "7327",
+    "after": "d4de",
+    "reason": "Restituir instrucci\u00f3n de introducir semilla y cuidado."
+  },
+  {
+    "id": "G00:M047_payload",
+    "offset": "0x1bdf34",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c70078021801580268024702ac028500ad00f2ffffff",
+    "reason": "Brote, no crecimiento completo."
+  },
+  {
+    "id": "G00:M047_pointer",
+    "offset": "0x1b1e5b",
+    "before": "e127",
+    "after": "34df",
+    "reason": "Brote, no crecimiento completo."
+  },
+  {
+    "id": "G00:M048_payload",
+    "offset": "0x1bdf4a",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d5001801780201002902950091020000e3000e029300ad00f2ffffff",
+    "reason": "Restituir flor expl\u00edcita."
+  },
+  {
+    "id": "G00:M048_pointer",
+    "offset": "0x1b1e5d",
+    "before": "f127",
+    "after": "4adf",
+    "reason": "Restituir flor expl\u00edcita."
+  },
+  {
+    "id": "G00:M055_payload",
+    "offset": "0x1bdf66",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c5004702d8024b010000e1028002000080024a01ae00f2ffffff",
+    "reason": "Kore de refiere al insumo, no al lugar."
+  },
+  {
+    "id": "G00:M055_pointer",
+    "offset": "0x1b1e6b",
+    "before": "cf28",
+    "after": "66df",
+    "reason": "Kore de refiere al insumo, no al lugar."
+  },
+  {
+    "id": "G00:M057_payload",
+    "offset": "0x1bdf80",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d7000c0238022200f7004a010000ec00a301b7000000d5003001feffe60178026c02090202036702bc0100004b018e007702f2ffffff",
+    "reason": "Invitaci\u00f3n a depositar fuera, no oferta de servicio local."
+  },
+  {
+    "id": "G00:M057_pointer",
+    "offset": "0x1b1e6f",
+    "before": "0529",
+    "after": "80df",
+    "reason": "Invitaci\u00f3n a depositar fuera, no oferta de servicio local."
+  },
+  {
+    "id": "G00:M060_payload",
+    "offset": "0x1bdfb6",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c70000000e00000067024a021803c70000002c02780269030c02feff450100006200de019300b700f2ffffff",
+    "reason": "Restituir objeto y responsabilidad."
+  },
+  {
+    "id": "G00:M060_pointer",
+    "offset": "0x1b1e75",
+    "before": "6729",
+    "after": "b6df",
+    "reason": "Restituir objeto y responsabilidad."
+  },
+  {
+    "id": "G00:M061_payload",
+    "offset": "0x1bdfe2",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "bf00eb009300000060020e024501f70069030c02000080020203feffd9021803b5000000c70000007600f700a80200000100f2fffdff2c0248029c01000053002b037902b201f2ffffff",
+    "reason": "Dug up preciso, no solo found."
+  },
+  {
+    "id": "G00:M061_pointer",
+    "offset": "0x1b1e77",
+    "before": "9529",
+    "after": "e2df",
+    "reason": "Dug up preciso, no solo found."
+  },
+  {
+    "id": "G00:M065_payload",
+    "offset": "0x1be02c",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c300bd02510200001c011300780218015802a001ff007802feff0f00610062004302dc016b02b7000000c000ac02000080020203f2fffdff62004302dc016b020000cc016c020000dc01bd02380279027c01feff0d029300b700f2ffffff",
+    "reason": "Restituir prohibici\u00f3n de inversi\u00f3n, no aclarar oscuridad."
+  },
+  {
+    "id": "G00:M065_pointer",
+    "offset": "0x1b1e7f",
+    "before": "6b2a",
+    "after": "2ce0",
+    "reason": "Restituir prohibici\u00f3n de inversi\u00f3n, no aclarar oscuridad."
+  },
+  {
+    "id": "G00:M067_payload",
+    "offset": "0x1be08a",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c70000000e000000ac014c001803c7000000d9025802feff5902bd027c000000bf00db010000c70000000e00f2fffdff67024a021803b700f2ffffff",
+    "reason": "Sujeto salvado, no elogio de habilidad."
+  },
+  {
+    "id": "G00:M067_pointer",
+    "offset": "0x1b1e83",
+    "before": "e72a",
+    "after": "8ae0",
+    "reason": "Sujeto salvado, no elogio de habilidad."
+  },
+  {
+    "id": "G00:M068_payload",
+    "offset": "0x1be0c6",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cc000e02000069030c023802e9003c01db01000018015802feff26008f00000026026b0294005d027c00f2ffffff",
+    "reason": "Concordancia temporal."
+  },
+  {
+    "id": "G00:M068_pointer",
+    "offset": "0x1b1e85",
+    "before": "0f2b",
+    "after": "c6e0",
+    "reason": "Concordancia temporal."
+  },
+  {
+    "id": "G00:M072_payload",
+    "offset": "0x1be0f4",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "ca0015008d001803b50000001801c102de0100000100feff7600de019000d7011c013d020000180158026c0213007d026100f2fffdff87020000dc008d000000e60145020d00b700f2ffffff",
+    "reason": "Naturalidad sin omitir normalizaci\u00f3n."
+  },
+  {
+    "id": "G00:M072_pointer",
+    "offset": "0x1b1e8d",
+    "before": "df2b",
+    "after": "f4e0",
+    "reason": "Naturalidad sin omitir normalizaci\u00f3n."
+  },
+  {
+    "id": "G00:M076_payload",
+    "offset": "0x1be140",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cc00f701050202034a01000026026b0294005d027d00feff1d037802800202037600de019000d7014a0100006c027a009701f2fffdff1c013d02b7000000c6000e0200006c023902de019c00f2ffffff",
+    "reason": "Corregir gone por possessed."
+  },
+  {
+    "id": "G00:M076_pointer",
+    "offset": "0x1b1e95",
+    "before": "a92c",
+    "after": "40e1",
+    "reason": "Corregir gone por possessed."
+  },
+  {
+    "id": "G00:M081_payload",
+    "offset": "0x1be190",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cc00f701050202034a01000026026b0294005d027d00feff36007802800202037600de019000d7014a0100006c027a009701f2fffdff800293009c000000d5003001b700b700b700ae00f2ffffff",
+    "reason": "Restituir pregunta final."
+  },
+  {
+    "id": "G00:M081_pointer",
+    "offset": "0x1b1e9f",
+    "before": "a32d",
+    "after": "90e1",
+    "reason": "Restituir pregunta final."
+  },
+  {
+    "id": "G01:M003_payload",
+    "offset": "0x1be1de",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c600a002ae000000c700a100e60100000502020385010e027402feff800202038a0282006d023d0200004a0100000d009701f2fffdff0c024b02ad00f2ffffff",
+    "reason": "Restituir plural de posesi\u00f3n y l\u00f3gica."
+  },
+  {
+    "id": "G01:M003_pointer",
+    "offset": "0x1b3131",
+    "before": "b333",
+    "after": "dee1",
+    "reason": "Restituir plural de posesi\u00f3n y l\u00f3gica."
+  },
+  {
+    "id": "G01:M006_payload",
+    "offset": "0x1be21e",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c70000000601780201004702040200003d0205001803e6003802feff69030c0200000d02930000001c013d02b500f2fffdfffaff0600ce000c029c017802faff0000ad00f2ffffff",
+    "reason": "Room, no home."
+  },
+  {
+    "id": "G01:M006_pointer",
+    "offset": "0x1b3137",
+    "before": "2f34",
+    "after": "1ee2",
+    "reason": "Room, no home."
+  },
+  {
+    "id": "G01:M013_payload",
+    "offset": "0x1be266",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c700a10069030c0200001801bd020000a6018b0200008702feff6c0209029d000000ab02020380020203f2fffdff6c02090289000c025d02b7000000c70000001801bd02feff0d003d0205001803680202028f0000008702000080028e00b700f2ffffff",
+    "reason": "Restituir gesti\u00f3n previa del almac\u00e9n."
+  },
+  {
+    "id": "G01:M013_pointer",
+    "offset": "0x1b3145",
+    "before": "6335",
+    "after": "66e2",
+    "reason": "Restituir gesti\u00f3n previa del almac\u00e9n."
+  },
+  {
+    "id": "G01:M018_payload",
+    "offset": "0x1be2ca",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cd003a0258020f006100cb0008003a014b01a000f2ffffff",
+    "reason": "Omisi\u00f3n de orbes."
+  },
+  {
+    "id": "G01:M018_pointer",
+    "offset": "0x1b314f",
+    "before": "2936",
+    "after": "cae2",
+    "reason": "Omisi\u00f3n de orbes."
+  },
+  {
+    "id": "G01:M021_payload",
+    "offset": "0x1be2e2",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c600c401b700b700b7000000c40049016c0200004b01feffd9025802faff0600c1000e007a0098017502c2000500faff0000b700f2fffdffd5001c01d701dd020000060178022c02600285000000fd01f300feff4b010000d9025802faff0600c8000f004b010100faff0000b700f2ffffff",
+    "reason": "Camilla papa es el padre de Camilla; restaurar empuj\u00f3n."
+  },
+  {
+    "id": "G01:M021_pointer",
+    "offset": "0x1b3155",
+    "before": "8b36",
+    "after": "e2e2",
+    "reason": "Camilla papa es el padre de Camilla; restaurar empuj\u00f3n."
+  },
+  {
+    "id": "G01:M025_payload",
+    "offset": "0x1be354",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2001c01000053002b0379029701d90258026702feff290295009102b7000000c7000000e702db0193008500f2fffdffe002150000004b010000d9027402000080028f00000006017802feff0d0097015000dd01ab028500b700f2ffffff",
+    "reason": "Confusi\u00f3n causada, no no recordar por qu\u00e9."
+  },
+  {
+    "id": "G01:M025_pointer",
+    "offset": "0x1b315d",
+    "before": "8337",
+    "after": "54e3",
+    "reason": "Confusi\u00f3n causada, no no recordar por qu\u00e9."
+  },
+  {
+    "id": "G01:M026_payload",
+    "offset": "0x1be3b2",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d5008d00b3010000c70000001801bd02000059023b01feff67024a021803b7000000d50020019c010000c7000000d9025802f2fffdff26026b0294005d027d000000c70000005902d8020f00feff0e001b004501f700c10261020502b700f2ffffff",
+    "reason": "Ayamatta = disculparse, no error."
+  },
+  {
+    "id": "G01:M026_pointer",
+    "offset": "0x1b315f",
+    "before": "d937",
+    "after": "b2e3",
+    "reason": "Ayamatta = disculparse, no error."
+  },
+  {
+    "id": "G01:M027_payload",
+    "offset": "0x1be414",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c700d7018002020385010e029c0168000203fd01000080021500feff53002b037902b3010000800293000203dd023d020000a6018b02f2fffdfffd0100004b018e005802a60285010e02d70187020000ab02ad00f2ffffff",
+    "reason": "Knowledge, no conscience."
+  },
+  {
+    "id": "G01:M027_pointer",
+    "offset": "0x1b3161",
+    "before": "2538",
+    "after": "14e4",
+    "reason": "Knowledge, no conscience."
+  },
+  {
+    "id": "G01:M029_payload",
+    "offset": "0x1be46c",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c700000070000000e601780285010e020000e0021803b500feff36007802800202035d031a0009020000d9025802b8018001de01f2fffdff0100ec006b02b700f2ffffff",
+    "reason": "Sujeto alcalde haciendo alboroto, no buscar alcalde."
+  },
+  {
+    "id": "G01:M029_pointer",
+    "offset": "0x1b3165",
+    "before": "9b38",
+    "after": "6ce4",
+    "reason": "Sujeto alcalde haciendo alboroto, no buscar alcalde."
+  },
+  {
+    "id": "G01:M030_payload",
+    "offset": "0x1be4b0",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "faff0600d00014007701faff000000005e03990078027000090200005d028e005802feff8702000026000000e0000103de0100000100f2fffdffe7024602af000c027802b801490045019c00f2ffffff",
+    "reason": "Next door, no direcci\u00f3n izquierda inventada."
+  },
+  {
+    "id": "G01:M030_pointer",
+    "offset": "0x1b3167",
+    "before": "c738",
+    "after": "b0e4",
+    "reason": "Next door, no direcci\u00f3n izquierda inventada."
+  },
+  {
+    "id": "G01:M032_payload",
+    "offset": "0x1be500",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "faff0600d00014007701faff000000005e03990078027000090200005d028e005802feff8702000026000000a60102024501f700e6003802f2fffdff0f000b021c013802c10013007c00f2ffffff",
+    "reason": "Vecindad y modalidad."
+  },
+  {
+    "id": "G01:M032_pointer",
+    "offset": "0x1b316b",
+    "before": "3139",
+    "after": "00e5",
+    "reason": "Vecindad y modalidad."
+  },
+  {
+    "id": "G01:M035_payload",
+    "offset": "0x1be54e",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2001c0118031300020339023d0200000f006100feffab028700a402b7000000d2001c011803b801180349000f00fc00f2fffdff2601d802bb00bd02510205020203a001bd027302f2ffffff",
+    "reason": "Posibilidad futura, no pasado consumado."
+  },
+  {
+    "id": "G01:M035_pointer",
+    "offset": "0x1b3171",
+    "before": "073a",
+    "after": "4ee5",
+    "reason": "Posibilidad futura, no pasado consumado."
+  },
+  {
+    "id": "G01:M036_payload",
+    "offset": "0x1be59a",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c700a100dd0200007c01910000005d02a3014501f700feff4b018e0074020000dd020000e102a301000026005000bc01f2fffdffa200c601ab02000087021502f2ffffff",
+    "reason": "Juego de palabras fama, no comercializar nombres."
+  },
+  {
+    "id": "G01:M036_pointer",
+    "offset": "0x1b3173",
+    "before": "493a",
+    "after": "9ae5",
+    "reason": "Juego de palabras fama, no comercializar nombres."
+  },
+  {
+    "id": "G01:M041_payload",
+    "offset": "0x1be5de",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d5000e02b500000080024a0100004a010000090182009602f2ffffff",
+    "reason": "Ii ya positivo, no pregunta despectiva."
+  },
+  {
+    "id": "G01:M041_pointer",
+    "offset": "0x1b317d",
+    "before": "393b",
+    "after": "dee5",
+    "reason": "Ii ya positivo, no pregunta despectiva."
+  },
+  {
+    "id": "G01:M045_payload",
+    "offset": "0x1be5fa",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d500180197020000d7000c0200005902180369030c02feff13000203e000dc01ae000000d7000c0200004200d701f2fffdff1801db019c0100004b01ae00f2ffffff",
+    "reason": "Restituir respuestas referidas del interlocutor."
+  },
+  {
+    "id": "G01:M045_pointer",
+    "offset": "0x1b3185",
+    "before": "dd3b",
+    "after": "fae5",
+    "reason": "Restituir respuestas referidas del interlocutor."
+  },
+  {
+    "id": "G01:M053_payload",
+    "offset": "0x1be63c",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cd0033010000b801f5010000cc00f701e702db019300feff69030c020000130002030d0097014102ff009302f2ffffff",
+    "reason": "Restituir relaci\u00f3n explicativa."
+  },
+  {
+    "id": "G01:M053_pointer",
+    "offset": "0x1b3195",
+    "before": "1b3d",
+    "after": "3ce6",
+    "reason": "Restituir relaci\u00f3n explicativa."
+  },
+  {
+    "id": "G01:M055_payload",
+    "offset": "0x1be66c",
+    "before": "ffffffffffffffffffffffffffffffffffffffff",
+    "after": "cd0080029300e1025d02b700b700b700f2ffffff",
+    "reason": "Restituir condicional inacabado."
+  },
+  {
+    "id": "G01:M055_pointer",
+    "offset": "0x1b3199",
+    "before": "893d",
+    "after": "6ce6",
+    "reason": "Restituir condicional inacabado."
+  },
+  {
+    "id": "G01:M056_payload",
+    "offset": "0x1be680",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c70000000e0000005000a6028102de0100000502feff69030c02ad00f2ffffff",
+    "reason": "Petici\u00f3n, no despedida."
+  },
+  {
+    "id": "G01:M056_pointer",
+    "offset": "0x1b319b",
+    "before": "9f3d",
+    "after": "80e6",
+    "reason": "Petici\u00f3n, no despedida."
+  },
+  {
+    "id": "G02:M001_payload",
+    "offset": "0x1be6a0",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c7000000e6003f020b020000e00293000203c70000002c027802feffd0010000290284004601ab0200004102de01b7000000c700f2fffdff0e000000150000000100a6016b02b700f2ffffff",
+    "reason": "Dejar, no dejar caer; valor sentimental y problema."
+  },
+  {
+    "id": "G02:M001_pointer",
+    "offset": "0x1b40cb",
+    "before": "d742",
+    "after": "a0e6",
+    "reason": "Dejar, no dejar caer; valor sentimental y problema."
+  },
+  {
+    "id": "G02:M002_payload",
+    "offset": "0x1be6ec",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c700a1000502b0010000c7000000180161000f0000004b018e00feff8002150000005000a40261007d02a3010000bc01f2fffdffe00293000203800245010a01000013009c00b700b700f2ffffff",
+    "reason": "Localizaci\u00f3n, no memoria."
+  },
+  {
+    "id": "G02:M002_pointer",
+    "offset": "0x1b40cd",
+    "before": "2143",
+    "after": "ece6",
+    "reason": "Localizaci\u00f3n, no memoria."
+  },
+  {
+    "id": "G02:M009_payload",
+    "offset": "0x1be73a",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2001801e201000069030c020000bd0251020000cc014900b700feffb700b700b700f2ffffff",
+    "reason": "Gram\u00e1tica y residuo b."
+  },
+  {
+    "id": "G02:M009_pointer",
+    "offset": "0x1b40db",
+    "before": "a544",
+    "after": "3ae7",
+    "reason": "Gram\u00e1tica y residuo b."
+  },
+  {
+    "id": "G03:M005_payload",
+    "offset": "0x1be760",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "bf0000001c010d00800218035000a6015302b700b700f2ffffff",
+    "reason": "Restituir color saludable."
+  },
+  {
+    "id": "G03:M005_pointer",
+    "offset": "0x1b48b7",
+    "before": "a54b",
+    "after": "60e7",
+    "reason": "Restituir color saludable."
+  },
+  {
+    "id": "G03:M010_payload",
+    "offset": "0x1be77a",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d7000c0200001300020306014501f7008702000023021a00feff45010000800202037600de019000d701e102800200000d009701f2fffdff80020a0202036c023902de0102034b018e007402feff4102ff009702f2ffffff",
+    "reason": "Oniichan tratamiento al protagonista, no hermano ausente."
+  },
+  {
+    "id": "G03:M010_pointer",
+    "offset": "0x1b48c1",
+    "before": "3b4c",
+    "after": "7ae7",
+    "reason": "Oniichan tratamiento al protagonista, no hermano ausente."
+  },
+  {
+    "id": "G03:M012_payload",
+    "offset": "0x1be7d2",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d7001a00ad000000d2001801e201000069030c02ad00f2ffffff",
+    "reason": "Wah confund\u00eda alegr\u00eda; evitar hermano literal no demostrado."
+  },
+  {
+    "id": "G03:M012_pointer",
+    "offset": "0x1b48c5",
+    "before": "a54c",
+    "after": "d2e7",
+    "reason": "Wah confund\u00eda alegr\u00eda; evitar hermano literal no demostrado."
+  },
+  {
+    "id": "G03:M013_payload",
+    "offset": "0x1be7ec",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cb000402000059023b010000e60178028702000023021a00feff14000000010087020500000067020000cc014900b700f2ffffff",
+    "reason": "No agrega fuentes ausentes en este mensaje."
+  },
+  {
+    "id": "G03:M013_pointer",
+    "offset": "0x1b48c7",
+    "before": "c54c",
+    "after": "ece7",
+    "reason": "No agrega fuentes ausentes en este mensaje."
+  },
+  {
+    "id": "G04:M003_payload",
+    "offset": "0x1be820",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d20018017802a001bd02b0010000c601fe019c010000dd02eb01feff87020000800202032601bc010000fd01000080020203f2fffdff5d031a000902b7000000c7000000e102a30100006c0213007802feff0f000000a602ab029902970136006102dc016b02f2fffdff67020502b7000000c1000402020322004c00000080028f00ad00f2ffffff",
+    "reason": "Restituir negocio inusual."
+  },
+  {
+    "id": "G04:M003_pointer",
+    "offset": "0x1b50cb",
+    "before": "4153",
+    "after": "20e8",
+    "reason": "Restituir negocio inusual."
+  },
+  {
+    "id": "G04:M013_payload",
+    "offset": "0x1be8a8",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c7000000ab028500000080020203c10013006100feffe10280020c02780214008001de01b700f2ffffff",
+    "reason": "Restituir ausencia de permiso."
+  },
+  {
+    "id": "G04:M013_pointer",
+    "offset": "0x1b50df",
+    "before": "3755",
+    "after": "a8e8",
+    "reason": "Restituir ausencia de permiso."
+  },
+  {
+    "id": "G04:M017_payload",
+    "offset": "0x1be8d2",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d20020015802b801490045010203c001fd0258028f02f701feff2601940000008702fc0080029300000087020000b8017c01f2fffdff0100dc01d80226019c00f2ffffff",
+    "reason": "Kuwa literal: broma de azadas antes de aclarar Talons."
+  },
+  {
+    "id": "G04:M017_pointer",
+    "offset": "0x1b50e7",
+    "before": "d755",
+    "after": "d2e8",
+    "reason": "Kuwa literal: broma de azadas antes de aclarar Talons."
+  },
+  {
+    "id": "G04:M019_payload",
+    "offset": "0x1be916",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d5008d00b3010000870200002c0278024b01feff6102c701b001b700b700b700f2ffffff",
+    "reason": "Restituir simplificaci\u00f3n."
+  },
+  {
+    "id": "G04:M019_pointer",
+    "offset": "0x1b50eb",
+    "before": "3956",
+    "after": "16e9",
+    "reason": "Restituir simplificaci\u00f3n."
+  },
+  {
+    "id": "G04:M026_payload",
+    "offset": "0x1be93a",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c70078024a01000001005d0253009500ae00f2ffffff",
+    "reason": "Art\u00edculo ausente."
+  },
+  {
+    "id": "G04:M026_pointer",
+    "offset": "0x1b50f9",
+    "before": "e957",
+    "after": "3ae9",
+    "reason": "Art\u00edculo ausente."
+  },
+  {
+    "id": "G04:M031_payload",
+    "offset": "0x1be950",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c7000000e7024a02180303000c027802fefffaff0600c1000e007a0098017502c2000500faff0000b500000036007802c700f2fffdff0e000000560041020c02580203000c02780280020203feff7600de019000d70187021202f2ffffff",
+    "reason": "Padre de Camilla; curiosidad, no preocupaci\u00f3n por dungeon."
+  },
+  {
+    "id": "G04:M031_pointer",
+    "offset": "0x1b5103",
+    "before": "6758",
+    "after": "50e9",
+    "reason": "Padre de Camilla; curiosidad, no preocupaci\u00f3n por dungeon."
+  },
+  {
+    "id": "G04:M039_payload",
+    "offset": "0x1be9ae",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2001801e201000069030c020000e60038020d00970169030c02feff70000000e6003802faff0600d00014007701faff0000b700f2ffffff",
+    "reason": "Invertido agente de ayuda; f\u00f3rmula de gratitud a interlocutor."
+  },
+  {
+    "id": "G04:M039_pointer",
+    "offset": "0x1b5113",
+    "before": "7b5a",
+    "after": "aee9",
+    "reason": "Invertido agente de ayuda; f\u00f3rmula de gratitud a interlocutor."
+  },
+  {
+    "id": "G04:M046_payload",
+    "offset": "0x1be9e6",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c7000000b8016600000080024a0100000502feff44012c02aa019d00000036007802c7000000800245017701f2fffdff69030c0200004200d701ab0202034b01b700f2ffffff",
+    "reason": "Restituir acci\u00f3n impulsiva y probabilidad."
+  },
+  {
+    "id": "G04:M046_pointer",
+    "offset": "0x1b5121",
+    "before": "a55b",
+    "after": "e6e9",
+    "reason": "Restituir acci\u00f3n impulsiva y probabilidad."
+  },
+  {
+    "id": "G04:M047_payload",
+    "offset": "0x1bea2c",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c700780260020c029b01000042004a021803050202034b018e00feff6702bc01e0029300020303000d02020309010c02db01b700f2fffdffc700a1004b010000e702430258021400000023020f00dc017d00feff4b010000e102a30100003d028d02460200008702f2fffdff69030c0238022601ab029c00f2ffffff",
+    "reason": "Restituir incertidumbre, cantidad uno y destino planeado."
+  },
+  {
+    "id": "G04:M047_pointer",
+    "offset": "0x1b5123",
+    "before": "cf5b",
+    "after": "2cea",
+    "reason": "Restituir incertidumbre, cantidad uno y destino planeado."
+  },
+  {
+    "id": "G04:M050_payload",
+    "offset": "0x1beaa8",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "bf0055009902a3011803b5000000c7000000a802090105008500feff80020203b801490045019c00f2ffffff",
+    "reason": "Mejora, no encendido."
+  },
+  {
+    "id": "G04:M050_pointer",
+    "offset": "0x1b5129",
+    "before": "6d5c",
+    "after": "a8ea",
+    "reason": "Mejora, no encendido."
+  },
+  {
+    "id": "G04:M057_payload",
+    "offset": "0x1bead4",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c70078021801580226008f0000000100e0027a009f00feffc10020019b013d02d70109010e020000a80200006702f2fffdff6103a1024c00b001b700f2ffffff",
+    "reason": "Saludo omitido y verdad general."
+  },
+  {
+    "id": "G04:M057_pointer",
+    "offset": "0x1b5137",
+    "before": "d75d",
+    "after": "d4ea",
+    "reason": "Saludo omitido y verdad general."
+  },
+  {
+    "id": "G04:M060_payload",
+    "offset": "0x1beb14",
+    "before": "ffffffffffffffffffff",
+    "after": "c0009c013501f2ffffff",
+    "reason": "Burla con lengua, no silencio."
+  },
+  {
+    "id": "G04:M060_pointer",
+    "offset": "0x1b513d",
+    "before": "555e",
+    "after": "14eb",
+    "reason": "Burla con lengua, no silencio."
+  },
+  {
+    "id": "G04:M061_payload",
+    "offset": "0x1beb1e",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c6009a00ad000000faff0600c9000c003801faff0000b50000005000bc01feff22004c00ad00f2ffffff",
+    "reason": "Detener huida, no esperar aqu\u00ed."
+  },
+  {
+    "id": "G04:M061_pointer",
+    "offset": "0x1b513f",
+    "before": "5f5e",
+    "after": "1eeb",
+    "reason": "Detener huida, no esperar aqu\u00ed."
+  },
+  {
+    "id": "G04:M062_payload",
+    "offset": "0x1beb48",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c6000502940084021803ad000000d5002601000070009400feff1c01000079027c01000007007d025702f2ffffff",
+    "reason": "Pregunta prepara respuesta Me; no frase rota."
+  },
+  {
+    "id": "G04:M062_pointer",
+    "offset": "0x1b5141",
+    "before": "875e",
+    "after": "48eb",
+    "reason": "Pregunta prepara respuesta Me; no frase rota."
+  },
+  {
+    "id": "G04:M065_payload",
+    "offset": "0x1beb76",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c300bd025102050202034a0100005902dc00b500000036007802feff800202037600de019000d7013d02b80145017302f2ffffff",
+    "reason": "Naturalidad y contraste."
+  },
+  {
+    "id": "G04:M065_pointer",
+    "offset": "0x1b5147",
+    "before": "dd5e",
+    "after": "76eb",
+    "reason": "Naturalidad y contraste."
+  },
+  {
+    "id": "G04:M066_payload",
+    "offset": "0x1bebaa",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2001c0100007600de019000d7017c0191005802d001feff6002070200004501000036006102dc016b02b700f2ffffff",
+    "reason": "Relaci\u00f3n causal natural."
+  },
+  {
+    "id": "G04:M066_pointer",
+    "offset": "0x1b5149",
+    "before": "095f",
+    "after": "aaeb",
+    "reason": "Relaci\u00f3n causal natural."
+  },
+  {
+    "id": "G04:M070_payload",
+    "offset": "0x1bebda",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "c70058024b010000ec00f601f2ffffff",
+    "reason": "Fun, no funny."
+  },
+  {
+    "id": "G04:M070_pointer",
+    "offset": "0x1b5151",
+    "before": "bf5f",
+    "after": "daeb",
+    "reason": "Fun, no funny."
+  },
+  {
+    "id": "G04:M074_payload",
+    "offset": "0x1bebea",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cc001302000069030c020000dc0185000000870200001801bd02feff8f000c02ff000000c601dc011803b700f2ffffff",
+    "reason": "Requisito jugador, no necesidad del vendedor."
+  },
+  {
+    "id": "G04:M074_pointer",
+    "offset": "0x1b5159",
+    "before": "1160",
+    "after": "eaeb",
+    "reason": "Requisito jugador, no necesidad del vendedor."
+  },
+  {
+    "id": "G00:M025_payload",
+    "offset": "0x1bec1a",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c6000502940084021803b5000000c2000500ad00feffd5001c013d0200006a00610069030c0200000601ae00f2fffdffd50002031801bd020000e60180024501f7009c01eb0000008702feff5d02a301b700f2ffffff",
+    "reason": "P\u00e9rdida visible de out; conservar queja y mercanc\u00eda agotada."
+  },
+  {
+    "id": "G00:M025_pointer",
+    "offset": "0x1b1e2f",
+    "before": "ad23",
+    "after": "1aec",
+    "reason": "P\u00e9rdida visible de out; conservar queja y mercanc\u00eda agotada."
+  },
+  {
+    "id": "G00:M082_payload",
+    "offset": "0x1bec70",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c200a602fc000502580209010e020000e9000402000080020203feff660061023d025802fd0100006702bc0105029c00f2fffdffd50026015d020000660061023d0258025000a4026100feff8002940002032600b700b700b700ae00f2ffffff",
+    "reason": "Separar these are y recuperar expansi\u00f3n."
+  },
+  {
+    "id": "G00:M082_pointer",
+    "offset": "0x1b1ea1",
+    "before": "f32d",
+    "after": "70ec",
+    "reason": "Separar these are y recuperar expansi\u00f3n."
+  },
+  {
+    "id": "G01:M010_payload",
+    "offset": "0x1becd0",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cd00330100004a0100008002930002030f002c032001de01feff69030c020000d902eb010000870200009c0117000203f2fffdff1c013d02ae00f2ffffff",
+    "reason": "Falta m en me; reformular sin p\u00e9rdida."
+  },
+  {
+    "id": "G01:M010_pointer",
+    "offset": "0x1b313f",
+    "before": "df34",
+    "after": "d0ec",
+    "reason": "Falta m en me; reformular sin p\u00e9rdida."
+  },
+  {
+    "id": "G01:M016_payload",
+    "offset": "0x1bed0e",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d100130200006a0061000f002c032001de01feff180127028f00ae00f2ffffff",
+    "reason": "Falta a en anything."
+  },
+  {
+    "id": "G01:M016_pointer",
+    "offset": "0x1b314b",
+    "before": "ff35",
+    "after": "0eed",
+    "reason": "Falta a en anything."
+  },
+  {
+    "id": "G01:M034_payload",
+    "offset": "0x1bed2e",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "faff0600ce000c029c017802faff0000b5000000bb00bd025102050202034a01feff0e001b00850000003a000000800202034b018e00580269030c02f2fffdff33004501f70022004c00b700f2ffffff",
+    "reason": "Restaurar everyone sin glifo perdido."
+  },
+  {
+    "id": "G01:M034_pointer",
+    "offset": "0x1b316f",
+    "before": "b739",
+    "after": "2eed",
+    "reason": "Restaurar everyone sin glifo perdido."
+  },
+  {
+    "id": "G01:M054_payload",
+    "offset": "0x1bed7e",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "faff0600ce000c029c017802faff0000b50000005e03990078028102bc01b500feffe000db0100000100d902180387020000fc00780222004c00f2fffdff0502000069030c0238020e02f201f2ffffff",
+    "reason": "Restaurar separaci\u00f3n to get."
+  },
+  {
+    "id": "G01:M054_pointer",
+    "offset": "0x1b3197",
+    "before": "473d",
+    "after": "7eed",
+    "reason": "Restaurar separaci\u00f3n to get."
+  },
+  {
+    "id": "G04:M007_payload",
+    "offset": "0x1bedce",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "bf001f0135010000d2001701af00800215000000c10013007f00feffd500180178024a0100004b01ae00f2ffffff",
+    "reason": "La pausa de tartamudeo elimina A en ejecuci\u00f3n; reponer interjecci\u00f3n legible."
+  },
+  {
+    "id": "G04:M007_pointer",
+    "offset": "0x1b50d3",
+    "before": "8354",
+    "after": "ceed",
+    "reason": "La pausa de tartamudeo elimina A en ejecuci\u00f3n; reponer interjecci\u00f3n legible."
+  },
+  {
+    "id": "G04:M020_payload",
+    "offset": "0x1bedfc",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d20026015d020000d2000d000502580269030c02feff1801bd02b700b700b7000000ce00ac0200008f02f7014501b500f2fffdff0f00610080029a00000026005000bc0100000100dc01d802feff18024901b700f2ffffff",
+    "reason": "Separaci\u00f3n Those Talons y naturalidad de resultado."
+  },
+  {
+    "id": "G04:M020_pointer",
+    "offset": "0x1b50ed",
+    "before": "5556",
+    "after": "fced",
+    "reason": "Separaci\u00f3n Those Talons y naturalidad de resultado."
+  },
+  {
+    "id": "G04:M038_payload",
+    "offset": "0x1bee54",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cc003a01020387020000bc019500000069030c02ad000000c700feff0e000000faff0600d1000f003801faff0000b700f2ffffff",
+    "reason": "Separar presentaci\u00f3n y nombre; mantener saludo de primer encuentro."
+  },
+  {
+    "id": "G04:M038_pointer",
+    "offset": "0x1b5111",
+    "before": "515a",
+    "after": "54ee",
+    "reason": "Separar presentaci\u00f3n y nombre; mantener saludo de primer encuentro."
+  }
+]

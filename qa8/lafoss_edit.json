@@ -1,0 +1,7 @@
+{
+  "id": "LAFOSS_LAST_ITEM_PROJECTILE",
+  "offset": "0x1422C5",
+  "before": "ffff",
+  "after": "f80a",
+  "reason": "Selector item FF reaches index19, missing sentinel; F0..FE share native pearl projectile model0AF8; reuse that same model for FF."
+}

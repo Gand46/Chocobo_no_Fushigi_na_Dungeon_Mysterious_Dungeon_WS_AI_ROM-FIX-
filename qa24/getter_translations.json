@@ -1,0 +1,10 @@
+{
+  "F17:I067": {
+    "text": "Ruin Cannon",
+    "reason": "Same Japanese 破動砲 glyph stream as G14:M067; reconcile the native getter sibling with the HF18 story label."
+  },
+  "F17:I152": {
+    "text": "Wave Cannon",
+    "reason": "Same Japanese 波動砲 glyph stream as G14:M152; reconcile the native getter sibling with the HF18 story label."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "command": "python3 -m unittest discover -s tests -v",
+  "cwd": "source root",
+  "tests_run": 11,
+  "status": "PASS"
+}

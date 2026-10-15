@@ -1,0 +1,475 @@
+
+qa15/message_engine.bin:     file format binary
+
+
+Disassembly of section .data:
+
+00003500 <.data>:
+    3500:	3e 1c 64             	ds sbb al,0x64
+    3503:	02 74 cf             	add    dh,BYTE PTR [si-0x31]
+    3506:	80 3e 1c 64 03       	cmp    BYTE PTR ds:0x641c,0x3
+    350b:	74 d2                	je     0x34df
+    350d:	cb                   	retf
+    350e:	fe 06 1c 64          	inc    BYTE PTR ds:0x641c
+    3512:	e8 b4 09             	call   0x3ec9
+    3515:	e8 00 0a             	call   0x3f18
+    3518:	fe 06 99 62          	inc    BYTE PTR ds:0x6299
+    351c:	a0 99 62             	mov    al,ds:0x6299
+    351f:	3a 06 25 64          	cmp    al,BYTE PTR ds:0x6425
+    3523:	75 ed                	jne    0x3512
+    3525:	c3                   	ret
+    3526:	8a 2e 36 64          	mov    ch,BYTE PTR ds:0x6436
+    352a:	8a 0e 37 64          	mov    cl,BYTE PTR ds:0x6437
+    352e:	e8 22 00             	call   0x3553
+    3531:	c3                   	ret
+    3532:	8a 2e 36 64          	mov    ch,BYTE PTR ds:0x6436
+    3536:	8a 0e 37 64          	mov    cl,BYTE PTR ds:0x6437
+    353a:	80 3e 3a 64 04       	cmp    BYTE PTR ds:0x643a,0x4
+    353f:	75 06                	jne    0x3547
+    3541:	fe c5                	inc    ch
+    3543:	fe c1                	inc    cl
+    3545:	eb 08                	jmp    0x354f
+    3547:	fe c5                	inc    ch
+    3549:	2a 0e 3b 64          	sub    cl,BYTE PTR ds:0x643b
+    354d:	fe c1                	inc    cl
+    354f:	e8 01 00             	call   0x3553
+    3552:	c3                   	ret
+    3553:	8a c1                	mov    al,cl
+    3555:	b4 00                	mov    ah,0x0
+    3557:	c1 e0 06             	shl    ax,0x6
+    355a:	8a cd                	mov    cl,ch
+    355c:	b5 00                	mov    ch,0x0
+    355e:	d1 e1                	shl    cx,1
+    3560:	03 c1                	add    ax,cx
+    3562:	05 00 18             	add    ax,0x1800
+    3565:	a3 1f 64             	mov    ds:0x641f,ax
+    3568:	c3                   	ret
+    3569:	bf a6 0a             	mov    di,0xaa6
+    356c:	03 3e 34 64          	add    di,WORD PTR ds:0x6434
+    3570:	8b 2e 1f 64          	mov    bp,WORD PTR ds:0x641f
+    3574:	b2 00                	mov    dl,0x0
+    3576:	eb 10                	jmp    0x3588
+    3578:	8b 46 00             	mov    ax,WORD PTR [bp+0x0]
+    357b:	89 2d                	mov    WORD PTR [di],bp
+    357d:	89 45 02             	mov    WORD PTR [di+0x2],ax
+    3580:	83 c5 02             	add    bp,0x2
+    3583:	83 c7 04             	add    di,0x4
+    3586:	fe c2                	inc    dl
+    3588:	3a 16 38 64          	cmp    dl,BYTE PTR ds:0x6438
+    358c:	72 ea                	jb     0x3578
+    358e:	81 ef a6 0a          	sub    di,0xaa6
+    3592:	89 3e 34 64          	mov    WORD PTR ds:0x6434,di
+    3596:	c3                   	ret
+    3597:	80 3e 3a 64 04       	cmp    BYTE PTR ds:0x643a,0x4
+    359c:	75 25                	jne    0x35c3
+    359e:	eb 11                	jmp    0x35b1
+    35a0:	e8 44 00             	call   0x35e7
+    35a3:	eb 1c                	jmp    0x35c1
+    35a5:	e8 84 00             	call   0x362c
+    35a8:	eb 17                	jmp    0x35c1
+    35aa:	e8 c4 00             	call   0x3671
+    35ad:	eb 12                	jmp    0x35c1
+    35af:	eb 10                	jmp    0x35c1
+    35b1:	80 3e 3c 64 00       	cmp    BYTE PTR ds:0x643c,0x0
+    35b6:	74 e8                	je     0x35a0
+    35b8:	80 3e 3c 64 01       	cmp    BYTE PTR ds:0x643c,0x1
+    35bd:	74 e6                	je     0x35a5
+    35bf:	eb e9                	jmp    0x35aa
+    35c1:	eb 23                	jmp    0x35e6
+    35c3:	eb 11                	jmp    0x35d6
+    35c5:	e8 64 00             	call   0x362c
+    35c8:	eb 1c                	jmp    0x35e6
+    35ca:	e8 1a 00             	call   0x35e7
+    35cd:	eb 17                	jmp    0x35e6
+    35cf:	e8 9f 00             	call   0x3671
+    35d2:	eb 12                	jmp    0x35e6
+    35d4:	eb 10                	jmp    0x35e6
+    35d6:	80 3e 3c 64 00       	cmp    BYTE PTR ds:0x643c,0x0
+    35db:	74 e8                	je     0x35c5
+    35dd:	80 3e 3c 64 01       	cmp    BYTE PTR ds:0x643c,0x1
+    35e2:	74 e6                	je     0x35ca
+    35e4:	eb e9                	jmp    0x35cf
+    35e6:	c3                   	ret
+    35e7:	8b 3e 2d 20          	mov    di,WORD PTR ds:0x202d
+    35eb:	8b 36 1f 64          	mov    si,WORD PTR ds:0x641f
+    35ef:	b2 00                	mov    dl,0x0
+    35f1:	eb 2e                	jmp    0x3621
+    35f3:	52                   	push   dx
+    35f4:	8a f2                	mov    dh,dl
+    35f6:	fe c6                	inc    dh
+    35f8:	80 fa 00             	cmp    dl,0x0
+    35fb:	75 05                	jne    0x3602
+    35fd:	b8 00 04             	mov    ax,0x400
+    3600:	eb 0e                	jmp    0x3610
+    3602:	3a 36 38 64          	cmp    dh,BYTE PTR ds:0x6438
+    3606:	75 05                	jne    0x360d
+    3608:	b8 00 44             	mov    ax,0x4400
+    360b:	eb 03                	jmp    0x3610
+    360d:	b8 01 04             	mov    ax,0x401
+    3610:	05 3f 00             	add    ax,0x3f
+    3613:	89 35                	mov    WORD PTR [di],si
+    3615:	89 45 02             	mov    WORD PTR [di+0x2],ax
+    3618:	83 c6 02             	add    si,0x2
+    361b:	83 c7 04             	add    di,0x4
+    361e:	5a                   	pop    dx
+    361f:	fe c2                	inc    dl
+    3621:	3a 16 38 64          	cmp    dl,BYTE PTR ds:0x6438
+    3625:	72 cc                	jb     0x35f3
+    3627:	89 3e 2d 20          	mov    WORD PTR ds:0x202d,di
+    362b:	c3                   	ret
+    362c:	8b 3e 2d 20          	mov    di,WORD PTR ds:0x202d
+    3630:	8b 36 1f 64          	mov    si,WORD PTR ds:0x641f
+    3634:	b2 00                	mov    dl,0x0
+    3636:	eb 2e                	jmp    0x3666
+    3638:	52                   	push   dx
+    3639:	8a f2                	mov    dh,dl
+    363b:	fe c6                	inc    dh
+    363d:	80 fa 00             	cmp    dl,0x0
+    3640:	75 05                	jne    0x3647
+    3642:	b8 00 84             	mov    ax,0x8400
+    3645:	eb 0e                	jmp    0x3655
+    3647:	3a 36 38 64          	cmp    dh,BYTE PTR ds:0x6438
+    364b:	75 05                	jne    0x3652
+    364d:	b8 00 c4             	mov    ax,0xc400
+    3650:	eb 03                	jmp    0x3655
+    3652:	b8 01 84             	mov    ax,0x8401
+    3655:	05 3f 00             	add    ax,0x3f
+    3658:	89 35                	mov    WORD PTR [di],si
+    365a:	89 45 02             	mov    WORD PTR [di+0x2],ax
+    365d:	83 c6 02             	add    si,0x2
+    3660:	83 c7 04             	add    di,0x4
+    3663:	5a                   	pop    dx
+    3664:	fe c2                	inc    dl
+    3666:	3a 16 38 64          	cmp    dl,BYTE PTR ds:0x6438
+    366a:	72 cc                	jb     0x3638
+    366c:	89 3e 2d 20          	mov    WORD PTR ds:0x202d,di
+    3670:	c3                   	ret
+    3671:	80 3e 3a 64 04       	cmp    BYTE PTR ds:0x643a,0x4
+    3676:	75 05                	jne    0x367d
+    3678:	e8 b1 ff             	call   0x362c
+    367b:	eb 03                	jmp    0x3680
+    367d:	e8 67 ff             	call   0x35e7
+    3680:	8b 3e 2d 20          	mov    di,WORD PTR ds:0x202d
+    3684:	8b 36 1f 64          	mov    si,WORD PTR ds:0x641f
+    3688:	80 3e 3a 64 04       	cmp    BYTE PTR ds:0x643a,0x4
+    368d:	75 05                	jne    0x3694
+    368f:	83 ee 40             	sub    si,0x40
+    3692:	eb 03                	jmp    0x3697
+    3694:	83 c6 40             	add    si,0x40
+    3697:	b2 00                	mov    dl,0x0
+    3699:	eb 2e                	jmp    0x36c9
+    369b:	52                   	push   dx
+    369c:	8a f2                	mov    dh,dl
+    369e:	fe c6                	inc    dh
+    36a0:	80 fa 00             	cmp    dl,0x0
+    36a3:	75 05                	jne    0x36aa
+    36a5:	b8 02 04             	mov    ax,0x402
+    36a8:	eb 0e                	jmp    0x36b8
+    36aa:	3a 36 38 64          	cmp    dh,BYTE PTR ds:0x6438
+    36ae:	75 05                	jne    0x36b5
+    36b0:	b8 02 44             	mov    ax,0x4402
+    36b3:	eb 03                	jmp    0x36b8
+    36b5:	b8 e5 09             	mov    ax,0x9e5
+    36b8:	05 3f 00             	add    ax,0x3f
+    36bb:	89 35                	mov    WORD PTR [di],si
+    36bd:	89 45 02             	mov    WORD PTR [di+0x2],ax
+    36c0:	83 c6 02             	add    si,0x2
+    36c3:	83 c7 04             	add    di,0x4
+    36c6:	5a                   	pop    dx
+    36c7:	fe c2                	inc    dl
+    36c9:	3a 16 38 64          	cmp    dl,BYTE PTR ds:0x6438
+    36cd:	72 cc                	jb     0x369b
+    36cf:	89 3e 2d 20          	mov    WORD PTR ds:0x202d,di
+    36d3:	c3                   	ret
+    36d4:	be 00 00             	mov    si,0x0
+    36d7:	b9 0b 00             	mov    cx,0xb
+    36da:	83 bc 41 60 ff       	cmp    WORD PTR [si+0x6041],0xffff
+    36df:	75 09                	jne    0x36ea
+    36e1:	ba 0b 00             	mov    dx,0xb
+    36e4:	2b d1                	sub    dx,cx
+    36e6:	8b ca                	mov    cx,dx
+    36e8:	eb 05                	jmp    0x36ef
+    36ea:	83 c6 02             	add    si,0x2
+    36ed:	e2 eb                	loop   0x36da
+    36ef:	c3                   	ret
+    36f0:	8b f1                	mov    si,cx
+    36f2:	d1 e6                	shl    si,1
+    36f4:	8a 26 1a 64          	mov    ah,BYTE PTR ds:0x641a
+    36f8:	a0 99 62             	mov    al,ds:0x6299
+    36fb:	89 84 41 60          	mov    WORD PTR [si+0x6041],ax
+    36ff:	c3                   	ret
+    3700:	8a 36 1a 64          	mov    dh,BYTE PTR ds:0x641a
+    3704:	8a 16 99 62          	mov    dl,BYTE PTR ds:0x6299
+    3708:	be 00 00             	mov    si,0x0
+    370b:	b9 0b 00             	mov    cx,0xb
+    370e:	8b 84 41 60          	mov    ax,WORD PTR [si+0x6041]
+    3712:	3b d0                	cmp    dx,ax
+    3714:	75 04                	jne    0x371a
+    3716:	d1 ee                	shr    si,1
+    3718:	eb 05                	jmp    0x371f
+    371a:	83 c6 02             	add    si,0x2
+    371d:	e2 ef                	loop   0x370e
+    371f:	8b c6                	mov    ax,si
+    3721:	b1 34                	mov    cl,0x34
+    3723:	f6 e1                	mul    cl
+    3725:	8b f8                	mov    di,ax
+    3727:	a3 93 62             	mov    ds:0x6293,ax
+    372a:	c3                   	ret
+    372b:	b9 1a 00             	mov    cx,0x1a
+    372e:	80 3e 1a 64 19       	cmp    BYTE PTR ds:0x641a,0x19
+    3733:	75 07                	jne    0x373c
+    3735:	80 3e 99 62 07       	cmp    BYTE PTR ds:0x6299,0x7
+    373a:	74 1c                	je     0x3758
+    373c:	80 3e 1a 64 0d       	cmp    BYTE PTR ds:0x641a,0xd
+    3741:	75 07                	jne    0x374a
+    3743:	80 3e 99 62 05       	cmp    BYTE PTR ds:0x6299,0x5
+    3748:	74 0e                	je     0x3758
+    374a:	80 3e 1a 64 1b       	cmp    BYTE PTR ds:0x641a,0x1b
+    374f:	75 13                	jne    0x3764
+    3751:	80 3e 99 62 07       	cmp    BYTE PTR ds:0x6299,0x7
+    3756:	75 0c                	jne    0x3764
+    3758:	c7 85 57 60 ff 85    	mov    WORD PTR [di+0x6057],0x85ff
+    375e:	83 c7 02             	add    di,0x2
+    3761:	e2 f5                	loop   0x3758
+    3763:	c3                   	ret
+    3764:	c7 85 57 60 00 80    	mov    WORD PTR [di+0x6057],0x8000
+    376a:	83 c7 02             	add    di,0x2
+    376d:	e2 f5                	loop   0x3764
+    376f:	c3                   	ret
+    3770:	c7 06 fb 1f 00 00    	mov    WORD PTR ds:0x1ffb,0x0
+    3776:	e9 db 00             	jmp    0x3854
+    3779:	8b 3e 93 62          	mov    di,WORD PTR ds:0x6293
+    377d:	a1 fb 1f             	mov    ax,ds:0x1ffb
+    3780:	d1 e0                	shl    ax,1
+    3782:	03 f8                	add    di,ax
+    3784:	57                   	push   di
+    3785:	8b 95 57 60          	mov    dx,WORD PTR [di+0x6057]
+    3789:	f7 c2 00 80          	test   dx,0x8000
+    378d:	75 17                	jne    0x37a6
+    378f:	f7 c2 00 40          	test   dx,0x4000
+    3793:	75 11                	jne    0x37a6
+    3795:	81 fa 20 04          	cmp    dx,0x420
+    3799:	72 06                	jb     0x37a1
+    379b:	81 fa 50 04          	cmp    dx,0x450
+    379f:	72 05                	jb     0x37a6
+    37a1:	83 fa 00             	cmp    dx,0x0
+    37a4:	75 07                	jne    0x37ad
+    37a6:	ff 06 fb 1f          	inc    WORD PTR ds:0x1ffb
+    37aa:	e9 a6 00             	jmp    0x3853
+    37ad:	83 06 fb 1f 02       	add    WORD PTR ds:0x1ffb,0x2
+    37b2:	89 16 f1 1f          	mov    WORD PTR ds:0x1ff1,dx
+    37b6:	c6 06 34 60 00       	mov    BYTE PTR ds:0x6034,0x0
+    37bb:	be 00 00             	mov    si,0x0
+    37be:	b0 00                	mov    al,0x0
+    37c0:	8a 0e 3f 64          	mov    cl,BYTE PTR ds:0x643f
+    37c4:	b5 00                	mov    ch,0x0
+    37c6:	80 3e 34 60 00       	cmp    BYTE PTR ds:0x6034,0x0
+    37cb:	75 0f                	jne    0x37dc
+    37cd:	83 bc ee 67 ff       	cmp    WORD PTR [si+0x67ee],0xffff
+    37d2:	75 08                	jne    0x37dc
+    37d4:	c6 06 34 60 01       	mov    BYTE PTR ds:0x6034,0x1
+    37d9:	a2 35 60             	mov    ds:0x6035,al
+    37dc:	39 94 ee 67          	cmp    WORD PTR [si+0x67ee],dx
+    37e0:	75 02                	jne    0x37e4
+    37e2:	eb 07                	jmp    0x37eb
+    37e4:	83 c6 04             	add    si,0x4
+    37e7:	fe c0                	inc    al
+    37e9:	e2 db                	loop   0x37c6
+    37eb:	83 f9 00             	cmp    cx,0x0
+    37ee:	75 52                	jne    0x3842
+    37f0:	a0 35 60             	mov    al,ds:0x6035
+    37f3:	a2 97 62             	mov    ds:0x6297,al
+    37f6:	b4 00                	mov    ah,0x0
+    37f8:	8b f0                	mov    si,ax
+    37fa:	c1 e0 02             	shl    ax,0x2
+    37fd:	8b f8                	mov    di,ax
+    37ff:	89 95 ee 67          	mov    WORD PTR [di+0x67ee],dx
+    3803:	ff 85 f0 67          	inc    WORD PTR [di+0x67f0]
+    3807:	8b 16 f1 1f          	mov    dx,WORD PTR ds:0x1ff1
+    380b:	4a                   	dec    dx
+    380c:	c1 e2 06             	shl    dx,0x6
+    380f:	b8 60 07             	mov    ax,0x760
+    3812:	03 d0                	add    dx,ax
+    3814:	52                   	push   dx
+    3815:	8b 16 32 60          	mov    dx,WORD PTR ds:0x6032
+    3819:	56                   	push   si
+    381a:	e8 e7 01             	call   0x3a04
+    381d:	5e                   	pop    si
+    381e:	5a                   	pop    dx
+    381f:	c1 e6 06             	shl    si,0x6
+    3822:	03 fe                	add    di,si
+    3824:	1e                   	push   ds
+    3825:	06                   	push   es
+    3826:	b8 40 00             	mov    ax,0x40
+    3829:	50                   	push   ax
+    382a:	b8 00 00             	mov    ax,0x0
+    382d:	8e c0                	mov    es,ax
+    382f:	8b ff                	mov    di,di
+    3831:	b8 00 60             	mov    ax,0x6000
+    3834:	8e d8                	mov    ds,ax
+    3836:	8b f2                	mov    si,dx
+    3838:	59                   	pop    cx
+    3839:	d1 e9                	shr    cx,1
+    383b:	fc                   	cld
+    383c:	f3 a5                	rep movs WORD PTR es:[di],WORD PTR ds:[si]
+    383e:	07                   	pop    es
+    383f:	1f                   	pop    ds
+    3840:	eb 11                	jmp    0x3853
+    3842:	a2 97 62             	mov    ds:0x6297,al
+    3845:	b4 00                	mov    ah,0x0
+    3847:	c1 e0 02             	shl    ax,0x2
+    384a:	8b d8                	mov    bx,ax
+    384c:	83 c3 02             	add    bx,0x2
+    384f:	ff 87 ee 67          	inc    WORD PTR [bx+0x67ee]
+    3853:	5f                   	pop    di
+    3854:	83 3e fb 1f 1a       	cmp    WORD PTR ds:0x1ffb,0x1a
+    3859:	73 03                	jae    0x385e
+    385b:	e9 1b ff             	jmp    0x3779
+    385e:	c3                   	ret
+    385f:	e8 15 01             	call   0x3977
+    3862:	e8 b7 01             	call   0x3a1c
+    3865:	89 0e 2e 64          	mov    WORD PTR ds:0x642e,cx
+    3869:	8a 36 1a 64          	mov    dh,BYTE PTR ds:0x641a
+    386d:	8a 16 99 62          	mov    dl,BYTE PTR ds:0x6299
+    3871:	be 00 00             	mov    si,0x0
+    3874:	b9 0b 00             	mov    cx,0xb
+    3877:	8b 84 41 60          	mov    ax,WORD PTR [si+0x6041]
+    387b:	3b d0                	cmp    dx,ax
+    387d:	75 04                	jne    0x3883
+    387f:	d1 ee                	shr    si,1
+    3881:	eb 05                	jmp    0x3888
+    3883:	83 c6 02             	add    si,0x2
+    3886:	e2 ef                	loop   0x3877
+    3888:	80 3e b0 05 00       	cmp    BYTE PTR ds:0x5b0,0x0
+    388d:	75 0b                	jne    0x389a
+    388f:	32 e4                	xor    ah,ah
+    3891:	8a 84 36 60          	mov    al,BYTE PTR [si+0x6036]
+    3895:	a3 32 64             	mov    ds:0x6432,ax
+    3898:	eb 24                	jmp    0x38be
+    389a:	80 3e b0 05 01       	cmp    BYTE PTR ds:0x5b0,0x1
+    389f:	75 08                	jne    0x38a9
+    38a1:	c7 06 32 64 06 00    	mov    WORD PTR ds:0x6432,0x6
+    38a7:	eb 15                	jmp    0x38be
+    38a9:	80 3e b0 05 02       	cmp    BYTE PTR ds:0x5b0,0x2
+    38ae:	75 08                	jne    0x38b8
+    38b0:	c7 06 32 64 07 00    	mov    WORD PTR ds:0x6432,0x7
+    38b6:	eb 06                	jmp    0x38be
+    38b8:	c7 06 32 64 05 00    	mov    WORD PTR ds:0x6432,0x5
+    38be:	c1 26 32 64 09       	shl    WORD PTR ds:0x6432,0x9
+    38c3:	8b c6                	mov    ax,si
+    38c5:	b1 34                	mov    cl,0x34
+    38c7:	f6 e1                	mul    cl
+    38c9:	8b f0                	mov    si,ax
+    38cb:	89 36 95 62          	mov    WORD PTR ds:0x6295,si
+    38cf:	b1 00                	mov    cl,0x0
+    38d1:	c6 06 df 1f 00       	mov    BYTE PTR ds:0x1fdf,0x0
+    38d6:	e9 8f 00             	jmp    0x3968
+    38d9:	8b 36 95 62          	mov    si,WORD PTR ds:0x6295
+    38dd:	b5 00                	mov    ch,0x0
+    38df:	d1 e1                	shl    cx,1
+    38e1:	03 f1                	add    si,cx
+    38e3:	8b 84 57 60          	mov    ax,WORD PTR [si+0x6057]
+    38e7:	50                   	push   ax
+    38e8:	e8 45 01             	call   0x3a30
+    38eb:	58                   	pop    ax
+    38ec:	a9 00 80             	test   ax,0x8000
+    38ef:	74 2d                	je     0x391e
+    38f1:	3d 00 80             	cmp    ax,0x8000
+    38f4:	75 05                	jne    0x38fb
+    38f6:	e8 cf 01             	call   0x3ac8
+    38f9:	eb 1d                	jmp    0x3918
+    38fb:	3d 00 85             	cmp    ax,0x8500
+    38fe:	72 15                	jb     0x3915
+    3900:	3d ff 85             	cmp    ax,0x85ff
+    3903:	75 0b                	jne    0x3910
+    3905:	c7 06 30 64 24 00    	mov    WORD PTR ds:0x6430,0x24
+    390b:	e8 39 03             	call   0x3c47
+    390e:	eb 03                	jmp    0x3913
+    3910:	e8 9e 02             	call   0x3bb1
+    3913:	eb 03                	jmp    0x3918
+    3915:	e8 e1 01             	call   0x3af9
+    3918:	fe 06 df 1f          	inc    BYTE PTR ds:0x1fdf
+    391c:	eb 46                	jmp    0x3964
+    391e:	3d 20 04             	cmp    ax,0x420
+    3921:	72 05                	jb     0x3928
+    3923:	3d 50 04             	cmp    ax,0x450
+    3926:	72 0a                	jb     0x3932
+    3928:	3d 20 44             	cmp    ax,0x4420
+    392b:	72 0e                	jb     0x393b
+    392d:	3d 50 44             	cmp    ax,0x4450
+    3930:	77 09                	ja     0x393b
+    3932:	e8 2f 03             	call   0x3c64
+    3935:	fe 06 df 1f          	inc    BYTE PTR ds:0x1fdf
+    3939:	eb 29                	jmp    0x3964
+    393b:	a9 00 40             	test   ax,0x4000
+    393e:	74 0a                	je     0x394a
+    3940:	e8 9b 03             	call   0x3cde
+    3943:	80 06 df 1f 02       	add    BYTE PTR ds:0x1fdf,0x2
+    3948:	eb 1a                	jmp    0x3964
+    394a:	3d 00 00             	cmp    ax,0x0
+    394d:	75 0d                	jne    0x395c
+    394f:	b0 24                	mov    al,0x24
+    3951:	a3 30 64             	mov    ds:0x6430,ax
+    3954:	e8 71 01             	call   0x3ac8
+    3957:	e8 6e 01             	call   0x3ac8
+    395a:	eb 03                	jmp    0x395f
+    395c:	e8 ed 01             	call   0x3b4c
+    395f:	80 06 df 1f 02       	add    BYTE PTR ds:0x1fdf,0x2
+    3964:	8a 0e df 1f          	mov    cl,BYTE PTR ds:0x1fdf
+    3968:	3a 0e 26 64          	cmp    cl,BYTE PTR ds:0x6426
+    396c:	73 03                	jae    0x3971
+    396e:	e9 68 ff             	jmp    0x38d9
+    3971:	c6 06 b0 05 00       	mov    BYTE PTR ds:0x5b0,0x0
+    3976:	c3                   	ret
+    3977:	8a 2e 36 64          	mov    ch,BYTE PTR ds:0x6436
+    397b:	8a 0e 37 64          	mov    cl,BYTE PTR ds:0x6437
+    397f:	80 3e 1a 64 19       	cmp    BYTE PTR ds:0x641a,0x19
+    3984:	74 0e                	je     0x3994
+    3986:	80 3e 1a 64 0d       	cmp    BYTE PTR ds:0x641a,0xd
+    398b:	74 07                	je     0x3994
+    398d:	80 3e 1a 64 1b       	cmp    BYTE PTR ds:0x641a,0x1b
+    3992:	75 04                	jne    0x3998
+    3994:	eb 35                	jmp    0x39cb
+    3996:	eb 0d                	jmp    0x39a5
+    3998:	80 3e 1a 64 80       	cmp    BYTE PTR ds:0x641a,0x80
+    399d:	75 06                	jne    0x39a5
+    399f:	fe c5                	inc    ch
+    39a1:	80 c1 02             	add    cl,0x2
+    39a4:	c3                   	ret
+    39a5:	fe c5                	inc    ch
+    39a7:	80 3e 3a 64 04       	cmp    BYTE PTR ds:0x643a,0x4
+    39ac:	75 0c                	jne    0x39ba
+    39ae:	8a 16 99 62          	mov    dl,BYTE PTR ds:0x6299
+    39b2:	d0 e2                	shl    dl,1
+    39b4:	02 ca                	add    cl,dl
+    39b6:	fe c1                	inc    cl
+    39b8:	eb 10                	jmp    0x39ca
+    39ba:	2a 0e 3b 64          	sub    cl,BYTE PTR ds:0x643b
+    39be:	fe c1                	inc    cl
+    39c0:	8a 16 99 62          	mov    dl,BYTE PTR ds:0x6299
+    39c4:	d0 e2                	shl    dl,1
+    39c6:	02 ca                	add    cl,dl
+    39c8:	fe c1                	inc    cl
+    39ca:	c3                   	ret
+    39cb:	fe c5                	inc    ch
+    39cd:	8a 16 99 62          	mov    dl,BYTE PTR ds:0x6299
+    39d1:	80 fa 00             	cmp    dl,0x0
+    39d4:	74 0f                	je     0x39e5
+    39d6:	80 fa 02             	cmp    dl,0x2
+    39d9:	74 0a                	je     0x39e5
+    39db:	80 fa 04             	cmp    dl,0x4
+    39de:	74 05                	je     0x39e5
+    39e0:	80 fa 06             	cmp    dl,0x6
+    39e3:	75 0c                	jne    0x39f1
+    39e5:	d0 ea                	shr    dl,1
+    39e7:	02 16 99 62          	add    dl,BYTE PTR ds:0x6299
+    39eb:	02 ca                	add    cl,dl
+    39ed:	fe c1                	inc    cl
+    39ef:	eb 12                	jmp    0x3a03
+    39f1:	8a 16 99 62          	mov    dl,BYTE PTR ds:0x6299
+    39f5:	fe c2                	inc    dl
+    39f7:	88 16 09 04          	mov    BYTE PTR ds:0x409,dl
+    39fb:	d0 ea                	shr    dl,1
+    39fd:	02                   	.byte 0x2
+    39fe:	16                   	push   ss
+    39ff:	09                   	.byte 0x9

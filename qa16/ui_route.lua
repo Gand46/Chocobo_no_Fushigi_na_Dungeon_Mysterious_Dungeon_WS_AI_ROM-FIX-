@@ -1,0 +1,2 @@
+local p={frames=2200,capture_every=60,moves={{60,64,'right2'},{130,134,'down'},{200,204,'down'},{270,274,'a'},{600,604,'b'},{690,694,'down'},{760,764,'a'},{1100,1104,'b'},{1190,1194,'down'},{1260,1264,'a'},{1610,1614,'b'},{1700,1704,'down'},{1770,1774,'a'}}}
+local o=assert(loadfile(os.getenv('LAYOUT_OBSERVER')))();p.tick=function(f,save,memory)o.tick(f,save,memory);if f==p.frames then o.finish(save)end end;return p

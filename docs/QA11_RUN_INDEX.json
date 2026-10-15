@@ -1,0 +1,147 @@
+[
+  {
+    "run": "q11_animation",
+    "method": "SCRIPTED_NATURAL",
+    "role": "HF8 final-hash evidence",
+    "metadata": {
+      "exit": 0,
+      "elapsed": 3.9765806759969564,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=35",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa10/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/qa11_title.ws"
+      ],
+      "rom_sha256": "831d5778ba5887941235365a4065d8cc090c1a871fbdfc00f398c2b5c0ebc89c",
+      "state_sha256": null,
+      "plan_sha256": "0d03182697fc420de7e3e9531f5e037d3b2b04c85741d102dca8d3b93944925f",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "7de70e032bbfbc09c347f725a1906787db8ea0c01a5f4c351f9de47e42d75cd3"
+    },
+    "checkpoint_sha256": "0d95c7460c7206ba0a28ed623de2f7acdaba22a43333c6c2f6e1ca6b42617d66",
+    "image_count": 1003,
+    "state_provenance": "no input savestate"
+  },
+  {
+    "run": "q11_animation_hf7_control",
+    "method": "SCRIPTED_NATURAL",
+    "role": "HF7 comparison control",
+    "metadata": {
+      "exit": 0,
+      "elapsed": 3.474036431995046,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=35",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa10/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf7_release/Chocobo_EN_v1.1_HF7_TEST.ws"
+      ],
+      "rom_sha256": "116cd3df2828e97c890049619f6f43bf10102490f0c709a3dc836ec54a6a065a",
+      "state_sha256": null,
+      "plan_sha256": "0d03182697fc420de7e3e9531f5e037d3b2b04c85741d102dca8d3b93944925f",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "fc0e49247add4b68dd8cbc30214c74d91cba5511e95a3e7e7019caa5ed147e27"
+    },
+    "checkpoint_sha256": "c03e6446616e9169e3a0e11b74a0e99ebee10c87d7500f3b44556ae930e5004d",
+    "image_count": 1003,
+    "state_provenance": "no input savestate"
+  },
+  {
+    "run": "q11_candidate",
+    "method": "SCRIPTED_NATURAL",
+    "role": "HF8 final-hash evidence",
+    "metadata": {
+      "exit": 0,
+      "elapsed": 2.923154477000935,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=20",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa10/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/qa11_title.ws"
+      ],
+      "rom_sha256": "831d5778ba5887941235365a4065d8cc090c1a871fbdfc00f398c2b5c0ebc89c",
+      "state_sha256": null,
+      "plan_sha256": "aebf04b819a36bb958f68d041015f7a5ef0640b305b5758a41c4053afd24e47c",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "b7dcd96b4a7de395d3b19fcdc02d9ca4a8d44031757db0ac6739d67c636fc9ff"
+    },
+    "checkpoint_sha256": "302448dfb8a23b00c38567694bfad13731921a35adb4f8ea58e3a82220e75eb6",
+    "image_count": 21,
+    "state_provenance": "no input savestate"
+  },
+  {
+    "run": "q11_start",
+    "method": "SCRIPTED_NATURAL",
+    "role": "HF8 final-hash evidence",
+    "metadata": {
+      "exit": 0,
+      "elapsed": 5.985465821999242,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=20",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa10/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/qa11_title.ws"
+      ],
+      "rom_sha256": "831d5778ba5887941235365a4065d8cc090c1a871fbdfc00f398c2b5c0ebc89c",
+      "state_sha256": null,
+      "plan_sha256": "8cdb9c079366e6a8efec441e7ea56370c094cf3a5a69d4b750237294c2b06be2",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "28d9360f2b2972e13d21ba0a3e0d132e0a54041de2947733f38003ef4adf9e1a"
+    },
+    "checkpoint_sha256": "dd586236e41d198e7b905bf9bb8451ec59577438ed4e3fc76c3298be537a78d8",
+    "image_count": 21,
+    "state_provenance": "no input savestate"
+  },
+  {
+    "run": "q11_walk",
+    "method": "SAVESTATE_FROM_Q11_START_PLUS_NATIVE_INPUTS",
+    "role": "HF8 final-hash evidence",
+    "metadata": {
+      "exit": 0,
+      "elapsed": 1.1193377419986064,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=20",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa10/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/qa11_title.ws"
+      ],
+      "rom_sha256": "831d5778ba5887941235365a4065d8cc090c1a871fbdfc00f398c2b5c0ebc89c",
+      "state_sha256": "dd586236e41d198e7b905bf9bb8451ec59577438ed4e3fc76c3298be537a78d8",
+      "plan_sha256": "f9eb3b194437a0cc23eedeb13ac8a17273ee84c4ee8695263702222d96d8cf7c",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "fe6bd365f6a59afeb2fb5fbe40023a12423591c754e18ca125ddc44be1bccbe8"
+    },
+    "checkpoint_sha256": "11c9ec5ef40438793b2638724897617fc350c3e75f886fd6ddb3239921974e5b",
+    "image_count": 9,
+    "state_provenance": "q11_start/checkpoint.mss; generated by buttons from boot"
+  }
+]

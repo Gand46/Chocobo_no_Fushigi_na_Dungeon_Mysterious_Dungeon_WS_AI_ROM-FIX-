@@ -1,0 +1,9 @@
+{
+  "current": "user_v01",
+  "importer": "tools/integrate_title_assets.py",
+  "historical_only": [
+    "canonical_glyphs_and_layout.json",
+    "tools/generate_title_fix.py"
+  ],
+  "reason": "User supplied v0.1 logo replaces HF7 artwork"
+}

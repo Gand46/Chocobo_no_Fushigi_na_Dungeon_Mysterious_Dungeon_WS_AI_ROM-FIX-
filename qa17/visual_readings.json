@@ -1,0 +1,394 @@
+[
+  {
+    "run": "final_G01_M039",
+    "image": "f00420.png",
+    "sha256": "8be47e1088c98cd8d31faf80a9562ce0d4dffde14547facb50efc44e64f767c0",
+    "observed": "Without an edge.. / Smells that way.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G03_M012",
+    "image": "f00420.png",
+    "sha256": "4a28066b6f35067c1f0b187d5b57c2cb0eaa9aafeba1cd941cb313671385d460",
+    "observed": "Wah! Thanks, brother!",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G04_M031",
+    "image": "f00420.png",
+    "sha256": "8e6d5256d80f90fc8e8b4fc036f947662560cb23bfd5b12b2027fb555d4bca3d",
+    "observed": "I worry for / Camilla’s Dad,",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G04_M031",
+    "image": "f00690.png",
+    "sha256": "59c328b501afd3cc58d8d499a322ae2cc7aa0c6277eab85f23a4b8e37bcfea0e",
+    "observed": "but also the dungeon...",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G04_M034",
+    "image": "f00420.png",
+    "sha256": "5427554872c36ef9418441a739608b026afe9bb1912cdfc389331e601146305e",
+    "observed": "1000 Gil, OK? / 500 Gil, OK?",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G04_M048",
+    "image": "f00420.png",
+    "sha256": "48371e920d9df3e9f954b69be372e02dd69809374d31d12c34f28a6acbe91713",
+    "observed": "What is it? / Another Teleport Box?",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G06_M099",
+    "image": "f00420.png",
+    "sha256": "fb1352c7938995ac136512dadea5d007446c00a24e7b54f8fe5100dd2119f447",
+    "observed": "Debug mode active.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G06_M099",
+    "image": "f00690.png",
+    "sha256": "83e0655dcd9f4fce42c9205435d6188cdeff7ffd312faa755db5b72b877a5594",
+    "observed": "Only Chapter 3 items / onward can exchange! — fits; pre-existing awkward grammar retained, global linguistic approval not granted.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G08_M020",
+    "image": "f00420.png",
+    "sha256": "fa66ce7f80b2bf94ddf4415fbf800de81a7653c5df7b00946151dc71b0605a4f",
+    "observed": "Chip and Mill / had babies!",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G08_M020",
+    "image": "f00690.png",
+    "sha256": "39b227e4ef809a2b6c8b564b6d7a8da6505127fedafb391b9a3cd7bd7982f855",
+    "observed": "It was triplets!",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G16_M004",
+    "image": "f00420.png",
+    "sha256": "849746d0b5b31f04b6112fd93a58607891781395dce7f084c8545f485b76586b",
+    "observed": "! WARNING!",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G16_M004",
+    "image": "f00690.png",
+    "sha256": "4ec122a24349338c92d6b53564e60faf664c724227db0852a793b14d6a9ab3bc",
+    "observed": "Last play data / was corrupted. — visible wording only; does not establish actual save corruption or its cause.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G16_M070",
+    "image": "f00420.png",
+    "sha256": "96df2ea1c3d772915646beec600f764d0c5efa5c85ce797d9d927257f45c7940",
+    "observed": "Message from director / Koichi Nakamura!",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G16_M070",
+    "image": "f00690.png",
+    "sha256": "2cf60dee266a285eb44cf324d0c1acc7e4e724bf3c50570ac956a1dee1f354b6",
+    "observed": "If you enjoy this game, / I recommend",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G16_M070",
+    "image": "f00930.png",
+    "sha256": "c394ed34fb00f4c9965b19e17efabc2aeae02e716d0d88cea9075e3bc51644ab",
+    "observed": "Shiren the Wanderer!",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G01_M031",
+    "image": "f00420.png",
+    "sha256": "4cee587786776aacbf2922641b64d4994a2878520901e0f74f33f8796e7522de",
+    "observed": "Applying oil would help.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G06_M022",
+    "image": "f00420.png",
+    "sha256": "6316f2e6e475dc30d3789837431158cfc81b12f4aac1facdaa8abacc4cdcaa6d",
+    "observed": "That moogle is so lively!",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G09_M063",
+    "image": "f00420.png",
+    "sha256": "2684128b7f685f5f9f3bc18fa95169eaa93be198c0f84365db85e62b4d7f3092",
+    "observed": "Go out if it gets rough!",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G01_M040",
+    "image": "f00420.png",
+    "sha256": "931c91ee79247b1463794e6d0b77dd4bf39835a1c7ded2772b792247e101d75d",
+    "observed": "Well, why not / check it?",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_G05_M002",
+    "image": "f00420.png",
+    "sha256": "9e0e69ebd813a711cf80dca0fb5ffcc0ed45e8ca87ffc2cb0f849ed696e5ea6c",
+    "observed": "Using it, you can easily / go from 2F to 1F!",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G00_M252_min",
+    "image": "f00420.png",
+    "sha256": "8639b7efadcda3fe5fe2cae06969ba5b67c05228f5a46083c68e65beaf997d28",
+    "observed": "0 Level",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G00_M253_min",
+    "image": "f00420.png",
+    "sha256": "5852e0ff259d1ae071125f6a83aee51d20a41240da235dc29bc873d63304f69f",
+    "observed": "Cost 0 Gil",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G00_M254_min",
+    "image": "f00420.png",
+    "sha256": "1c775620a53cc3dedbcf45f2d9d5e4c62e6b2e7f5576313fd2d2be3cbc7ca5cd",
+    "observed": "Ore Items",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G00_M255_min",
+    "image": "f00420.png",
+    "sha256": "fccf8c8d387cb8d0aea3c5c25d54a97560c223ad5e3bdb39aad779df019fe71a",
+    "observed": "Name Ore",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G16_M011_min",
+    "image": "f00420.png",
+    "sha256": "c972dbac839018c1fbe7d6abe39b72e8f99acce7bb9ed42ec90a90334b845738",
+    "observed": "Ore / was covered in oil.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G16_M034_min",
+    "image": "f00420.png",
+    "sha256": "7d2e99fa2b82be3a786dab9f5f259f0b63b3a7e4d79a6f7a7acc410e8cf9af63",
+    "observed": "Ore / Level 0!",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G16_M253_min",
+    "image": "f00420.png",
+    "sha256": "d4124c9b68c66335118af5056540c6109c42979eb97fe5484eb6b9ce956b7aa6",
+    "observed": "Ore stolen.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G00_M252_max",
+    "image": "f00420.png",
+    "sha256": "3336d50adc5b6388851af12418ac0b17790212c4d0ad220e92623d19f0b6f7ea",
+    "observed": "65535 Level",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G00_M253_max",
+    "image": "f00420.png",
+    "sha256": "38ad26d8af719a9d2a911893a06037953dd41ffe4d8e95f2bebf5c5e64637fc3",
+    "observed": "Cost 65535 Gil",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G00_M254_max",
+    "image": "f00420.png",
+    "sha256": "280d06d55da3eb0dee42ae25d68a0b60678af5ff0b587c16529f18068ad6ddbc",
+    "observed": "Double KnockTalon Items",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G00_M255_max",
+    "image": "f00420.png",
+    "sha256": "a28120b18dbf3ec62aea53ce1f2eb591b091ed00c0479265b880870465914c5b",
+    "observed": "Name Double KnockTalon",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G16_M011_max",
+    "image": "f00420.png",
+    "sha256": "1c5eeaa10860a8429d455caf83400b26d8ffa9147b029876d0fbadc3a10b0165",
+    "observed": "Double KnockTalon / was covered in oil.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G16_M034_max",
+    "image": "f00420.png",
+    "sha256": "61379fa02f295713dd226e3ccaeb36d7a7bfa3d3a3321b041e00bd47a8393e06",
+    "observed": "Double KnockTalon / Level 65535!",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_dyn_G16_M253_max",
+    "image": "f00420.png",
+    "sha256": "a8534426cfc7480d4c9a9e55ef95be6bd75d354d583f0b1c5c4402ddf6fa4f03",
+    "observed": "Double KnockTalon stolen.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_C5_f00339.png",
+    "sha256": "f3a1695f217020623b97d860fed7f3adbb51cda3ac5ec86edceaedb07681e0c6",
+    "observed": "Chocobo for WS — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_C6_f00626.png",
+    "sha256": "5c2bdaa977b6fb9acbfeea71edb18e1a6207c91b3626120abce4adda8aab4c71",
+    "observed": "SQUARE STAFF — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_C7_f00915.png",
+    "sha256": "877da98bddb0b45bf679481d3523146f440132f478b1b52e5a91434ebe0f93ea",
+    "observed": "Shinji Hashimoto — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_C8_f01204.png",
+    "sha256": "c37c58df4cc961fb73d5763e0ba577d4bee5d3405b0dec40ee69a1796d701b91",
+    "observed": "Kazuhiko Yoshioka / Toshiyuki Itahana — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_C9_f01493.png",
+    "sha256": "c4a17e9e471165e3b420ff3497faf9fddefcf45683266308b68a9b0f4a4cbccd",
+    "observed": "Katsuyoshi Kawahara / Masashi Kouda — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_CA_f01782.png",
+    "sha256": "3b5c3fc856c5473a19cdc1e0f003a488bdfb3a56d0ccb20575356dc258e4caa2",
+    "observed": "Kazuhiko Aoki — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_CB_f02071.png",
+    "sha256": "9ec29b5280baa02f975ea7b7257867d4983a997b4f21efadbf4124df622aa4fd",
+    "observed": "Masashi Hamauzu — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_CC_f02360.png",
+    "sha256": "17a0525cf24525c34fd865640edf930c909435c72169f76d3372fe85ee887bab",
+    "observed": "Izumi Tsukushi / Ichiro Hazama — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_CD_f02649.png",
+    "sha256": "964c49f2eda57b09801222ca009db2d97339f4312da15c8e2eea1d07b00a9ede",
+    "observed": "BANDAI STAFF — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_CE_f02938.png",
+    "sha256": "e176c5bd066cb42739c47aec951e0994567892d68a5374b4573d5113b1e32257",
+    "observed": "PRODUCER / Takeo Isogai — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_CF_f03227.png",
+    "sha256": "a4ede2a1ae07dbd301c137459c51b49d5066af1e3dfb09ee7d5c378a45671f84",
+    "observed": "SPECIAL THANKS / Yusuke Sasaki — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_D0_f03516.png",
+    "sha256": "eb9c54793d0f961664b6d9884cbdda624945efa90c5e7468eb40ceaa214fb30c",
+    "observed": "Nobuyuki Tanaka / Toshihiro Suzuki / Hiromi Horiuchi — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_D1_f03805.png",
+    "sha256": "b576f7b59b752f01283911e6f78077c0dc8dc1ab833a34ae50c2ec936e6c9e96",
+    "observed": "Hiroshi Shimada / Hirotaka Watanabe / Tsuyoshi Satou — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "credits_D2_f04094.png",
+    "sha256": "b58f3e793f70e8eaace53cb1b8079091843a20f5d44c819ee66e519c14f21edd",
+    "observed": "Takahiro Sasanoi / Machiko Tsukui — complete visible text, no clipping observed; name spelling not independently checked.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  },
+  {
+    "run": "final_credits",
+    "image": "f07200.png",
+    "sha256": "64c1580668a76417a251a45e60202303f914dd9e414bb5277617ed016354ba6f",
+    "observed": "Village scene after complete credit sequence; continued native execution.",
+    "status": "PASS_VISUAL_SCOPED",
+    "method": "Native pixels read before consulting expected strings; same model reviewer, no independent reviewer."
+  }
+]

@@ -1,0 +1,241 @@
+0x148000
+8000 xor ax, ax
+8002 ret 
+8003 lcall 0xc000, 0x4712
+8008 cmp ax, 0x115
+800B je 0x8021
+800D cmp ax, 0x116
+8010 je 0x8021
+8012 cmp ax, 0x117
+8015 je 0x8021
+8017 cmp ax, 0x118
+801A je 0x8021
+801C cmp ax, 0x119
+801F jne 0x8026
+8021 mov ax, 1
+8024 jmp 0x8028
+8026 xor ax, ax
+8028 ret 
+8029 .byte 0xff
+802A .byte 0xff
+802B .byte 0xff
+802C .byte 0xff
+802D .byte 0xff
+802E .byte 0xff
+802F jmp sp
+8031 ret 0xb050
+8034 sti 
+8035 out 0xc2, al
+8037 mov word ptr [0x4b8e], 0
+803D mov word ptr [0x4b90], 0
+8043 mov word ptr [0x4b60], 0
+8049 mov word ptr [0x4b6c], 0
+804F mov word ptr [0x4b78], 0
+8055 lcall 0xe000, 0xf139
+805A cmp byte ptr [0x4b18], 2
+805F jne 0x808d
+8061 lcall 0x5000, 0x3ea0
+8066 push cx
+8067 push dx
+8068 mov cx, 2
+806B inc cx
+806C xor dx, dx
+806E mov ax, word ptr [0x1fb7]
+8071 div cx
+8073 mov ax, dx
+8075 pop dx
+0x1ccf80
+CF80 retf 
+CF82 mov dh, 0xcb
+CF84 inc si
+CF85 int3 
+CF86 salc 
+CF87 int3 
+CF88 int 0xf6
+CF8B int 0x86
+CF8D into 
+CF8E .byte 0x62
+CF8F enter -0x370e, -0x7e
+CF93 leave 
+CF94 adc cl, dl
+CF96 mov byte ptr [0x32ca], al
+CF99 retf 
+CF9A ret 0x52cb
+CF9D int3 
+CF9E loop 0xcf6c
+CFA0 jb 0xcf6f
+CFA2 add cl, dh
+CFA4 xchg dx, ax
+CFA5 into 
+CFA6 outsb dx, byte ptr [si]
+CFA7 enter -0x3702, -0x72
+CFAB leave 
+CFAC push ds
+CFAD retf 0xcaae
+CFB0 retf 
+CFB2 into 
+CFB3 retf 
+CFB4 pop si
+CFB5 int3 
+CFB6 out dx, al
+CFB7 int3 
+CFB8 jle 0xcf87
+CFBA push cs
+CFBB into 
+CFBC sahf 
+CFBD into 
+CFBE jp 0xcf88
+CFC0 or cl, cl
+CFC2 lcall 0xbaca, 0x2ac9
+CFC7 retf 0xcb4a
+CFCA fcmove st(0), st(3)
+CFCC push -0x34
+CFCE cli 
+CFCF int3 
+CFD0 mov cl, ch
+CFD2 sbb cl, dh
+CFD4 stosb byte ptr es:[di], al
+CFD5 into 
+CFD6 .byte 0xff
+CFD7 .byte 0xff
+CFD8 .byte 0xff
+CFD9 .byte 0xff
+CFDA .byte 0xff
+CFDB .byte 0xff
+CFDC .byte 0xff
+CFDD .byte 0xff
+CFDE .byte 0xff
+CFDF inc si
+CFE1 push es
+CFE2 rcr byte ptr [bx], 1
+CFE4 add byte ptr [bp + si - 0x38d2], cl
+CFE8 dec dx
+CFE9 mov cl, byte ptr [0x4ac8]
+CFED lcall 0xc000, 0x4712
+CFF2 test ax, 0x8000
+CFF5 je 0xcffd
+CFF7 mov byte ptr [0x1fd0], 0
+CFFC retf 
+CFFD xor si, si
+CFFF xor di, di
+D001 mov cx, 0x19
+D004 test word ptr [si + 0x4be9], 0x8000
+D00A jne 0xd068
+D00C lcall 0x9000, 0xe87a
+D011 cmp dl, 0
+D014 je 0xd056
+D016 lcall 0x9000, 0xb5b2
+D01B mov al, byte ptr [0x69c8]
+D01E mov dl, 5
+D020 mul dl
+D022 push si
+D023 mov si, ax
+D025 mov al, byte ptr [si + 0x6c9f]
+D029 mov byte ptr [bx + 0x670a], al
+D02D mov al, byte ptr [si + 0x6ca0]
+D031 mov byte ptr [bx + 0x670b], al
+D035 mov al, byte ptr [si + 0x6ca1]
+D039 mov byte ptr [bx + 0x670c], al
+D03D mov al, byte ptr [si + 0x6ca2]
+D041 mov byte ptr [bx + 0x670d], al
+D045 mov al, byte ptr [si + 0x6ca3]
+D049 mov byte ptr [bx + 0x670e], al
+D04D pop si
+D04E or bx, 0x8000
+D052 mov word ptr [si + 0x4be9], bx
+D056 mov ch, byte ptr [0x4ac7]
+D05A mov cl, byte ptr [0x4ac8]
+D05E mov byte ptr [di + 0x4bb7], ch
+D062 mov byte ptr [di + 0x4bd0], cl
+D066 jmp 0xd06e
+D068 inc di
+D069 add si, 2
+D06C loop 0xd004
+D06E cmp di, 0x19
+D071 jne 0xd079
+D073 mov byte ptr [0x1fd0], 0
+D078 retf 
+D079 mov ch, byte ptr [0x4ac7]
+D07D mov cl, byte ptr [0x4ac8]
+D081 mov dx, di
+D083 shl dx, 8
+D086 or dx, 0x8000
+D08A lcall 0xc000, 0x4738
+D08F mov byte ptr [0x1fd0], 1
+D094 retf 
+D095 cmp byte ptr [0x7301], 1
+D09A jne 0xd0b7
+D09C cmp word ptr [0x7303], 2
+D0A1 jne 0xd0b7
+D0A3 mov al, 5
+D0A5 lcall 0x5000, 0x8e51
+D0AA jne 0xd0b1
+D0AC mov dx, 0
+D0AF jmp 0xd0b4
+D0B1 jmp 0xd29d
+D0B4 jmp 0xd26c
+D0B7 cmp byte ptr [0x7301], 1
+D0BC jne 0xd0d9
+D0BE cmp word ptr [0x7303], 4
+D0C3 jne 0xd0d9
+D0C5 mov al, 6
+D0C7 lcall 0x5000, 0x8e51
+D0CC jne 0xd0d3
+D0CE mov dx, 1
+D0D1 jmp 0xd0d6
+D0D3 jmp 0xd29d
+D0D6 jmp 0xd26c
+D0D9 cmp byte ptr [0x7301], 1
+D0DE jne 0xd0fb
+D0E0 cmp word ptr [0x7303], 6
+D0E5 jne 0xd0fb
+D0E7 mov al, 7
+D0E9 lcall 0x5000, 0x8e51
+D0EE jne 0xd0f5
+D0F0 mov dx, 2
+D0F3 jmp 0xd0f8
+D0F5 jmp 0xd29d
+D0F8 jmp 0xd26c
+D0FB cmp byte ptr [0x7301], 1
+D100 jne 0xd11d
+D102 cmp word ptr [0x7303], 8
+D107 jne 0xd11d
+D109 mov al, 8
+D10B lcall 0x5000, 0x8e51
+D110 jne 0xd117
+D112 mov dx, 3
+D115 jmp 0xd11a
+D117 jmp 0xd29d
+D11A jmp 0xd26c
+D11D cmp byte ptr [0x7301], 1
+D122 jne 0xd13f
+D124 cmp word ptr [0x7303], 0xe
+D129 jne 0xd13f
+D12B mov al, 9
+D12D lcall 0x5000, 0x8e51
+D132 jne 0xd139
+D134 mov dx, 4
+D137 jmp 0xd13c
+D139 jmp 0xd29d
+D13C jmp 0xd26c
+D13F cmp byte ptr [0x7301], 1
+D144 jne 0xd161
+D146 cmp word ptr [0x7303], 0x12
+D14B jne 0xd161
+D14D mov al, 0xc
+D14F lcall 0x5000, 0x8e51
+D154 jne 0xd15b
+D156 mov dx, 5
+D159 jmp 0xd15e
+D15B jmp 0xd29d
+D15E jmp 0xd26c
+D161 cmp byte ptr [0x7301], 2
+D166 jne 0xd183
+D168 cmp word ptr [0x7303], 3
+D16D jne 0xd183
+D16F mov al, 0x10
+D171 lcall 0x5000, 0x8e51
+D176 jne 0xd17d
+D178 mov dx, 6
+D17B jmp 0xd180
+D17D jmp 0xd29d

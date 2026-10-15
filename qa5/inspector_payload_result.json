@@ -1,0 +1,28 @@
+{
+  "file": "payload_level2.sav",
+  "bytes": 32768,
+  "sha256": "359e0fd4bdb7e81735296e26990fb65d41e8f7b37f6a9834922b6ff29f14e69e",
+  "markers": {
+    "normal": true,
+    "alternate": false
+  },
+  "any_known_marker": true,
+  "normal_marker_hex": "6e5f6331",
+  "alternate_marker_hex": "00000000",
+  "payload_range": "75B6..7F89 inclusive",
+  "payload_sha256": "f863b93b6ba3d99ace6aedf6912c193e0ceebb8bb27abf6c84ee1651206750b9",
+  "saved_fields_observed": {
+    "level": 2,
+    "dungeon": 0,
+    "floor_7303": 3,
+    "destination_7305": 0
+  },
+  "validation_scope": "Signature and byte comparison only; no global integrity or recovery guarantee",
+  "writes_to_input": false,
+  "comparison": {
+    "sha256": "1256b32a835c03cc4a977db10ed9940f29c5a46054fe82d9fa844f533d5bdb43",
+    "changed_bytes": 1,
+    "marker_offsets_changed": [],
+    "payload_changed_bytes": 1
+  }
+}

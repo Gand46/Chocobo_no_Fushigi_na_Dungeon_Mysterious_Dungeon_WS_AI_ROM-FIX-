@@ -1,0 +1,6 @@
+{
+  "started_utc": "2026-10-14T17:18:55Z",
+  "safety_cap_minutes": 40,
+  "base": "HF9",
+  "goal": "Synthetic closure of equipment, Atla, elevator/99-to-30 and save-loss scenarios, with cause separate from behavior"
+}

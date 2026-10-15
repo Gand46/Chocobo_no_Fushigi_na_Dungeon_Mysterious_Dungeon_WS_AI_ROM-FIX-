@@ -1,0 +1,14 @@
+[
+  {
+    "id": "SAVE-01",
+    "status": "CONFIRMED_CONTROLLED_TEST",
+    "finding": "Native in-place overwrite keeps old marker until after payload copy; interrupted snapshot loads mixed generations",
+    "linked_pdf_incidents": [
+      "EN-01",
+      "JP-01"
+    ],
+    "causal_link_to_forum_reports": "NOT_VALIDATED",
+    "rom_fix": "NOT_IMPLEMENTED",
+    "evidence": "evidence/qa6/q6_save_overwrite; q6_cold_interrupted; q6_jp_cold_interrupted"
+  }
+]

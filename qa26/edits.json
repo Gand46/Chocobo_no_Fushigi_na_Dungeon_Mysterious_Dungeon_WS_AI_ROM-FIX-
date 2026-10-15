@@ -1,0 +1,100 @@
+[
+  {
+    "id": "G00:M044_aesthetic",
+    "offset": "0x1bdeae",
+    "before": "ce00ac02000080020203260278024501000001006d02e5011803feff68020b02b700f2ffffff",
+    "after": "ce00ac02000080020203260278024501feff01006d02e501180368020b02b700f2ffffff0000",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G04:M038_aesthetic",
+    "offset": "0x1bee54",
+    "before": "cc003a01020387020000bc019500000069030c02ad000000c700feff0e000000faff0600d1000f003801faff0000b700f2ffffff",
+    "after": "cc003a01020387020000bc01950069030c02ad00c700feff0e000000faff0600d1000f003801faff0000b700f2ffffff00000000",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G04:M061_aesthetic",
+    "offset": "0x1beb1e",
+    "before": "c6009a00ad000000faff0600c9000c003801faff0000b50000005000bc01feff22004c00ad00f2ffffff",
+    "after": "c6009a00ad000000faff0600c9000c003801faff0000b5005000bc01feff22004c00ad00f2ffffff0000",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G06:M018_aesthetic",
+    "offset": "0x6e778",
+    "before": "c1000c029b01000069030c020000e000db01000080028e00feffe6003802bc01ae00f2ffffff",
+    "after": "c1000c029b0169030c020000e000db01000080028e00feffe6003802bc01ae00f2ffffff0000",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G06:M054_aesthetic",
+    "offset": "0x6eac8",
+    "before": "d2001c010000ce004702dc006b02090200001801580280020203feffe600aa028002000030000202b700f2ffffff",
+    "after": "d2001c010000ce004702dc006b020902000018015802feff80020203e600aa028002000030000202b700f2ffffff",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G06:M063_aesthetic",
+    "offset": "0x6ebc6",
+    "before": "d2001c010000ce004702dc006b02090200001801580280020203feff30000202b700f2ffffff",
+    "after": "d2001c010000ce004702dc006b020902feff180158028002020330000202b700f2ffffff0000",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G07:M003_aesthetic",
+    "offset": "0x6f03c",
+    "before": "bf000000dc00d802c6013d020000800245010a010000e102a301feff49000f00fc00b700f2ffffff",
+    "after": "bf000000dc00d802c6013d020000800245010a01feffe102a301000049000f00fc00b700f2ffffff",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G08:M004_aesthetic",
+    "offset": "0x6f0d0",
+    "before": "c1000c029b0100001c0100001801bd020000e600a60261000100feff7600de019000f601f2ffffff",
+    "after": "c1000c029b0100001c0100001801bd02feffe600a602610001007600de019000f601f2ffffff0000",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G08:M026_aesthetic",
+    "offset": "0x6f262",
+    "before": "c7000000800245017701c7000000a60266004b027902db01b700feffd200180178027600de019000d7013d02e30084008b02f2fffdff800202031c0113008b020000fd010000bb00bd02510205020203feff4501000080020203c102a30108009d00f2fffdff9900290294005d026100800247029f02170180020203feff5b02130084004702f302f2ffffff",
+    "after": "c7000000800245017701c7000000a60266004b027902db01b700feffd200180178027600de019000d7013d02e30084008b02f2fffdff800202031c0113008b020000fd01bb00bd02510205020203feff4501000080020203c102a30108009d00f2fffdff9900290294005d026100800247029f02170180020203feff5b02130084004702f302f2ffffff0000",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G09:M108_aesthetic",
+    "offset": "0x6fa10",
+    "before": "d1008600000069030c02b7000000cb0018033b018f0081029102feff4a01000001005d0253009500b700f2ffffff",
+    "after": "d100860069030c02b700cb0018033b018f0081029102feff4a01000001005d0253009500b700f2ffffff00000000",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G09:M141_aesthetic",
+    "offset": "0x6fa98",
+    "before": "d100f7011c0100003d020d00b00100004a01000001000601fb01feff0c011803b700f2ffffff",
+    "after": "d100f7011c0100003d020d00b001feff4a01000001000601fb0100000c011803b700f2ffffff",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G09:M151_aesthetic",
+    "offset": "0x6faf2",
+    "before": "c70000004200bc010000870200000001bd02000069030c02feff80024a01ad00f2ffffff",
+    "after": "c70000004200bc010000870200000001bd0269030c02feff80024a01ad00f2ffffff0000",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G10:M026_aesthetic",
+    "offset": "0x6f486",
+    "before": "cd00f40200000e02ad000000d50018017802180127028f008500feff80024a0100008102bc01ae00f2ffffff",
+    "after": "cd00f40200000e02ad00d50018017802180127028f008500feff80024a0100008102bc01ae00f2ffffff0000",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  },
+  {
+    "id": "G10:M032_aesthetic",
+    "offset": "0x6f576",
+    "before": "c7000000e102a3010000e000db010000ab0200000100feff230204000203870200006c021a00b700f2fffdfffaff0600ce000c029c017802faff0000b5000000fc00780280020203fc001300feff69030c020000dc0185000000870200009900230209020203f2fffdff800202037600de019000f2010000d1008600000069030c02feff98017d025602f2ffffff",
+    "after": "c7000000e102a3010000e000db010000ab0200000100feff230204000203870200006c021a00b700f2fffdfffaff0600ce000c029c017802faff0000b500fc00780280020203fc001300feff69030c020000dc0185000000870200009900230209020203f2fffdff800202037600de019000f201d100860069030c02feff98017d025602f2ffffff000000000000",
+    "reason": "QA26: native-font spacing and balanced line distribution; wording and controls preserved"
+  }
+]

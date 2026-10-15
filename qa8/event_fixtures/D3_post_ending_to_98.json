@@ -1,0 +1,8 @@
+{
+  "method": "SYNTHETIC_STATE",
+  "source": "runs/q8_d2_return_control/sram.bin",
+  "source_sha256": "2eadb4b4199f628be6b30f53e0f104c27d3180461cc1dc3ceb5bb81042402418",
+  "changes": "copy native live payload after completed synthetic second ending to normal legacy save; set D3 and target-1 floor; clear HF4 metadata",
+  "destination": 98,
+  "sha256": "88399eac0d6edb3f5ad01821c5cb101dab4e2379f2000c53aff0438e43cd61d5"
+}

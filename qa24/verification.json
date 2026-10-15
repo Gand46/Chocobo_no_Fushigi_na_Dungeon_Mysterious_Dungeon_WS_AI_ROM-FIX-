@@ -1,0 +1,258 @@
+{
+  "source_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+  "legacy_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+  "target_sha256": "f27e69f65e134b161c1f3ce263c3ed78a8ae247997c95d7383c43c4a78c8962f",
+  "bps_sha256": "c1984adda38b7d34291c1d65ba4da0df79ccc5ddb08c384787725188e53e648a",
+  "changed_bytes_vs_legacy": 17720,
+  "unexpected_changed_offsets": 0,
+  "checksum": "E625",
+  "roundtrip": "PASS",
+  "release_hash_verified": true,
+  "status": "PASS_SCOPED_QA24",
+  "checks": 176,
+  "story_sessions": 20,
+  "bestiary_sessions": 3,
+  "native_sessions_final": 23,
+  "native_frames": 5625,
+  "changed_story_resources": 4,
+  "changed_getter_resources": 2,
+  "changed_bytes_vs_hf18": 97,
+  "nonblank_dropped_glyphs": 0,
+  "blank_padding_drops": 2,
+  "independent_bps": "PASS_EXACT_BYTES",
+  "global_visual_approved": false,
+  "global_linguistic_approved": false,
+  "natural_reachability": "NOT_VALIDATED",
+  "sessions": [
+    {
+      "run": "final_G00_M252_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G00_M252_distinct/page_01.png",
+          "sha256": "96690ea8b387c1a4c6c7b1573f397a792a5096c95549f6db911a0ab311d9f9d8"
+        }
+      ]
+    },
+    {
+      "run": "final_G00_M252_max",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G00_M252_max/page_01.png",
+          "sha256": "3336d50adc5b6388851af12418ac0b17790212c4d0ad220e92623d19f0b6f7ea"
+        }
+      ]
+    },
+    {
+      "run": "final_G00_M253_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G00_M253_distinct/page_01.png",
+          "sha256": "f74c9f9c5ae2a030ca3a033484798b44b1f58b8e20591a5a57cc2c506e57ddab"
+        }
+      ]
+    },
+    {
+      "run": "final_G00_M253_max",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G00_M253_max/page_01.png",
+          "sha256": "364cf765bbde47f3edf9eb9ff8552e7a795e6623c39937c683774282ac7db9cf"
+        }
+      ]
+    },
+    {
+      "run": "final_G00_M254_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G00_M254_distinct/page_01.png",
+          "sha256": "1c775620a53cc3dedbcf45f2d9d5e4c62e6b2e7f5576313fd2d2be3cbc7ca5cd"
+        }
+      ]
+    },
+    {
+      "run": "final_G00_M254_max",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G00_M254_max/page_01.png",
+          "sha256": "280d06d55da3eb0dee42ae25d68a0b60678af5ff0b587c16529f18068ad6ddbc"
+        }
+      ]
+    },
+    {
+      "run": "final_G00_M255_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G00_M255_distinct/page_01.png",
+          "sha256": "fccf8c8d387cb8d0aea3c5c25d54a97560c223ad5e3bdb39aad779df019fe71a"
+        }
+      ]
+    },
+    {
+      "run": "final_G00_M255_max",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G00_M255_max/page_01.png",
+          "sha256": "a28120b18dbf3ec62aea53ce1f2eb591b091ed00c0479265b880870465914c5b"
+        }
+      ]
+    },
+    {
+      "run": "final_G04_M033_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G04_M033_distinct/page_01.png",
+          "sha256": "2c99fa58ab56b89e9964e18b8e9543ef09aa22fe0241135b04488baa79540ce4"
+        }
+      ]
+    },
+    {
+      "run": "final_G04_M034_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G04_M034_distinct/page_01.png",
+          "sha256": "5427554872c36ef9418441a739608b026afe9bb1912cdfc389331e601146305e"
+        }
+      ]
+    },
+    {
+      "run": "final_G06_M100_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G06_M100_distinct/page_01.png",
+          "sha256": "5b3b68521dc1778537a849f5d50e988e14f08e442ddd98c579241ea9457225c0"
+        }
+      ]
+    },
+    {
+      "run": "final_G06_M100_max",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G06_M100_max/page_01.png",
+          "sha256": "5b3b68521dc1778537a849f5d50e988e14f08e442ddd98c579241ea9457225c0"
+        }
+      ]
+    },
+    {
+      "run": "final_G11_M011_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G11_M011_distinct/end_text.png",
+          "sha256": "a5e6cad349087a24e59614d13b3e4816577e50f5c71efa2ed79f6af3ac33f2a6"
+        }
+      ]
+    },
+    {
+      "run": "final_G14_M007_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G14_M007_distinct/end_text.png",
+          "sha256": "f92435b858880af1ea4fc380b4f1d744203a7868757a0b69bb17c4b61d1efa13"
+        }
+      ]
+    },
+    {
+      "run": "final_G14_M007_max",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G14_M007_max/end_text.png",
+          "sha256": "f92435b858880af1ea4fc380b4f1d744203a7868757a0b69bb17c4b61d1efa13"
+        }
+      ]
+    },
+    {
+      "run": "final_G14_M067_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G14_M067_distinct/end_text.png",
+          "sha256": "e5e64349ba19605b251b79c177253a467b3477ecb99d519defe26da9e81a4363"
+        }
+      ]
+    },
+    {
+      "run": "final_G14_M067_max",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G14_M067_max/end_text.png",
+          "sha256": "e5e64349ba19605b251b79c177253a467b3477ecb99d519defe26da9e81a4363"
+        }
+      ]
+    },
+    {
+      "run": "final_G14_M152_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G14_M152_distinct/end_text.png",
+          "sha256": "bde7345271a9c9763f60e63b729c405fc46c5656d7277b9eef90f2c27032962b"
+        }
+      ]
+    },
+    {
+      "run": "final_G14_M152_max",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G14_M152_max/end_text.png",
+          "sha256": "bde7345271a9c9763f60e63b729c405fc46c5656d7277b9eef90f2c27032962b"
+        }
+      ]
+    },
+    {
+      "run": "final_G16_M073_distinct",
+      "access_method": "POINTER_INJECTION + WRAM_POKE where dynamic",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/final_G16_M073_distinct/end_text.png",
+          "sha256": "a5e6cad349087a24e59614d13b3e4816577e50f5c71efa2ed79f6af3ac33f2a6"
+        }
+      ]
+    },
+    {
+      "run": "bestiary_treant_scroll",
+      "access_method": "SYNTHETIC_STATE; preset81 and monster selection; Ruin overrides skill index",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/bestiary_treant_scroll/f00120.png",
+          "sha256": "ac2cdca81ee2b0b2900c3bc1bd10b4d349a20a2d9caf5f54e208a5433c7dbeaa"
+        }
+      ]
+    },
+    {
+      "run": "bestiary_omega",
+      "access_method": "SYNTHETIC_STATE; preset81 and monster selection; Ruin overrides skill index",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/bestiary_omega/f00120.png",
+          "sha256": "d224a49eb1636b6346e192e7aa805e111ec71804eb29139d1d713bcb9e5ee19b"
+        }
+      ]
+    },
+    {
+      "run": "bestiary_ruin_fixture",
+      "access_method": "SYNTHETIC_STATE; preset81 and monster selection; Ruin overrides skill index",
+      "images": [
+        {
+          "path": "evidence/qa24_runs/bestiary_ruin_fixture/f00120.png",
+          "sha256": "de2cb587166b7a769164473ae3b4a9de22b5317b603b83a29b8a459aea15c1a0"
+        }
+      ]
+    }
+  ]
+}

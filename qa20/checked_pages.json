@@ -1,0 +1,30 @@
+[
+  {
+    "id": "G00:M021",
+    "path": "qa20/runs/checked_G00_M021/page_01.png"
+  },
+  {
+    "id": "G00:M021",
+    "path": "qa20/runs/checked_G00_M021/page_02.png"
+  },
+  {
+    "id": "G01:M021",
+    "path": "qa20/runs/checked_G01_M021/page_01.png"
+  },
+  {
+    "id": "G01:M021",
+    "path": "qa20/runs/checked_G01_M021/page_02.png"
+  },
+  {
+    "id": "G04:M031",
+    "path": "qa20/runs/checked_G04_M031/page_01.png"
+  },
+  {
+    "id": "G04:M031",
+    "path": "qa20/runs/checked_G04_M031/page_02.png"
+  },
+  {
+    "id": "G04:M038",
+    "path": "qa20/runs/checked_G04_M038/page_01.png"
+  }
+]

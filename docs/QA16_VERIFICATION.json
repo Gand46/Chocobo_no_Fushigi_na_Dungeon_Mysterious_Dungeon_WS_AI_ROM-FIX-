@@ -1,0 +1,28 @@
+{
+  "status": "PASS_SCOPED_EVIDENCE_BUILD_AND_TRANSACTION_CHECKS",
+  "checks": 343,
+  "approved_synthetic_runs": 16,
+  "recorded_runs": 36,
+  "approved_runs_with_store_monitor": 13,
+  "distinct_common_store_events_in_those_runs": 1154,
+  "common_store_window_crossings_in_approved_runs": 0,
+  "candidate_forced_storage_crossings": 5,
+  "rom_changes": 0,
+  "target_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+  "bps_sha256": "87a48858a65e66f4f11b3865869f1c0df499317b56fbeae19f2335fcfff9e183",
+  "independent_bps": "PASS_EXACT_BYTES",
+  "build": {
+    "source_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+    "legacy_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+    "target_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "bps_sha256": "87a48858a65e66f4f11b3865869f1c0df499317b56fbeae19f2335fcfff9e183",
+    "changed_bytes_vs_legacy": 4310,
+    "unexpected_changed_offsets": 0,
+    "checksum": "E1F6",
+    "roundtrip": "PASS",
+    "release_hash_verified": true
+  },
+  "visual_review": "SEPARATE_RECORDED_IN_qa16/visual_readings.json",
+  "global_layout_approved": false,
+  "global_linguistic_approved": false
+}

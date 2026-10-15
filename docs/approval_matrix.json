@@ -1,0 +1,84 @@
+{
+  "scope": "HF19 linguistic approvals inherited; HF20 scoped aesthetic correction of14 resources",
+  "authority": "HF20-QA26-AESTHETIC",
+  "literal_references_reviewed": 886,
+  "linguistic_resource_scoped_pass": 886,
+  "resource_reservations_open": 0,
+  "qa24_resolved_resources": [
+    "G16:M073",
+    "G00:M252",
+    "G00:M253",
+    "G00:M254",
+    "G00:M255",
+    "G04:M033",
+    "G04:M034",
+    "G06:M100",
+    "G11:M011",
+    "G14:M007",
+    "G14:M067"
+  ],
+  "qa24_evidence": "qa24/resolution.json",
+  "qa24_verification": "qa24/verification.json",
+  "runtime_sessions_final": 23,
+  "runtime_frames_final": 5625,
+  "reviewers": [
+    "Coordinator",
+    "Delegated Astra"
+  ],
+  "human_approval": false,
+  "natural_playthrough_approved": false,
+  "global_visual_approved": false,
+  "global_linguistic_approved": false,
+  "hardware_approved": false,
+  "second_emulator_approved": false,
+  "FINAL_APPROVED": false,
+  "open_dimensions": {
+    "natural_and_host_contexts": {
+      "G16:M073": "Frase anfitriona, singular/plural y rango numérico naturales no comprobados.",
+      "G00:M252": "65535 es extremo sintético del formateador; no nivel alcanzable demostrado.",
+      "G00:M253": "9999999 es extremo de siete dígitos del formateador; máximo natural de dinero no acreditado.",
+      "G00:M254": "Selección sintética de recurso/índice de objeto, no ruta natural de depuración.",
+      "G00:M255": "Preparación explícita del búfer, no demostración de preparación natural.",
+      "G04:M033": "No se confirmó un consumidor de forja que use este recurso.",
+      "G04:M034": "No se confirmó la selección natural de estas variantes en forja.",
+      "G06:M100": "Consumidor de depuración con acceso sintético; no ejecución de intercambio real.",
+      "G11:M011": "Frase anfitriona, singular/plural y rango numérico naturales no comprobados.",
+      "G14:M007": "Selección de bestiario/monstruo y desplazamiento sintéticos; no inferir el efecto mecánico del ataque.",
+      "G14:M067": "I067 no aparece en82listas del bestiario; su fila se inyecta. No demuestra habilidades distintas ni nombre inglés oficial."
+    },
+    "inherited": [
+      "preset32/F00:I053",
+      "G16:M000/M003/M004 full consumer contexts",
+      "Universal getters and graphics census",
+      "Complete natural playthrough",
+      "Hardware",
+      "Second emulator"
+    ]
+  },
+  "historical_matrix": "docs/history/qa23/approval_matrix_hf18.json",
+  "historical_validation_counts": {
+    "V1": 83,
+    "V2": 248,
+    "V3": 207,
+    "V4": 194,
+    "V5": 154
+  },
+  "qa26": {
+    "status": "PASS_SCOPED_AESTHETIC_COORDINATOR_AND_ASTRA",
+    "resources_changed": 14,
+    "reflows": 6,
+    "excessive_gaps_reduced": 12,
+    "native_sessions": 28,
+    "paired_pages": 18,
+    "native_frames": 8311,
+    "font_changes": 0,
+    "code_changes": 0,
+    "global_visual_approved": false,
+    "checks": 231,
+    "unit_tests": 13,
+    "nonblank_dropped": 0
+  },
+  "qa26_evidence": "qa26/verification.json",
+  "qa26_visual_review": "qa26/astra_visual_review.json",
+  "historical_matrix_hf19": "docs/history/qa25/approval_matrix_hf19.json"
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "new": "G00:M044_aesthetic",
+    "into": "G00:M044_payload"
+  },
+  {
+    "new": "G04:M038_aesthetic",
+    "into": "G04:M038_payload"
+  },
+  {
+    "new": "G04:M061_aesthetic",
+    "into": "G04:M061_payload"
+  },
+  {
+    "new": "G06:M018_aesthetic",
+    "into": "G06:M018_payload"
+  },
+  {
+    "new": "G06:M054_aesthetic",
+    "into": "G06:M054_payload"
+  },
+  {
+    "new": "G06:M063_aesthetic",
+    "into": "G06:M063_payload"
+  },
+  {
+    "new": "G07:M003_aesthetic",
+    "into": "G07:M003_payload"
+  },
+  {
+    "new": "G08:M004_aesthetic",
+    "into": "G08:M004_payload"
+  },
+  {
+    "new": "G08:M026_aesthetic",
+    "into": "G08:M026_payload"
+  },
+  {
+    "new": "G09:M108_aesthetic",
+    "into": "G09:M108_payload"
+  },
+  {
+    "new": "G09:M141_aesthetic",
+    "into": "G09:M141_payload"
+  },
+  {
+    "new": "G09:M151_aesthetic",
+    "into": "G09:M151_payload"
+  },
+  {
+    "new": "G10:M026_aesthetic",
+    "into": "G10:M026_payload"
+  },
+  {
+    "new": "G10:M032_aesthetic",
+    "into": "G10:M032_payload"
+  }
+]

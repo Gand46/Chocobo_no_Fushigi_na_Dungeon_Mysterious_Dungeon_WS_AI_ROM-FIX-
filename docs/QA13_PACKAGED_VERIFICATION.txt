@@ -1,0 +1,14 @@
+{
+  "status": "PASS_SYNTHETIC",
+  "check_count": 122,
+  "new_protected_save_cycles": 3,
+  "protected_native_load_copies": 6,
+  "bytes_per_copy": 2516,
+  "rom_changes_in_qa13": 0,
+  "historical_equipment_cause": "NOT_REPRODUCED",
+  "historical_atla_variant": "EXACT_TRIGGER_UNKNOWN",
+  "natural_save_reset_cause": "NOT_REPRODUCED",
+  "wrong_map_cause": "STALE_FLOOR_DIGITS_REPRODUCED_SYNTHETICALLY_IN_JP_AND_CORRECTED_BY_EXISTING_HF6_GUARD",
+  "natural_access_required_for_this_acceptance": false,
+  "global_approval": false
+}

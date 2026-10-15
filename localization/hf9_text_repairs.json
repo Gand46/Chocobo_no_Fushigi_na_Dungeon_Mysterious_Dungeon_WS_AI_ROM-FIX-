@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PROPERTY_UNDEAD_TEXT",
+    "family": 6,
+    "index": 19,
+    "offset": "0x15CAEE",
+    "slot_end_exclusive": "0x15CB0A",
+    "before_visible": "Skill Strong on dead o,af",
+    "after_visible": "Skill Strong to Undead!",
+    "japanese_source": "死者タイプ用 有効能力付き",
+    "meaning": "Effective against undead enemies",
+    "glyph_provenance": "Skill prefix retained; Strong to Undead! copied from family2 item0x74 at15B874",
+    "native_control": "q12_jp_controls/undead_first_f720.png"
+  },
+  {
+    "id": "PROPERTY_THREE_WAY_END",
+    "family": 6,
+    "index": 25,
+    "offset": "0x15CBA6",
+    "before_visible": "Skill3pronged hit o,af",
+    "after_visible": "Skill3pronged hit",
+    "japanese_source": "前方３方向の攻撃 有効能力付き",
+    "meaning": "Attack in three forward directions",
+    "glyph_provenance": "Existing wording preserved; FFFF terminator moved before stray suffix",
+    "native_control": "q12_jp_controls/threeway_first_f720.png"
+  },
+  {
+    "id": "PROPERTY_FIRE_SADDLE_TAIL",
+    "family": 7,
+    "index": 1,
+    "offset": "0x15CFB0",
+    "before_visible": "Fire typeaf",
+    "after_visible": "Fire type",
+    "japanese_source": "火の属性を持つ",
+    "meaning": "Fire element",
+    "glyph_provenance": "Final blank now matches family6 index1 at15C98E",
+    "native_control": "q12_jp_controls/fire_first_f720.png"
+  },
+  {
+    "id": "ITEM_SLEEP_CARD_NAME",
+    "family": 3,
+    "index": 3,
+    "offset": "0x16EA1C",
+    "slot_end_exclusive": "0x16EA2C",
+    "before_visible": "Sleepel Card",
+    "after_visible": "Sleep Card",
+    "japanese_source": "スリプルカード",
+    "meaning": "Sleep Card",
+    "glyph_provenance": "Remove surplus 008D; Sleep glyphs match family6 index49; Card suffix retained",
+    "native_control": "q12_jp_controls/sleep_card_f720.png"
+  }
+]

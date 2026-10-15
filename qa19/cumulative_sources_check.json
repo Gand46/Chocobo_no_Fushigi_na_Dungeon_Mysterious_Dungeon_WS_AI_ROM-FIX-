@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "unchanged_base_files_compared": 42611,
+  "explicit_changed_paths": [
+    "CONTEXTO_CONTINUACION.md",
+    "INFORME_ES.md",
+    "README.md",
+    "SHA256SUMS.txt",
+    "build.py",
+    "manifest.json",
+    "qa15/inventory_layout.py",
+    "qa18/verify_scope.py",
+    "src/corrections.json",
+    "tests/test_project.py"
+  ],
+  "missing_or_unexpected_changes": []
+}

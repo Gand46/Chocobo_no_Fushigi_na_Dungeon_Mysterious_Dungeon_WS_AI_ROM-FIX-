@@ -1,0 +1,13 @@
+id,status,scope
+TR-01,PARTIAL_HF1_PRESERVED,10 corrected resources rerun on HF3; script-wide layout unapproved
+TR-02,FIXED_SYNTHETIC_HF3,Whistle missing tile and palette aliases repaired; 2399 frame comparison; native menu with injected inventory
+TR-03,UNCHANGED_JAPANESE,Title remains untranslated
+EN-01,NOT_REPRODUCED_BOUNDED,"30 HF3 native equipment actions; no freeze; advanced save scenarios remain untested; saved marker corruption reproduced synthetically; forum equipment cause still unproven; QA6 exact-data validator distinguishes loss, alteration and mixed writes; equipment trigger still unproven; HF4 rejects incomplete/corrupt protected data; no equipment-trigger root cause established"
+EN-02,GUARD_PASSES_FULL_EFFECT_PENDING,"HF3 consumes Lafoss and continues; original selector returns absent model FFFF; damage and missing animation not restored; JP/EN Lafoss freeze did not modify existing native save block; cold load succeeds; bounded HF4 regression consumes item and continues, no new spell-semantics approval"
+EN-03,NOT_REPRODUCED_BOUNDED,HF3 Dispel before/after cursed native equip works; artificial acquisition; curse remains and equipment removed
+JP-01,PARTIAL_SYNTHETIC_INVESTIGATION,"QA6 corrects synthetic D2 flag0080 vs8000, eliminating the QA5 white screen; D2 floor60 scene responds. Exact event-floor/elevator forum route remains unproven"
+JP-02,NOT_VALIDATED,"QA6 reaches D2 floor60 boss scene synthetically; actual second ending and fountain/frog branches still unvalidated; QA7 advances dialogue 1200 more frames, without reaching/verifying actual ending"
+JP-03,NOT_VALIDATED,99 to 30 teleport route needs traceable floor-99 checkpoint
+JP-04,NOT_VALIDATED,Atla rescue needs traceable pre-rescue checkpoint
+SAVE-01,FIXED_SYNTHETIC_PARTIAL_WRITE_ACCEPTANCE,HF4 7606 write-prefix checks accept only whole old/new data; 144 mutations rejected; native normal save and cold load pass; legacy compatibility passes; no prior-payload recovery; alternate gameplay resume and natural forum reset cause remain unvalidated
+HW-USER,CLOSED_OUT_OF_ROM_SCOPE,User established electrical cause of physical cartridge freeze; not a ROM diagnosis target

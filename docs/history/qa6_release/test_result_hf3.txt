@@ -1,0 +1,5 @@
+11 unittest tests PASS.
+Independent BPS decoder PASS.
+JP/EN/HF1/HF2/HF3 resource reads PASS: 72/196/77/77/77 words.
+Whistle generator JSON identical to all four correction entries.
+Native equipment 30 and resource 10 cases completed; powerOff=false; zero guard events.

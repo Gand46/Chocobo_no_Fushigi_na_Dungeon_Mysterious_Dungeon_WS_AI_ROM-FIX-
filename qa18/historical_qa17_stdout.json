@@ -1,0 +1,34 @@
+{
+  "status": "PASS_SYNTHETIC_SCOPED",
+  "checks": 790,
+  "approved_runs": 29,
+  "recorded_runs": 78,
+  "native_frames_approved": 36600,
+  "unique_resources_fixed": 11,
+  "references_fixed": 13,
+  "static_alerts_fixed": 9,
+  "padding_only_alerts": 3,
+  "composite_alert_pending": 1,
+  "variable_cases": 14,
+  "variable_unique_pointers": 7,
+  "variable_references": 9,
+  "credits_pages": 14,
+  "nonblank_dropped_glyphs_approved": 0,
+  "blank_padding_drops_approved": 6,
+  "content_changed_bytes": 203,
+  "checksum_changed_bytes": 2,
+  "independent_bps": "PASS_EXACT_BYTES",
+  "build": {
+    "scope": "HISTORICAL_HF12_FROM_PRESERVED_BPS"
+  },
+  "global_layout_approved": false,
+  "global_linguistic_approved": false,
+  "remaining_base_iterations": 1,
+  "limitations": [
+    "SAVESTATE/selector/data fixtures; natural reachability not established by these tests.",
+    "FFF8 selector1 uses a ROM-derived prepared buffer fixture.",
+    "Item12 currency composite excluded from generic item-name maximum.",
+    "Global denominator of runtime contexts remains incomplete.",
+    "Historical equipment/Atla/save causes not newly reproduced."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "revision": "QA14",
+  "basis": "HF10 after scoped logo legibility correction",
+  "status": "PROVISIONAL_ESTIMATE_NOT_COMPLETION_GUARANTEE",
+  "logo_remaining_iterations": 0,
+  "global_layout": {
+    "issue": "TR-01-M",
+    "base_iterations": 4,
+    "iterations": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  "global_linguistic": {
+    "issue": "TR-01-L",
+    "base_iterations": 5,
+    "iterations": [
+      1,
+      2,
+      4,
+      5,
+      6
+    ]
+  },
+  "shared_iterations": [
+    1,
+    2,
+    6
+  ],
+  "combined_base_iterations": 6,
+  "planning_range": [
+    6,
+    8
+  ],
+  "reestimate_after": 1,
+  "upper_bound_guaranteed": false,
+  "known_census": {
+    "descriptor_families": 19,
+    "entries": 2333,
+    "structurally_nonempty": 1970,
+    "encoded_16bit_words_including_controls_and_terminators": 13742,
+    "complete_dialogue_universe": false,
+    "family_4_semantic_role": "UNCLASSIFIED"
+  },
+  "prior_evidence": "255 byte item IDs across QA10/QA12; 96 property descriptors on HF9. Different units; do not subtract these figures from2333.",
+  "iterations": [
+    {
+      "id": 1,
+      "tracks": [
+        "M",
+        "L"
+      ],
+      "work": "Inventario común: clasificar las19 familias y localizar diálogos/eventos/créditos fuera del getter; IDs estables, contexto, original JP, texto EN y evidencia heredable. Iniciar glosario.",
+      "exit": "Denominador definido por recurso+contexto; desconocidos explícitos y estimación recalculada."
+    },
+    {
+      "id": 2,
+      "tracks": [
+        "M",
+        "L"
+      ],
+      "work": "Interfaces, menús, nombres/descripciones de objetos y propiedades: cerrar contextos pendientes, revisar inglés contra japonés y glosario. Reutilizar cobertura QA10/QA12 vigente.",
+      "exit": "Lote con registro lingüístico y capturas nativas; recortes/glifos/sentido revisados; defectos corregidos y comprobados."
+    },
+    {
+      "id": 3,
+      "tracks": [
+        "M"
+      ],
+      "work": "Maquetación de diálogos, tiendas, tutoriales, eventos tardíos y créditos. Probar saltos, ventanas, paginación y campos variables en sus consumidores nativos.",
+      "exit": "Cada combinación texto/ventana/variable del lote cubierta o excluida con motivo; sin defectos visuales abiertos."
+    },
+    {
+      "id": 4,
+      "tracks": [
+        "L"
+      ],
+      "work": "Revisión bilingüe de diálogos principales y relato: sentido, voz de personajes, gramática, naturalidad y terminología.",
+      "exit": "Cada entrada del lote tiene dictamen JP→EN y corrección verificable cuando corresponda."
+    },
+    {
+      "id": 5,
+      "tracks": [
+        "L"
+      ],
+      "work": "Revisión bilingüe de ramas tardías, variantes, textos especiales, ayudas y créditos; coherencia cruzada con el glosario.",
+      "exit": "Lote revisado y terminología reconciliada; remisiones a maquetación para cada texto cambiado."
+    },
+    {
+      "id": 6,
+      "tracks": [
+        "M",
+        "L"
+      ],
+      "work": "Integración y cierre: regresión visual de los textos modificados por lingüística, conciliación de cobertura y pendientes, build y BPS acumulativo.",
+      "exit": "Sin pendientes M/L dentro del universo acordado; todos los cambios lingüísticos con verificación visual y trazabilidad."
+    }
+  ],
+  "reserve_iterations": [
+    {
+      "id": 7,
+      "trigger": "El inventario revela familias/eventos adicionales o variantes de ventana que no caben en los lotes base.",
+      "work": "Lote adicional de cobertura, identificado por IDs y consumidores."
+    },
+    {
+      "id": 8,
+      "trigger": "Las correcciones descubiertas obligan a otra pasada de integración o regresión.",
+      "work": "Corregir y validar los defectos concretos restantes."
+    }
+  ],
+  "counting_rule": "4M+5L-3shared=6 unique iterations; do not add tracks as9. This estimate can exceed8 if iteration1 reveals substantially more text.",
+  "acceptance": "Synthetic access is allowed and must be labeled. Layout PASS does not prove translation fidelity; semantic review does not prove visible rendering."
+}

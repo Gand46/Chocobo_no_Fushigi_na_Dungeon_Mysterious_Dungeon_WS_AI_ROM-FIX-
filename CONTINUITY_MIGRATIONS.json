@@ -1,0 +1,16 @@
+[
+  {
+    "path": "patches/Chocobo_EN_v1.1_HF14_TEST_JP_CCAA4853.bps",
+    "old_sha256": "9ff11440f51e52792ad4bd531f3853347cb71e00442bf249e82fe71839dda7df",
+    "action": "move",
+    "to": "patches/historical/Chocobo_EN_v1.1_HF14_TEST_JP_CCAA4853.bps",
+    "reason": "Conservar intacto HF14 como evidencia hist\u00f3rica; HF15 es el parche acumulativo activo."
+  },
+  {
+    "path": "patches/Chocobo_EN_v1.1_HF15_TEST_JP_CCAA4853.bps",
+    "old_sha256": "f69ee474103edcff58396272b293748d45db2d68da0f83ffdbde3fbfa0f26c67",
+    "action": "move",
+    "to": "patches/historical/Chocobo_EN_v1.1_HF15_TEST_JP_CCAA4853.bps",
+    "reason": "Conservar intacto HF15; HF16 es el parche acumulativo activo."
+  }
+]

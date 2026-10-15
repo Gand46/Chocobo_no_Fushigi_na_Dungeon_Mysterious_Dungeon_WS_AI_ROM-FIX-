@@ -1,0 +1,849 @@
+[
+  {
+    "id": "G14:M010_pointer",
+    "offset": "0x6c378",
+    "before": "24c5",
+    "after": "a0fc",
+    "reason": "怪音波: sonido anómalo; la etiqueta heredada «Sod» carece de sentido."
+  },
+  {
+    "id": "G14:M010_payload",
+    "offset": "0x6fca0",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cd0065000000d1000c02db010000d50017000203ffff",
+    "reason": "怪音波: sonido anómalo; la etiqueta heredada «Sod» carece de sentido."
+  },
+  {
+    "id": "G14:M016_pointer",
+    "offset": "0x6c384",
+    "before": "5ac5",
+    "after": "b6fc",
+    "reason": "ギル投げ: separar las dos palabras sin perder el nombre Gil."
+  },
+  {
+    "id": "G14:M016_payload",
+    "offset": "0x6fcb6",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "c5007a000000d2000a025802ffff",
+    "reason": "ギル投げ: separar las dos palabras sin perder el nombre Gil."
+  },
+  {
+    "id": "G14:M018_pointer",
+    "offset": "0x6c388",
+    "before": "6ec5",
+    "after": "c4fc",
+    "reason": "薬: el inglés heredado sólo decía «ha»."
+  },
+  {
+    "id": "G14:M018_payload",
+    "offset": "0x6fcc4",
+    "before": "ffffffffffffffffffffffff",
+    "after": "cb0085003a0145010203ffff",
+    "reason": "薬: el inglés heredado sólo decía «ha»."
+  },
+  {
+    "id": "G14:M019_pointer",
+    "offset": "0x6c38a",
+    "before": "72c5",
+    "after": "d0fc",
+    "reason": "氷のツメ: reparar «Iceffff» y recuperar el referente hielo/garra."
+  },
+  {
+    "id": "G14:M019_payload",
+    "offset": "0x6fcd0",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "c70046000000c1009801d802ffff",
+    "reason": "氷のツメ: reparar «Iceffff» y recuperar el referente hielo/garra."
+  },
+  {
+    "id": "G14:M020_pointer",
+    "offset": "0x6c38c",
+    "before": "7cc5",
+    "after": "defc",
+    "reason": "氷の鉄拳: reparar la composición «Icefist»."
+  },
+  {
+    "id": "G14:M020_payload",
+    "offset": "0x6fcde",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "c70046000000c4004a017802ffff",
+    "reason": "氷の鉄拳: reparar la composición «Icefist»."
+  },
+  {
+    "id": "G14:M024_pointer",
+    "offset": "0x6c394",
+    "before": "aec5",
+    "after": "ecfc",
+    "reason": "手ボム: recuperar el modificador omitido."
+  },
+  {
+    "id": "G14:M024_payload",
+    "offset": "0x6fcec",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "c6000f006100c00004022100ffff",
+    "reason": "手ボム: recuperar el modificador omitido."
+  },
+  {
+    "id": "G14:M025_pointer",
+    "offset": "0x6c396",
+    "before": "b6c5",
+    "after": "fafc",
+    "reason": "混乱音波: recuperar confusión y onda sin abreviaturas ilegibles."
+  },
+  {
+    "id": "G14:M025_payload",
+    "offset": "0x6fcfa",
+    "before": "ffffffffffffffffffffffffffffffffffff",
+    "after": "c1000502ec005d020000d50017000203ffff",
+    "reason": "混乱音波: recuperar confusión y onda sin abreviaturas ilegibles."
+  },
+  {
+    "id": "G14:M026_pointer",
+    "offset": "0x6c398",
+    "before": "c0c5",
+    "after": "0cfd",
+    "reason": "混乱の息: el original habla de aliento, no gas."
+  },
+  {
+    "id": "G14:M026_payload",
+    "offset": "0x6fd0c",
+    "before": "ffffffffffffffffffffffffffffffffffffffff",
+    "after": "c1000502ec005d020000c0003d0215001701ffff",
+    "reason": "混乱の息: el original habla de aliento, no gas."
+  },
+  {
+    "id": "G14:M028_pointer",
+    "offset": "0x6c39c",
+    "before": "d4c5",
+    "after": "20fd",
+    "reason": "さかうらみ: completar la palabra inglesa."
+  },
+  {
+    "id": "G14:M028_payload",
+    "offset": "0x6fd20",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "d00094008f0085028f007802ffff",
+    "reason": "さかうらみ: completar la palabra inglesa."
+  },
+  {
+    "id": "G14:M029_pointer",
+    "offset": "0x6c39e",
+    "before": "e0c5",
+    "after": "2efd",
+    "reason": "唾: corregir los glifos heredados «l9»."
+  },
+  {
+    "id": "G14:M029_payload",
+    "offset": "0x6fd2e",
+    "before": "ffffffffffffffff",
+    "after": "d10020027802ffff",
+    "reason": "唾: corregir los glifos heredados «l9»."
+  },
+  {
+    "id": "G14:M032_payload",
+    "offset": "0x6c600",
+    "before": "d1008f0086024600ffff",
+    "after": "c2000602b701ffff0000",
+    "reason": "死の宣告: nombre breve de la sentencia de muerte."
+  },
+  {
+    "id": "G14:M033_pointer",
+    "offset": "0x6c3a6",
+    "before": "0ac6",
+    "after": "36fd",
+    "reason": "自爆: acción de autodestrucción, no bomba genérica."
+  },
+  {
+    "id": "G14:M033_payload",
+    "offset": "0x6fd36",
+    "before": "ffffffffffffffffffffffffffffffffffffffff",
+    "after": "d1008d00a100af00c20094008a029b027802ffff",
+    "reason": "自爆: acción de autodestrucción, no bomba genérica."
+  },
+  {
+    "id": "G14:M034_pointer",
+    "offset": "0x6c3a8",
+    "before": "10c6",
+    "after": "4afd",
+    "reason": "手裏剣投げ: separar componentes del nombre."
+  },
+  {
+    "id": "G14:M034_payload",
+    "offset": "0x6fd4a",
+    "before": "ffffffffffffffffffffffffffffffffffff",
+    "after": "d1002c0141027c01d701d2000a025802ffff",
+    "reason": "手裏剣投げ: separar componentes del nombre."
+  },
+  {
+    "id": "G14:M035_pointer",
+    "offset": "0x6c3aa",
+    "before": "20c6",
+    "after": "5cfd",
+    "reason": "召喚: nombre de la habilidad, no mera llamada."
+  },
+  {
+    "id": "G14:M035_payload",
+    "offset": "0x6fd5c",
+    "before": "ffffffffffffffffffff",
+    "after": "d100a502c601d701ffff",
+    "reason": "召喚: nombre de la habilidad, no mera llamada."
+  },
+  {
+    "id": "G14:M036_pointer",
+    "offset": "0x6c3ac",
+    "before": "26c6",
+    "after": "66fd",
+    "reason": "触手: restituir el sustantivo original."
+  },
+  {
+    "id": "G14:M036_payload",
+    "offset": "0x6fd66",
+    "before": "ffffffffffffffffffffffff",
+    "after": "d2008f0079024d000203ffff",
+    "reason": "触手: restituir el sustantivo original."
+  },
+  {
+    "id": "G14:M038_pointer",
+    "offset": "0x6c3b0",
+    "before": "34c6",
+    "after": "72fd",
+    "reason": "頭つき: golpe de cabeza, no «Head» aislado."
+  },
+  {
+    "id": "G14:M038_payload",
+    "offset": "0x6fd72",
+    "before": "ffffffffffffffffffffffff",
+    "after": "c60082006300ac027802ffff",
+    "reason": "頭つき: golpe de cabeza, no «Head» aislado."
+  },
+  {
+    "id": "G14:M041_pointer",
+    "offset": "0x6c3b6",
+    "before": "4ec6",
+    "after": "7efd",
+    "reason": "体当たり: recuperar ortografía y separación."
+  },
+  {
+    "id": "G14:M041_payload",
+    "offset": "0x6fd7e",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "c000fb011803d1009801b701ffff",
+    "reason": "体当たり: recuperar ortografía y separación."
+  },
+  {
+    "id": "G14:M047_pointer",
+    "offset": "0x6c3c2",
+    "before": "90c6",
+    "after": "8cfd",
+    "reason": "冷たいキバ: conserva el colmillo helado."
+  },
+  {
+    "id": "G14:M047_payload",
+    "offset": "0x6fd8c",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "c40047026c020000c4000f00f700ffff",
+    "reason": "冷たいキバ: conserva el colmillo helado."
+  },
+  {
+    "id": "G14:M048_pointer",
+    "offset": "0x6c3c4",
+    "before": "9cc6",
+    "after": "9cfd",
+    "reason": "冷たいギリ: separar componentes del ataque."
+  },
+  {
+    "id": "G14:M048_payload",
+    "offset": "0x6fd9c",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "c40047026c020000c2004102a301ffff",
+    "reason": "冷たいギリ: separar componentes del ataque."
+  },
+  {
+    "id": "G14:M049_payload",
+    "offset": "0x6c6a8",
+    "before": "c4004702f700ffff",
+    "after": "d200f8016100ffff",
+    "reason": "トード: nombre del hechizo, no «Frog»."
+  },
+  {
+    "id": "G14:M050_pointer",
+    "offset": "0x6c3c8",
+    "before": "b0c6",
+    "after": "acfd",
+    "reason": "トードの息: aliento de Toad, no gas."
+  },
+  {
+    "id": "G14:M050_payload",
+    "offset": "0x6fdac",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "d200f8016100c0003d0215001701ffff",
+    "reason": "トードの息: aliento de Toad, no gas."
+  },
+  {
+    "id": "G14:M051_pointer",
+    "offset": "0x6c3ca",
+    "before": "bcc6",
+    "after": "bcfd",
+    "reason": "毒ガス: gas venenoso, no «Toxin» genérico."
+  },
+  {
+    "id": "G14:M051_payload",
+    "offset": "0x6fdbc",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "ce0000026702d701c5001400ffff",
+    "reason": "毒ガス: gas venenoso, no «Toxin» genérico."
+  },
+  {
+    "id": "G14:M052_pointer",
+    "offset": "0x6c3cc",
+    "before": "c4c6",
+    "after": "cafd",
+    "reason": "毒の息: aliento venenoso, no tos."
+  },
+  {
+    "id": "G14:M052_payload",
+    "offset": "0x6fdca",
+    "before": "ffffffffffffffffffffffffffffffffffff",
+    "after": "ce0000026702d701c0003d0215001701ffff",
+    "reason": "毒の息: aliento venenoso, no tos."
+  },
+  {
+    "id": "G14:M053_pointer",
+    "offset": "0x6c3ce",
+    "before": "ccc6",
+    "after": "dcfd",
+    "reason": "毒のキバ: recuperar el colmillo omitido."
+  },
+  {
+    "id": "G14:M053_payload",
+    "offset": "0x6fddc",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "d4008f0004020000c4000f00f700ffff",
+    "reason": "毒のキバ: recuperar el colmillo omitido."
+  },
+  {
+    "id": "G14:M054_pointer",
+    "offset": "0x6c3d0",
+    "before": "d6c6",
+    "after": "ecfd",
+    "reason": "毒ハリ: recuperar el veneno omitido."
+  },
+  {
+    "id": "G14:M054_payload",
+    "offset": "0x6fdec",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "ce0000026702d701d1008102de01ffff",
+    "reason": "毒ハリ: recuperar el veneno omitido."
+  },
+  {
+    "id": "G14:M055_pointer",
+    "offset": "0x6c3d2",
+    "before": "dec6",
+    "after": "fcfd",
+    "reason": "ドクロ投げ: separar componentes."
+  },
+  {
+    "id": "G14:M055_payload",
+    "offset": "0x6fdfc",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "d1008c01a3010000d2000a025802ffff",
+    "reason": "ドクロ投げ: separar componentes."
+  },
+  {
+    "id": "G14:M059_payload",
+    "offset": "0x6c702",
+    "before": "d2000c0085000e02d701ffff",
+    "after": "d100dd029100ffff00000000",
+    "reason": "なぎはらい: barrido, no derribo genérico."
+  },
+  {
+    "id": "G14:M060_payload",
+    "offset": "0x6c70e",
+    "before": "d1009801b701ffff",
+    "after": "ce00a6024900ffff",
+    "reason": "なぐり: golpe de puño."
+  },
+  {
+    "id": "G14:M063_payload",
+    "offset": "0x6c72c",
+    "before": "d1009c019100ffff",
+    "after": "d1007d020d00ffff",
+    "reason": "ぬすむ: reparar «Steep»."
+  },
+  {
+    "id": "G14:M067_pointer",
+    "offset": "0x6c3ea",
+    "before": "5ac7",
+    "after": "0cfe",
+    "reason": "破動砲: cañón destructor; se distingue de 波動砲 en M152."
+  },
+  {
+    "id": "G14:M067_payload",
+    "offset": "0x6fe0c",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "d000a102d701c1000f00e601d701ffff",
+    "reason": "破動砲: cañón destructor; se distingue de 波動砲 en M152."
+  },
+  {
+    "id": "G14:M081_pointer",
+    "offset": "0x6c406",
+    "before": "fac7",
+    "after": "1cfe",
+    "reason": "包丁: arma cortante, no verbo «Cut»."
+  },
+  {
+    "id": "G14:M081_payload",
+    "offset": "0x6fe1c",
+    "before": "ffffffffffffffffffff",
+    "after": "c1009c0117009300ffff",
+    "reason": "包丁: arma cortante, no verbo «Cut»."
+  },
+  {
+    "id": "G14:M083_pointer",
+    "offset": "0x6c40a",
+    "before": "0ac8",
+    "after": "26fe",
+    "reason": "炎のツメ: se había omitido la garra."
+  },
+  {
+    "id": "G14:M083_payload",
+    "offset": "0x6fe26",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "c4009801bc010000c1009801d802ffff",
+    "reason": "炎のツメ: se había omitido la garra."
+  },
+  {
+    "id": "G14:M084_pointer",
+    "offset": "0x6c40c",
+    "before": "14c8",
+    "after": "36fe",
+    "reason": "炎のムチ: separar componentes."
+  },
+  {
+    "id": "G14:M084_payload",
+    "offset": "0x6fe36",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "c40049010203d50020011702ffff",
+    "reason": "炎のムチ: separar componentes."
+  },
+  {
+    "id": "G14:M087_pointer",
+    "offset": "0x6c412",
+    "before": "3ac8",
+    "after": "44fe",
+    "reason": "メガフレア: corregir «Gigaflare», que nombra otra magnitud."
+  },
+  {
+    "id": "G14:M087_payload",
+    "offset": "0x6fe44",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "cb0088000100c40098013d02ffff",
+    "reason": "メガフレア: corregir «Gigaflare», que nombra otra magnitud."
+  },
+  {
+    "id": "G14:M090_pointer",
+    "offset": "0x6c418",
+    "before": "58c8",
+    "after": "52fe",
+    "reason": "夢みるキリ: recuperar la separación natural."
+  },
+  {
+    "id": "G14:M090_payload",
+    "offset": "0x6fe52",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "c2003d020e000000cb004a017802ffff",
+    "reason": "夢みるキリ: recuperar la separación natural."
+  },
+  {
+    "id": "G14:M096_pointer",
+    "offset": "0x6c424",
+    "before": "b4c8",
+    "after": "62fe",
+    "reason": "疲労ガス: fatiga y gas, no «Tiredgas»."
+  },
+  {
+    "id": "G14:M096_payload",
+    "offset": "0x6fe62",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "c40015003e019d020000c5001400ffff",
+    "reason": "疲労ガス: fatiga y gas, no «Tiredgas»."
+  },
+  {
+    "id": "G14:M097_pointer",
+    "offset": "0x6c426",
+    "before": "bec8",
+    "after": "72fe",
+    "reason": "ワープ投げ: separar componentes."
+  },
+  {
+    "id": "G14:M097_payload",
+    "offset": "0x6fe72",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "d50013001702d2000a025802ffff",
+    "reason": "ワープ投げ: separar componentes."
+  },
+  {
+    "id": "G14:M098_pointer",
+    "offset": "0x6c428",
+    "before": "cac8",
+    "after": "80fe",
+    "reason": "はたきこみ: técnica de derribo con la mano, no «Hammering»."
+  },
+  {
+    "id": "G14:M098_payload",
+    "offset": "0x6fe80",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "d10098011702c2000e02d701ffff",
+    "reason": "はたきこみ: técnica de derribo con la mano, no «Hammering»."
+  },
+  {
+    "id": "G14:M099_pointer",
+    "offset": "0x6c42a",
+    "before": "d6c8",
+    "after": "8efe",
+    "reason": "パープルブレス: completar «Purple»."
+  },
+  {
+    "id": "G14:M099_payload",
+    "offset": "0x6fe8e",
+    "before": "ffffffffffffffffffffffffffffffffffff",
+    "after": "ce00aa0223020203c0003d0215001701ffff",
+    "reason": "パープルブレス: completar «Purple»."
+  },
+  {
+    "id": "G14:M104_payload",
+    "offset": "0x6c920",
+    "before": "ce0098015f020100ffff",
+    "after": "ce00980165020100ffff",
+    "reason": "プラズマ: reparar glifo incorrecto de «Plasda»."
+  },
+  {
+    "id": "G14:M109_pointer",
+    "offset": "0x6c43e",
+    "before": "56c9",
+    "after": "a0fe",
+    "reason": "D・ダスト: expandir abreviatura transparente."
+  },
+  {
+    "id": "G14:M109_payload",
+    "offset": "0x6fea0",
+    "before": "ffffffffffffffffffffffffffffffffffff",
+    "after": "c2003801c601db010000c200ab027802ffff",
+    "reason": "D・ダスト: expandir abreviatura transparente."
+  },
+  {
+    "id": "G14:M110_pointer",
+    "offset": "0x6c440",
+    "before": "62c9",
+    "after": "b2fe",
+    "reason": "裁きの雷: recuperar juicio y trueno."
+  },
+  {
+    "id": "G14:M110_payload",
+    "offset": "0x6feb2",
+    "before": "ffffffffffffffffffffffffffffffffffff",
+    "after": "c8009c0204018f007802c00003027802ffff",
+    "reason": "裁きの雷: recuperar juicio y trueno."
+  },
+  {
+    "id": "G14:M111_pointer",
+    "offset": "0x6c442",
+    "before": "6cc9",
+    "after": "c4fe",
+    "reason": "転生の炎: recuperar el referente de la llama."
+  },
+  {
+    "id": "G14:M111_payload",
+    "offset": "0x6fec4",
+    "before": "ffffffffffffffffffffffffffffffffffff",
+    "after": "d0008300490180020000c4009801bc01ffff",
+    "reason": "転生の炎: recuperar el referente de la llama."
+  },
+  {
+    "id": "G14:M112_pointer",
+    "offset": "0x6c444",
+    "before": "76c9",
+    "after": "d6fe",
+    "reason": "ルビーの光: separar y conservar el referente de luz."
+  },
+  {
+    "id": "G14:M112_payload",
+    "offset": "0x6fed6",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "d0009a021803ca003e012b01ffff",
+    "reason": "ルビーの光: separar y conservar el referente de luz."
+  },
+  {
+    "id": "G14:M114_pointer",
+    "offset": "0x6c448",
+    "before": "8ec9",
+    "after": "e4fe",
+    "reason": "斬鉄剣: recuperar el nombre propio de la técnica."
+  },
+  {
+    "id": "G14:M114_payload",
+    "offset": "0x6fee4",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "d8000f007d028b02a3028f00ffff",
+    "reason": "斬鉄剣: recuperar el nombre propio de la técnica."
+  },
+  {
+    "id": "G14:M116_pointer",
+    "offset": "0x6c44c",
+    "before": "a6c9",
+    "after": "f2fe",
+    "reason": "大海衝: restituir acción de la gran ola."
+  },
+  {
+    "id": "G14:M116_payload",
+    "offset": "0x6fef2",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "d2003b010d000000d50017000203ffff",
+    "reason": "大海衝: restituir acción de la gran ola."
+  },
+  {
+    "id": "G14:M118_pointer",
+    "offset": "0x6c450",
+    "before": "bac9",
+    "after": "02ff",
+    "reason": "天地崩壊: cataclismo, no limpieza."
+  },
+  {
+    "id": "G14:M118_payload",
+    "offset": "0x6ff02",
+    "before": "ffffffffffffffffffffffff",
+    "after": "c10015000400b0016502ffff",
+    "reason": "天地崩壊: cataclismo, no limpieza."
+  },
+  {
+    "id": "G14:M119_pointer",
+    "offset": "0x6c452",
+    "before": "c4c9",
+    "after": "0eff",
+    "reason": "冥界六砲撃: seis disparos del inframundo; conserva el numeral omitido en el primer borrador."
+  },
+  {
+    "id": "G14:M119_payload",
+    "offset": "0x6ff0e",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d1004f010000cc0095001c013802c00098016c025802ffff",
+    "reason": "冥界六砲撃: seis disparos del inframundo; conserva el numeral omitido en el primer borrador."
+  },
+  {
+    "id": "G14:M121_payload",
+    "offset": "0x6c9e2",
+    "before": "00005f03dc010000ffff",
+    "after": "cc0005020203ffff0000",
+    "reason": "無属性: recuperar inicial visible."
+  },
+  {
+    "id": "G14:M124_pointer",
+    "offset": "0x6c45c",
+    "before": "00ca",
+    "after": "26ff",
+    "reason": "雷属性: nombre del elemento sin abreviatura opaca."
+  },
+  {
+    "id": "G14:M124_payload",
+    "offset": "0x6ff26",
+    "before": "ffffffffffffffffffffffff",
+    "after": "ca003e012b01e001de01ffff",
+    "reason": "雷属性: nombre del elemento sin abreviatura opaca."
+  },
+  {
+    "id": "G14:M129_pointer",
+    "offset": "0x6c466",
+    "before": "34ca",
+    "after": "32ff",
+    "reason": "毒タイプ: corregir letra omitida."
+  },
+  {
+    "id": "G14:M129_payload",
+    "offset": "0x6ff32",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "91021c020000ce0000026702d701ffff",
+    "reason": "毒タイプ: corregir letra omitida."
+  },
+  {
+    "id": "G14:M130_pointer",
+    "offset": "0x6c468",
+    "before": "40ca",
+    "after": "42ff",
+    "reason": "復活タイプ: expresar el rasgo de resurrección."
+  },
+  {
+    "id": "G14:M130_payload",
+    "offset": "0x6ff42",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "91021c020000d00097004d010203ffff",
+    "reason": "復活タイプ: expresar el rasgo de resurrección."
+  },
+  {
+    "id": "G14:M131_pointer",
+    "offset": "0x6c46a",
+    "before": "4cca",
+    "after": "52ff",
+    "reason": "不死タイプ: distinguirlo de 死者 tipo no muerto."
+  },
+  {
+    "id": "G14:M131_payload",
+    "offset": "0x6ff52",
+    "before": "ffffffffffffffffffffffffffffffffffff",
+    "after": "91021c020000c700c401090279029701ffff",
+    "reason": "不死タイプ: distinguirlo de 死者 tipo no muerto."
+  },
+  {
+    "id": "G14:M133_pointer",
+    "offset": "0x6c46e",
+    "before": "64ca",
+    "after": "64ff",
+    "reason": "死者タイプ: reparar «Unded»."
+  },
+  {
+    "id": "G14:M133_payload",
+    "offset": "0x6ff64",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "91021c020000d300db0182006100ffff",
+    "reason": "死者タイプ: reparar «Unded»."
+  },
+  {
+    "id": "G14:M135_pointer",
+    "offset": "0x6c472",
+    "before": "7cca",
+    "after": "74ff",
+    "reason": "竜タイプ: completar el nombre de la clase."
+  },
+  {
+    "id": "G14:M135_payload",
+    "offset": "0x6ff74",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "91021c020000c20039020601d701ffff",
+    "reason": "竜タイプ: completar el nombre de la clase."
+  },
+  {
+    "id": "G14:M137_pointer",
+    "offset": "0x6c476",
+    "before": "96ca",
+    "after": "84ff",
+    "reason": "浮遊・不死タイプ: clase compuesta de flotante e inmortal."
+  },
+  {
+    "id": "G14:M137_payload",
+    "offset": "0x6ff84",
+    "before": "ffffffffffffffffffffffffffffffffffffffff",
+    "after": "c400a60115000000c700c401090279029701ffff",
+    "reason": "浮遊・不死タイプ: clase compuesta de flotante e inmortal."
+  },
+  {
+    "id": "G14:M138_payload",
+    "offset": "0x6d800",
+    "before": "91021c02ce0000026602d0000a005d02ffff",
+    "after": "ce0000026702d701d00097004d010203ffff",
+    "reason": "毒・復活タイプ: clase compuesta sin abreviaturas."
+  },
+  {
+    "id": "G14:M139_payload",
+    "offset": "0x6cab8",
+    "before": "91021c02d0000a005d02d300db018500ffff",
+    "after": "d300db0182006100d00097004d010203ffff",
+    "reason": "死者・復活タイプ: clases compuestas sin abreviaturas."
+  },
+  {
+    "id": "G14:M140_payload",
+    "offset": "0x6caca",
+    "before": "91021c02ce0000026602ce009801eb01ffff",
+    "after": "ce009801eb010000ce0000026702d701ffff",
+    "reason": "植物・毒タイプ: conserva ambas clases en orden japonés."
+  },
+  {
+    "id": "G14:M141_payload",
+    "offset": "0x6cadc",
+    "before": "91021c02c400a6011500c2000501ffff",
+    "after": "c20039020601d701c400a6011500ffff",
+    "reason": "竜・浮遊タイプ: conserva ambas clases sin abreviatura Dgn."
+  },
+  {
+    "id": "G14:M146_pointer",
+    "offset": "0x6c488",
+    "before": "0ecb",
+    "after": "98ff",
+    "reason": "ギル投げA: distinguir variante A y separar el nombre."
+  },
+  {
+    "id": "G14:M146_payload",
+    "offset": "0x6ff98",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "c5007a000000d2000a025802bf00ffff",
+    "reason": "ギル投げA: distinguir variante A y separar el nombre."
+  },
+  {
+    "id": "G14:M147_pointer",
+    "offset": "0x6c48a",
+    "before": "1acb",
+    "after": "a8ff",
+    "reason": "ギル投げB: distinguir variante B y completar Toss."
+  },
+  {
+    "id": "G14:M147_payload",
+    "offset": "0x6ffa8",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "c5007a000000d2000a025802c000ffff",
+    "reason": "ギル投げB: distinguir variante B y completar Toss."
+  },
+  {
+    "id": "G14:M148_pointer",
+    "offset": "0x6c48c",
+    "before": "26cb",
+    "after": "b8ff",
+    "reason": "ニードルA: nombre completo y variante A."
+  },
+  {
+    "id": "G14:M148_payload",
+    "offset": "0x6ffb8",
+    "before": "ffffffffffffffffffffffff",
+    "after": "cc0086006d000203bf00ffff",
+    "reason": "ニードルA: nombre completo y variante A."
+  },
+  {
+    "id": "G14:M149_pointer",
+    "offset": "0x6c48e",
+    "before": "32cb",
+    "after": "c4ff",
+    "reason": "ニードルB: nombre completo y variante B."
+  },
+  {
+    "id": "G14:M149_payload",
+    "offset": "0x6ffc4",
+    "before": "ffffffffffffffffffffffff",
+    "after": "cc0086006d000203c000ffff",
+    "reason": "ニードルB: nombre completo y variante B."
+  },
+  {
+    "id": "G14:M152_pointer",
+    "offset": "0x6c494",
+    "before": "54cb",
+    "after": "d0ff",
+    "reason": "波動砲: recuperar el nombre técnico, no «Aura»."
+  },
+  {
+    "id": "G14:M152_payload",
+    "offset": "0x6ffd0",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "d50017000203c1000f00e601d701ffff",
+    "reason": "波動砲: recuperar el nombre técnico, no «Aura»."
+  },
+  {
+    "id": "G09:M086_name_inplace",
+    "offset": "0x6f914",
+    "before": "c20009029802",
+    "after": "c10020011702",
+    "reason": "El mismo ドル君 aparece en G08:M013/M018/M019/M020 y G11:M032 con nombre inglés Chip. Reemplaza la transliteración provisional Doru de V4 sin tocar controles."
+  },
+  {
+    "id": "G09:M089_name_inplace",
+    "offset": "0x6f986",
+    "before": "c20009029802",
+    "after": "c10020011702",
+    "reason": "Consistencia del mismo personaje ドル君 y Ham Whistle con G08/G11; tres celdas nativas, sin cambio de paginación."
+  }
+]

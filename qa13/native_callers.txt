@@ -1,0 +1,26 @@
+Observed native dispatch on JP Rev2/HF9. Addresses are ROM file offsets.
+
+1998D7: mov word [1FB3],0
+1998DD: mov dx,E013
+1998E0: call far 4000:E17E
+1998E5: mov byte [1FAE],0A
+1998EA: mov byte [1FB0],FE
+1998EF: ret
+
+E0 script bank maps to ROM00. Table entry13 at000026 = 2873.
+The selector uses temporary SRAM060E. Native event25/sub20 enters18C832:
+authoritative7303 is decremented before floor construction. Do not equate
+that intermediate value with the final displayed destination.
+
+Stair menu entry E00A maps to1950. The recorded real stair prompt from QA9
+has state1FAE0A and return1FB0FF; QA13 reproduces that context directly,
+then sends Down/A. This bypasses acquisition of a staircase, not the save
+code. Native source snapshot90373 and destination snapshot9037F bound the
+2516-byte copy. Protected header/commit stores were recorded at9FBxx.
+
+Existing HF6 opcode34 guard at ROM14FDA8 refreshes cached digits753A..753E
+only for E1 script consumers639C..69FF. On the JP counterfactual, a debugger
+callback at linear4D39B (after parameter decode) refreshes these five bytes
+under the same guards. No ROM instruction is altered. First observed
+consumer: script63C4, DI753B, live floor29, cached digits8 9 0 0 0.
+JP eventA216 -> event0000 after the counterfactual, final displayed floor30.

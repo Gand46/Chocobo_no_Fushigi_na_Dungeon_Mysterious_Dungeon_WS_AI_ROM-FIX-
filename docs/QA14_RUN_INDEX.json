@@ -1,0 +1,60 @@
+[
+  {
+    "run": "title_portable",
+    "method": "SCRIPTED_NATURAL",
+    "initial_savestate": null,
+    "memory_pokes": false,
+    "metadata": {
+      "exit": 0,
+      "elapsed": 4.2306019789994025,
+      "command": [
+        "/tmp/chocobo_qa14_emulator/Mesen",
+        "--testRunner",
+        "--timeout=45",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+        "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+      ],
+      "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+      "state_sha256": null,
+      "plan_sha256": "0d03182697fc420de7e3e9531f5e037d3b2b04c85741d102dca8d3b93944925f",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "0d0f22d9a4baece060c93c96a4768451ac8be4d089410b046f5aa98db6e15655"
+    },
+    "captures": 1003,
+    "checkpoint_provenance": "Created at the end of this exact HF10 cold-boot run; not used as input to another QA14 run."
+  },
+  {
+    "run": "title_menu",
+    "method": "SCRIPTED_NATURAL",
+    "initial_savestate": null,
+    "memory_pokes": false,
+    "metadata": {
+      "exit": 0,
+      "elapsed": 3.1777812620002805,
+      "command": [
+        "/tmp/chocobo_qa14_emulator/Mesen",
+        "--testRunner",
+        "--timeout=35",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+        "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+      ],
+      "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+      "state_sha256": null,
+      "plan_sha256": "aebf04b819a36bb958f68d041015f7a5ef0640b305b5758a41c4053afd24e47c",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "667c7b5659a2f0430dd47edfed879eb71f815e53ed8ba82acb674813b37d20b7"
+    },
+    "captures": 21,
+    "checkpoint_provenance": "Created at the end of this exact HF10 cold-boot run; not used as input to another QA14 run."
+  }
+]

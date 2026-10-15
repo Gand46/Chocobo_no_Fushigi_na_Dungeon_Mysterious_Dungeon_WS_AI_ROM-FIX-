@@ -1,0 +1,26 @@
+{
+  "families": 19,
+  "entries": 2333,
+  "cross_slot_candidates": [
+    {
+      "family": 0,
+      "index": 81,
+      "table": "16E1E0",
+      "family_entries": 128,
+      "JP_start": "16E6F4",
+      "JP_slot_bytes": 8,
+      "JP_terminated": true,
+      "JP_words_to_end": 4,
+      "JP_first_words": "00A6 0012 0019 FFFF",
+      "HF5_start": "16E6F4",
+      "HF5_slot_bytes": 8,
+      "HF5_terminated": false,
+      "HF5_words_to_end": null,
+      "HF5_first_words": "00A6 0000 0000 0000",
+      "candidate": true
+    }
+  ],
+  "scope": "Native getter descriptor families only; slot end inferred from next distinct pointer; candidates are not automatic defects or a global layout PASS.",
+  "japanese_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+  "translated_sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d"
+}

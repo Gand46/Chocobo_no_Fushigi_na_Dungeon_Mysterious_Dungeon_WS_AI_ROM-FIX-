@@ -1,0 +1,134 @@
+
+qa17/private/resource.bin:     file format binary
+
+
+Disassembly of section .data:
+
+000003c2 <.data>:
+ 3c2:	a9 00 80             	test   ax,0x8000
+ 3c5:	74 0d                	je     0x3d4
+ 3c7:	35 00 80             	xor    ax,0x8000
+ 3ca:	88 0e e0 4a          	mov    BYTE PTR ds:0x4ae0,cl
+ 3ce:	88 2e e2 4a          	mov    BYTE PTR ds:0x4ae2,ch
+ 3d2:	eb 08                	jmp    0x3dc
+ 3d4:	88 0e e4 4a          	mov    BYTE PTR ds:0x4ae4,cl
+ 3d8:	88 2e e6 4a          	mov    BYTE PTR ds:0x4ae6,ch
+ 3dc:	be 3c 04             	mov    si,0x43c
+ 3df:	03 c0                	add    ax,ax
+ 3e1:	8b c8                	mov    cx,ax
+ 3e3:	03 c0                	add    ax,ax
+ 3e5:	03 c1                	add    ax,cx
+ 3e7:	03 f0                	add    si,ax
+ 3e9:	e4 c2                	in     al,0xc2
+ 3eb:	50                   	push   ax
+ 3ec:	2e 8a 44 01          	mov    al,BYTE PTR cs:[si+0x1]
+ 3f0:	e6 c2                	out    0xc2,al
+ 3f2:	2e 8a 04             	mov    al,BYTE PTR cs:[si]
+ 3f5:	32 e4                	xor    ah,ah
+ 3f7:	03 c0                	add    ax,ax
+ 3f9:	05 30 00             	add    ax,0x30
+ 3fc:	8b f8                	mov    di,ax
+ 3fe:	b8 00 20             	mov    ax,0x2000
+ 401:	8e c0                	mov    es,ax
+ 403:	26 8b 1d             	mov    bx,WORD PTR es:[di]
+ 406:	bf a6 0a             	mov    di,0xaa6
+ 409:	9a bb e1 00 50       	call   0x5000:0xe1bb
+ 40e:	58                   	pop    ax
+ 40f:	e6 c2                	out    0xc2,al
+ 411:	2e 8b 6c 02          	mov    bp,WORD PTR cs:[si+0x2]
+ 415:	2e 8b 54 04          	mov    dx,WORD PTR cs:[si+0x4]
+ 419:	be a6 0a             	mov    si,0xaa6
+ 41c:	b9 20 20             	mov    cx,0x2020
+ 41f:	55                   	push   bp
+ 420:	51                   	push   cx
+ 421:	8b 04                	mov    ax,WORD PTR [si]
+ 423:	03 c2                	add    ax,dx
+ 425:	89 46 00             	mov    WORD PTR [bp+0x0],ax
+ 428:	83 c5 02             	add    bp,0x2
+ 42b:	83 c6 02             	add    si,0x2
+ 42e:	fe c9                	dec    cl
+ 430:	75 ef                	jne    0x421
+ 432:	59                   	pop    cx
+ 433:	5d                   	pop    bp
+ 434:	83 c5 40             	add    bp,0x40
+ 437:	fe cd                	dec    ch
+ 439:	75 e4                	jne    0x41f
+ 43b:	cb                   	retf
+ 43c:	00 f3                	add    bl,dh
+ 43e:	00 18                	add    BYTE PTR [bx+si],bl
+ 440:	80 01 01             	add    BYTE PTR [bx+di],0x1
+ 443:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 446:	80 01 02             	add    BYTE PTR [bx+di],0x2
+ 449:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 44c:	80 01 03             	add    BYTE PTR [bx+di],0x3
+ 44f:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 452:	80 01 04             	add    BYTE PTR [bx+di],0x4
+ 455:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 458:	80 01 05             	add    BYTE PTR [bx+di],0x5
+ 45b:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 45e:	80 01 06             	add    BYTE PTR [bx+di],0x6
+ 461:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 464:	80 01 07             	add    BYTE PTR [bx+di],0x7
+ 467:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 46a:	80 01 08             	add    BYTE PTR [bx+di],0x8
+ 46d:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 470:	80 01 09             	add    BYTE PTR [bx+di],0x9
+ 473:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 476:	80 01 0a             	add    BYTE PTR [bx+di],0xa
+ 479:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 47c:	80 01 0b             	add    BYTE PTR [bx+di],0xb
+ 47f:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 482:	80 01 0c             	add    BYTE PTR [bx+di],0xc
+ 485:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 488:	80 01 0d             	add    BYTE PTR [bx+di],0xd
+ 48b:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 48e:	80 01 0e             	add    BYTE PTR [bx+di],0xe
+ 491:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 494:	80 01 0f             	add    BYTE PTR [bx+di],0xf
+ 497:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 49a:	80 01 10             	add    BYTE PTR [bx+di],0x10
+ 49d:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4a0:	80 01 11             	add    BYTE PTR [bx+di],0x11
+ 4a3:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4a6:	80 01 12             	add    BYTE PTR [bx+di],0x12
+ 4a9:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4ac:	80 01 13             	add    BYTE PTR [bx+di],0x13
+ 4af:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4b2:	80 01 14             	add    BYTE PTR [bx+di],0x14
+ 4b5:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4b8:	80 01 15             	add    BYTE PTR [bx+di],0x15
+ 4bb:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4be:	80 01 16             	add    BYTE PTR [bx+di],0x16
+ 4c1:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4c4:	80 01 17             	add    BYTE PTR [bx+di],0x17
+ 4c7:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4ca:	80 01 18             	add    BYTE PTR [bx+di],0x18
+ 4cd:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4d0:	80 01 19             	add    BYTE PTR [bx+di],0x19
+ 4d3:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4d6:	80 01 1a             	add    BYTE PTR [bx+di],0x1a
+ 4d9:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4dc:	80 01 1b             	add    BYTE PTR [bx+di],0x1b
+ 4df:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4e2:	80 01 1c             	add    BYTE PTR [bx+di],0x1c
+ 4e5:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4e8:	80 01 1d             	add    BYTE PTR [bx+di],0x1d
+ 4eb:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4ee:	80 01 1e             	add    BYTE PTR [bx+di],0x1e
+ 4f1:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4f4:	80 01 1f             	add    BYTE PTR [bx+di],0x1f
+ 4f7:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 4fa:	80 01 20             	add    BYTE PTR [bx+di],0x20
+ 4fd:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 500:	80 01 21             	add    BYTE PTR [bx+di],0x21
+ 503:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 506:	80 01 22             	add    BYTE PTR [bx+di],0x22
+ 509:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 50c:	80 01 23             	add    BYTE PTR [bx+di],0x23
+ 50f:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 512:	80 01 24             	add    BYTE PTR [bx+di],0x24
+ 515:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 518:	80 01 25             	add    BYTE PTR [bx+di],0x25
+ 51b:	f3 00 18             	repz add BYTE PTR [bx+si],bl
+ 51e:	80                   	.byte 0x80
+ 51f:	01                   	.byte 0x1

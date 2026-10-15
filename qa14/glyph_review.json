@@ -1,0 +1,554 @@
+{
+  "glyph_instances": 36,
+  "matches": 33,
+  "mismatches": [
+    {
+      "band": 2,
+      "position": 4,
+      "box": [
+        99,
+        108,
+        105,
+        122
+      ],
+      "id": "V04",
+      "visible": "a",
+      "expected": "o",
+      "status": "MISMATCH"
+    },
+    {
+      "band": 2,
+      "position": 8,
+      "box": [
+        124,
+        108,
+        130,
+        122
+      ],
+      "id": "V18",
+      "visible": "n",
+      "expected": "r",
+      "status": "MISMATCH"
+    },
+    {
+      "band": 2,
+      "position": 11,
+      "box": [
+        143,
+        108,
+        150,
+        122
+      ],
+      "id": "V36",
+      "visible": "r",
+      "expected": "a",
+      "status": "MISMATCH"
+    }
+  ],
+  "records": [
+    {
+      "band": 2,
+      "position": 0,
+      "box": [
+        65,
+        108,
+        74,
+        122
+      ],
+      "id": "V01",
+      "visible": "f",
+      "expected": "f",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 7,
+      "box": [
+        118,
+        108,
+        125,
+        122
+      ],
+      "id": "V02",
+      "visible": "e",
+      "expected": "e",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 7,
+      "box": [
+        113,
+        90,
+        128,
+        107
+      ],
+      "id": "V03",
+      "visible": "D",
+      "expected": "D",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 4,
+      "box": [
+        99,
+        108,
+        105,
+        122
+      ],
+      "id": "V04",
+      "visible": "a",
+      "expected": "o",
+      "status": "MISMATCH"
+    },
+    {
+      "band": 0,
+      "position": 3,
+      "box": [
+        100,
+        75,
+        114,
+        95
+      ],
+      "id": "V05",
+      "visible": "c",
+      "expected": "c",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 1,
+      "box": [
+        73,
+        108,
+        80,
+        122
+      ],
+      "id": "V06",
+      "visible": "o",
+      "expected": "o",
+      "status": "PASS"
+    },
+    {
+      "band": 0,
+      "position": 2,
+      "box": [
+        83,
+        73,
+        101,
+        93
+      ],
+      "id": "V07",
+      "visible": "o",
+      "expected": "o",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 8,
+      "box": [
+        128,
+        92,
+        138,
+        107
+      ],
+      "id": "V08",
+      "visible": "u",
+      "expected": "u",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 13,
+      "box": [
+        177,
+        92,
+        189,
+        107
+      ],
+      "id": "V09",
+      "visible": "n",
+      "expected": "n",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 9,
+      "box": [
+        138,
+        92,
+        148,
+        107
+      ],
+      "id": "V10",
+      "visible": "n",
+      "expected": "n",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 2,
+      "box": [
+        79,
+        108,
+        85,
+        122
+      ],
+      "id": "V11",
+      "visible": "r",
+      "expected": "r",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 6,
+      "box": [
+        98,
+        92,
+        111,
+        108
+      ],
+      "id": "V12",
+      "visible": "y",
+      "expected": "y",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 6,
+      "box": [
+        112,
+        108,
+        119,
+        122
+      ],
+      "id": "V13",
+      "visible": "d",
+      "expected": "d",
+      "status": "PASS"
+    },
+    {
+      "band": 0,
+      "position": 7,
+      "box": [
+        151,
+        62,
+        160,
+        80
+      ],
+      "id": "V14",
+      "visible": "'",
+      "expected": "'",
+      "status": "PASS"
+    },
+    {
+      "band": 0,
+      "position": 4,
+      "box": [
+        113,
+        72,
+        130,
+        93
+      ],
+      "id": "V15",
+      "visible": "o",
+      "expected": "o",
+      "status": "PASS"
+    },
+    {
+      "band": 0,
+      "position": 5,
+      "box": [
+        126,
+        67,
+        143,
+        96
+      ],
+      "id": "V16",
+      "visible": "b",
+      "expected": "b",
+      "status": "PASS"
+    },
+    {
+      "band": 0,
+      "position": 6,
+      "box": [
+        141,
+        75,
+        155,
+        95
+      ],
+      "id": "V17",
+      "visible": "o",
+      "expected": "o",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 8,
+      "box": [
+        124,
+        108,
+        130,
+        122
+      ],
+      "id": "V18",
+      "visible": "n",
+      "expected": "r",
+      "status": "MISMATCH"
+    },
+    {
+      "band": 1,
+      "position": 10,
+      "box": [
+        148,
+        90,
+        160,
+        108
+      ],
+      "id": "V19",
+      "visible": "g",
+      "expected": "g",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 1,
+      "box": [
+        52,
+        92,
+        65,
+        108
+      ],
+      "id": "V20",
+      "visible": "y",
+      "expected": "y",
+      "status": "PASS"
+    },
+    {
+      "band": 0,
+      "position": 1,
+      "box": [
+        66,
+        72,
+        87,
+        96
+      ],
+      "id": "V21",
+      "visible": "h",
+      "expected": "h",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 12,
+      "box": [
+        149,
+        108,
+        157,
+        122
+      ],
+      "id": "V22",
+      "visible": "n",
+      "expected": "n",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 3,
+      "box": [
+        87,
+        108,
+        100,
+        122
+      ],
+      "id": "V23",
+      "visible": "W",
+      "expected": "W",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 5,
+      "box": [
+        105,
+        108,
+        112,
+        122
+      ],
+      "id": "V24",
+      "visible": "n",
+      "expected": "n",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 12,
+      "box": [
+        168,
+        92,
+        177,
+        107
+      ],
+      "id": "V25",
+      "visible": "o",
+      "expected": "o",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 5,
+      "box": [
+        91,
+        91,
+        99,
+        107
+      ],
+      "id": "V26",
+      "visible": "r",
+      "expected": "r",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 4,
+      "box": [
+        81,
+        92,
+        92,
+        107
+      ],
+      "id": "V27",
+      "visible": "e",
+      "expected": "e",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 10,
+      "box": [
+        136,
+        108,
+        144,
+        122
+      ],
+      "id": "V28",
+      "visible": "w",
+      "expected": "w",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 9,
+      "box": [
+        129,
+        108,
+        137,
+        122
+      ],
+      "id": "V29",
+      "visible": "S",
+      "expected": "S",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 3,
+      "box": [
+        73,
+        89,
+        82,
+        107
+      ],
+      "id": "V30",
+      "visible": "t",
+      "expected": "t",
+      "status": "PASS"
+    },
+    {
+      "band": 0,
+      "position": 8,
+      "box": [
+        155,
+        70,
+        190,
+        96
+      ],
+      "id": "V31",
+      "visible": "s",
+      "expected": "s",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 11,
+      "box": [
+        158,
+        92,
+        168,
+        107
+      ],
+      "id": "V32",
+      "visible": "e",
+      "expected": "e",
+      "status": "PASS"
+    },
+    {
+      "band": 0,
+      "position": 0,
+      "box": [
+        34,
+        65,
+        76,
+        96
+      ],
+      "id": "V33",
+      "visible": "C",
+      "expected": "C",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 2,
+      "box": [
+        64,
+        92,
+        74,
+        107
+      ],
+      "id": "V34",
+      "visible": "s",
+      "expected": "s",
+      "status": "PASS"
+    },
+    {
+      "band": 1,
+      "position": 0,
+      "box": [
+        36,
+        91,
+        53,
+        107
+      ],
+      "id": "V35",
+      "visible": "M",
+      "expected": "M",
+      "status": "PASS"
+    },
+    {
+      "band": 2,
+      "position": 11,
+      "box": [
+        143,
+        108,
+        150,
+        122
+      ],
+      "id": "V36",
+      "visible": "r",
+      "expected": "a",
+      "status": "MISMATCH"
+    }
+  ]
+}

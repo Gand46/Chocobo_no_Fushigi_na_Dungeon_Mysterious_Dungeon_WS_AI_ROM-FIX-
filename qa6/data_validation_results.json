@@ -1,0 +1,404 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "Marker damage is distinct from payload loss",
+      "status": "PASS",
+      "evidence": "QA5 single-byte marker mutation"
+    },
+    {
+      "check": "Plausible altered level is detected against trusted same-generation data",
+      "status": "PASS",
+      "evidence": "QA5 level 1 to 2; native loader previously accepted it"
+    },
+    {
+      "check": "Native save copies all 2516 live bytes exactly",
+      "status": "PASS",
+      "evidence": "9000:0373 source snapshot vs 9000:037F destination snapshot"
+    },
+    {
+      "check": "Captured write interruption is exactly new prefix plus old suffix",
+      "status": "PASS",
+      "evidence": "Snapshot on native payload write 200; remainder kept from generation A"
+    },
+    {
+      "check": "Mixed generation detected despite valid marker",
+      "status": "PASS",
+      "evidence": {
+        "status": "CONSISTENT_WITH_INTERRUPTED_PREFIX_COPY",
+        "mixed": true,
+        "possible_copied_byte_count": [
+          167,
+          2392
+        ],
+        "interpretation": "New prefix and old suffix; causal proof requires a native write trace"
+      }
+    },
+    {
+      "check": "Complete old/new generations are not misclassified as mixtures",
+      "status": "PASS",
+      "evidence": "Boundary controls"
+    },
+    {
+      "check": "q6_cold_complete: bounded run completed",
+      "status": "PASS",
+      "evidence": "85a8be61fdac2feb777ed1726235b46b36f8950265a1788e7d7c9a0bc90f4b11"
+    },
+    {
+      "check": "q6_cold_complete: two native load copies observed",
+      "status": "PASS",
+      "evidence": [
+        "load_1_copied.sav",
+        "load_2_copied.sav"
+      ]
+    },
+    {
+      "check": "q6_cold_complete: load_1_copied.sav",
+      "status": "PASS",
+      "evidence": {
+        "scope": "Snapshot at 9000:033F, immediately after native copy; before post-load changes",
+        "status": "PASS",
+        "expected_bytes": 2516,
+        "equal_bytes": 2516,
+        "changed_ranges_live": [],
+        "live_fields": {
+          "level": 2,
+          "hp": 29,
+          "max_hp": 30,
+          "inventory_capacity_observed": 18,
+          "dungeon": 0,
+          "current_floor": 3,
+          "resume_destination": 0,
+          "story_flags_730A": "0000",
+          "story_flags_730C": "0780",
+          "captured_counter_7530": 4660
+        }
+      }
+    },
+    {
+      "check": "q6_cold_complete: load_2_copied.sav",
+      "status": "PASS",
+      "evidence": {
+        "scope": "Snapshot at 9000:033F, immediately after native copy; before post-load changes",
+        "status": "PASS",
+        "expected_bytes": 2516,
+        "equal_bytes": 2516,
+        "changed_ranges_live": [],
+        "live_fields": {
+          "level": 2,
+          "hp": 29,
+          "max_hp": 30,
+          "inventory_capacity_observed": 18,
+          "dungeon": 0,
+          "current_floor": 3,
+          "resume_destination": 0,
+          "story_flags_730A": "0000",
+          "story_flags_730C": "0780",
+          "captured_counter_7530": 4660
+        }
+      }
+    },
+    {
+      "check": "q6_cold_complete: stored data and markers survive load",
+      "status": "PASS",
+      "evidence": {
+        "whole_sram_equal": false,
+        "payload_equal": true
+      }
+    },
+    {
+      "check": "q6_cold_interrupted: bounded run completed",
+      "status": "PASS",
+      "evidence": "85a8be61fdac2feb777ed1726235b46b36f8950265a1788e7d7c9a0bc90f4b11"
+    },
+    {
+      "check": "q6_cold_interrupted: two native load copies observed",
+      "status": "PASS",
+      "evidence": [
+        "load_1_copied.sav",
+        "load_2_copied.sav"
+      ]
+    },
+    {
+      "check": "q6_cold_interrupted: load_1_copied.sav",
+      "status": "PASS",
+      "evidence": {
+        "scope": "Snapshot at 9000:033F, immediately after native copy; before post-load changes",
+        "status": "PASS",
+        "expected_bytes": 2516,
+        "equal_bytes": 2516,
+        "changed_ranges_live": [],
+        "live_fields": {
+          "level": 2,
+          "hp": 29,
+          "max_hp": 30,
+          "inventory_capacity_observed": 18,
+          "dungeon": 0,
+          "current_floor": 3,
+          "resume_destination": 0,
+          "story_flags_730A": "0000",
+          "story_flags_730C": "0780",
+          "captured_counter_7530": 18
+        }
+      }
+    },
+    {
+      "check": "q6_cold_interrupted: load_2_copied.sav",
+      "status": "PASS",
+      "evidence": {
+        "scope": "Snapshot at 9000:033F, immediately after native copy; before post-load changes",
+        "status": "PASS",
+        "expected_bytes": 2516,
+        "equal_bytes": 2516,
+        "changed_ranges_live": [],
+        "live_fields": {
+          "level": 2,
+          "hp": 29,
+          "max_hp": 30,
+          "inventory_capacity_observed": 18,
+          "dungeon": 0,
+          "current_floor": 3,
+          "resume_destination": 0,
+          "story_flags_730A": "0000",
+          "story_flags_730C": "0780",
+          "captured_counter_7530": 18
+        }
+      }
+    },
+    {
+      "check": "q6_cold_interrupted: stored data and markers survive load",
+      "status": "PASS",
+      "evidence": {
+        "whole_sram_equal": false,
+        "payload_equal": true
+      }
+    },
+    {
+      "check": "q6_jp_cold_interrupted: bounded run completed",
+      "status": "PASS",
+      "evidence": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728"
+    },
+    {
+      "check": "q6_jp_cold_interrupted: two native load copies observed",
+      "status": "PASS",
+      "evidence": [
+        "load_1_copied.sav",
+        "load_2_copied.sav"
+      ]
+    },
+    {
+      "check": "q6_jp_cold_interrupted: load_1_copied.sav",
+      "status": "PASS",
+      "evidence": {
+        "scope": "Snapshot at 9000:033F, immediately after native copy; before post-load changes",
+        "status": "PASS",
+        "expected_bytes": 2516,
+        "equal_bytes": 2516,
+        "changed_ranges_live": [],
+        "live_fields": {
+          "level": 2,
+          "hp": 29,
+          "max_hp": 30,
+          "inventory_capacity_observed": 18,
+          "dungeon": 0,
+          "current_floor": 3,
+          "resume_destination": 0,
+          "story_flags_730A": "0000",
+          "story_flags_730C": "0780",
+          "captured_counter_7530": 18
+        }
+      }
+    },
+    {
+      "check": "q6_jp_cold_interrupted: load_2_copied.sav",
+      "status": "PASS",
+      "evidence": {
+        "scope": "Snapshot at 9000:033F, immediately after native copy; before post-load changes",
+        "status": "PASS",
+        "expected_bytes": 2516,
+        "equal_bytes": 2516,
+        "changed_ranges_live": [],
+        "live_fields": {
+          "level": 2,
+          "hp": 29,
+          "max_hp": 30,
+          "inventory_capacity_observed": 18,
+          "dungeon": 0,
+          "current_floor": 3,
+          "resume_destination": 0,
+          "story_flags_730A": "0000",
+          "story_flags_730C": "0780",
+          "captured_counter_7530": 18
+        }
+      }
+    },
+    {
+      "check": "q6_jp_cold_interrupted: stored data and markers survive load",
+      "status": "PASS",
+      "evidence": {
+        "whole_sram_equal": false,
+        "payload_equal": true
+      }
+    },
+    {
+      "check": "q6_d2_event_data: bounded run completed",
+      "status": "PASS",
+      "evidence": "85a8be61fdac2feb777ed1726235b46b36f8950265a1788e7d7c9a0bc90f4b11"
+    },
+    {
+      "check": "q6_d2_event_data: two native load copies observed",
+      "status": "PASS",
+      "evidence": [
+        "load_1_copied.sav",
+        "load_2_copied.sav"
+      ]
+    },
+    {
+      "check": "q6_d2_event_data: load_1_copied.sav",
+      "status": "PASS",
+      "evidence": {
+        "scope": "Snapshot at 9000:033F, immediately after native copy; before post-load changes",
+        "status": "PASS",
+        "expected_bytes": 2516,
+        "equal_bytes": 2516,
+        "changed_ranges_live": [],
+        "live_fields": {
+          "level": 1,
+          "hp": 24,
+          "max_hp": 30,
+          "inventory_capacity_observed": 18,
+          "dungeon": 2,
+          "current_floor": 59,
+          "resume_destination": 59,
+          "story_flags_730A": "8000",
+          "story_flags_730C": "0780",
+          "captured_counter_7530": 18
+        }
+      }
+    },
+    {
+      "check": "q6_d2_event_data: load_2_copied.sav",
+      "status": "PASS",
+      "evidence": {
+        "scope": "Snapshot at 9000:033F, immediately after native copy; before post-load changes",
+        "status": "PASS",
+        "expected_bytes": 2516,
+        "equal_bytes": 2516,
+        "changed_ranges_live": [],
+        "live_fields": {
+          "level": 1,
+          "hp": 24,
+          "max_hp": 30,
+          "inventory_capacity_observed": 18,
+          "dungeon": 2,
+          "current_floor": 59,
+          "resume_destination": 59,
+          "story_flags_730A": "8000",
+          "story_flags_730C": "0780",
+          "captured_counter_7530": 18
+        }
+      }
+    },
+    {
+      "check": "q6_d2_event_data: stored data and markers survive load",
+      "status": "PASS",
+      "evidence": {
+        "whole_sram_equal": false,
+        "payload_equal": true
+      }
+    },
+    {
+      "check": "q6_d2_correct_flag: bounded run completed",
+      "status": "PASS",
+      "evidence": "85a8be61fdac2feb777ed1726235b46b36f8950265a1788e7d7c9a0bc90f4b11"
+    },
+    {
+      "check": "q6_d2_correct_flag: two native load copies observed",
+      "status": "PASS",
+      "evidence": [
+        "load_1_copied.sav",
+        "load_2_copied.sav"
+      ]
+    },
+    {
+      "check": "q6_d2_correct_flag: load_1_copied.sav",
+      "status": "PASS",
+      "evidence": {
+        "scope": "Snapshot at 9000:033F, immediately after native copy; before post-load changes",
+        "status": "PASS",
+        "expected_bytes": 2516,
+        "equal_bytes": 2516,
+        "changed_ranges_live": [],
+        "live_fields": {
+          "level": 1,
+          "hp": 24,
+          "max_hp": 30,
+          "inventory_capacity_observed": 18,
+          "dungeon": 2,
+          "current_floor": 59,
+          "resume_destination": 59,
+          "story_flags_730A": "0080",
+          "story_flags_730C": "0780",
+          "captured_counter_7530": 18
+        }
+      }
+    },
+    {
+      "check": "q6_d2_correct_flag: load_2_copied.sav",
+      "status": "PASS",
+      "evidence": {
+        "scope": "Snapshot at 9000:033F, immediately after native copy; before post-load changes",
+        "status": "PASS",
+        "expected_bytes": 2516,
+        "equal_bytes": 2516,
+        "changed_ranges_live": [],
+        "live_fields": {
+          "level": 1,
+          "hp": 24,
+          "max_hp": 30,
+          "inventory_capacity_observed": 18,
+          "dungeon": 2,
+          "current_floor": 59,
+          "resume_destination": 59,
+          "story_flags_730A": "0080",
+          "story_flags_730C": "0780",
+          "captured_counter_7530": 18
+        }
+      }
+    },
+    {
+      "check": "q6_d2_correct_flag: stored data and markers survive load",
+      "status": "PASS",
+      "evidence": {
+        "whole_sram_equal": false,
+        "payload_equal": true
+      }
+    },
+    {
+      "check": "Runtime SRAM changes do not produce a false payload-corruption result",
+      "status": "PASS",
+      "evidence": "75B4 validity cache changes 0 to 1; working SRAM also changes"
+    },
+    {
+      "check": "Data validator detects wrong dungeon progression bit",
+      "status": "PASS",
+      "evidence": "QA5 fixture used 8000 instead of 0080 at 730A"
+    },
+    {
+      "check": "Corrected flag agrees with native script selection",
+      "status": "PASS",
+      "evidence": "QA6 uses native branch E1:58F9; second-dungeon boss dialogue at floor 60"
+    },
+    {
+      "check": "Truncated data rejected before interpretation",
+      "status": "PASS",
+      "evidence": "Three-byte invalid input"
+    }
+  ],
+  "check_count": 35,
+  "native_load_copies_checked": 10,
+  "bytes_per_copy": 2516,
+  "scope": "Exact native copies, recognition, baseline integrity and known selector bits; not all event semantics",
+  "natural_forum_save_loss_trigger": "NOT_VALIDATED",
+  "rom_fix_added": false
+}

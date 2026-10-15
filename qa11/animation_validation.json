@@ -1,0 +1,36 @@
+{
+  "frames_compared": 1001,
+  "top_56_mismatches": [],
+  "footer_121_143_mismatches": [],
+  "logo_64_120_mismatches": [],
+  "all_animation_map_frames_equal": false,
+  "unique_top_states": 16,
+  "unique_full_states": 27,
+  "unique_footer_states": 5,
+  "pose_representatives": {
+    "9e28d5226831ad5793326b2f7909da5a6ab6289c2a4b3662f5665eed0f51a847": "anim00300.png",
+    "1714240f637fc97723e5e9d311a0606712824b8452d8433272061d487a3c264a": "anim00458.png",
+    "2530fca8d01bfa678f562e3ff6740deb0c9d39becce7a612f56a85fc6a29d3cc": "anim00459.png",
+    "ccf24e6d01dfb2d93bb17d9b07d73a9ff870519d514cbf523413389ccaa9cfc2": "anim00460.png",
+    "e69b7b8298ca398a5a70c89c67e80cba3fc2720c1a83852f0ae7b1a8e76dc1e6": "anim00473.png",
+    "3963fdc8e9a4f15e5f0132e5b353b1dc4c51acee79d3969d4cb8975dc788357c": "anim00474.png",
+    "ee88584a28f637556747c1b88a2307b4ec31fd6dc9a734d66ec1d05c563be95c": "anim00475.png",
+    "6ae3c52ec996c7c8c488ce6791d86db45c7a15ca6f3affe01ac8d1e3ad53cb68": "anim00488.png",
+    "311675c6039b56099aab636a4e0556b1aac99e77d118390e7b0facb61ccc1595": "anim00489.png",
+    "f2cec884e4a8e7108c997d25b9d69ba1cec6479719ecefc206735adc36658e5f": "anim00490.png",
+    "8fcdd56ae8bd2bbb683eec3c9bb3b8b1c5e64d63c240cfe7dd56132c2ad4c2e3": "anim00503.png",
+    "1a5b192c05930ccfb4bfecca3190ac0165db42865362fee246ae0706a9c6ab7a": "anim00504.png",
+    "89b84be879c41d4d13859aa743afab5504cc1c6cc02bc1d262a47207908a455d": "anim00518.png",
+    "7c5679d4ec92d1441b81455ec525fc561c2fdfae2e81958047b693044ecbb192": "anim00519.png",
+    "36539426f10e23b13336f6aeb4862166b9c3c5517ee375b447d0f3d83a6807f9": "anim00533.png",
+    "6bb873d5e558bfdbc0b41d70c48ff4f380c547327342885b0830656f05c57a98": "anim00534.png"
+  },
+  "footer_representatives": {
+    "258330225c311368be6592ccbbd04e1d88e797f142b800fd99f91a6653659bac": "anim00300.png",
+    "2a62ad0af2bb99b92018cb72b831340f819d29b70fccf03879f668d8c3f38393": "anim00458.png",
+    "8a7387fdca643d0a0116c10718210c9c16540794d250353d6fecd4e81c2af566": "anim00459.png",
+    "af2b01ed9f607752aed658d1f1be1811e4f32908a892a0bdb090915b06c37697": "anim00488.png",
+    "15dfe70a62203b52ad858d545c52c0408237044fd8707fa4b2bed5a76af6a690": "anim00489.png"
+  },
+  "all_animation_map_frames_equal_explanation": "BG1 contains intentionally replaced static artwork; comparison is diagnostic only. Animation checks use visible top/footer equality plus asset/code byte identity."
+}

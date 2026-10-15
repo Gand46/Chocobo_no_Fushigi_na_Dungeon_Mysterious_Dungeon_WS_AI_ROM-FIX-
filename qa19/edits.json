@@ -1,0 +1,471 @@
+[
+  {
+    "id": "G16:M000_payload",
+    "offset": "0x6e000",
+    "before": "ffffffffffffffffffffffffffff",
+    "after": "cc0098000000c5000e000203ffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M000_pointer",
+    "offset": "0x6cb86",
+    "before": "86cd",
+    "after": "00e0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M003_payload",
+    "offset": "0x6e00e",
+    "before": "ffffffffffffffffffff",
+    "after": "d300ec015d026100ffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M003_pointer",
+    "offset": "0x6cb8c",
+    "before": "c0cd",
+    "after": "0ee0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M004_payload",
+    "offset": "0x6e018",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d5001300e001de01ad00f2fffdffd2001c01000098016c0200005d026b024601d7016a006100feffe60178028f006100e60145020d00b001b700f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M004_pointer",
+    "offset": "0x6cb8e",
+    "before": "d2cd",
+    "after": "18e0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M012_payload",
+    "offset": "0x6e056",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c4000c02eb010a00d7013d026c0209028500ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M012_pointer",
+    "offset": "0x6cb9e",
+    "before": "bace",
+    "after": "56e0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M013_payload",
+    "offset": "0x6e06e",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c600ce0000000f006100c300dc013f021803feff3d025000bd023d0261000100a0018c029c01ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M013_pointer",
+    "offset": "0x6cba0",
+    "before": "cace",
+    "after": "6ee0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M014_pointer",
+    "offset": "0x6cba2",
+    "before": "cace",
+    "after": "6ee0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M015_pointer",
+    "offset": "0x6cba4",
+    "before": "cace",
+    "after": "6ee0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M020_payload",
+    "offset": "0x6e09a",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "bf000000a0018c029c010000c6013d02feff5000dd013b018f0078024501000080014c0045011201f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M020_pointer",
+    "offset": "0x6cbae",
+    "before": "18cf",
+    "after": "9ae0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M021_payload",
+    "offset": "0x6e0c6",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c600ce0000000f006100c300dc013f021803feffec00a30118033d026c0209028500ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M021_pointer",
+    "offset": "0x6cbb0",
+    "before": "3ecf",
+    "after": "c6e0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M022_pointer",
+    "offset": "0x6cbb2",
+    "before": "3ecf",
+    "after": "c6e0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M023_pointer",
+    "offset": "0x6cbb4",
+    "before": "3ecf",
+    "after": "c6e0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M024_pointer",
+    "offset": "0x6cbb6",
+    "before": "3ecf",
+    "after": "c6e0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M025_payload",
+    "offset": "0x6e0ee",
+    "before": "ffffffffffffffffffffffffffffffffffff",
+    "after": "ce0000026702d70156003d027c00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M025_pointer",
+    "offset": "0x6cbb8",
+    "before": "58cf",
+    "after": "eee0",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M028_payload",
+    "offset": "0x6e100",
+    "before": "ffffffffffffffffffffffffffffffffffffffff",
+    "after": "c5000a00dc016100c60014007d02b700f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M028_pointer",
+    "offset": "0x6cbbe",
+    "before": "80cf",
+    "after": "00e1",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M030_payload",
+    "offset": "0x6e114",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c1000f000000e6010000a601de01930000003d020500ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M030_pointer",
+    "offset": "0x6cbc2",
+    "before": "a4cf",
+    "after": "14e1",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M032_payload",
+    "offset": "0x6e130",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c100aa025d026100fc00130000004200bc010000fd01f500f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M032_pointer",
+    "offset": "0x6cbc6",
+    "before": "e0cf",
+    "after": "30e1",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M033_payload",
+    "offset": "0x6e14c",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c4000902060178020d0097014b018e00feff3b018f00810281029400ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M033_pointer",
+    "offset": "0x6cbc8",
+    "before": "02d0",
+    "after": "4ce1",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M037_payload",
+    "offset": "0x6e16e",
+    "before": "ffffffffffffffffffffffffffffffffffffffff",
+    "after": "c50095008102de01000081023d027c00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M037_pointer",
+    "offset": "0x6cbd0",
+    "before": "46d0",
+    "after": "6ee1",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M039_payload",
+    "offset": "0x6e182",
+    "before": "ffffffffffffffffffffffffffffffffffffffff",
+    "after": "c4008600a001de010000a20045019302f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M039_pointer",
+    "offset": "0x6cbd4",
+    "before": "76d0",
+    "after": "82e1",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M043_payload",
+    "offset": "0x6e196",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2001c0100002200f7004a010000ec00a301ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M043_pointer",
+    "offset": "0x6cbdc",
+    "before": "b2d0",
+    "after": "96e1",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M044_payload",
+    "offset": "0x6e1ae",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c1000f00e6017802d902a2010000290207029300b001ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M044_pointer",
+    "offset": "0x6cbde",
+    "before": "ced0",
+    "after": "aee1",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M045_payload",
+    "offset": "0x6e1ca",
+    "before": "ffffffffffffffffffffffffffffffffffffffff",
+    "after": "ca000a0278026c023d02de018002b700f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M045_pointer",
+    "offset": "0x6cbe0",
+    "before": "e6d0",
+    "after": "cae1",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M047_payload",
+    "offset": "0x6e1de",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d7000c0238029200a1022702850000007902a601ea01feffdd023d020000600215007d023d027f00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M047_pointer",
+    "offset": "0x6cbe4",
+    "before": "22d1",
+    "after": "dee1",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M048_payload",
+    "offset": "0x6e20a",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d7000c023802fc00130000004200bc010000fd01f500f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M048_pointer",
+    "offset": "0x6cbe6",
+    "before": "52d1",
+    "after": "0ae2",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M049_payload",
+    "offset": "0x6e224",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c300dc013f021803ec00a3011803feff3d026c0209028500ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M049_pointer",
+    "offset": "0x6cbe8",
+    "before": "6cd1",
+    "after": "24e2",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M050_payload",
+    "offset": "0x6e242",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c600ce000000ec00a30118033d026c0209028500ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M050_pointer",
+    "offset": "0x6cbea",
+    "before": "80d1",
+    "after": "42e2",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M051_payload",
+    "offset": "0x6e25c",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c20094004600db01000087020000e0023a011701e30006025702ffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M051_pointer",
+    "offset": "0x6cbec",
+    "before": "94d1",
+    "after": "5ce2",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M052_payload",
+    "offset": "0x6e278",
+    "before": "ffffffffffffffffffffffff",
+    "after": "c6008d00a601ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M052_pointer",
+    "offset": "0x6cbee",
+    "before": "aad1",
+    "after": "78e2",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M053_payload",
+    "offset": "0x6e284",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c40049016c0200008102bc0100001c013d02ae00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M053_pointer",
+    "offset": "0x6cbf0",
+    "before": "bed1",
+    "after": "84e2",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M061_payload",
+    "offset": "0x6e29c",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d200390266000000e6003802e0023a0117014b018e00ae00ffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M061_pointer",
+    "offset": "0x6cc00",
+    "before": "06d3",
+    "after": "9ce2",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M064_payload",
+    "offset": "0x6e2b6",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "a4000000d100a6017802ce000002eb01f2fffdff50006c025802a400a300a3000000c5007a00b700f2fffdffc6000e020000b801f0010000d100a6017802ce000002eb017702f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M064_pointer",
+    "offset": "0x6cc06",
+    "before": "36d3",
+    "after": "b6e2",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M066_payload",
+    "offset": "0x6e300",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c1000f00e601780242004a021803c6013d02feffd100a6017802ce000002eb017602f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M066_pointer",
+    "offset": "0x6cc0a",
+    "before": "a0d3",
+    "after": "00e3",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M070_payload",
+    "offset": "0x6e326",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "bf000000e7023c020000e900040200006d021c024e024a010902feffc90000024900c902cc000c000e00aa021c00f2fffdffc2003b01000069030c0200008f0066011803feffc10026015000b80014025802c200a602fc000502ae00f2fffdffc700a10069030c0200001801bd020000e601780223021a008500feffd10020013d02d70180020203d5000f0066003d025402f2fffdffc70000003d025000c4018f0061004b01000087021202feffc5004d0102034b01000001008a021803ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M070_pointer",
+    "offset": "0x6cc12",
+    "before": "fed3",
+    "after": "26e3",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G16:M071_payload",
+    "offset": "0x6e3ea",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d5008d005000bc01ad00feffd2001c0100007c011803870200006d024400940058024a01f2fffdff87020000440129020d02020369030c023802300002027402feff7902a601ea0100000f006100590265009c017302f2fffdffc200f701e60178024d02600200004501b700feffd3005d0200000100d2008d00910009027802c10013006100f2fffdff87020000060100002601bc010000fd017d02d7010f006100feff39024a01020369030c0238029c01bd02b201f2fffdffd100a8029300c10267023802feffc90000024900c902cc000c000e00aa021c00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G16:M071_pointer",
+    "offset": "0x6cc14",
+    "before": "d6d4",
+    "after": "eae3",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G06:M073_payload",
+    "offset": "0x6e4c8",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2000c024900000080020203e900050278025000bd023802feff870200007c019100000069030c0238029c01bd02b201f2fffdffd2000c02490000008002020322004c0000005000bd023802feff870200003d025d02780269030c0238029c01bd02b201f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G06:M073_pointer",
+    "offset": "0x656fc",
+    "before": "aa67",
+    "after": "c8e4",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  },
+  {
+    "id": "G06:M099_payload",
+    "offset": "0x6e530",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c20083009f020000c6016600000004008102bd02b700f2fffdffc7007d02b7018a0205004501f700e60145020d00b001feff6c0213008b02000045010000faff0600c10018012b0293000000a600faff0000ad00f2ffffff",
+    "reason": "Validated same-bank FF pool; new editable English message."
+  },
+  {
+    "id": "G06:M099_pointer",
+    "offset": "0x65730",
+    "before": "366c",
+    "after": "30e5",
+    "reason": "Preserve bank and message ID; redirect verified group table entry to the translated message."
+  }
+]

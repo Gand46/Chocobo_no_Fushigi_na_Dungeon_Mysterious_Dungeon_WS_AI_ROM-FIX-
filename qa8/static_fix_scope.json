@@ -1,0 +1,28 @@
+{
+  "method": "STATIC_EXHAUSTIVE_SELECTOR_AND_BRANCH_PREDICATE_NOT_CPU_EXECUTION",
+  "selector_inputs": 256,
+  "changed_results": [
+    {
+      "item": 255,
+      "old": 65535,
+      "new": 2808
+    }
+  ],
+  "cmp_dx_inputs": 65536,
+  "newly_enabled_item_ids": [
+    254,
+    255
+  ],
+  "changed_offsets_vs_hf4": [
+    "1422C5",
+    "1422C6",
+    "16E6FA",
+    "16E6FB",
+    "1EA771",
+    "1EA772",
+    "1FFFFE"
+  ],
+  "hf5_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+  "hf5_crc32": "3887C0CF",
+  "checksum": "06CA"
+}

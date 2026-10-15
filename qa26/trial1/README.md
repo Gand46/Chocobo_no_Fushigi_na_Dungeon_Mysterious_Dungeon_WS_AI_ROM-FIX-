@@ -1,0 +1,1 @@
+Primer ensayo rechazado: el umbral de 4 px hizo que algunas palabras parecieran unidas. No forma parte de HF20. Capturas en evidence/qa26_trial1_runs; comparaciones históricas en esta carpeta. Se elevó el mínimo a 8 px y se repitieron todas las capturas finales.

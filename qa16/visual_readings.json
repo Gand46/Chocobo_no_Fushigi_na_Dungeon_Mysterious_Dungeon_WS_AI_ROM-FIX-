@@ -1,0 +1,137 @@
+[
+  {
+    "run": "status_equipped_plus",
+    "image": "f00480.png",
+    "sha256": "ac9986f386226e3102cac732ade267da942a4c398fa7bbd2136c70306f448a3e",
+    "reading": "Record99F; Money99999999Gil; Double KnockTalon +99; visible right edge.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "status_equipped_minus",
+    "image": "f00480.png",
+    "sha256": "fe63b36c91dc1ac59a35fb0301acd5e860b2c29872160c60e372def9a65aad46",
+    "reading": "Double KnockTalon -99; visible right edge.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "inventory_boundaries",
+    "image": "f01020.png",
+    "sha256": "d9e8763249bbe20faf02e8dd8f06fa1d81ec8e29a4c89a623f5d35329c995c42",
+    "reading": "Scrolled list: FaithCard, RottNut, Double KnockTalon+99, Level4 DeathTalon-99; description fits.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "quantity_unknown",
+    "image": "f00420.png",
+    "sha256": "1bdcfd631579eaffe688e43a3c7e68cd8cc34d6f069c34f39b01d3ffed26540e",
+    "reading": "MossyCollar, SmallCollar; Fire99, Blizzard1, Teleport Box99; Unidentified item.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "unknown_names_long",
+    "image": "f00420.png",
+    "sha256": "a48c4c51c4c2ebc6b9c99673145e02c9c60e7ee9d3eb1650c3bb6e6cc8db2c80",
+    "reading": "Card with a Hole; Bent Back Card; neither name is clipped.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "magic_route",
+    "image": "f00600.png",
+    "sha256": "7e2e71ca61b650005af8523844351417a1e40f0eae6e21c37005bf981930c333",
+    "reading": "Fire, Blizzard, Thunder, Aero; Lv.1; ATB50; gauges.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "magic_display99",
+    "image": "f00720.png",
+    "sha256": "d91007e822b6ed54e31cb078e787cfb52e9289630cb72d6b73dde1b645a18c1b",
+    "reading": "Lv.99, ATB99 and NEXT99P; Blizzard/Thunder/Aero/Shine visible without overlap. Seven spell names executed across scrolling.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "shop_native_entry",
+    "image": "f00120.png",
+    "sha256": "52fe5e85c922b00ad581e4a184bb579f6f21f27a517212d08ab9d6cf5ddd8c29",
+    "reading": "Money99999999Gil, Buy/Sell; Buy disabled.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "shop_buy_list",
+    "image": "f01080.png",
+    "sha256": "b1689e23462bcb428eca22c4635af13ac47acd7c4c27ca55dc9127d312bad7e6",
+    "reading": "DispelDrink300, EyeDrops200, TelepCard1000; money line intact.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "shop_buy_purchase",
+    "image": "f00720.png",
+    "sha256": "15a1722047775a4564bf811bb84d3688172b97a536fda4f2fe5300fd0746a7f5",
+    "reading": "Money99999899Gil after100Gil purchase.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "shop_buy_insufficient",
+    "image": "f00720.png",
+    "sha256": "f87703913daa4883f633ef80f3005888452c2aac7e4dce29914e1dbe0897e8ad",
+    "reading": "Money0Gil; list retained; no dedicated insufficient-money text observed.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "shop_sell_plus",
+    "image": "f00720.png",
+    "sha256": "0a8f6ae672fa1352dc358429ea0158a83dff93148588768d0e6be9330088c804",
+    "reading": "Fire99;200Gil; OK/End. Plan label plus does not describe selected item.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "shop_sell_confirm_plus",
+    "image": "f00780.png",
+    "sha256": "eef75fc15c2e6e061d94b8272d9f5fa90044b0202e27f972d2df8dc23ad7d91f",
+    "reading": "Double KnockTalon+99;2898Gil; OK/End; no clipping.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "shop_sell_confirm_minus",
+    "image": "f00780.png",
+    "sha256": "7c5b9af602300597bafe10211a4b9fe37146371f5344404d5cc7e99d7ee94644",
+    "reading": "TanSaddle-99;1Gil; OK/End; no clipping.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "storage_tail",
+    "image": "f00360.png",
+    "sha256": "8e37bcef47f58db9c46767f3043c2d96184d9e5ea2a3143ce9a1244ffa36a1dc",
+    "reading": "Go to which... clipped in forced Store6 position; Store7..10 below. Candidate only; no reachable caller established.",
+    "method": "DIRECT_NATIVE_PIXELS_NOT_OCR",
+    "context_masked_or_independent": false,
+    "status": "CANDIDATE_ONLY"
+  }
+]

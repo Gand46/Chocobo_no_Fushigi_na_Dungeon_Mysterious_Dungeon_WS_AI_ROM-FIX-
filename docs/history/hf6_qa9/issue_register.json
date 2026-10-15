@@ -1,0 +1,62 @@
+[
+  {
+    "id": "TR-01",
+    "status": "PARTIAL_NATIVE_FLOOR_MENU_REVIEW_GLOBAL_PENDING",
+    "scope": "Native floor chooser visually reviewed; prior terminator fixes/census retained. No global layout PASS."
+  },
+  {
+    "id": "TR-02",
+    "status": "FIXED_SYNTHETIC_HF3",
+    "scope": "Whistle missing tile and palette aliases repaired; 2399 frame comparison; native menu with injected inventory"
+  },
+  {
+    "id": "TR-03",
+    "status": "RESOURCE_EXTRACTED_UNTRANSLATED",
+    "scope": "Native title tiles155155..156B04 and loader154A27 identified; English artwork/integration pending."
+  },
+  {
+    "id": "EN-01",
+    "status": "NOT_REPRODUCED_BOUNDED",
+    "scope": "Four new full-bag +99 description cases valid; no guarded text-buffer overrun or persistent-block write observed. Slot9/id93 excluded: wrong selection. Natural cause remains unknown."
+  },
+  {
+    "id": "EN-02",
+    "status": "FIXED_SYNTHETIC_NATIVE_KICK",
+    "scope": "FF projectile restored; FE/FF native damage enabled; FF enemy death, consumption and return confirmed. Damage1000 with defense0,800 with200,1 with2000. Other combat contexts/natural acquisition not globally approved."
+  },
+  {
+    "id": "EN-03",
+    "status": "NOT_REPRODUCED_BOUNDED",
+    "scope": "HF3 Dispel before/after cursed native equip works; artificial acquisition; curse remains and equipment removed"
+  },
+  {
+    "id": "JP-01",
+    "status": "FIXED_SCOPED_SYNTHETIC_STALE_FLOOR_CACHE",
+    "scope": "HF6 refreshes floor digits only in D3 event selectors;12cold-load destinations. Native coherent save98->load99 passes both HF5/HF6. Continuous elevator route and natural save-loss trigger remain unvalidated."
+  },
+  {
+    "id": "JP-02",
+    "status": "COHERENT_FOUNTAIN_FROG_VARIANTS_NO_FAILURE_REPRODUCED",
+    "scope": "Minimum15Geyser+5Frog and full45+15 synthetic states complete ending; HF6 full variant repeats completion. No fountain-specific binary fix."
+  },
+  {
+    "id": "JP-03",
+    "status": "FIXED_SCOPED_SYNTHETIC_REENTRY_MAP",
+    "scope": "Native Telep99->town followed by synthetic saved-data reentry30: HF5 mapA217, HF6 ordinary0000. Continuous elevator route and subsequent reported freeze not reproduced."
+  },
+  {
+    "id": "JP-04",
+    "status": "NOT_VALIDATED_RESCUE",
+    "scope": "Exact retrospective Atla incident remains unvalidated; source Yahoo inaccessible. Do not relabel D1 or generic ending as the exact rescue reproducer."
+  },
+  {
+    "id": "SAVE-01",
+    "status": "FIXED_SYNTHETIC_PARTIAL_WRITE_ACCEPTANCE",
+    "scope": "HF4 7606 write-prefix checks accept only whole old/new data; 144 mutations rejected; native normal save and cold load pass; legacy compatibility passes; no prior-payload recovery; alternate gameplay resume and natural forum reset cause remain unvalidated; HF5 native new write and cold load exact2516bytes PASS; guard code unchanged."
+  },
+  {
+    "id": "HW-USER",
+    "status": "CLOSED_OUT_OF_ROM_SCOPE",
+    "scope": "User established electrical cause of physical cartridge freeze; not a ROM diagnosis target"
+  }
+]

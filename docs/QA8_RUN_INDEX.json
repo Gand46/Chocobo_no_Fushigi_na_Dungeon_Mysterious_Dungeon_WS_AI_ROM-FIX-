@@ -1,0 +1,579 @@
+[
+  {
+    "run": "q8_D1_boss_intro",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "f22c0e0d1f7a9d0c7034e0a44769f9077b5b66212e56a8036e74bc5e3a5da6e7",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "6c5bcdf413ba34adf9bcb4bf3268469e1b2b6da48f623d4c270b210bc83ad92f"
+  },
+  {
+    "run": "q8_D1_ending_progress",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "6c5bcdf413ba34adf9bcb4bf3268469e1b2b6da48f623d4c270b210bc83ad92f",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "e845b20ed89eed3610971e66667ceb302a3b034853b7d3e4eecd38aac0dd8675"
+  },
+  {
+    "run": "q8_D1_to_30",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "f22c0e0d1f7a9d0c7034e0a44769f9077b5b66212e56a8036e74bc5e3a5da6e7"
+  },
+  {
+    "run": "q8_D3_enter99",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "c798d14991ae14e03c909fc106a4c4a7ae85ad3dd8c2e363417a810ff4760b9c",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "41bf6c6390998b8d642d8f66b2361f617b256718e093bb84b5a864ac2bc33fad"
+  },
+  {
+    "run": "q8_D3_flag_trace",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": "d5579c21d8ce7425bb74db34b2297060f5cced9ebd4bb0a667ed441a3b6fce19",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "8358fd79fe3a223f19a262e1d6778e4ea13d050e21c26c73177db49ef9e1a33a"
+  },
+  {
+    "run": "q8_D3_post_ending_to_30",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "6dfc2e51dc5f7c89db30d0b2475310737bb7f86f6912f68879aacebfc6156e74"
+  },
+  {
+    "run": "q8_D3_post_ending_to_98",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "b2c6163a258b69a326a8c1e15fad708f5624ae0056e7ea76924030f7fe48ccd9"
+  },
+  {
+    "run": "q8_D3_post_ending_to_99",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "9f7ec9099c0b0c5509be7848880b1b263afb6469311b2c002c4164edb40f2567"
+  },
+  {
+    "run": "q8_D3_stair_attempt",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "b2c6163a258b69a326a8c1e15fad708f5624ae0056e7ea76924030f7fe48ccd9",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "c798d14991ae14e03c909fc106a4c4a7ae85ad3dd8c2e363417a810ff4760b9c"
+  },
+  {
+    "run": "q8_D3_to_100",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "018ee88c6a54fc85bbc2a57db1ed6f0ae5a354ef7815a9dd8af2cc96f607a317"
+  },
+  {
+    "run": "q8_D3_to_11",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "662be8704f17fedc4c59ba416476eb442a5219f4425c7ffe2c31b5a3b178c307"
+  },
+  {
+    "run": "q8_D3_to_22",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "7aa7a1f59ec79aa1620b95a6f0994f7a410cbae1988a692c923cec4924c70a75"
+  },
+  {
+    "run": "q8_D3_to_30",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "2fc929a3fefc8858d1b7efae490241d16da537736325fb753c05ad87c8037453"
+  },
+  {
+    "run": "q8_D3_to_33",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "dfda97d13b164c143c390b25d1577b43c65325ab505f5cc69c6cde8b83b0afb2"
+  },
+  {
+    "run": "q8_D3_to_44",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "bceffe4f7580e90d2eee7fa1382ab41af390b86baf3e7a82fd2712fdac147c10"
+  },
+  {
+    "run": "q8_D3_to_55",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "d96c87140c3914181954f2bad8c236c7b1d098070a2046e19378b48e89ba352d"
+  },
+  {
+    "run": "q8_D3_to_66",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "482e6eda9fa34d96d41a038a604eb06f4ab5e9d80e794a74f23e589919243c41"
+  },
+  {
+    "run": "q8_D3_to_77",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "b7482110be6755bae69988ea16a7c197b94b37212835bf82829e88942bb34eb8"
+  },
+  {
+    "run": "q8_D3_to_88",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "fd6824500bf6750c80037ad30b0d902684e098d11f5edd49a32fbabaf14b04a8"
+  },
+  {
+    "run": "q8_D3_to_98",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "cd94ade66ce04067d48cfadc395b5a1a2cc513f905ae38282d6cf86d554285f6"
+  },
+  {
+    "run": "q8_D3_to_99",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "d5579c21d8ce7425bb74db34b2297060f5cced9ebd4bb0a667ed441a3b6fce19"
+  },
+  {
+    "run": "q8_D3_wait_trace",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": "d5579c21d8ce7425bb74db34b2297060f5cced9ebd4bb0a667ed441a3b6fce19",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "8358fd79fe3a223f19a262e1d6778e4ea13d050e21c26c73177db49ef9e1a33a"
+  },
+  {
+    "run": "q8_JP_D3_to_99",
+    "rom_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "4cd4ec07e6c173c638dbca80eea3bf31b2be7a862e6887e560bd1ea4e8d8ca02"
+  },
+  {
+    "run": "q8_card_identify",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ITEM_START": "45"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "1893baf3bf4f9a83a15a2d1c335e34aa4c76d29a4c4e057b4c787efaa1b201c2"
+  },
+  {
+    "run": "q8_card_identify_00",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ITEM_START": "0"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "c313f8d17394d7c730c6aa05df49c9edd9626c226d6f0dabfec0a765af338766"
+  },
+  {
+    "run": "q8_card_identify_08",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ITEM_START": "8"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "736ffa6bf6c29ab42a5fe44d2b6ca7eb0657cd73a26a6f4f70509aea6d896fd5"
+  },
+  {
+    "run": "q8_card_identify_0c",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ITEM_START": "12"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "8c21abd31e048a64575b17581c67c3df12198d1e6ed609e38356366ff4d5603d"
+  },
+  {
+    "run": "q8_card_identify_49",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ITEM_START": "73"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "2aef32d8829bae3335a2b3fcdd25fb49ae67c65696e1b7e339500750ac56cf53"
+  },
+  {
+    "run": "q8_card_identify_cd",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ITEM_START": "205"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "71132ef3eddbdbda9c2157bb44363344be3123e4ff76317014a47d9b879a2130"
+  },
+  {
+    "run": "q8_cold_saved",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "21362491674de4ec8e91487209fddf68f6708ac21afd837d61d18ff81e42a694"
+  },
+  {
+    "run": "q8_d2_boss_assist",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "19ba053b9b79961eedeace434613a8fea3a027a49960566d8dc0f5b5c1a4d7cf",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "15e4575eb5ed9f4b8239e4a0ae58b26d3022e785be0804fa7ad366f87ecd9179"
+  },
+  {
+    "run": "q8_d2_ending_progress",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "15e4575eb5ed9f4b8239e4a0ae58b26d3022e785be0804fa7ad366f87ecd9179",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "0b03f944c73f5aeeea5a80d993447e4acbb2dace6c79aead3f580f7ef37ce4d3"
+  },
+  {
+    "run": "q8_d2_event_progress",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": "6d67f049fe57904e6b2de8578de2e651d9f50fba2eb485fc098c2a37adde7ed0",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "ad965c64ea36ac3c6fc8335bc016fdf55e520350f5429e4497adba1968398175"
+  },
+  {
+    "run": "q8_d2_event_progress2",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": "ad965c64ea36ac3c6fc8335bc016fdf55e520350f5429e4497adba1968398175",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "19ba053b9b79961eedeace434613a8fea3a027a49960566d8dc0f5b5c1a4d7cf"
+  },
+  {
+    "run": "q8_d2_return_control",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "0b03f944c73f5aeeea5a80d993447e4acbb2dace6c79aead3f580f7ef37ce4d3",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "ab3962452cba6098ffe0878e90061dc1893821275736e7e7839709189d83f34f"
+  },
+  {
+    "run": "q8_d2_walk",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "ab3962452cba6098ffe0878e90061dc1893821275736e7e7839709189d83f34f",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "ae58893a88beb96b2ccb0e349bf4a5d9554abb8189b64ace32c22f11fd085645"
+  },
+  {
+    "run": "q8_damage_filanes_after",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ITEM_ID": "254"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "abb94670bd7f189f1554e08de3be019d2adc3f8272493621ae6bf04d4cd7008a"
+  },
+  {
+    "run": "q8_damage_filanes_before",
+    "rom_sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ITEM_ID": "254"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "44603624b7919cea31650ac4dd7edfe125518bfb98e627601f2ef204cc0c09ca"
+  },
+  {
+    "run": "q8_damage_flare_after",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ITEM_ID": "244"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "656735d3cde8741448ab57702ebea6d89e31d0c298dd66e3c18382ec6fa94305",
+    "excluded_from_pass": "No target collision; damage trace empty"
+  },
+  {
+    "run": "q8_damage_flare_before",
+    "rom_sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ITEM_ID": "244"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "512ef711cb293baecebfcb02e439a33b54227230bd42bbe1a6078f456ae97d6b",
+    "excluded_from_pass": "No target collision; damage trace empty"
+  },
+  {
+    "run": "q8_damage_lafoss_after",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "830f35e59f015835419368c40bafacfcfd41a107dc805c2dc88a20922913e677"
+  },
+  {
+    "run": "q8_damage_lafoss_before",
+    "rom_sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "b1eec7322bcbe3d68d7b50b074dfdd4c5e4927983a6479ec6caacca94260f3db"
+  },
+  {
+    "run": "q8_equipment_slot0_65",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "EQUIP_SLOT": "0",
+      "EQUIP_ID": "101"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "4039880044ab2e4f56cf837ce81b24aa14315b612d08eff0736de533751f22a1"
+  },
+  {
+    "run": "q8_equipment_slot17_9d",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "EQUIP_SLOT": "17",
+      "EQUIP_ID": "157"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "e522d9bfc850f889adfe52662f8908dce87682300b08893b518d78636ed69747"
+  },
+  {
+    "run": "q8_equipment_slot17_bf",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "EQUIP_SLOT": "17",
+      "EQUIP_ID": "191"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "2238a111a77c312454859643753f15ac52a1ec336b722dd13f4ade2274b78621"
+  },
+  {
+    "run": "q8_equipment_slot17_c0",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "EQUIP_SLOT": "17",
+      "EQUIP_ID": "192"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "8954a9477999c1583c41ed95edf3cf9d6db7f599f4bb6d5fd9e9b1f160a5157c"
+  },
+  {
+    "run": "q8_equipment_slot9_93",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "EQUIP_SLOT": "9",
+      "EQUIP_ID": "147"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "17bab285646d2054096540983475ef3ef4d0df5b8894392fe32a24c29a7ec3d3",
+    "excluded_from_pass": "Selected TanTalon instead of target93"
+  },
+  {
+    "run": "q8_lafoss_defense200",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ENEMY_DEFENSE": "200"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "529effe4cde8f4fd9297947b75fd35f5aef71185dbeb04773a2ef9f1f3682416"
+  },
+  {
+    "run": "q8_lafoss_defense2000",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {
+      "ENEMY_DEFENSE": "2000"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "cbe9dcbb281c806db0724bbab4fe735f769320e7ac8d284feaf032349e631914"
+  },
+  {
+    "run": "q8_lafoss_dispatch",
+    "rom_sha256": "83800e2e66f4069314525a07751ed0fde8ab1c5cde6a5f54e93119797d4d9dea",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "37eb81ff546ad38845b140c01553ea7f1e4021b3967797b512622a89214ae299"
+  },
+  {
+    "run": "q8_lafoss_effect_trace",
+    "rom_sha256": "83800e2e66f4069314525a07751ed0fde8ab1c5cde6a5f54e93119797d4d9dea",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "37eb81ff546ad38845b140c01553ea7f1e4021b3967797b512622a89214ae299"
+  },
+  {
+    "run": "q8_lafoss_final",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "d243697bb2bde80149f5c2fc161c226d9655d45987c66065edbcc2b1254a1267"
+  },
+  {
+    "run": "q8_lafoss_full_effect",
+    "rom_sha256": "306cbc56e039297adc211656376163a3d332911a97d6171794d593bb06876139",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "830f35e59f015835419368c40bafacfcfd41a107dc805c2dc88a20922913e677"
+  },
+  {
+    "run": "q8_lafoss_model_probe",
+    "rom_sha256": "83800e2e66f4069314525a07751ed0fde8ab1c5cde6a5f54e93119797d4d9dea",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "37eb81ff546ad38845b140c01553ea7f1e4021b3967797b512622a89214ae299"
+  },
+  {
+    "run": "q8_save_final",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "6f0f5f7ac32b807c3ca8d2abd63a7cd13bd247d63db9d5fab93409628cc75dd4",
+    "completed": true,
+    "parameters": {
+      "SAVE_FIXTURE": "evidence/qa7_runs/q7_save_final_native/generation_B.sav",
+      "SAVE_LEVEL": "3",
+      "SAVE_HP": "28"
+    },
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "e4900d18d618a0cc9e905f18407caeced04f2943faf888d229e7523aece8308f"
+  },
+  {
+    "run": "q8_text_missing_after",
+    "rom_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": null
+  },
+  {
+    "run": "q8_text_missing_before",
+    "rom_sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": null
+  },
+  {
+    "run": "q8_title_reference",
+    "rom_sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "b713f5a1678e7f06842322c69b72dcc5d847df4fac0beebe2eb2b447fdd92d4e"
+  },
+  {
+    "run": "q8_title_vram",
+    "rom_sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+    "state_sha256": null,
+    "completed": true,
+    "parameters": {},
+    "access": "SYNTHETIC_STATE_OR_SAVESTATE; see plan and reproduction document",
+    "checkpoint_sha256": "c479beb0f5e93e521720bc8131e98d52298b2392036a372e3de00e351b5d8504"
+  }
+]

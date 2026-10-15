@@ -1,0 +1,7 @@
+{
+  "id": "TEXT_FAMILY0_INDEX81_TERMINATOR",
+  "offset": "0x16E6FA",
+  "before": "0000",
+  "after": "ffff",
+  "reason": "Restore FFFF within original 8-byte slot; JP terminates here; EN lost it and the native consumer reads next resource. Preserves preceding glyph and spaces."
+}

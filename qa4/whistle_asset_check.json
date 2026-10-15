@@ -1,0 +1,13 @@
+{
+  "original_tiles": 37,
+  "new_tiles": 40,
+  "changed_cells": 18,
+  "palette_alias_counts": {
+    "0": 6,
+    "1": 8,
+    "2": 4
+  },
+  "compressed_tiles_bytes": 333,
+  "compressed_map_bytes": 419,
+  "unchanged_original_tiles": true
+}

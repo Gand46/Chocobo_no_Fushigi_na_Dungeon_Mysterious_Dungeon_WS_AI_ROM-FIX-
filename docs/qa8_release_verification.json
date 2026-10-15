@@ -1,0 +1,16 @@
+{
+  "build_from_japanese": "PASS",
+  "source_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+  "target_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+  "independent_bps": "PASS_reference_bps_apply",
+  "unit_tests": {
+    "executed": 11,
+    "pass": 11,
+    "scope": "Build/BPS infrastructure and historical ten-resource metadata, not global gameplay"
+  },
+  "checksum": "06CA",
+  "distributed_bps_byte_identical_to_build": true,
+  "source_preimages_and_allowed_diff": "PASS",
+  "new_rom_or_bios_in_package": false,
+  "final_approval": false
+}

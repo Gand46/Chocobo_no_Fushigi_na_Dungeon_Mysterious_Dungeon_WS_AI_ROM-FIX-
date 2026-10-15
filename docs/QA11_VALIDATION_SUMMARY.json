@@ -1,0 +1,16 @@
+{
+  "unit_tests": {
+    "passed": 11,
+    "failed": 0
+  },
+  "editable_assets_regeneration": "EXACT_EDITS_MATCH",
+  "independent_bps": "EXACT_TARGET_MATCH",
+  "runtime_build_sha256": "831d5778ba5887941235365a4065d8cc090c1a871fbdfc00f398c2b5c0ebc89c",
+  "native_pixel_frames_compared": 1001,
+  "unexpected_changed_offsets": 0,
+  "new_game": "SCRIPTED_NATURAL_PASS_TO_VILLAGE",
+  "walk": "SAVESTATE_FROM_NATURAL_ROUTE_PASS",
+  "hardware": "NOT_VALIDATED",
+  "second_emulator": "NOT_VALIDATED",
+  "formal_independent_glyph_review": "NOT_VALIDATED"
+}

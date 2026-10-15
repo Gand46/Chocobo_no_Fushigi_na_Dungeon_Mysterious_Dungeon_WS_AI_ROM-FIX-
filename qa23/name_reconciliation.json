@@ -1,0 +1,4 @@
+{
+  "G09:M086": {"name": "Chip", "reason": "El mismo ドル君 aparece en G08:M013/M018/M019/M020 y G11:M032 con nombre inglés Chip. Reemplaza la transliteración provisional Doru de V4 sin tocar controles."},
+  "G09:M089": {"name": "Chip", "reason": "Consistencia del mismo personaje ドル君 y Ham Whistle con G08/G11; tres celdas nativas, sin cambio de paginación."}
+}

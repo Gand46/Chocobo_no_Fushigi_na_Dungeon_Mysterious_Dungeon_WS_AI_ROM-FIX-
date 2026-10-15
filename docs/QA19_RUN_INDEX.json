@@ -1,0 +1,4002 @@
+[
+  {
+    "run": "approved_G06_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 484,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G06_M099",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 414,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M000",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M001",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 155,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M002",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M003",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 120,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M004",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 337,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M005",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 360,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M006",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M007",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M008",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M009",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M010",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M011",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 272,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M012",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M013",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M014",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M015",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M016",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 153,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M017",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M018",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M019",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M020",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M021",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M022",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M023",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M024",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M025",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M026",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M027",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M028",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M029",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M030",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M031",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M032",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M033",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M034",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M035",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M036",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M037",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M038",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M039",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M040",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 169,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M041",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 160,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M042",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 160,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M043",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M044",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M045",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M046",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M047",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M048",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 195,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M049",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M050",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 195,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M051",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M052",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 146,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M053",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M054",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M055",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 375,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M056",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 307,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M057",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 307,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M058",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 153,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M059",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M060",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M061",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M062",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M063",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M064",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 395,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M065",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M066",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M067",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M068",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M069",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M070",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 838,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M071",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 945,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M072",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 141,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M074",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 127,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M075",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M076",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 269,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M252",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M253",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M254",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "approved_G16_M255",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "494cc850783148ed8026626a88b3c978b08879cd3e9a437bd24ecabcb9e7f486",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G06_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 498,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G06_M099",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 414,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M000",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M001",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 155,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M002",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M003",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 120,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M004",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M005",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M006",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M007",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M008",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M009",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M010",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M011",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 162,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M012",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M013",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M014",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M015",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M016",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M017",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M018",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M019",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M020",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M021",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M022",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M023",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M024",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M025",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M026",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M027",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M028",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M029",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M030",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M031",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M032",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M033",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M034",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 162,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M035",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 162,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M036",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 162,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M037",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M038",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M039",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M040",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 169,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M041",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M042",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M043",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M044",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M045",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M046",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M047",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M048",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M049",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M050",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M051",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M052",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M053",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M054",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M055",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M056",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M057",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M058",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M059",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M060",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M061",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M062",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M063",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M064",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M065",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M066",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M067",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M068",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M069",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M070",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M071",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "c8266194738a430c78066651903172546c2af724ce04b8e525a3489d8e5d8a47",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M072",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 2400,
+    "target_completed": "false",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 141,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M074",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 127,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M075",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M076",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 269,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M252",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M253",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 162,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M254",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "candidate_G16_M255",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G06_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 498,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G06_M099",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 414,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M000",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M001",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 155,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M002",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M003",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 120,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M004",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 358,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M005",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 360,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M006",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M007",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M008",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M009",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M010",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M011",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 162,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M012",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M013",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M014",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M015",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M016",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 153,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M017",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M018",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M019",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M020",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M021",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M022",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M023",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M024",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M025",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M026",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M027",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M028",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M029",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M030",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M031",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M032",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M033",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M034",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 162,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M035",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 162,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M036",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 162,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M037",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M038",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M039",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M040",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": null,
+    "target_completed": null,
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M041",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 160,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M042",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 160,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M043",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M044",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M045",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M046",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M047",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M048",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 195,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M049",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 216,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M050",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M051",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M052",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 146,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M053",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M054",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M055",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 375,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M056",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 307,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M057",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 307,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M058",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 153,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M059",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M060",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M061",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M062",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M063",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M064",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 395,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M065",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M066",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 265,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M067",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M068",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M069",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M070",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 859,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M071",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 952,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M072",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 141,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M074",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 127,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M075",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M076",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 269,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M252",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M253",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 162,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M254",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "final_G16_M255",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "9e7c6e49243a649a3973aca1848f632895353d7555bd3c5c47e6970b0d0ab293",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G06_M073",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 484,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G06_M099",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 414,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M000",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M001",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 155,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M002",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M003",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 120,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M004",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 337,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M005",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 360,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M006",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M007",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M008",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M009",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M010",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M011",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 272,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M012",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M013",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M014",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M015",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M016",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 153,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M017",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M018",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M019",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M020",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M021",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M022",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M023",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M024",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M025",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M026",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M027",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M028",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M029",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M030",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M031",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M032",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M033",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M034",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M035",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M036",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M037",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M038",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M039",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M040",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 169,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M041",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 160,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M042",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 160,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M043",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M044",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M045",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M046",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M047",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M048",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 195,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M049",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M050",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 195,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M051",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M052",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 146,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M053",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M054",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M055",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 375,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M056",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 307,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M057",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 307,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M058",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 153,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M059",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M060",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M061",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M062",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M063",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M064",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 395,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M065",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M066",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 237,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M067",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M068",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M069",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M070",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 838,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M071",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 945,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M072",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M073",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 141,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M074",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 127,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M075",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M076",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 269,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M252",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M253",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M254",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_G16_M255",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release2_slot_native",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "frames": 1200,
+    "target_completed": null,
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G06_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 484,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G06_M099",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 414,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M000",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M001",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 155,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M002",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M003",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 120,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M004",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 337,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M005",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 360,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M006",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M007",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M008",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M009",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M010",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M011",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 272,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M012",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M013",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M014",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M015",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M016",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 153,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M017",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M018",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M019",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M020",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M021",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M022",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M023",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M024",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M025",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M026",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M027",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M028",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M029",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M030",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M031",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M032",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M033",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M034",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M035",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M036",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M037",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M038",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M039",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M040",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 169,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M041",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 160,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M042",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 160,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M043",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M044",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M045",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M046",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M047",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M048",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 195,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M049",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M050",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 195,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M051",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M052",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 146,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M053",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M054",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M055",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 375,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M056",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 307,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M057",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 307,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M058",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 153,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M059",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M060",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M061",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M062",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M063",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M064",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 395,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M065",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M066",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M067",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M068",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M069",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M070",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 838,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M071",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 945,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M072",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 141,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M074",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 127,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M075",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M076",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 269,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M252",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M253",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M254",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "release_G16_M255",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "42a42af2e5cace22ac5e8ba72fac75508bae4c63963f7ed580efc15c2a4aaa5a",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G06_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 484,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G06_M099",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 414,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M000",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M001",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 155,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M002",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 134,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M003",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 120,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M004",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 337,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M005",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 360,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M006",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M007",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M008",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M009",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M010",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M011",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 272,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M012",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M013",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M014",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M015",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M016",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 153,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M017",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M018",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M019",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M020",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M021",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M022",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M023",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M024",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 244,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M025",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M026",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M027",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M028",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M029",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M030",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M031",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M032",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M033",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 223,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M034",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M035",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M036",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 286,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M037",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M038",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M039",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M040",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 169,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M041",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 160,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M042",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 160,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M043",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M044",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M045",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M046",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M047",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 258,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M048",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 195,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M049",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M050",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 195,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M051",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 183,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M052",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 146,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M053",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 188,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M054",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M055",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 375,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M056",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 307,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M057",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 307,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M058",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 153,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M059",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 174,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M060",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 209,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M061",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 176,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M062",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M063",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M064",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 395,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M065",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M066",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 251,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M067",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M068",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M069",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 167,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M070",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 838,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M071",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 945,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M072",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 141,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M074",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 127,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M075",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M076",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 269,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M252",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M253",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 230,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M254",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 202,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_G16_M255",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 181,
+    "target_completed": "true",
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  },
+  {
+    "run": "verified_slot_native",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "fbb47d2c48b694485f2c16cd6b9677147d647bd5efc5548124c7d5b5adb93379",
+    "frames": 1200,
+    "target_completed": null,
+    "diagnostic_retention": "logs, plans, screenshots; final release additionally retains memory dumps/CDL/checkpoint"
+  }
+]

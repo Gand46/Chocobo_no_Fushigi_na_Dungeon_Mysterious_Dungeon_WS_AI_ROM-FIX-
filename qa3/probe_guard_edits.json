@@ -1,0 +1,12 @@
+[
+  {
+    "offset": "0x154392",
+    "before": "bf9001c1e102",
+    "after": "e9abb9909090"
+  },
+  {
+    "offset": "0x15fd40",
+    "before": "ffffffffffffffffffffffffffffffffff",
+    "after": "83f9ff7503e98447bf9001c1e102e94746"
+  }
+]

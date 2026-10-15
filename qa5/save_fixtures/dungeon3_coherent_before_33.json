@@ -1,0 +1,12 @@
+{
+  "method": "SYNTHETIC_PROGRESS_FLAGS",
+  "source": "qa5/save_fixtures/dungeon3_before_33.sav",
+  "source_sha256": "3b8e7a70d8c0fbefabfddc178cb7c061bdbbab92a3492ef247e271fc36a6bcf7",
+  "sha256": "b834cd34689c171b4e039aff3de095e85efd174ff1013156eb222bf365da2b7d",
+  "mutations": {
+    "saved_730a_bit8000": true,
+    "saved_730c_bit4": true
+  },
+  "reason": "Match native routine 18C88E encoding dungeon completion",
+  "not_natural_playthrough": true
+}

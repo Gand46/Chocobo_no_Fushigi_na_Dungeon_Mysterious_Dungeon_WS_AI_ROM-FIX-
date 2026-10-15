@@ -1,0 +1,32 @@
+{
+  "revision": "QA16_M2",
+  "layout_completed": 2,
+  "layout_base_total": 4,
+  "layout_base_remaining": 2,
+  "estimate_is_guarantee": false,
+  "unknown_contexts_explicit": true,
+  "linguistic_track": "SEPARATE_NOT_COMPLETED_BY_M1",
+  "iterations": [
+    {
+      "id": "M1",
+      "status": "COMPLETE_BOUNDED_INVENTORY_AND_ONE_FIX",
+      "work": "Map preset/consumer tables, controls, stable IDs, candidate widths and sampled native bindings; correct G05:M002."
+    },
+    {
+      "id": "M2",
+      "status": "EXECUTED_BOUNDED_WITH_OPEN_CONTEXT_CANDIDATE",
+      "work": "Menus/status/magic/inventory and native Buy/Sell synthetic flows. Sixteen scoped runs passed. Candidate M2-C01 retained; no ROM edit justified."
+    },
+    {
+      "id": "M3",
+      "status": "PENDING",
+      "work": "Dialogue/tutorial/event/credits layout. Resolve13 queued alerts, separate padding and special consumers, repairG03:M012 with linguistic provenance, exercise9 dynamic resources and native page/scroll variants. Map credit consumer before assuming getter coverage."
+    },
+    {
+      "id": "M4",
+      "status": "PENDING",
+      "work": "Integrate changes and bilingual edits, rerun affected native contexts, reconcile exclusions and coverage, build cumulative patch and close only verified scope. Resolve M2-C01 reachability before changing shared F00:I053."
+    }
+  ],
+  "reestimate_trigger": "Additional consumers/variants or unresolved source meaning exceed the bounded lots. Three remaining is a planning count, not a promise that unknowns are already covered."
+}

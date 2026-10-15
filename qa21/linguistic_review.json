@@ -1,0 +1,2563 @@
+[
+  {
+    "id": "G06:M000",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_00.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M000/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M001",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_00.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M001/page_01.png",
+      "evidence/qa21_runs/verified_G06_M001/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M002",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Ah, you are that moogle's friend.",
+    "reason": "Afirmación, no pregunta sobre la amistad.",
+    "japanese_source_sheet": "qa21/audit_00.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M002/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M003",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "That moogle said he could not stay at the inn and asked me to lend him a house.",
+    "reason": "No afirma falta de habitaciones; pide una casa prestada.",
+    "japanese_source_sheet": "qa21/audit_00.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M003/page_01.png",
+      "evidence/qa21_runs/verified_G06_M003/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M004",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "He went ahead and took the key to the empty house!",
+    "reason": "Restituye casa vacía y acción unilateral.",
+    "japanese_source_sheet": "qa21/audit_00.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M004/page_01.png",
+      "evidence/qa21_runs/verified_G06_M004/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M005",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_00.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M005/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M006",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_00.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M006/page_01.png",
+      "evidence/qa21_runs/verified_G06_M006/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M007",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_00.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M007/page_01.png",
+      "evidence/qa21_runs/verified_G06_M007/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M008",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_01.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M008/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M009",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_01.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M009/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M010",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I hear you have been bringing back all sorts of items lately.",
+    "reason": "Restituye información recibida y tiempo verbal.",
+    "japanese_source_sheet": "qa21/audit_01.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M010/page_01.png",
+      "evidence/qa21_runs/verified_G06_M010/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M011",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_01.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M011/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M012",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I see... Something possessed {Camilla's Dad}, and he built a dungeon under the inn.",
+    "reason": "Posesión y construcción, no rapto ni encargo.",
+    "japanese_source_sheet": "qa21/audit_01.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M012/page_01.png",
+      "evidence/qa21_runs/verified_G06_M012/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M013",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_01.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M013/page_01.png",
+      "evidence/qa21_runs/verified_G06_M013/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M014",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_01.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M014/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M015",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Yes, Professor!",
+    "reason": "先生: tratamiento coherente del investigador.",
+    "japanese_source_sheet": "qa21/audit_01.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M015/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M016",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Do you remember the four books found when this village was founded?",
+    "reason": "Corrige gramática y pregunta original.",
+    "japanese_source_sheet": "qa21/audit_02.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M016/page_01.png",
+      "evidence/qa21_runs/verified_G06_M016/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M017",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_02.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M017/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M018",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Could you find them for me?",
+    "reason": "探す: buscar, no mirar.",
+    "japanese_source_sheet": "qa21/audit_02.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M018/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M019",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Thank you for telling me. This may help us learn something.",
+    "reason": "Agradece información; no elogia educación ni interroga.",
+    "japanese_source_sheet": "qa21/audit_02.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M019/page_01.png",
+      "evidence/qa21_runs/verified_G06_M019/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M020",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_02.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M020/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M021",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_02.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M021/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M022",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_02.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M022/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M023",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_02.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M023/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M024",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_03.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M024/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M025",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_03.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M025/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M026",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Good to see you. We found two books!",
+    "reason": "Saludo y hallazgo; no mérito atribuido al visitante.",
+    "japanese_source_sheet": "qa21/audit_03.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M026/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M027",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "{Regla} will tell you about the other book.",
+    "reason": "Corrige sujeto, destinatario y futuro.",
+    "japanese_source_sheet": "qa21/audit_03.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M027/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M028",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "It is a mysterious book.",
+    "reason": "Restituye referente.",
+    "japanese_source_sheet": "qa21/audit_03.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M028/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M029",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I will look for the other two books as well.",
+    "reason": "Restituye cantidad dos.",
+    "japanese_source_sheet": "qa21/audit_03.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M029/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M030",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Hello. We found two books! The Professor has one of them.",
+    "reason": "Dos libros, no segundo libro; tratamiento coherente.",
+    "japanese_source_sheet": "qa21/audit_03.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M030/page_01.png",
+      "evidence/qa21_runs/verified_G06_M030/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M031",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "It is a fascinating book.",
+    "reason": "興味深い: interesante, no peculiar.",
+    "japanese_source_sheet": "qa21/audit_03.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M031/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M032",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_04.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M032/page_01.png",
+      "evidence/qa21_runs/verified_G06_M032/page_02.png",
+      "evidence/qa21_runs/verified_G06_M032/page_03.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M033",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_04.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M033/page_01.png",
+      "evidence/qa21_runs/verified_G06_M033/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M034",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_04.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M034/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M035",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_04.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M035/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M036",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_04.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M036/page_01.png",
+      "evidence/qa21_runs/verified_G06_M036/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M037",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_04.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M037/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M038",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_04.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M038/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M039",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I will put the {Monster File} on the far right shelf. Feel free to read it.",
+    "reason": "Estante extremo derecho, espacio y permiso.",
+    "japanese_source_sheet": "qa21/audit_04.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M039/page_01.png",
+      "evidence/qa21_runs/verified_G06_M039/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M040",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I will look for the other two books as well.",
+    "reason": "Restituye cantidad dos.",
+    "japanese_source_sheet": "qa21/audit_05.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M040/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M041",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_05.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M041/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M042",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_05.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M042/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M043",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_05.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M043/page_01.png",
+      "evidence/qa21_runs/verified_G06_M043/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M044",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Train yourself and strengthen your weapons and armor!",
+    "reason": "Redacción natural de entrenamiento y mejora.",
+    "japanese_source_sheet": "qa21/audit_05.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M044/page_01.png",
+      "evidence/qa21_runs/verified_G06_M044/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M045",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_05.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M045/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M046",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_05.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M046/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M047",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Try using everything and learn from experience!",
+    "reason": "Restituye uso y aprendizaje práctico.",
+    "japanese_source_sheet": "qa21/audit_05.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M047/page_01.png",
+      "evidence/qa21_runs/verified_G06_M047/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M048",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "If your Energy runs out, you will start losing HP.",
+    "reason": "Gramática y condición de pérdida gradual de HP.",
+    "japanese_source_sheet": "qa21/audit_06.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M048/page_01.png",
+      "evidence/qa21_runs/verified_G06_M048/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M049",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_06.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M049/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M050",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "If you fall in a dungeon, your level drops by one.",
+    "reason": "Restituye condición dentro de mazmorra.",
+    "japanese_source_sheet": "qa21/audit_06.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M050/page_01.png",
+      "evidence/qa21_runs/verified_G06_M050/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M051",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_06.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M051/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M052",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_06.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M052/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M053",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_06.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M053/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M054",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "The Professor has the fourth book.",
+    "reason": "Tratamiento coherente.",
+    "japanese_source_sheet": "qa21/audit_06.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M054/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M055",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_06.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M055/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M056",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_07.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M056/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M057",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_07.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M057/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M058",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_07.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M058/page_01.png",
+      "evidence/qa21_runs/verified_G06_M058/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M059",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_07.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M059/page_01.png",
+      "evidence/qa21_runs/verified_G06_M059/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M060",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "{Camilla's Dad} is a gentle chocobo with few desires, so things did not get too serious.",
+    "reason": "Restituye consecuencia omitida, evita repetir deseos.",
+    "japanese_source_sheet": "qa21/audit_07.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M060/page_01.png",
+      "evidence/qa21_runs/verified_G06_M060/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M061",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "But {Atla}... Surely you understand his desires better than anyone?",
+    "reason": "君: interlocutor, no Atla; enlace con deseo previo.",
+    "japanese_source_sheet": "qa21/audit_07.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M061/page_01.png",
+      "evidence/qa21_runs/verified_G06_M061/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M062",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_07.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M062/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M063",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "The Professor has the book.",
+    "reason": "Tratamiento coherente.",
+    "japanese_source_sheet": "qa21/audit_07.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M063/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M064",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Those consumed by the Tyrian Crystal create a dungeon as deep as their own desires.",
+    "reason": "Restituye creación activa y relación con deseos.",
+    "japanese_source_sheet": "qa21/audit_08.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M064/page_01.png",
+      "evidence/qa21_runs/verified_G06_M064/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M065",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Many strange items lie within. It drains the souls of adventurers who enter in search of them.",
+    "reason": "Corrige seeked y presente; restituye drenaje de almas.",
+    "japanese_source_sheet": "qa21/audit_08.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M065/page_01.png",
+      "evidence/qa21_runs/verified_G06_M065/page_02.png",
+      "evidence/qa21_runs/verified_G06_M065/page_03.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M066",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "After absorbing many souls, the Tyrian Crystal grows, splits, and spreads across the world.",
+    "reason": "Restituye división omitida y secuencia causal.",
+    "japanese_source_sheet": "qa21/audit_08.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M066/page_01.png",
+      "evidence/qa21_runs/verified_G06_M066/page_02.png",
+      "evidence/qa21_runs/verified_G06_M066/page_03.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M067",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "We must seal the Tyrian Crystal before that happens. But how can we seal it?",
+    "reason": "Restituye prevención y referente, sin desplazar frase anterior.",
+    "japanese_source_sheet": "qa21/audit_08.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M067/page_01.png",
+      "evidence/qa21_runs/verified_G06_M067/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M068",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "All we could do was defeat the one it had consumed and bury it deep underground.",
+    "reason": "Restituye limitación y persona poseída.",
+    "japanese_source_sheet": "qa21/audit_08.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M068/page_01.png",
+      "evidence/qa21_runs/verified_G06_M068/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M069",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_08.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M069/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M070",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_08.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M070/page_01.png",
+      "evidence/qa21_runs/verified_G06_M070/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M071",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_08.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M071/page_01.png",
+      "evidence/qa21_runs/verified_G06_M071/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M072",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Touch the front of the book to keep your level. Touch the back to start over from level one. I do not understand what this means...",
+    "reason": "Redacción clara de la pista; conserva perplejidad.",
+    "japanese_source_sheet": "qa21/audit_09.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M072/page_01.png",
+      "evidence/qa21_runs/verified_G06_M072/page_02.png",
+      "evidence/qa21_runs/verified_G06_M072/page_03.png",
+      "evidence/qa21_runs/verified_G06_M072/page_04.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M074",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_09.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M074/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M075",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_09.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M075/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M076",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_09.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M076/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M077",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Another mysterious book!",
+    "reason": "Redacción natural y referente.",
+    "japanese_source_sheet": "qa21/audit_09.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M077/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M078",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_09.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M078/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M079",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_09.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M079/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M080",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Yes, that is right. This one works the same way.",
+    "reason": "これもそう: confirmación, no entrega Here.",
+    "japanese_source_sheet": "qa21/audit_09.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M080/page_01.png",
+      "evidence/qa21_runs/verified_G06_M080/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M081",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Let us call this book the {Item File}.",
+    "reason": "Repara repetición de línea en ejecución nativa causada por control heredado.",
+    "japanese_source_sheet": "qa21/audit_10.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M081/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M082",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_10.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M082/page_01.png",
+      "evidence/qa21_runs/verified_G06_M082/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M083",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_10.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M083/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M084",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_10.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M084/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M085",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_10.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M085/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M086",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_10.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M086/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M087",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_10.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M087/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M088",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_10.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M088/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M089",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_11.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M089/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M090",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_11.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M090/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M091",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "The dungeon has appeared for the third time.",
+    "reason": "Restituye tercera aparición.",
+    "japanese_source_sheet": "qa21/audit_11.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M091/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M092",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "The Professor and I are investigating a theory.",
+    "reason": "Trabajo conjunto presente, no idea por consultar.",
+    "japanese_source_sheet": "qa21/audit_11.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M092/page_01.png",
+      "evidence/qa21_runs/verified_G06_M092/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M093",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_11.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M093/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M094",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_11.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M094/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M095",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_11.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M095/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M096",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "This is the very dungeon they wished for.",
+    "reason": "Continúa percepción de aldeanos; elimina residuo asbl.",
+    "japanese_source_sheet": "qa21/audit_11.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M096/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M097",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_12.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M097/end_text.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M098",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_12.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M098/page_01.png",
+      "evidence/qa21_runs/verified_G06_M098/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G06:M100",
+    "status": "NEEDS_CONTEXT",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_12.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M100/page_01.png"
+    ],
+    "context_limit": "Depuración: consumidor real pendiente."
+  },
+  {
+    "id": "G06:M101",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_12.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G06_M101/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G07:M000",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "The village has grown quite large!",
+    "reason": "Texto inglés ilegible; restituye crecimiento del pueblo.",
+    "japanese_source_sheet": "qa21/audit_12.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G07_M000/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G07:M001",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I wonder how much more it will change.",
+    "reason": "かわる: cambiar, no saber.",
+    "japanese_source_sheet": "qa21/audit_12.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G07_M001/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G07:M002",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "There is still room for more changes.",
+    "reason": "かわる: cambios del pueblo, no comprensión personal.",
+    "japanese_source_sheet": "qa21/audit_12.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G07_M002/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G07:M003",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "A few more things will change.",
+    "reason": "かわる: cambiar, no entender.",
+    "japanese_source_sheet": "qa21/audit_12.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G07_M003/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G07:M004",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_13.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G07_M004/end_text.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M000",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_13.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M000/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M001",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_13.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M001/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M002",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_13.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M002/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M003",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "He said he would bring lots of items soon and asked me to make room in the storehouse.",
+    "reason": "Pide espacio libre; no alquiler explícito.",
+    "japanese_source_sheet": "qa21/audit_13.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M003/page_01.png",
+      "evidence/qa21_runs/verified_G08_M003/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M004",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Could he have found a dungeon?",
+    "reason": "Pregunta si encontró una mazmorra; no objetos en ella.",
+    "japanese_source_sheet": "qa21/audit_13.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M004/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M005",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_13.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M005/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M006",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_13.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M006/page_01.png",
+      "evidence/qa21_runs/verified_G08_M006/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M007",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_14.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M007/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M008",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_14.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M008/page_01.png",
+      "evidence/qa21_runs/verified_G08_M008/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M009",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_14.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M009/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M010",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_14.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M010/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M011",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_14.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M011/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M012",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Do not push yourself too hard. Take your time.",
+    "reason": "Inglés natural; consejo de no esforzarse demasiado.",
+    "japanese_source_sheet": "qa21/audit_14.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M012/page_01.png",
+      "evidence/qa21_runs/verified_G08_M012/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M013",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_14.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M013/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M014",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_14.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M014/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M015",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_15.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M015/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M016",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_15.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M016/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M017",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_15.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M017/page_01.png",
+      "evidence/qa21_runs/verified_G08_M017/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M018",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I hear {Mill} is going to live with {Chip}.",
+    "reason": "Restituye futuro y noticia recibida; espacio entre palabras.",
+    "japanese_source_sheet": "qa21/audit_15.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M018/page_01.png",
+      "evidence/qa21_runs/verified_G08_M018/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M019",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_15.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M019/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M020",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "{Chip} and {Mill} have had babies! Three of them!",
+    "reason": "Gramática de nacimiento múltiple.",
+    "japanese_source_sheet": "qa21/audit_15.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M020/page_01.png",
+      "evidence/qa21_runs/verified_G08_M020/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M021",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_15.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M021/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M022",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_15.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M022/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M023",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "It seems the scarecrow in the field has been possessed this time.",
+    "reason": "Posesión clara, no taken in ambiguo.",
+    "japanese_source_sheet": "qa21/audit_16.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M023/page_01.png",
+      "evidence/qa21_runs/verified_G08_M023/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M024",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Perhaps these desires did not come from just one heart.",
+    "reason": "Restituye deseos y origen.",
+    "japanese_source_sheet": "qa21/audit_16.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M024/page_01.png",
+      "evidence/qa21_runs/verified_G08_M024/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M025",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_16.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M025/page_01.png",
+      "evidence/qa21_runs/verified_G08_M025/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M026",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I think I understand. That dungeon reflects the hearts of everyone in the village, expressed through the scarecrow.",
+    "reason": "Corrige dirección de transmisión y relación mazmorra-corazones.",
+    "japanese_source_sheet": "qa21/audit_16.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M026/page_01.png",
+      "evidence/qa21_runs/verified_G08_M026/page_02.png",
+      "evidence/qa21_runs/verified_G08_M026/page_03.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M027",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_16.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M027/page_01.png",
+      "evidence/qa21_runs/verified_G08_M027/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G08:M028",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Hmm... It feels as if the Tyrian Crystal is deceiving us...",
+    "reason": "Repara nombre ilegible y perspectiva del hablante.",
+    "japanese_source_sheet": "qa21/audit_16.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G08_M028/page_01.png",
+      "evidence/qa21_runs/verified_G08_M028/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M000",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_16.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M000/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M001",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_16.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M001/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M002",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I have been calling for a while, but no one comes out. {Poulet}, help me call them!",
+    "reason": "Gramática de acción continuada.",
+    "japanese_source_sheet": "qa21/audit_17.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M002/page_01.png",
+      "evidence/qa21_runs/verified_G10_M002/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M003",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_17.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M003/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M004",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_17.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M004/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M005",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_17.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M005/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M006",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_17.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M006/page_01.png",
+      "evidence/qa21_runs/verified_G10_M006/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M007",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Rare items?",
+    "reason": "レアアイテム: término que la frase siguiente define.",
+    "japanese_source_sheet": "qa21/audit_17.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M007/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M008",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_17.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M008/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M009",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_17.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M009/page_01.png",
+      "evidence/qa21_runs/verified_G10_M009/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M010",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_18.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M010/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M011",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_18.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M011/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M012",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_18.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M012/page_01.png",
+      "evidence/qa21_runs/verified_G10_M012/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M013",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_18.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M013/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M014",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_18.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M014/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M015",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_18.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M015/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M016",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_18.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M016/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M017",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "It will be fine! Just watch me.",
+    "reason": "Restituye invitación a observar.",
+    "japanese_source_sheet": "qa21/audit_18.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M017/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M018",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Let me see...",
+    "reason": "どれどれ: inspección.",
+    "japanese_source_sheet": "qa21/audit_19.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M018/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M019",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_19.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M019/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M020",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_19.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M020/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M021",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_19.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M021/page_01.png",
+      "evidence/qa21_runs/verified_G10_M021/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M022",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "You are as slow as ever! I do not know how, but we are in a dungeon. And we found treasure right away!",
+    "reason": "Restituye sorpresa y secuencia, no causalidad inventada.",
+    "japanese_source_sheet": "qa21/audit_19.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M022/page_01.png",
+      "evidence/qa21_runs/verified_G10_M022/page_02.png",
+      "evidence/qa21_runs/verified_G10_M022/page_03.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M023",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_19.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M023/page_01.png",
+      "evidence/qa21_runs/verified_G10_M023/page_02.png",
+      "evidence/qa21_runs/verified_G10_M023/page_03.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M024",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_19.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M024/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M025",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_19.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M025/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M026",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Ow, ow! What happened this time?",
+    "reason": "Dolor y repetición.",
+    "japanese_source_sheet": "qa21/audit_20.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M026/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M027",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Oh, we are in front of the inn. Huh? In front of the inn?!",
+    "reason": "Restituye reconocimiento seguido de sorpresa.",
+    "japanese_source_sheet": "qa21/audit_20.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M027/page_01.png",
+      "evidence/qa21_runs/verified_G10_M027/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M028",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_20.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M028/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M029",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_20.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M029/page_01.png",
+      "evidence/qa21_runs/verified_G10_M029/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M030",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Well, that does not matter right now.",
+    "reason": "No ordena seguir caminando.",
+    "japanese_source_sheet": "qa21/audit_20.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M030/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M031",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "The point is, that dungeon could be full of rare items!",
+    "reason": "Restituye cantidad y posibilidad, término rare items.",
+    "japanese_source_sheet": "qa21/audit_20.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M031/page_01.png",
+      "evidence/qa21_runs/verified_G10_M031/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G10:M032",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I will find us a place to stay. {Poulet}, get the gear you need to explore the dungeon. See you later!",
+    "reason": "Restituye equipo y despedida omitidos.",
+    "japanese_source_sheet": "qa21/audit_20.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G10_M032/page_01.png",
+      "evidence/qa21_runs/verified_G10_M032/page_02.png",
+      "evidence/qa21_runs/verified_G10_M032/page_03.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M000",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_20.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M000/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M001",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_21.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M001/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M002",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_21.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M002/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M003",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_21.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M003/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M004",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "A pleasure to make your acquaintance.",
+    "reason": "Fórmula de presentación, no recuerdo previo.",
+    "japanese_source_sheet": "qa21/audit_21.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M004/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M005",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_21.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M005/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M006",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_21.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M006/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M007",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_21.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M007/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M008",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_21.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M008/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M009",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_22.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M009/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M010",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_22.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M010/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M011",
+    "status": "NEEDS_CONTEXT",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_22.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M011/end_text.png"
+    ],
+    "context_limit": "Fragmento de cantidad de plantas: falta el número y la ventana compuesta del consumidor."
+  },
+  {
+    "id": "G11:M012",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_22.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M012/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M013",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_22.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M013/page_01.png",
+      "evidence/qa21_runs/verified_G11_M013/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M014",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_22.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M014/page_01.png",
+      "evidence/qa21_runs/verified_G11_M014/page_02.png",
+      "evidence/qa21_runs/verified_G11_M014/page_03.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M015",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_22.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M015/page_01.png",
+      "evidence/qa21_runs/verified_G11_M015/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M016",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_22.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M016/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M017",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_23.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M017/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M018",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_23.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M018/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M019",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_23.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M019/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M020",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_23.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M020/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M021",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_23.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M021/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M022",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_23.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M022/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M023",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_23.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M023/page_01.png",
+      "evidence/qa21_runs/verified_G11_M023/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M024",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_23.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M024/page_01.png",
+      "evidence/qa21_runs/verified_G11_M024/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M025",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_24.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M025/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M026",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_24.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M026/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M027",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_24.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M027/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M028",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_24.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M028/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M029",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_24.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M029/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M030",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_24.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M030/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M031",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_24.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M031/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M032",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_24.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M032/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M033",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_25.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M033/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M034",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "He does not think that way?",
+    "reason": "Repite negación de pensamiento, no mentira.",
+    "japanese_source_sheet": "qa21/audit_25.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M034/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M035",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Indeed, he thinks nothing of you at all.",
+    "reason": "Conserva tercera persona y giro amenazante.",
+    "japanese_source_sheet": "qa21/audit_25.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M035/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M036",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_25.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M036/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M037",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_25.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M037/page_01.png",
+      "evidence/qa21_runs/verified_G11_M037/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M038",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Thank you for all your hard work, {Krehl}.",
+    "reason": "Se dirige directamente a Krehl.",
+    "japanese_source_sheet": "qa21/audit_25.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M038/page_01.png",
+      "evidence/qa21_runs/verified_G11_M038/page_02.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  },
+  {
+    "id": "G11:M039",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y lectura nativa del caso sintético.",
+    "japanese_source_sheet": "qa21/audit_25.png",
+    "final_images": [
+      "evidence/qa21_runs/verified_G11_M039/page_01.png"
+    ],
+    "context_limit": "Selección sintética en el motor original; no acredita interlocutor ni recorrido natural."
+  }
+]

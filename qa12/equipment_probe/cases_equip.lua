@@ -1,0 +1,1 @@
+return {{name="base65",id=0x65,mode="check"},{name="aux65",id=0x65,level=99,aux=1,flags=1,mode="check"},{name="auxC0",id=0xC0,level=99,aux=1,flags=1,mode="check"}}

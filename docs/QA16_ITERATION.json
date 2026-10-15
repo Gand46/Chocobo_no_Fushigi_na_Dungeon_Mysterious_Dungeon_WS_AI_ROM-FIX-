@@ -1,0 +1,23 @@
+{
+  "start": {
+    "start_utc": "2026-10-14T20:53:49Z",
+    "emergency_cap_minutes": 40,
+    "scope": "M2 interfaces and variables"
+  },
+  "status": "EXECUTED_BOUNDED_WITH_CANDIDATE_OPEN",
+  "layout_iteration": 2,
+  "base_total": 4,
+  "rom_changed": false,
+  "patch_changed": false,
+  "critical_findings": [
+    "16 scoped synthetic passes",
+    "M2-C01 forced-page clipping; valid consumer context unresolved"
+  ],
+  "additional_agents": 0,
+  "token_savings": "NOT_MEASURED",
+  "closed_functional_paths_rerun": false,
+  "sealed_utc": "2026-10-14T21:21:14.454259+00:00",
+  "verification_checks": 343,
+  "approved_runs": 16,
+  "diagnostic_runs": 20
+}

@@ -1,0 +1,4 @@
+local p={frames=1200,capture_every=30,moves={{20,75,'up'},{160,164,'a'},{450,454,'a'},{800,804,'a'},{1100,1104,'b'},{1300,1304,'down'},{1500,1504,'a'},{1800,1804,'a'},{2100,2104,'a'},{2400,2404,'a'},{2700,2704,'b'},{3000,3004,'b'},{3300,3304,'a'},{3600,3604,'b'},{3900,3904,'b'}}}
+local changed=false
+emu.addMemoryCallback(function()local sr=emu.memType.wsCartRam;if not changed and emu.getState()['cpu.cs']==0x4000 and emu.read(0x649b,sr)==0xe1 and emu.read16(0x64a1,sr)==0x1da2 then emu.write(0x649b,0xe0,sr);emu.write16(0x64a1,0x11c3,sr);changed=true end end,emu.callbackType.exec,0x4d160,0x4d160,emu.cpuType.ws)
+local o=assert(loadfile(os.getenv('LAYOUT_OBSERVER')))();p.tick=function(f,save,memory)o.tick(f,save,memory);if f==p.frames then save('injection.txt',tostring(changed));o.finish(save)end end;return p

@@ -1,0 +1,558 @@
+[
+  {
+    "path": ".gitignore",
+    "matches_supplied": true
+  },
+  {
+    "path": "BUILD.bat",
+    "matches_supplied": true
+  },
+  {
+    "path": "BUILD.command",
+    "matches_supplied": true
+  },
+  {
+    "path": "README.md",
+    "matches_supplied": true
+  },
+  {
+    "path": "assets/backplate_native.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "assets/layout.json",
+    "matches_supplied": true
+  },
+  {
+    "path": "assets/subtitle_native.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "assets/wordmark_indices.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "assets/wordmark_mask.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "assets/wordmark_native.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "authoring/PROVENANCE.json",
+    "matches_supplied": true
+  },
+  {
+    "path": "authoring/backplate_master.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "authoring/subtitle_master.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "authoring/wordmark_master.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/Chocobo_WS_Logo_EN_224x144.gif",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/Chocobo_WS_Logo_EN_224x144.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/Chocobo_WS_Logo_EN_4x.gif",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/Chocobo_WS_Logo_EN_4x.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/Chocobo_WS_Logo_EN_All_States.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/Chocobo_WS_Logo_EN_Comparison.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/Chocobo_WS_Logo_EN_Frame_Viewer.html",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/edit_mask.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_000.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_001.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_002.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_003.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_004.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_005.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_006.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_007.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_008.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_009.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_010.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_011.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_012.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_013.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_014.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_015.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_016.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_017.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_018.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_019.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_020.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_021.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_022.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_023.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_024.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_025.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_026.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_027.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_028.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_029.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_030.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_031.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_032.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_033.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_034.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_035.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_036.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_037.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_038.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_039.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_040.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_041.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_042.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_043.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_044.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_045.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_046.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_047.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_048.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_049.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_050.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_051.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_052.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_053.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_054.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_055.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_056.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_057.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_058.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_059.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_060.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_061.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_062.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_063.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_064.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_065.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_066.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_067.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_068.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_069.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_070.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_071.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_072.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_073.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_074.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_075.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_076.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_077.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_078.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_079.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_080.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_081.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_082.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_083.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_084.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_085.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_086.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_087.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_088.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_089.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/frames/frame_090.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/original_motion_mask.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/tiles/map_deltas.json",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/tiles/pattern_atlas.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/tiles/state_00.map16le",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/tiles/state_01.map16le",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/tiles/state_02.map16le",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/tiles/state_03.map16le",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/tiles/state_04.map16le",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/tiles/state_05.map16le",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/tiles/title_patterns.2bpp",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/timeline.csv",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/unique/state_00.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/unique/state_01.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/unique/state_02.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/unique/state_03.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/unique/state_04.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/unique/state_05.png",
+    "matches_supplied": true
+  },
+  {
+    "path": "build/validation.json",
+    "matches_supplied": true
+  },
+  {
+    "path": "docs/ESTADO_Y_DISENO.md",
+    "matches_supplied": true
+  },
+  {
+    "path": "docs/reproducibility.txt",
+    "matches_supplied": true
+  },
+  {
+    "path": "references/switch_lettering_reference.jpg",
+    "matches_supplied": true
+  },
+  {
+    "path": "references/title_original.gif",
+    "matches_supplied": true
+  },
+  {
+    "path": "requirements.txt",
+    "matches_supplied": true
+  },
+  {
+    "path": "tools/build.py",
+    "matches_supplied": true
+  },
+  {
+    "path": "tools/prepare_assets.py",
+    "matches_supplied": true
+  },
+  {
+    "path": "tools/review_template.html",
+    "matches_supplied": true
+  }
+]

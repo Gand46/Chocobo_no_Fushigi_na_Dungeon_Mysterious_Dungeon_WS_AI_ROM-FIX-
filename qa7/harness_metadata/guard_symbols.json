@@ -1,0 +1,23 @@
+{
+  "normal_save": 64128,
+  "alternate_save": 64155,
+  "recognize": 64180,
+  "normal_protected": 64208,
+  "alt_marker": 64218,
+  "alt_protected": 64244,
+  "recognized": 64254,
+  "begin_save": 64255,
+  "crc_payload": 64284,
+  "crc_byte": 64293,
+  "crc_bit": 64298,
+  "crc_no_xor": 64306,
+  "commit_save": 64313,
+  "commit_alt": 64345,
+  "commit_done": 64364,
+  "validate_save": 64370,
+  "validation_done": 64422,
+  "guard_end": 64425,
+  "__bss_start": 65536,
+  "_edata": 65536,
+  "_end": 65536
+}

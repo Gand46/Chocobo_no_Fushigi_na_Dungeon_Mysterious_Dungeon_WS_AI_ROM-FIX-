@@ -1,0 +1,11 @@
+{
+  "purpose": "TEST HARNESS ONLY, not a playable release",
+  "parent_sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+  "sha256": "c8e50d6ee4567b79d5445758ee23192b065fa730b58ebb9ea3a522c6abf40c04",
+  "cases": 3,
+  "changes": [
+    "validator entry dispatches harness19FC00",
+    "harness saves DS, sets DS=1000 SRAM segment, calls release validator9000:FB72 for each case, restores DS",
+    "ROM checksum"
+  ]
+}

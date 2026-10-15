@@ -1,0 +1,13 @@
+references 64 used 0x6f708 sha 14abf199753631e907e80092ce50f4e48d7eb139f31964cdc8897b9d6bf51c00
+{
+  "source_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+  "legacy_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+  "target_sha256": "14abf199753631e907e80092ce50f4e48d7eb139f31964cdc8897b9d6bf51c00",
+  "bps_sha256": "5f1c59ee00a6e564ff007518aa86e46b40eb9f94dc0f410fd702df0db8a6e78a",
+  "changed_bytes_vs_legacy": 14537,
+  "unexpected_changed_offsets": 0,
+  "checksum": "6555",
+  "roundtrip": "PASS",
+  "release_hash_verified": true,
+  "editable_regeneration": "PASS_EXACT_ROM_AND_EDITS"
+}

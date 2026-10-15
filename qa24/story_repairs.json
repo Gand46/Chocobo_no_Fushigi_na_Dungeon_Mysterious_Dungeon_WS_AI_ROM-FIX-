@@ -1,0 +1,49 @@
+{
+  "G00:M253": {
+    "mode": "control_argument",
+    "offset": "0x1b30fd",
+    "before": "0001",
+    "after": "0100",
+    "reason": "Restore JP FFF4 selector 0001: 32-bit money from SRAM72FD/72FF, rather than selector0100 reading SRAM67C6."
+  },
+  "G06:M100": {
+    "mode": "story_words",
+    "prefix": [
+      65530,
+      6
+    ],
+    "lines": [
+      "Debug mode!",
+      "Start item trading!"
+    ],
+    "suffix": [
+      65530,
+      0,
+      65522,
+      65535
+    ],
+    "reason": "Natural English for デバッグモード！ここから交換へいく！！; preserve color and pause controls."
+  },
+  "G11:M011": {
+    "mode": "story_words",
+    "lines": [
+      "floors or so later"
+    ],
+    "suffix": [
+      65535
+    ],
+    "allocate": "0x6ffe0",
+    "reason": "Restore temporal あとで in identical JP suffix 階くらいあとで; retain approximate くらい. Shared payload in checked remaining bank06 free space. Natural composed host remains unproven."
+  },
+  "G16:M073": {
+    "mode": "story_words",
+    "lines": [
+      "floors or so later"
+    ],
+    "suffix": [
+      65535
+    ],
+    "allocate": "0x6ffe0",
+    "reason": "Restore temporal あとで in identical JP suffix 階くらいあとで; retain approximate くらい. Shared payload in checked remaining bank06 free space. Natural composed host remains unproven."
+  }
+}

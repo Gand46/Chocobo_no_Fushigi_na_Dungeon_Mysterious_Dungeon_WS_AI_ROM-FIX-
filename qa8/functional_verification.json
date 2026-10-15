@@ -1,0 +1,41 @@
+{
+  "allowed_diff": "PASS",
+  "selector_static_inputs": 256,
+  "selector_changed_ids": [
+    255
+  ],
+  "damage_predicate_static_inputs": 65536,
+  "native_damage_traces": {
+    "q8_lafoss_final": {
+      "damage": 1000,
+      "defense": 0
+    },
+    "q8_lafoss_defense200": {
+      "damage": 800,
+      "defense": 200
+    },
+    "q8_lafoss_defense2000": {
+      "damage": 1,
+      "defense": 2000
+    },
+    "q8_damage_filanes_after": {
+      "damage": 1000,
+      "defense": 0
+    }
+  },
+  "enemy_hp_before_after": [
+    10,
+    0
+  ],
+  "text_native_word_reads": {
+    "before": 5,
+    "after": 4
+  },
+  "text_pixels_identical": true,
+  "cold_load_exact_payloads": [
+    "load_1_copied.sav",
+    "load_2_copied.sav"
+  ],
+  "equipment_valid_cases": 4,
+  "scope": "Static selector comparison is not CPU execution; runtime outcomes are synthetic, not universal gameplay approval."
+}

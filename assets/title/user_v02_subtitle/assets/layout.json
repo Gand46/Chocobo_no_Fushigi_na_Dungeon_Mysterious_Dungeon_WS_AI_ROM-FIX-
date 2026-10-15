@@ -1,0 +1,64 @@
+{
+  "size": [
+    224,
+    144
+  ],
+  "palette_rgb": [
+    [
+      36,
+      36,
+      0
+    ],
+    [
+      146,
+      146,
+      170
+    ],
+    [
+      182,
+      182,
+      170
+    ],
+    [
+      219,
+      219,
+      170
+    ]
+  ],
+  "palette_semantics": "display colors sampled from GIF, not verified hardware palette registers",
+  "wordmark_xy": [
+    34,
+    64
+  ],
+  "wordmark_size": [
+    156,
+    42
+  ],
+  "subtitle_xy": [
+    65,
+    109
+  ],
+  "backplate_rows": [
+    56,
+    104
+  ],
+  "clear_rows": [
+    104,
+    121
+  ],
+  "wordmark_master_crop": [
+    59,
+    40,
+    2044,
+    719
+  ],
+  "subtitle_master_crop": [
+    453,
+    817,
+    1116,
+    899
+  ],
+  "sampling": "nearest neighbor",
+  "transparency": "separate 1-bit mask, alpha threshold 128",
+  "version": "0.1-ART-REVIEW"
+}

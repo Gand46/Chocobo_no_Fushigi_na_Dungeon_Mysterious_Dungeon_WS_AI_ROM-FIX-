@@ -1,0 +1,13 @@
+start,end_exclusive,table,index,slot_bytes,original_ffff_offset,english_word_at_original_ffff,next_english_ffff,status,note
+0x06C6CC,0x06C6D6,0x06C364,53,10,0x06C6D4,00DD,0x06C6DC,NEEDS_NATURAL_CONSUMER_CONTEXT,"Missing FFFF inside the original pointer-delimited slot is an alert, not by itself a gameplay failure."
+0x06C9A6,0x06C9AE,0x06C364,116,8,0x06C9AC,00DD,0x06C9B8,NEEDS_NATURAL_CONSUMER_CONTEXT,"Missing FFFF inside the original pointer-delimited slot is an alert, not by itself a gameplay failure."
+0x06CAA8,0x06CAB8,0x06C364,138,16,0x06CAB6,025D,0x06CAC8,NEEDS_NATURAL_CONSUMER_CONTEXT,"Missing FFFF inside the original pointer-delimited slot is an alert, not by itself a gameplay failure."
+0x06CB0E,0x06CB1A,0x06C364,146,12,0x06CB18,0000,0x06CB24,NEEDS_NATURAL_CONSUMER_CONTEXT,"Missing FFFF inside the original pointer-delimited slot is an alert, not by itself a gameplay failure."
+0x15C894,0x15C8A0,0x15C3B2,77,12,0x15C89E,0367,0x15C8B8,NEEDS_NATURAL_CONSUMER_CONTEXT,"Missing FFFF inside the original pointer-delimited slot is an alert, not by itself a gameplay failure."
+0x15D04A,0x15D060,0x15CF54,11,22,0x15D05E,0000,0x15D0A0,NEEDS_NATURAL_CONSUMER_CONTEXT,"Missing FFFF inside the original pointer-delimited slot is an alert, not by itself a gameplay failure."
+0x15D060,0x15D076,0x15CF54,12,22,0x15D074,0000,0x15D0A0,NEEDS_NATURAL_CONSUMER_CONTEXT,"Missing FFFF inside the original pointer-delimited slot is an alert, not by itself a gameplay failure."
+0x15D076,0x15D08C,0x15CF54,13,22,0x15D08A,0000,0x15D0A0,NEEDS_NATURAL_CONSUMER_CONTEXT,"Missing FFFF inside the original pointer-delimited slot is an alert, not by itself a gameplay failure."
+0x15D608,0x15D60C,0x15D2EC,39,4,0x15D60A,FF00,0x15D620,CROSS_ENTRY_READ_CONFIRMED_SYNTHETIC_ONLY,Controlled word substitution into the actual native menu renderer; natural use of this resource and RAM corruption are NOT validated.
+0x16E6F4,0x16E6FC,0x16E1E0,81,8,0x16E6FA,0000,0x16E6FC,NEEDS_NATURAL_CONSUMER_CONTEXT,"Missing FFFF inside the original pointer-delimited slot is an alert, not by itself a gameplay failure. Following entry is empty; deliberate use of spare space remains possible."
+0x19C708,0x19C718,0x19BFC4,138,16,0x19C716,025D,0x19C728,CROSS_ENTRY_READ_CONFIRMED_SYNTHETIC_ONLY,Controlled word substitution into the actual native menu renderer; natural use of this resource and RAM corruption are NOT validated.
+0x1B3AEF,0x1B3B1B,0x1B312B,39,44,0x1B3B19,FFF2,0x1B3B37,NEEDS_NATURAL_CONSUMER_CONTEXT,"Missing FFFF inside the original pointer-delimited slot is an alert, not by itself a gameplay failure. Ends in FFF2; dialogue-specific control flow must be decoded."

@@ -1,0 +1,14 @@
+[
+  {
+    "new": "G14:M138_payload",
+    "into": "AbilityName_B06_TEXT"
+  },
+  {
+    "new": "G09:M086_name_inplace",
+    "into": "G09:M086_payload"
+  },
+  {
+    "new": "G09:M089_name_inplace",
+    "into": "G09:M089_payload"
+  }
+]

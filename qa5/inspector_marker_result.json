@@ -1,0 +1,30 @@
+{
+  "file": "marker_bad.sav",
+  "bytes": 32768,
+  "sha256": "b7707332e041e4aedc6bf9df237d3ccd1237dc81d050c2aa0e768ec4c843eed6",
+  "markers": {
+    "normal": false,
+    "alternate": false
+  },
+  "any_known_marker": false,
+  "normal_marker_hex": "005f6331",
+  "alternate_marker_hex": "00000000",
+  "payload_range": "75B6..7F89 inclusive",
+  "payload_sha256": "c8365cb18ef2b398552188be16b27d748881baa90c919fe9c5c61405e3e4618b",
+  "saved_fields_observed": {
+    "level": 1,
+    "dungeon": 0,
+    "floor_7303": 3,
+    "destination_7305": 0
+  },
+  "validation_scope": "Signature and byte comparison only; no global integrity or recovery guarantee",
+  "writes_to_input": false,
+  "comparison": {
+    "sha256": "1256b32a835c03cc4a977db10ed9940f29c5a46054fe82d9fa844f533d5bdb43",
+    "changed_bytes": 1,
+    "marker_offsets_changed": [
+      "75B0"
+    ],
+    "payload_changed_bytes": 0
+  }
+}

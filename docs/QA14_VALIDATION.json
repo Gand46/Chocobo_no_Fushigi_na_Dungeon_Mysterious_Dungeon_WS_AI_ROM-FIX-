@@ -1,0 +1,19 @@
+{
+  "status": "PASS_BOUNDED_TITLE_EVIDENCE",
+  "target_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+  "runtime_frames": 1001,
+  "pixels_outside_subtitle": "IDENTICAL_TO_QA11",
+  "subtitle_source_pixels": "EXACT_NATIVE_RUNTIME",
+  "user_main_art": "UNCHANGED",
+  "subtitle_glyph_readings": "13_OF_13_CONTEXT_MASKED",
+  "repeated_glyphs": {
+    "o": "TWO_INSTANCES_PIXEL_IDENTICAL",
+    "r": "TWO_INSTANCES_PIXEL_IDENTICAL",
+    "n": "TWO_INSTANCES_PIXEL_IDENTICAL"
+  },
+  "second_independent_reviewer": false,
+  "global_layout": "NOT_APPROVED",
+  "global_linguistic": "NOT_APPROVED",
+  "binary_comparison": "PASS_TITLE_RESOURCES_AND_CHECKSUM_ONLY",
+  "changed_bytes_vs_hf9": 370
+}

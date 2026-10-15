@@ -1,0 +1,243 @@
+{
+  "G16:M000": [
+    [
+      "New Game"
+    ]
+  ],
+  "G16:M003": [
+    [
+      "Unused"
+    ]
+  ],
+  "G16:M004": [
+    [
+      "Warning!"
+    ],
+    [
+      "The last session did",
+      "not end normally."
+    ]
+  ],
+  "G16:M012": [
+    [
+      "Fountain restored!"
+    ]
+  ],
+  "G16:M013": [
+    [
+      "HP and Energy",
+      "recovered a little!"
+    ]
+  ],
+  "G16:M014": [
+    [
+      "HP and Energy",
+      "recovered a little!"
+    ]
+  ],
+  "G16:M015": [
+    [
+      "HP and Energy",
+      "recovered a little!"
+    ]
+  ],
+  "G16:M020": [
+    [
+      "A little more",
+      "confident in kicking."
+    ]
+  ],
+  "G16:M021": [
+    [
+      "HP and Energy",
+      "fully restored!"
+    ]
+  ],
+  "G16:M022": [
+    [
+      "HP and Energy",
+      "fully restored!"
+    ]
+  ],
+  "G16:M023": [
+    [
+      "HP and Energy",
+      "fully restored!"
+    ]
+  ],
+  "G16:M024": [
+    [
+      "HP and Energy",
+      "fully restored!"
+    ]
+  ],
+  "G16:M025": [
+    [
+      "Poison cured."
+    ]
+  ],
+  "G16:M028": [
+    [
+      "Gained Haste."
+    ]
+  ],
+  "G16:M030": [
+    [
+      "Can no longer read!"
+    ]
+  ],
+  "G16:M032": [
+    [
+      "Cursed gear came off!"
+    ]
+  ],
+  "G16:M033": [
+    [
+      "Forgot all item",
+      "identities!"
+    ]
+  ],
+  "G16:M037": [
+    [
+      "Getting tired."
+    ]
+  ],
+  "G16:M039": [
+    [
+      "Feeling faint."
+    ]
+  ],
+  "G16:M043": [
+    [
+      "The bag is full!"
+    ]
+  ],
+  "G16:M044": [
+    [
+      "Cannot walk properly!"
+    ]
+  ],
+  "G16:M045": [
+    [
+      "Lost strength."
+    ]
+  ],
+  "G16:M047": [
+    [
+      "Your equipped talons",
+      "were shattered!"
+    ]
+  ],
+  "G16:M048": [
+    [
+      "Your gear came off!"
+    ]
+  ],
+  "G16:M049": [
+    [
+      "Energy fully",
+      "restored!"
+    ]
+  ],
+  "G16:M050": [
+    [
+      "HP fully restored!"
+    ]
+  ],
+  "G16:M051": [
+    [
+      "Descend to which floor?"
+    ]
+  ],
+  "G16:M052": [
+    [
+      "Hello!"
+    ]
+  ],
+  "G16:M053": [
+    [
+      "First time here?"
+    ]
+  ],
+  "G16:M061": [
+    [
+      "Trade for which item?"
+    ]
+  ],
+  "G16:M064": [
+    [
+      "1 Slot Point"
+    ],
+    [
+      "costs 100 Gil."
+    ],
+    [
+      "How many Slot Points?"
+    ]
+  ],
+  "G16:M066": [
+    [
+      "Cannot carry more",
+      "Slot Points!"
+    ]
+  ],
+  "G16:M070": [
+    [
+      "A word from supervisor",
+      "Koichi Nakamura."
+    ],
+    [
+      "Did you enjoy",
+      "Chocobo's Dungeon?"
+    ],
+    [
+      "If you have not played",
+      "Shiren the Wanderer,"
+    ],
+    [
+      "I recommend it too.",
+      "Give it a try!"
+    ]
+  ],
+  "G16:M071": [
+    [
+      "Welcome!",
+      "The key to success is"
+    ],
+    [
+      "to improve your books,",
+      "talons and saddles."
+    ],
+    [
+      "Do not rush in.",
+      "Use a Teleport Card"
+    ],
+    [
+      "to go home often and",
+      "raise your level."
+    ],
+    [
+      "Supervisor",
+      "Koichi Nakamura."
+    ]
+  ],
+  "G06:M073": [
+    [
+      "Touch the front cover",
+      "to keep your level."
+    ],
+    [
+      "Touch the back cover",
+      "to reset your level."
+    ]
+  ],
+  "G06:M099": [
+    [
+      "Debug mode active."
+    ],
+    [
+      "Item trading normally",
+      "starts in Chapter 3!"
+    ]
+  ]
+}

@@ -1,0 +1,3 @@
+local p={frames=1800,capture_every=60,moves={{60,64,'right2'},{130,134,'down'},{200,204,'down'},{270,274,'a'},{450,454,'down'},{540,544,'down'},{630,634,'down'},{720,724,'down'},{810,814,'down'},{900,904,'down'},{990,994,'down'},{1080,1084,'down'},{1170,1174,'down'},{1260,1264,'down'},{1400,1404,'b'}}}
+p.setup=function() local sr=emu.memType.wsCartRam;emu.write(0x6bf5,136,sr);emu.write(0x6bf6,16,sr);emu.write(0x6bf7,157,sr);emu.write16(0x7305,99,sr);emu.write16(0x72fd,0xe0ff,sr);emu.write16(0x72ff,0x05f5,sr) end
+local o=assert(loadfile(os.getenv('LAYOUT_OBSERVER')))();p.tick=function(f,save,memory)o.tick(f,save,memory);if f==p.frames then o.finish(save)end end;return p

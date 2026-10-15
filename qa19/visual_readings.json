@@ -1,0 +1,807 @@
+[
+  {
+    "run": "release2_G06_M073",
+    "image": "page_01.png",
+    "sha256": "649f8ba638d762ad12e66e23eca5822142fd1ec4190fa2f3bc1230f1256e6e79",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G06_M073/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G06_M073",
+    "image": "page_02.png",
+    "sha256": "4926be641509af1cefcfe13caa3529d35f1ee5e21e8bb28fafd06b8c9f968fe3",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G06_M073/page_02.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G06_M099",
+    "image": "page_01.png",
+    "sha256": "915355adf6650b3323e226329dc93a5433ab479f2565641199a5cd27ca459c85",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G06_M099/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G06_M099",
+    "image": "page_02.png",
+    "sha256": "d051fb5934e496baa238e38678dd87bc555114a1b336a7034c7fd2407e710fd1",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G06_M099/page_02.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M000",
+    "image": "end_text.png",
+    "sha256": "00c588052f2aae01023b384d1be9f0ea5974d01d757b8c714f0c22b1e80b4f7a",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M000/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M001",
+    "image": "end_text.png",
+    "sha256": "b3cd676c1332157deac7f914ea7487d908d5119fa47452d53801adeaafb464ab",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M001/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M002",
+    "image": "end_text.png",
+    "sha256": "fe78056cbccfec3365cc128ddf32afd778d41e92946ca394c080d685ed7987fa",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M002/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M003",
+    "image": "end_text.png",
+    "sha256": "b3801e68d80183672211100d3eecbec0b55a976e9759ecea6bf6f5ad861aa4bd",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M003/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M004",
+    "image": "page_01.png",
+    "sha256": "baeb3c3b81bc6b52d892e5d20f080cba77ee78e84355daf399aace939acd50cc",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M004/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M004",
+    "image": "page_02.png",
+    "sha256": "5071738deec975c4a307718c46247669c7ebd15343da657362bedf7ddca8aefa",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M004/page_02.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M005",
+    "image": "page_01.png",
+    "sha256": "64dd7d79123d4272bd6d8b2169a88df730f5607c26c9b8a9ef8b6b2ddb7ce177",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M005/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M005",
+    "image": "end_text.png",
+    "sha256": "8d4d08bf1ccd25ded4a9282daf7cb206ef2c5a78c492bce21097a13637f87137",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M005/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M006",
+    "image": "end_text.png",
+    "sha256": "390748890eaf584218d484be689897d080aee4d08887503179497ad692cbd3e4",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M006/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M007",
+    "image": "end_text.png",
+    "sha256": "390748890eaf584218d484be689897d080aee4d08887503179497ad692cbd3e4",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M007/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M008",
+    "image": "page_01.png",
+    "sha256": "f4bf9a3ae36905e7a092424d2375ee90743bd7a93e765129f2731772b14d7815",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M008/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M009",
+    "image": "page_01.png",
+    "sha256": "f4bf9a3ae36905e7a092424d2375ee90743bd7a93e765129f2731772b14d7815",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M009/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M010",
+    "image": "page_01.png",
+    "sha256": "f4bf9a3ae36905e7a092424d2375ee90743bd7a93e765129f2731772b14d7815",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M010/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M011",
+    "image": "page_01.png",
+    "sha256": "1c5eeaa10860a8429d455caf83400b26d8ffa9147b029876d0fbadc3a10b0165",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M011/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M012",
+    "image": "page_01.png",
+    "sha256": "c0a31105a9c7380dacb04a164f4c4bf721b0cff2196021b5270164567856bddf",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M012/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M013",
+    "image": "page_01.png",
+    "sha256": "22f7cf1fc7911566015ebe56179c3db2c28f6bf9a73d553e597a6efe51648fcd",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M013/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M014",
+    "image": "page_01.png",
+    "sha256": "22f7cf1fc7911566015ebe56179c3db2c28f6bf9a73d553e597a6efe51648fcd",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M014/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M015",
+    "image": "page_01.png",
+    "sha256": "22f7cf1fc7911566015ebe56179c3db2c28f6bf9a73d553e597a6efe51648fcd",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M015/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M016",
+    "image": "page_01.png",
+    "sha256": "3745adc1fbefad3868af0244483cd6707ec8b6709564151f94c46f634f48af11",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M016/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M017",
+    "image": "page_01.png",
+    "sha256": "fb5e7a3a1df2e9244079c8357945e67973fdd7003ece7d533a2284cfc740032f",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M017/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M018",
+    "image": "page_01.png",
+    "sha256": "fb5e7a3a1df2e9244079c8357945e67973fdd7003ece7d533a2284cfc740032f",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M018/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M019",
+    "image": "page_01.png",
+    "sha256": "fb5e7a3a1df2e9244079c8357945e67973fdd7003ece7d533a2284cfc740032f",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M019/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M020",
+    "image": "page_01.png",
+    "sha256": "cfc6ba9b7987a4c9178e43e0c975d1d1fddb722cd4ac543e3981b599c6f41650",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M020/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M021",
+    "image": "page_01.png",
+    "sha256": "bd232fc52077c3c912f84c177fcd12a89d099ac32aa564734f3094cdd40ef46a",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M021/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M022",
+    "image": "page_01.png",
+    "sha256": "bd232fc52077c3c912f84c177fcd12a89d099ac32aa564734f3094cdd40ef46a",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M022/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M023",
+    "image": "page_01.png",
+    "sha256": "bd232fc52077c3c912f84c177fcd12a89d099ac32aa564734f3094cdd40ef46a",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M023/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M024",
+    "image": "page_01.png",
+    "sha256": "bd232fc52077c3c912f84c177fcd12a89d099ac32aa564734f3094cdd40ef46a",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M024/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M025",
+    "image": "page_01.png",
+    "sha256": "ad1a7d1129b27d87f35d29cb0c23e8a853f3d37e82413b33819342d17bfa163c",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M025/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M026",
+    "image": "page_01.png",
+    "sha256": "2d3b064374cd2ebdae1ccc7fd34c5fe04edf69700f90362a01b1ac2af7c99b82",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M026/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M027",
+    "image": "page_01.png",
+    "sha256": "2d3b064374cd2ebdae1ccc7fd34c5fe04edf69700f90362a01b1ac2af7c99b82",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M027/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M028",
+    "image": "page_01.png",
+    "sha256": "b458fb4e3f2853b0d957d4a2554076e96a9c9b2c334cbbfec5ea57af033a0e8b",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M028/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M029",
+    "image": "page_01.png",
+    "sha256": "5552c650a80ca1952a86bebf567a114e9bc63e00b2339577c25a1d0bae4c8295",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M029/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M030",
+    "image": "page_01.png",
+    "sha256": "ca9d26281c7ea93c06a6b508cdf0c1d7472bc2230a4e497f3ee5ef2fc890bb4e",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M030/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M031",
+    "image": "page_01.png",
+    "sha256": "8b868766fbf7f46eefb6b09c61b19de27678fe0e411264206a616525580dcb62",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M031/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M032",
+    "image": "page_01.png",
+    "sha256": "7d25a59c2fb77a5a979232f2584b698630f61dd2083c4d8d97a324b10bc094d7",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M032/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M033",
+    "image": "page_01.png",
+    "sha256": "e125a3a689074955674dd0b0239c3a2438e9d59fad9bdba171607b2e1f7deae3",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M033/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M034",
+    "image": "page_01.png",
+    "sha256": "61379fa02f295713dd226e3ccaeb36d7a7bfa3d3a3321b041e00bd47a8393e06",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M034/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M035",
+    "image": "page_01.png",
+    "sha256": "61379fa02f295713dd226e3ccaeb36d7a7bfa3d3a3321b041e00bd47a8393e06",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M035/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M036",
+    "image": "page_01.png",
+    "sha256": "61379fa02f295713dd226e3ccaeb36d7a7bfa3d3a3321b041e00bd47a8393e06",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M036/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M037",
+    "image": "page_01.png",
+    "sha256": "12caa8098759137d7e3af5f1020e293c15f41d745a4b319e0103fa4e48221270",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M037/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M038",
+    "image": "end_text.png",
+    "sha256": "128a0cebcf645cdb98d9ad09abc8f539eb11f90b82e7e4db58f31de8722a1d96",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M038/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M039",
+    "image": "page_01.png",
+    "sha256": "57b3d372b30b9c83b6536f15c0e5903233ebd10206c3a5723794549dc079e390",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M039/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M040",
+    "image": "end_text.png",
+    "sha256": "cb17440780fa8c2078f3c87c96df39301dd226878fc96f8ae76a0686d258113f",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M040/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M041",
+    "image": "page_01.png",
+    "sha256": "bbb9b01b596e11479cc8c289ca8a175bb849318018bc6ac237c9bd0b70f734d4",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M041/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M042",
+    "image": "page_01.png",
+    "sha256": "bbb9b01b596e11479cc8c289ca8a175bb849318018bc6ac237c9bd0b70f734d4",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M042/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M043",
+    "image": "page_01.png",
+    "sha256": "47dea08e535d49ba5436a91350be76b78661fbd81d66bd014d183c6502c91cb5",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M043/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M044",
+    "image": "page_01.png",
+    "sha256": "4e4eb8814b5ee493c538a98d8aad76933ee9567415994db56ea196bec0f2661e",
+    "review": "DIRECT_READ_NEW_FINAL",
+    "matched_previous_image": null,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M045",
+    "image": "page_01.png",
+    "sha256": "94376dbd6745b4b601cbc0daf1501a2fc6ebc1df669b316382fba4762d265956",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M045/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M046",
+    "image": "page_01.png",
+    "sha256": "7e61f6e132eca1637ebbe6bcc2d86b997a98023df250b6e797a1f188d8a2219a",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M046/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M047",
+    "image": "page_01.png",
+    "sha256": "22c29909e2b0c1d0b34f1b95acebbadb656d52923a0e2668c9b83014bb9e016a",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M047/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M048",
+    "image": "page_01.png",
+    "sha256": "b1567f96672d84ea8e4d78f63bd687de706cab3c567288392b59355df8cf5f16",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M048/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M049",
+    "image": "page_01.png",
+    "sha256": "9d01c38809b25c650f49e782bc6fc26d457f55c1c03f670ab88854cf586efabf",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M049/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M050",
+    "image": "page_01.png",
+    "sha256": "ab607466572f0f204d8fe0ec61196189e5d409eb76d1bd82389d61caf3d52b1b",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M050/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M051",
+    "image": "end_text.png",
+    "sha256": "60b48b59e17fe7a1b22557a7b57efa0367328c61a816fc055a25f3f8cd399ca0",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M051/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M052",
+    "image": "page_01.png",
+    "sha256": "cda10a18068a51523415141298de77669fc6d8c665e572e1dd83750d0b7b2da0",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M052/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M053",
+    "image": "page_01.png",
+    "sha256": "06b949575205e116a75a28d427f60558b86045b63a6cd2757387d764330de89d",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M053/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M054",
+    "image": "page_01.png",
+    "sha256": "eb6e0352a88992eee55d3ca4e759e38b4fbd7c2c7bca7da0a5535ba7daeab917",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M054/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M055",
+    "image": "page_01.png",
+    "sha256": "58f8eb6e4947847259f5e3e257dd7411f2e258c9c9feef2ac2340cc6c8081a43",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M055/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M055",
+    "image": "page_02.png",
+    "sha256": "c30e20130261729241b660f4a1384c348dd99f97cbda4f17a81f8f402eea77ee",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M055/page_02.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M056",
+    "image": "page_01.png",
+    "sha256": "9ab778510d60eed8ed10e324d480485484021bc2d443e1497cac9960fd0a617f",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M056/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M057",
+    "image": "page_01.png",
+    "sha256": "ab41637492943560bfd99b6861ab001072de7d63850c4782936bb4602a9b956b",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M057/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M058",
+    "image": "page_01.png",
+    "sha256": "f0eb21b5fd59c24f25b6f32bd78ea022a142971234e262eaa7f4ca89f765b179",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M058/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M059",
+    "image": "page_01.png",
+    "sha256": "7b68d93ee7a12de965c7da72bc75e4d3752d526cc1d9248306fe232b39b31991",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M059/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M060",
+    "image": "page_01.png",
+    "sha256": "6fe2e667512684ad48d67863eef8b5cd70b1a8023261aed550a3cb32500b7259",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M060/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M061",
+    "image": "end_text.png",
+    "sha256": "c51e09f8d607a9017cbc9eb3d7fee7d2d8a8424a879a4f2223488efbdd85b15b",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M061/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M062",
+    "image": "page_01.png",
+    "sha256": "4f4c1ed95dae72af7644c89e87040063e2b152ae2430b787c8e6688ba119bcea",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M062/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M063",
+    "image": "page_01.png",
+    "sha256": "4f4c1ed95dae72af7644c89e87040063e2b152ae2430b787c8e6688ba119bcea",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M063/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M064",
+    "image": "page_01.png",
+    "sha256": "d6a2c4142466e6636d7eb46a3ade5fe3ea732d726cad675ce30b9ad15a1ab203",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M064/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M064",
+    "image": "page_02.png",
+    "sha256": "14067b79363c1741dbe736a4d35b30b34d5a00b7a3bed93867ec119af134e477",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M064/page_02.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M064",
+    "image": "page_03.png",
+    "sha256": "dd0cbf8036aadaf650fc2c7f67b365fc511ab851e3a07875c6ffaf01e33083b6",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M064/page_03.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M065",
+    "image": "page_01.png",
+    "sha256": "3a961339476d96eff858e71ba7bf90f405016ce6251cbadba0324a2174819cdd",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M065/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M066",
+    "image": "page_01.png",
+    "sha256": "50334db613811700c8c39ad57d0f7f40efc9a5a403e0f5a7cff60bbcb21f66d8",
+    "review": "DIRECT_READ_NEW_FINAL",
+    "matched_previous_image": null,
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M067",
+    "image": "page_01.png",
+    "sha256": "a5d57d375879e6046e2dedd546140e690654a0fa6ced6c1862e3b870b9773876",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M067/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M068",
+    "image": "page_01.png",
+    "sha256": "495df0505073223186b9301e17d041b1ad9a323db60a34496b844effb6bb9999",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M068/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M069",
+    "image": "page_01.png",
+    "sha256": "495df0505073223186b9301e17d041b1ad9a323db60a34496b844effb6bb9999",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M069/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M070",
+    "image": "page_01.png",
+    "sha256": "7ec1b409f788c0803cfb747f51d88c956dce63aed081e4c8b408882311fd2ccf",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M070/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M070",
+    "image": "page_02.png",
+    "sha256": "668957aa43dfae187417bb898bf0e71e63d3fee5969d7f7c0977c2a3120339bc",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M070/page_02.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M070",
+    "image": "page_03.png",
+    "sha256": "cfd0716636282bbbd27631e0a9efbb0ea260f073d42b01649670152d04370e55",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M070/page_03.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M070",
+    "image": "page_04.png",
+    "sha256": "e8f1c1725ae444351c058589004dfeac4ddc9ece12c692bf27a1f01b79cc6ef3",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M070/page_04.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M071",
+    "image": "page_01.png",
+    "sha256": "decabbcfa189142bd0e139aa7436b9cf9951417839d532673fd2f7899a513bf2",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M071/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M071",
+    "image": "page_02.png",
+    "sha256": "ff27b57be28c878be3c11e80c67f6a44dc74dd97a91fa8a815f52d3798acc164",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M071/page_02.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M071",
+    "image": "page_03.png",
+    "sha256": "e237b633eacf5e033ea2d535f93cd5a858b51dbaca577def6b92246229d1fb02",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M071/page_03.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M071",
+    "image": "page_04.png",
+    "sha256": "c98cf649b1a2550c2e9d1185032b638ea86c7668b3f759b99ed43e019cb8ec33",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M071/page_04.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M071",
+    "image": "page_05.png",
+    "sha256": "b2efcedf44698ae884b4ca695fc0e1d43550765d7c55ef6261d86a3e353fdbed",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M071/page_05.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M072",
+    "image": "page_01.png",
+    "sha256": "52f4c0b223fc0be477e2505ea9fe95104ae5a764fef417725a050118f24f4106",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M072/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M073",
+    "image": "end_text.png",
+    "sha256": "3605a33f80fe8fb38be6fc9b2a3f7d497b5d1298f536f0c021f554de36b87a2e",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M073/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M074",
+    "image": "end_text.png",
+    "sha256": "cb2c46107530b0ad042db94ca5d86d299b06b1243df48f6c490ab2295d67f567",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M074/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M075",
+    "image": "page_01.png",
+    "sha256": "5180abde16f237be0c8b04461a537eb0f64b3360010a610514e1c0d2b15655ef",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M075/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M076",
+    "image": "page_01.png",
+    "sha256": "a786fb22a99520cf50231a61c4a42b95b222eac6d7154854e90ad37c16adc5e8",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M076/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M076",
+    "image": "end_text.png",
+    "sha256": "d688c9a3d127ba2b9383f7c41777c2b0c317e19eacc5c9d416f63da09200216b",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M076/end_text.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M252",
+    "image": "page_01.png",
+    "sha256": "10a81115be66436b057dd55acc391a288c695fcd0de784d7d04b012e5ca2cd36",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M252/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M253",
+    "image": "page_01.png",
+    "sha256": "a8534426cfc7480d4c9a9e55ef95be6bd75d354d583f0b1c5c4402ddf6fa4f03",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M253/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M254",
+    "image": "page_01.png",
+    "sha256": "33131a01b1af8ceddc2304ddc90e5ec9299b0d68ef15b538ad9e241662cc2188",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M254/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_G16_M255",
+    "image": "page_01.png",
+    "sha256": "f54c420a68974cd0e42db9530035f08439c5c91020938c35387ad0cc2b8799cb",
+    "review": "PIXEL_IDENTICAL_TO_DIRECTLY_READ_VERIFIED_RUN",
+    "matched_previous_image": "qa19/runs/verified_G16_M255/page_01.png",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_slot_native",
+    "image": "f00150.png",
+    "sha256": "645681de2fde71ab31b6c8ebc2fffd56e11ef32511d4d7a7df30ba7255030c2e",
+    "review": "DIRECT_READ_FINAL_ONE_LINE_CONSUMER",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_slot_native",
+    "image": "f00420.png",
+    "sha256": "3fc152381a7cdc5c899451ee85417d4ef456510c04df10ccfdc01c0b6b34f1b0",
+    "review": "DIRECT_READ_FINAL_ONE_LINE_CONSUMER",
+    "status": "PASS_VISUAL_SCOPED"
+  },
+  {
+    "run": "release2_slot_native",
+    "image": "f00780.png",
+    "sha256": "909dc27d8842804c85c89209e28791b7b7de8c2a57aaf84d1d9b14698c8de707",
+    "review": "DIRECT_READ_FINAL_ONE_LINE_CONSUMER",
+    "status": "PASS_VISUAL_SCOPED"
+  }
+]

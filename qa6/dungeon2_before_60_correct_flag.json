@@ -1,0 +1,22 @@
+{
+  "method": "SYNTHETIC_STATE",
+  "source": "qa5/save_fixtures/dungeon2_coherent_before_60.sav",
+  "source_sha256": "95c339b2fa9146fe2de34eaddfff7f703a292352befc32a7bcb3281d5f8851a3",
+  "sha256": "ae81acb2ab060e9c6aa1c1f8f36e2933f2599e8e356b5ad6a2be811a80b4559c",
+  "changes": [
+    {
+      "stored_offset": "0x7ce8",
+      "live_offset": "0x730a",
+      "before": 0,
+      "after": 128
+    },
+    {
+      "stored_offset": "0x7ce9",
+      "live_offset": "0x730b",
+      "before": 128,
+      "after": 0
+    }
+  ],
+  "reason": "flag 0F is word[7309] bit15, not word[730A] bit15; native script branch verified",
+  "natural_progression": "NOT_VALIDATED"
+}

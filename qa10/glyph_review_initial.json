@@ -1,0 +1,254 @@
+[
+  {
+    "sample": 1,
+    "visible": "U",
+    "expected": "U",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 2,
+    "visible": "O",
+    "expected": "O",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 3,
+    "visible": "E",
+    "expected": "E",
+    "family": 2,
+    "match": true
+  },
+  {
+    "sample": 4,
+    "visible": "S",
+    "expected": "S",
+    "family": 2,
+    "match": true
+  },
+  {
+    "sample": 5,
+    "visible": "T",
+    "expected": "T",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 6,
+    "visible": "R",
+    "expected": "R",
+    "family": 2,
+    "match": true
+  },
+  {
+    "sample": 7,
+    "visible": "?",
+    "expected": "N",
+    "family": 2,
+    "match": false
+  },
+  {
+    "sample": 8,
+    "visible": "D",
+    "expected": "O",
+    "family": 0,
+    "match": false
+  },
+  {
+    "sample": 9,
+    "visible": "H",
+    "expected": "H",
+    "family": 0,
+    "match": true
+  },
+  {
+    "sample": 10,
+    "visible": "G",
+    "expected": "G",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 11,
+    "visible": "O",
+    "expected": "O",
+    "family": 0,
+    "match": true
+  },
+  {
+    "sample": 12,
+    "visible": "S",
+    "expected": "S",
+    "family": 0,
+    "match": true
+  },
+  {
+    "sample": 13,
+    "visible": "W",
+    "expected": "W",
+    "family": 2,
+    "match": true
+  },
+  {
+    "sample": 14,
+    "visible": "E",
+    "expected": "E",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 15,
+    "visible": "N",
+    "expected": "N",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 16,
+    "visible": "A",
+    "expected": "A",
+    "family": 2,
+    "match": true
+  },
+  {
+    "sample": 17,
+    "visible": "D",
+    "expected": "D",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 18,
+    "visible": "S",
+    "expected": "S",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 19,
+    "visible": "R",
+    "expected": "R",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 20,
+    "visible": "D",
+    "expected": "D",
+    "family": 2,
+    "match": true
+  },
+  {
+    "sample": 21,
+    "visible": "Y",
+    "expected": "Y",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 22,
+    "visible": "O",
+    "expected": "O",
+    "family": 2,
+    "match": true
+  },
+  {
+    "sample": 23,
+    "visible": "C",
+    "expected": "C",
+    "family": 0,
+    "match": true
+  },
+  {
+    "sample": 24,
+    "visible": "'",
+    "expected": "'",
+    "family": 0,
+    "match": true
+  },
+  {
+    "sample": 25,
+    "visible": "O",
+    "expected": "O",
+    "family": 0,
+    "match": true
+  },
+  {
+    "sample": 26,
+    "visible": "B",
+    "expected": "B",
+    "family": 0,
+    "match": true
+  },
+  {
+    "sample": 27,
+    "visible": "R",
+    "expected": "R",
+    "family": 2,
+    "match": true
+  },
+  {
+    "sample": 28,
+    "visible": "C",
+    "expected": "C",
+    "family": 0,
+    "match": true
+  },
+  {
+    "sample": 29,
+    "visible": "W",
+    "expected": "W",
+    "family": 2,
+    "match": true
+  },
+  {
+    "sample": 30,
+    "visible": "E",
+    "expected": "E",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 31,
+    "visible": "R",
+    "expected": "Y",
+    "family": 1,
+    "match": false
+  },
+  {
+    "sample": 32,
+    "visible": "M",
+    "expected": "M",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 33,
+    "visible": "F",
+    "expected": "F",
+    "family": 2,
+    "match": true
+  },
+  {
+    "sample": 34,
+    "visible": "N",
+    "expected": "N",
+    "family": 1,
+    "match": true
+  },
+  {
+    "sample": 35,
+    "visible": "W",
+    "expected": "N",
+    "family": 2,
+    "match": false
+  },
+  {
+    "sample": 36,
+    "visible": "O",
+    "expected": "O",
+    "family": 2,
+    "match": true
+  }
+]

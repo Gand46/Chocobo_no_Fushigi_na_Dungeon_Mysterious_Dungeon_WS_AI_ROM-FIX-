@@ -1,0 +1,11 @@
+{
+  "scope": "HF6 scoped floor-cache correction",
+  "discovered": "PASS_NATIVE_CODE_AND_RUNTIME",
+  "integrated": "PASS_PREIMAGE_ALLOWED_DIFF",
+  "runtime": "PASS_SYNTHETIC_COLD_LOAD_AND_MAP_ASSIGNMENT",
+  "linguistic_typography": "NO_TEXT_OR_FONT_EDITS_GLOBAL_PENDING",
+  "visual": "PASS_SCOPED_FLOOR_RECONSTRUCTION",
+  "functional": "PASS_SCOPED_SYNTHETIC",
+  "final_approved": false,
+  "pending": "global layout, English title, equipment cause, natural elevator route, original fountain failure and exact Atla rescue"
+}

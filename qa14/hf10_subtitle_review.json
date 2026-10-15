@@ -1,0 +1,176 @@
+{
+  "instances": 13,
+  "matches": 13,
+  "records": [
+    {
+      "source_position": 11,
+      "box": [
+        138,
+        110,
+        145,
+        119
+      ],
+      "id": "P01",
+      "expected": "w",
+      "observed": "w",
+      "match": true
+    },
+    {
+      "source_position": 10,
+      "box": [
+        131,
+        110,
+        138,
+        119
+      ],
+      "id": "P02",
+      "expected": "S",
+      "observed": "S",
+      "match": true
+    },
+    {
+      "source_position": 5,
+      "box": [
+        97,
+        110,
+        104,
+        119
+      ],
+      "id": "P03",
+      "expected": "o",
+      "observed": "o",
+      "match": true
+    },
+    {
+      "source_position": 12,
+      "box": [
+        145,
+        110,
+        152,
+        119
+      ],
+      "id": "P04",
+      "expected": "a",
+      "observed": "a",
+      "match": true
+    },
+    {
+      "source_position": 8,
+      "box": [
+        118,
+        110,
+        125,
+        119
+      ],
+      "id": "P05",
+      "expected": "e",
+      "observed": "e",
+      "match": true
+    },
+    {
+      "source_position": 4,
+      "box": [
+        88,
+        110,
+        97,
+        119
+      ],
+      "id": "P06",
+      "expected": "W",
+      "observed": "W",
+      "match": true
+    },
+    {
+      "source_position": 7,
+      "box": [
+        111,
+        110,
+        118,
+        119
+      ],
+      "id": "P07",
+      "expected": "d",
+      "observed": "d",
+      "match": true
+    },
+    {
+      "source_position": 2,
+      "box": [
+        78,
+        110,
+        84,
+        119
+      ],
+      "id": "P08",
+      "expected": "r",
+      "observed": "r",
+      "match": true
+    },
+    {
+      "source_position": 13,
+      "box": [
+        152,
+        110,
+        159,
+        119
+      ],
+      "id": "P09",
+      "expected": "n",
+      "observed": "n",
+      "match": true
+    },
+    {
+      "source_position": 9,
+      "box": [
+        125,
+        110,
+        131,
+        119
+      ],
+      "id": "P10",
+      "expected": "r",
+      "observed": "r",
+      "match": true
+    },
+    {
+      "source_position": 0,
+      "box": [
+        65,
+        110,
+        71,
+        119
+      ],
+      "id": "P11",
+      "expected": "f",
+      "observed": "f",
+      "match": true
+    },
+    {
+      "source_position": 1,
+      "box": [
+        71,
+        110,
+        78,
+        119
+      ],
+      "id": "P12",
+      "expected": "o",
+      "observed": "o",
+      "match": true
+    },
+    {
+      "source_position": 6,
+      "box": [
+        104,
+        110,
+        111,
+        119
+      ],
+      "id": "P13",
+      "expected": "n",
+      "observed": "n",
+      "match": true
+    }
+  ],
+  "blindness_limit": "Same reviewer; knows project and font, but caption and word context hidden. Not an independent human user study."
+}

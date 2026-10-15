@@ -1,0 +1,790 @@
+{
+  "version": "1.1-HF18-TEST",
+  "date": "2026-10-15",
+  "release_class": "TEST_NOT_RC",
+  "original": {
+    "bytes": 2097152,
+    "sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+    "crc32": "CCAA4853",
+    "ws_checksum": "3321"
+  },
+  "legacy_english_normalized": {
+    "bytes": 2097152,
+    "sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+    "crc32": "6E8CA148",
+    "ws_checksum": "13E3"
+  },
+  "target": {
+    "bytes": 2097152,
+    "sha256": "6b7b0d79c4d60e6a6bbb5ae062b4255e75eda716f83bfbbd972cad65f3e05c24",
+    "crc32": "D5F9FEC8",
+    "ws_checksum": "1121"
+  },
+  "changed_bytes_vs_english": 14537,
+  "changed_bytes_vs_japanese": 76404,
+  "corrected_resources": null,
+  "new_font_bitmap_edits": 0,
+  "second_emulator": "NOT_VALIDATED",
+  "hardware": "NOT_VALIDATED",
+  "native_save_load": "PASS_SYNTHETIC_THREE_NEW_NATIVE_SAVE_COLD_LOAD_CYCLES_EXACT_2516_BYTES",
+  "all_pdf_incidents_fixed": false,
+  "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+  "previous_hf1": {
+    "bytes": 2097152,
+    "sha256": "c5ca8fcda7d40a22215bea83b4c0f6b210d244e8ab5ac90fd8a3392a28a279cb",
+    "crc32": "F576EF15",
+    "ws_checksum": "F9B9"
+  },
+  "changed_bytes_vs_hf1": 1069,
+  "lafoss_animation_restored": true,
+  "previous_hf2": {
+    "bytes": 2097152,
+    "sha256": "605ef4467766d778d74f01edee57ed1794698fd587056b2cff1f542e61b41864",
+    "crc32": "A18CFFA6",
+    "ws_checksum": "F2E4"
+  },
+  "changed_bytes_vs_hf2": 1047,
+  "whistle_visual": "PASS_SYNTHETIC_MESEN",
+  "whistle_resource_pointer_edits": 2,
+  "whistle_resource_blocks": 2,
+  "physical_cartridge_incident": "ELECTRICAL_CAUSE_ESTABLISHED_BY_USER_OUT_OF_ROM_SCOPE",
+  "audit_revision": "QA23_VISUAL_LINGUISTIC_V5",
+  "rom_changes_in_QA5": 0,
+  "new_bps_required": true,
+  "rom_changes_in_QA6": 0,
+  "shared_chat_review": "PUBLIC_VISIBLE_TEXT_RETRIEVED",
+  "native_write_interruption": "PASS_SYNTHETIC_7606_PREFIXES_NO_MIXED_PAYLOAD_ACCEPTED",
+  "qa5_d2_fixture": "CORRECTED_MASK_0080_NOT_8000",
+  "natural_save_loss_trigger": "NOT_REPRODUCED;SCOPED_SYNTHETIC_SAVE_INTEGRITY_PASS",
+  "previous_hf3": {
+    "bytes": 2097152,
+    "sha256": "85a8be61fdac2feb777ed1726235b46b36f8950265a1788e7d7c9a0bc90f4b11",
+    "crc32": "302765E7",
+    "ws_checksum": "A43B"
+  },
+  "date_timezone": "Etc/UTC",
+  "changed_bytes_vs_hf3": 314,
+  "rom_changes_in_QA7": 308,
+  "new_guard_code_bytes": 297,
+  "new_sram_reserved_bytes": 6,
+  "save_legacy_export": "PASS_COLD_BOOT_HF3",
+  "save_previous_payload_recovery": false,
+  "alternate_gameplay_resume": "NOT_VALIDATED",
+  "previous_hf4": {
+    "bytes": 2097152,
+    "sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+    "crc32": "12E75051",
+    "ws_checksum": "06C5"
+  },
+  "changed_bytes_vs_hf4": 7,
+  "rom_changes_in_QA8": 7,
+  "lafoss_effect": "PASS_SYNTHETIC_NATIVE_KICK_PROJECTILE_DAMAGE_ENEMY_DEATH_RESUME",
+  "second_ending": "PASS_SYNTHETIC_BOSS_ASSIST_CREDITS_VILLAGE_CONTROL",
+  "fountain_frog_branch": "PASS_SYNTHETIC_TWO_COHERENT_VARIANTS_NO_REPRODUCTION",
+  "title": "USER_MAIN_ART_V01_PRESERVED_NATIVE_GRID_SUBTITLE_V02_RUNTIME_PASS",
+  "text_census": {
+    "families": 19,
+    "entries": 2333,
+    "global_layout_approved": false,
+    "candidates_after_scope": "Legacy getter-only test, not global layout"
+  },
+  "previous_hf5": {
+    "bytes": 2097152,
+    "sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8",
+    "crc32": "3887C0CF",
+    "ws_checksum": "06CA"
+  },
+  "changed_bytes_vs_hf5": 53,
+  "rom_changes_in_QA9": 53,
+  "d3_floor_cache": "FIXED_SYNTHETIC_STALE_CACHE",
+  "previous_hf6": {
+    "bytes": 2097152,
+    "sha256": "87ecaab08786651ee9431d6e386b0b73147e759aee282c053f6a75249e820d73",
+    "crc32": "37109106",
+    "ws_checksum": "EBA8"
+  },
+  "changed_bytes_vs_hf6": 3304,
+  "rom_changes_in_QA10": 3304,
+  "shared_font_bitmap_edits": 0,
+  "title_bitmap_edited": true,
+  "atla_rescue": "PASS_SYNTHETIC_FULL_BAG_LOW_HP_RESCUE_ASSISTED_BOSS_ENDING_VILLAGE",
+  "atla_reported_freeze_trigger": "NOT_REPRODUCED",
+  "equipment_freeze": "PASS_SYNTHETIC_FULL_BAG_RETURN_AND_PERSISTENCE;HISTORICAL_CAUSE_NOT_REPRODUCED",
+  "global_layout_approved": false,
+  "previous_hf7": {
+    "bytes": 2097152,
+    "sha256": "116cd3df2828e97c890049619f6f43bf10102490f0c709a3dc836ec54a6a065a",
+    "crc32": "8BA15CB0",
+    "ws_checksum": "241D"
+  },
+  "changed_bytes_vs_hf7": 2368,
+  "rom_changes_in_QA11": 2368,
+  "user_logo_archive_sha256": "5cc1543cb62cd506ad3822043e074af3cd27169bd47dc3e72a5e862f670d834b",
+  "bps_sha256": "ec90fc581aaa0be509fde649d053f8ffd8f83e6c99e6c177e18044c4bcf3fd8b",
+  "previous_hf8": {
+    "bytes": 2097152,
+    "sha256": "831d5778ba5887941235365a4065d8cc090c1a871fbdfc00f398c2b5c0ebc89c",
+    "crc32": "A4D202FA",
+    "ws_checksum": "E459"
+  },
+  "changed_bytes_vs_hf8": 19,
+  "rom_changes_in_QA12": 19,
+  "qa12_new_text_repairs": 4,
+  "qa12_layout": "163_OTHER_ITEM_IDS_ON_HF8_BASELINE;96_NONZERO_PROPERTIES_AND_FOUR_REPAIRS_CHECKED_ON_FINAL_HF9",
+  "rom_changes_in_QA13": 0,
+  "teleport99_to30": "PASS_SYNTHETIC_LINKED_RUNTIME_CHAIN_NATIVE_ELEVATOR_RETURN",
+  "floor_map_cause": "PASS_SYNTHETIC_JP_CACHE_CONSUMER_COUNTERFACTUAL",
+  "synthetic_acceptance_authorized": true,
+  "previous_hf9": {
+    "bytes": 2097152,
+    "sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+    "crc32": "4CA9F7B4",
+    "ws_checksum": "E8BA"
+  },
+  "changed_bytes_vs_hf9": 370,
+  "rom_changes_in_QA14": 370,
+  "title_glyph_review": "PASS_VISUAL_CONTEXT_MASKED_23_MAIN_PLUS_13_SUBTITLE",
+  "global_linguistic_approved": false,
+  "qa14_subtitle_font": "TITLE_SPECIFIC_NATIVE_GRID;SHARED_FONT_UNCHANGED",
+  "qa14_runtime_frames": 1001,
+  "qa14_functional_evidence": "QA13_INHERITED_BY_UNCHANGED_NON_TITLE_CODE;NOT_RERUN",
+  "qa14_second_independent_reviewer": false,
+  "previous_hf10": {
+    "bytes": 2097152,
+    "sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+    "crc32": "FBE97403",
+    "ws_checksum": "E1F6"
+  },
+  "rom_changes_in_QA15": 6,
+  "changed_bytes_vs_hf10": 6,
+  "layout_iteration": {
+    "completed": 4,
+    "planned": 4,
+    "remaining_base": 0,
+    "global_approval": false,
+    "status": "FOUR_ITERATIONS_EXECUTED_GLOBAL_VISUAL_REVIEW_INCOMPLETE"
+  },
+  "qa15_census": {
+    "sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "getter_entries": 2333,
+    "getter_nonempty": 1972,
+    "getter_unterminated": 0,
+    "getter_shared_tails": [
+      "F00:I075",
+      "F00:I076"
+    ],
+    "getter_words": 11472,
+    "getter_words_with_terminators": 13805,
+    "story_groups": 14,
+    "story_entries": 3488,
+    "story_unique_pointers": 3472,
+    "story_nonempty": 3307,
+    "story_unterminated": 0,
+    "story_entries_with_literal_cells": 886,
+    "story_control_only_nonempty": 2421,
+    "story_dynamic_entries": 9,
+    "story_literal_over_13": [
+      "G01:M031",
+      "G01:M039",
+      "G03:M012",
+      "G04:M031",
+      "G04:M034",
+      "G04:M048",
+      "G06:M022",
+      "G06:M099",
+      "G08:M020",
+      "G09:M063",
+      "G16:M004",
+      "G16:M064",
+      "G16:M070"
+    ]
+  },
+  "qa15_windows": {
+    "presets": 141,
+    "distinct_geometries": 79,
+    "observed_ids_including_zero": 14,
+    "global_context_denominator_complete": false
+  },
+  "qa15_layout_fix": "G05:M002; PASS_SYNTHETIC; six-byte reordering of explicit line break; identical glyph order and resource size",
+  "qa15_open_alerts": 13,
+  "qa15_evidence_inheritance": "QA13 functional evidence and QA14 logo unchanged outside six bytes at065220..065225; not rerun",
+  "rom_changes_in_QA16": 0,
+  "qa16": {
+    "revision": "QA16_M2",
+    "status": "M2_EXECUTED_BOUNDED_PASS_WITH_OPEN_CONTEXT_CANDIDATE",
+    "rom_version": "HF11_TEST_UNCHANGED",
+    "rom_changes_in_QA16": 0,
+    "bps_changed": false,
+    "approved_scoped_runs": 16,
+    "all_runs": 36,
+    "bindings": 97,
+    "windows_in_approved_getter_bindings": [
+      3,
+      4,
+      5,
+      7,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      25,
+      26
+    ],
+    "global_layout_approved": false,
+    "global_linguistic_approved": false,
+    "prior_story_alerts": 13,
+    "new_context_candidate": "M2-C01: preset32/family0 index53 at forced scroll5; native reachability unresolved",
+    "confirmed_new_reachable_rom_defects": 0,
+    "completed_layout_iterations": 2,
+    "base_total": 4,
+    "remaining_base": 2,
+    "estimate_is_guarantee": false,
+    "magic_extremes": "Approved fixture uses99 in level/ATB/point sources and displays99. Raw255 fixture excluded as out-of-two-digit-domain stress.",
+    "inherited": "QA10/12 item/property samples and QA13/14 functional/logo evidence: unchanged ROM, not rerun",
+    "text_monitor_limit": "Common copy/name stores only; zero counts are not a proof for all writes or numeric routines.",
+    "verification_summary": {
+      "checks": 343,
+      "approved_synthetic_runs": 16,
+      "recorded_runs": 36,
+      "independent_bps": "PASS_EXACT_BYTES"
+    }
+  },
+  "previous_hf11": {
+    "bytes": 2097152,
+    "sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "crc32": "36DD07C6",
+    "ws_checksum": "E1F6"
+  },
+  "rom_changes_in_QA17": 205,
+  "changed_bytes_vs_hf11": 205,
+  "qa17": {
+    "new_corrected_unique_resources": 11,
+    "new_corrected_references": 13,
+    "static_alerts_repaired": 9,
+    "padding_only_alerts": 3,
+    "composite_resource_context_pending": [
+      "G16:M064"
+    ],
+    "dynamic_unique_templates": 7,
+    "dynamic_references": 9,
+    "global_layout_approved": false,
+    "global_linguistic_approved": false,
+    "status": "PASS_SYNTHETIC_SCOPED_WITH_M4_OPEN_CONTEXTS",
+    "approved_scoped_runs": 29,
+    "all_runs": 78,
+    "credits_pages": 14,
+    "dynamic_cases": 14,
+    "synthetic_max_numeric": 65535,
+    "synthetic_item_indices": [
+      217,
+      136
+    ],
+    "inheritance": "HF11 code, fonts, title, pointer tables, save and gameplay fixes unchanged; QA15 and QA16 validators pinned to historical HF11, checks rerun without repeating native sessions.",
+    "verification_summary": {
+      "checks": 790,
+      "native_frames_approved": 36600,
+      "nonblank_dropped_glyphs_approved": 0,
+      "independent_bps": "PASS_EXACT_BYTES"
+    },
+    "launcher_unit_tests": 11,
+    "completed_utc": "2026-10-14T21:48:04.028703+00:00"
+  },
+  "previous_hf12": {
+    "bytes": 2097152,
+    "sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "crc32": "58CEAE7E",
+    "ws_checksum": "FA41"
+  },
+  "rom_changes_in_QA18": 149,
+  "changed_bytes_vs_hf12": 149,
+  "qa18": {
+    "status": "M4_EXECUTED_PASS_SYNTHETIC_SCOPED",
+    "new_corrected_unique_resources": 5,
+    "approved_scoped_runs": 7,
+    "diagnostic_runs": 23,
+    "approved_native_frames": 7500,
+    "checks": 259,
+    "visual_readings": 14,
+    "content_changed_bytes": 147,
+    "checksum_changed_bytes": 2,
+    "global_layout_approved": false,
+    "global_linguistic_approved": false,
+    "remaining_base_iterations": 0,
+    "unconfirmed_context": "TR-01-M2-C01 preset32/F00:I053",
+    "inheritance": "HF12 -> HF13 changes restricted to five enumerated non-dynamic message spans and checksum; all getter streams, pointer bindings, code, font/title graphics unchanged. Historical approvals retain original access and scope.",
+    "historical_qa17_checks_rerun": 790,
+    "unit_tests_passed": 11
+  },
+  "previous_hf13": {
+    "bytes": 2097152,
+    "sha256": "a6bb2ee9e1d973f92aa7eac1a158f2873cde185075fc8a3b042dbe1f1dcb303f",
+    "crc32": "3C79C36D",
+    "ws_checksum": "0903"
+  },
+  "rom_changes_in_QA19": 1355,
+  "changed_bytes_vs_hf13": 1355,
+  "corrected_resources_legacy_counter": 33,
+  "qa19_corrected_references": 36,
+  "visual_linguistic_validation": {
+    "executed": 3,
+    "planned": 5,
+    "global_approval": false
+  },
+  "qa19": {
+    "status": "PASS_SYNTHETIC_SCOPED_WITH_CONTEXT_PENDING",
+    "references_reviewed": 83,
+    "references_changed": 36,
+    "unique_new_payloads": 31,
+    "global_visual_approved": false,
+    "global_linguistic_approved": false,
+    "native_sessions": 84,
+    "native_frames": 20666,
+    "visual_readings": 101,
+    "linguistic_scoped_pass": 82,
+    "context_pending": [
+      "G16:M073"
+    ],
+    "checks": 1353,
+    "portable_editable_rebuild": "PASS_EXACT_ROM_AND_EDITS"
+  },
+  "corrected_resources_note": "Legacy counter retained separately; QA19 changes 36 references, including previously edited references, so it is not added to that counter.",
+  "generated_utc": "2026-10-15T00:08:05.567924+00:00",
+  "previous_hf14": {
+    "bytes": 2097152,
+    "sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+    "crc32": "A66CF44F",
+    "ws_checksum": "5693"
+  },
+  "qa20_corrected_references": 74,
+  "changed_bytes_vs_hf14": 4279,
+  "intentional_near_pointer_edits_legacy_counter": 41,
+  "qa20_near_pointer_edits": 74,
+  "qa20": {
+    "status": "V2_EXECUTED_SCOPED_WITH_SIX_CONTEXT_RESERVES",
+    "checks": 3787,
+    "references_reviewed": 248,
+    "references_changed": 74,
+    "scoped_pass": 242,
+    "context_pending": [
+      "G00:M252",
+      "G00:M253",
+      "G00:M254",
+      "G00:M255",
+      "G04:M033",
+      "G04:M034"
+    ],
+    "native_sessions_final": 252,
+    "story_terminators_reached": 247,
+    "incomplete_excluded_diagnostics": [
+      "G00:M255"
+    ],
+    "native_frames": 76311,
+    "visual_readings": 387,
+    "approved_nonblank_dropped_glyphs": 0,
+    "blank_padding_drops": 22,
+    "excluded_diagnostics": [
+      {
+        "id": "G00:M255",
+        "count": 2,
+        "status": "EXCLUDED_CONTEXT_DIAGNOSTIC"
+      }
+    ],
+    "changed_bytes_vs_hf14": 4279,
+    "independent_bps": "PASS_EXACT_BYTES",
+    "global_visual_approved": false,
+    "global_linguistic_approved": false,
+    "natural_reachability": "NOT_VALIDATED",
+    "static": {
+      "story_references": 3488,
+      "story_unique_pointers": 3472,
+      "story_nonempty": 3307,
+      "story_literal_references": 886,
+      "story_control_only_nonempty": 2421,
+      "story_dynamic_references": 9,
+      "story_unterminated": 0,
+      "horizontal_candidates": [
+        "G01:M031",
+        "G06:M022",
+        "G09:M063"
+      ],
+      "vertical_candidates": [],
+      "getter_entries": 2333,
+      "getter_nonempty": 1972,
+      "getter_unterminated": 0,
+      "window_presets": 141,
+      "unique_geometries": 79,
+      "status": "STATIC_ONLY_NOT_GLOBAL_VISUAL_APPROVAL"
+    },
+    "build": {
+      "source_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+      "legacy_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+      "target_sha256": "2189490744c44fb1f16f79216a4c861cb7e3ade185a86e4d05b556c1bf46dd43",
+      "bps_sha256": "f69ee474103edcff58396272b293748d45db2d68da0f83ffdbde3fbfa0f26c67",
+      "changed_bytes_vs_legacy": 10290,
+      "unexpected_changed_offsets": 0,
+      "checksum": "54D7",
+      "roundtrip": "PASS",
+      "release_hash_verified": true
+    },
+    "unit_tests_passed": 11,
+    "portable_editable_rebuild": "PASS_EXACT_ROM_AND_EDITS",
+    "ui_context_pending": [
+      "G16:M000",
+      "G16:M003",
+      "G16:M004"
+    ],
+    "second_independent_reviewer": false,
+    "completed_utc": "2026-10-14T23:25:30.496501+00:00"
+  },
+  "previous_hf15": {
+    "bytes": 2097152,
+    "sha256": "2189490744c44fb1f16f79216a4c861cb7e3ade185a86e4d05b556c1bf46dd43",
+    "crc32": "D6DCD52B",
+    "ws_checksum": "54D7"
+  },
+  "qa21_corrected_references": 64,
+  "qa21_near_pointer_edits": 64,
+  "changed_bytes_vs_hf15": 4258,
+  "rom_changes_in_QA21": 4258,
+  "qa21_getter_corrected_references": 2,
+  "qa21": {
+    "status": "V3_EXECUTED_SCOPED_WITH_TWO_CONTEXT_RESERVES",
+    "checks": 3365,
+    "references_reviewed": 207,
+    "references_changed": 64,
+    "getter_references_changed": 2,
+    "scoped_pass": 205,
+    "context_pending": [
+      "G06:M100",
+      "G11:M011"
+    ],
+    "native_sessions_final": 207,
+    "story_terminators_reached": 207,
+    "incomplete_excluded_diagnostics": [],
+    "native_frames": 60714,
+    "visual_readings": 284,
+    "approved_nonblank_dropped_glyphs": 0,
+    "blank_padding_drops": 1,
+    "excluded_diagnostics": [],
+    "changed_bytes_vs_hf15": 4258,
+    "independent_bps": "PASS_EXACT_BYTES",
+    "global_visual_approved": false,
+    "global_linguistic_approved": false,
+    "natural_reachability": "NOT_VALIDATED",
+    "static": {
+      "story_references": 3488,
+      "story_unique_pointers": 3472,
+      "story_nonempty": 3307,
+      "story_literal_references": 886,
+      "story_control_only_nonempty": 2421,
+      "story_dynamic_references": 9,
+      "story_unterminated": 0,
+      "horizontal_candidates": [
+        "G01:M031",
+        "G06:M022",
+        "G09:M063"
+      ],
+      "vertical_candidates": [],
+      "getter_entries": 2333,
+      "getter_nonempty": 1972,
+      "getter_unterminated": 0,
+      "window_presets": 141,
+      "unique_geometries": 79,
+      "status": "STATIC_ONLY_NOT_GLOBAL_VISUAL_APPROVAL"
+    },
+    "build": {
+      "source_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+      "legacy_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+      "target_sha256": "14abf199753631e907e80092ce50f4e48d7eb139f31964cdc8897b9d6bf51c00",
+      "bps_sha256": "5f1c59ee00a6e564ff007518aa86e46b40eb9f94dc0f410fd702df0db8a6e78a",
+      "changed_bytes_vs_legacy": 14537,
+      "unexpected_changed_offsets": 0,
+      "checksum": "6555",
+      "roundtrip": "PASS",
+      "release_hash_verified": true
+    },
+    "supplemental": {
+      "status": "PASS_SYNTHETIC_SCOPED_NATIVE_CONSUMERS",
+      "checks": 98,
+      "final_native_sessions": 5,
+      "japanese_comparison_sessions": 5,
+      "inventory_status_cases": 4,
+      "fused_cases": 6,
+      "final_frames": 13641,
+      "native_readings": 100,
+      "unique_window_getter_bindings": 35,
+      "bindings": [
+        [
+          3,
+          0,
+          1
+        ],
+        [
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          4
+        ],
+        [
+          3,
+          0,
+          5
+        ],
+        [
+          3,
+          0,
+          6
+        ],
+        [
+          4,
+          3,
+          223
+        ],
+        [
+          4,
+          3,
+          233
+        ],
+        [
+          4,
+          3,
+          234
+        ],
+        [
+          4,
+          4,
+          1
+        ],
+        [
+          4,
+          4,
+          50
+        ],
+        [
+          4,
+          4,
+          223
+        ],
+        [
+          4,
+          4,
+          233
+        ],
+        [
+          4,
+          4,
+          234
+        ],
+        [
+          4,
+          14,
+          10
+        ],
+        [
+          4,
+          14,
+          20
+        ],
+        [
+          4,
+          14,
+          87
+        ],
+        [
+          4,
+          14,
+          93
+        ],
+        [
+          5,
+          2,
+          36
+        ],
+        [
+          5,
+          2,
+          223
+        ],
+        [
+          5,
+          2,
+          233
+        ],
+        [
+          5,
+          2,
+          234
+        ],
+        [
+          26,
+          3,
+          136
+        ],
+        [
+          26,
+          3,
+          155
+        ],
+        [
+          26,
+          4,
+          136
+        ],
+        [
+          26,
+          4,
+          155
+        ],
+        [
+          26,
+          5,
+          3
+        ],
+        [
+          26,
+          5,
+          10
+        ],
+        [
+          26,
+          5,
+          11
+        ],
+        [
+          26,
+          5,
+          12
+        ],
+        [
+          26,
+          5,
+          13
+        ],
+        [
+          26,
+          5,
+          14
+        ],
+        [
+          26,
+          5,
+          15
+        ],
+        [
+          26,
+          5,
+          16
+        ],
+        [
+          26,
+          5,
+          17
+        ]
+      ],
+      "new_getter_repairs": 2,
+      "global_getter_approval": false,
+      "user_summary": "Se compararon japonés e inglés en cuatro recorridos de inventario/estado y seis configuraciones de equipo fusionado. Cantidades 1/99, niveles +99/−99, dinero de ocho cifras, nombres sin identificar y ocho propiedades de fusión resultan legibles en la muestra. Dos etiquetas de eficacia contra tipos de enemigos se corrigieron.",
+      "report_images": [
+        {
+          "path": "ui_HF16V3_unknown_names_long/f00420.png",
+          "caption": "Nombres sin identificar y cantidades 99/1"
+        },
+        {
+          "path": "ui_HF16V3_status_equipped_minus/f00600.png",
+          "caption": "Equipo −99 y dinero de ocho cifras"
+        },
+        {
+          "path": "fused_HF16V3/fused_65_13_16_f720.png",
+          "caption": "Dos propiedades corregidas contra tipos de enemigos"
+        }
+      ]
+    },
+    "unit_tests_passed": 11,
+    "portable_editable_rebuild": "PASS_EXACT_ROM_AND_EDITS",
+    "second_independent_reviewer": false,
+    "completed_utc": "2026-10-15T00:08:05.567924+00:00"
+  },
+  "previous_hf16": {
+    "bytes": 2097152,
+    "sha256": "14abf199753631e907e80092ce50f4e48d7eb139f31964cdc8897b9d6bf51c00",
+    "crc32": "20FF7B24",
+    "ws_checksum": "6555"
+  },
+  "qa22_corrected_references": 43,
+  "qa22_validation": "V4_EXECUTED_SCOPED_WITH_TWO_NAME_RESERVES",
+  "changed_bytes_vs_hf16": 2183,
+  "rom_changes_in_QA22": 2183,
+  "qa22": {
+    "status": "V4_EXECUTED_SCOPED_WITH_TWO_NAME_RESERVES",
+    "references_reviewed": 194,
+    "references_changed": 43,
+    "scoped_visual_pass": 194,
+    "scoped_linguistic_pass": 192,
+    "name_confirmation_pending": [
+      "G09:M086",
+      "G09:M089"
+    ],
+    "native_sessions_final": 194,
+    "native_frames": 47451,
+    "native_page_images": 221,
+    "unchanged_exact_page_images": 151,
+    "story_terminators_reached": 194,
+    "nonblank_dropped_glyphs": 0,
+    "checks": 1483,
+    "changed_bytes_vs_hf16": 2183,
+    "independent_bps": "PASS_EXACT_BYTES",
+    "global_visual_approved": false,
+    "global_linguistic_approved": false,
+    "natural_reachability": "NOT_VALIDATED",
+    "portable_editable_rebuild": "PASS_EXACT_ROM_AND_EDITS",
+    "second_independent_reviewer": false
+  },
+  "previous_hf17": {
+    "bytes": 2097152,
+    "sha256": "951c3bb6b7ddc2d8685c8b9d5160fffcee6fffbc0fe6bb72c3a91c29c3e88d0f",
+    "crc32": "8E66BB8E",
+    "ws_checksum": "2C5E"
+  },
+  "changed_bytes_vs_hf17": 931,
+  "qa23_corrected_G14_references": 65,
+  "qa23_name_reconciliations": 2,
+  "qa23_validation": "V5_EXECUTED_SCOPED_WITH_LEXICAL_RESERVES",
+  "qa23": {
+    "status": "V5_EXECUTED_SCOPED_WITH_LEXICAL_RESERVES",
+    "references_reviewed": 154,
+    "references_changed": 65,
+    "unchanged": 89,
+    "scoped_synthetic_visual_pass": 154,
+    "scoped_synthetic_linguistic_pass": 152,
+    "lexical_reservations": [
+      "G14:M007",
+      "G14:M067"
+    ],
+    "name_reconciliations": 2,
+    "native_sessions_final": 156,
+    "native_frames": 20706,
+    "native_end_images": 156,
+    "checks": 2401,
+    "unchanged_exact_end_images": 89,
+    "title_frames_exact_historical": 1001,
+    "credit_pages_exact_historical": 14,
+    "nonblank_dropped_glyphs": 0,
+    "changed_bytes_vs_hf17": 931,
+    "independent_bps": "PASS_EXACT_BYTES",
+    "portable_editable_rebuild": "PASS_EXACT_ROM_AND_EDITS",
+    "global_visual_approved": false,
+    "global_linguistic_approved": false,
+    "second_independent_reviewer": false
+  }
+}

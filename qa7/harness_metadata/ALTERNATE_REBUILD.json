@@ -1,0 +1,5 @@
+{
+  "parent_sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+  "sha256": "138f043c220898c05bc970bf53e513ef98f33c0285b8c7a456afda5f0e96207b",
+  "purpose": "SYNTHETIC TEST ONLY: normal menu Save entry redirects to alternate wrapper, not native alternate event acquisition"
+}

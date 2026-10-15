@@ -1,0 +1,32 @@
+[
+  {
+    "id": "S02",
+    "url": "https://retroachievements.org/game/16362",
+    "summary": "Firsthand comments report equipment-check freeze/save loss and Lafoss crash; exact setup incomplete."
+  },
+  {
+    "id": "S03",
+    "url": "https://retroachievements.org/forums/topic/14392",
+    "summary": "Warning links a freeze to later save loss; original CCAA4853 and English AC2E344C pinned."
+  },
+  {
+    "id": "S06",
+    "url": "https://wazap.com/cheat/セーブデータ破損？バグ/570082/",
+    "summary": "Reports white screen/unusable save near event floors or third-dungeon elevator; floor99 teleport then30 report in comment2729953."
+  },
+  {
+    "id": "S07",
+    "url": "https://wazap.com/cheat/クリア不能バグと対処法/570080/",
+    "summary": "Reports ending scene freeze after fountain/frog event; no traceable save provided."
+  },
+  {
+    "id": "S08",
+    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14305291199",
+    "summary": "Atla report retained from supplied PDF; current page fetch failed; no new confirmation."
+  },
+  {
+    "id": "S09",
+    "url": "https://www.reddit.com/r/WonderSwan/comments/14etxl1",
+    "summary": "Additional hardware-side report of implausible floor20000; search snippet includes battery-voltage hypothesis. Not a verified ROM cause; full page fetch failed."
+  }
+]

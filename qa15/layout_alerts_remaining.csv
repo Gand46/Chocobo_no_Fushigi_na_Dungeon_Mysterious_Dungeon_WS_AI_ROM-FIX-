@@ -1,0 +1,14 @@
+id,pointer,literal_lines,discarded_cell_if_dialogue_consumer,status,next_iteration,note
+G01:M031,1B3911,14,0000,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,"Celda descartada seria relleno; verificar desplazamiento extra, no descartar como inocuo."
+G01:M039,1B3AEF,11|16|5,0130,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,Posible perdida de glifo visible; confirmar consumidor/contexto.
+G03:M012,1B4CA5,14,00DD,FAIL_SYNTHETIC_LAYOUT_AND_RESIDUAL_GLYPHS,M3,Posible perdida de glifo visible; confirmar consumidor/contexto.
+G04:M031,1B5867,14|13,00B5,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,Posible perdida de glifo visible; confirmar consumidor/contexto.
+G04:M034,1B5905,15|18,00C9 00DD,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,Posible perdida de glifo visible; confirmar consumidor/contexto.
+G04:M048,1B5C27,6|16,00DD,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,Posible perdida de glifo visible; confirmar consumidor/contexto.
+G06:M022,065CA4,15,0000,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,"Celda descartada seria relleno; verificar desplazamiento extra, no descartar como inocuo."
+G06:M099,066C36,10|8|14,00AD,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,Posible perdida de glifo visible; confirmar consumidor/contexto.
+G08:M020,0684D0,15|10|1,0276,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,Posible perdida de glifo visible; confirmar consumidor/contexto.
+G09:M063,069680,14,0000,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,"Celda descartada seria relleno; verificar desplazamiento extra, no descartar como inocuo."
+G16:M004,06CDD2,9|17,027D,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,Posible perdida de glifo visible; confirmar consumidor/contexto.
+G16:M064,06D336,41,00A4,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,Recurso compuesto de41 celdas: confirmar consumidor de tienda; no imponer límite de diálogo sin trazado.
+G16:M070,06D3FE,12|9|12|17,000F,STATIC_CANDIDATE_NOT_CONFIRMED_FAILURE,M3,Posible perdida de glifo visible; confirmar consumidor/contexto.

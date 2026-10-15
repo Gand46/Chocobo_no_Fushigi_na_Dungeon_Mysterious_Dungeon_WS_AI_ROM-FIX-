@@ -1,0 +1,54 @@
+{
+  "status": "PASS_SYNTHETIC_SCOPED",
+  "iteration": "M4_OF_4_EXECUTED",
+  "checks": 259,
+  "approved_runs": 7,
+  "diagnostic_runs": 23,
+  "approved_native_frames": 7500,
+  "visual_readings": 14,
+  "unique_resources_corrected": 5,
+  "content_changed_bytes": 147,
+  "checksum_changed_bytes": 2,
+  "nonblank_dropped_glyphs_approved": 0,
+  "blank_padding_drops_approved": 0,
+  "independent_bps": "PASS_EXACT_BYTES",
+  "layout_static": {
+    "story_references": 3488,
+    "story_unique_pointers": 3472,
+    "story_nonempty": 3307,
+    "story_literal_references": 886,
+    "story_control_only_nonempty": 2421,
+    "story_dynamic_references": 9,
+    "story_unterminated": 0,
+    "horizontal_candidates": [
+      "G01:M031",
+      "G06:M022",
+      "G09:M063"
+    ],
+    "vertical_candidates": [],
+    "getter_entries": 2333,
+    "getter_nonempty": 1972,
+    "getter_unterminated": 0,
+    "window_presets": 141,
+    "unique_geometries": 79,
+    "status": "STATIC_ONLY_NOT_GLOBAL_VISUAL_APPROVAL"
+  },
+  "global_layout_approved": false,
+  "global_linguistic_approved": false,
+  "natural_scene_reachability": "NOT_VALIDATED",
+  "remaining_base_iterations": 0,
+  "unconfirmed_layout_candidates": [
+    "TR-01-M2-C01 preset32/F00:I053"
+  ],
+  "build": {
+    "source_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+    "legacy_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+    "target_sha256": "a6bb2ee9e1d973f92aa7eac1a158f2873cde185075fc8a3b042dbe1f1dcb303f",
+    "bps_sha256": "33a916387401d4ce329f7123bc503853290bbf5c516d24397f2f21473f0ac52d",
+    "changed_bytes_vs_legacy": 4660,
+    "unexpected_changed_offsets": 0,
+    "checksum": "0903",
+    "roundtrip": "PASS",
+    "release_hash_verified": true
+  }
+}

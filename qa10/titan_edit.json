@@ -1,0 +1,7 @@
+{
+  "id": "TEXT_TITAN_SADDLE_TERMINATOR",
+  "offset": "0x16f1d4",
+  "before": "7800",
+  "after": "ffff",
+  "reason": "Family3/indexA4 native item-name consumer: remove residual glyph w after TitanSaddle; existing following terminator retained as padding. Verified slot16F1CA..16F1D7."
+}

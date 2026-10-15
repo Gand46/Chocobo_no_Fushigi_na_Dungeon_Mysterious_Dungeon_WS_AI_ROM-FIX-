@@ -1,0 +1,211 @@
+ROM 190300
+0300 07               pop es
+0301 c606f56bff       mov byte ptr [0x6bf5], 0xff
+0306 c606086cff       mov byte ptr [0x6c08], 0xff
+030B c6060d6cff       mov byte ptr [0x6c0d], 0xff
+0310 33f6             xor si, si
+0312 b90700           mov cx, 7
+0315 c6848c6c01       mov byte ptr [si + 0x6c8c], 1
+031A c684936c01       mov byte ptr [si + 0x6c93], 1
+031F 46               inc si
+0320 e2f3             loop 0x315
+0322 c706186b0100     mov word ptr [0x6b18], 1
+0328 c606fb6900       mov byte ptr [0x69fb], 0
+032D c606487501       mov byte ptr [0x7548], 1
+0332 cb               retf 
+0333 beb675           mov si, 0x75b6
+0336 bfd86b           mov di, 0x6bd8
+0339 b9d409           mov cx, 0x9d4
+033C e86600           call 0x3a5
+033F 9a8dc400e0       lcall 0xe000, 0xc48d
+0344 9af6060090       lcall 0x9000, 0x6f6
+0349 c606990300       mov byte ptr [0x399], 0
+034E c706dd030000     mov word ptr [0x3dd], 0
+0354 c6069c5f00       mov byte ptr [0x5f9c], 0
+0359 cb               retf 
+035A beb675           mov si, 0x75b6
+035D bfd86b           mov di, 0x6bd8
+0360 b9d409           mov cx, 0x9d4
+0363 e83f00           call 0x3a5
+0366 cb               retf 
+0367 9a7ac400e0       lcall 0xe000, 0xc47a
+036C 36a10e05         mov ax, word ptr ss:[0x50e]
+0370 a33075           mov word ptr [0x7530], ax
+0373 bfb675           mov di, 0x75b6
+0376 bed86b           mov si, 0x6bd8
+0379 b9d409           mov cx, 0x9d4
+037C e82600           call 0x3a5
+037F befe03           mov si, 0x3fe
+0382 bfb075           mov di, 0x75b0
+0385 b90400           mov cx, 4
+0388 e82300           call 0x3ae
+038B cb               retf 
+038C bfb675           mov di, 0x75b6
+038F bed86b           mov si, 0x6bd8
+0392 b9d409           mov cx, 0x9d4
+0395 e80d00           call 0x3a5
+0398 befa03           mov si, 0x3fa
+039B bfac75           mov di, 0x75ac
+039E b90400           mov cx, 4
+03A1 e80a00           call 0x3ae
+03A4 cb               retf 
+03A5 8a04             mov al, byte ptr [si]
+03A7 8805             mov byte ptr [di], al
+03A9 46               inc si
+03AA 47               inc di
+03AB e2f8             loop 0x3a5
+03AD c3               ret 
+03AE 2e8a04           mov al, byte ptr cs:[si]
+03B1 8805             mov byte ptr [di], al
+03B3 46               inc si
+03B4 47               inc di
+03B5 e2f7             loop 0x3ae
+03B7 c3               ret 
+03B8 c606b47500       mov byte ptr [0x75b4], 0
+03BD befa03           mov si, 0x3fa
+03C0 bfac75           mov di, 0x75ac
+03C3 b90400           mov cx, 4
+03C6 2e8a04           mov al, byte ptr cs:[si]
+03C9 3a05             cmp al, byte ptr [di]
+03CB 7504             jne 0x3d1
+03CD 47               inc di
+03CE 46               inc si
+03CF e2f5             loop 0x3c6
+03D1 83f900           cmp cx, 0
+03D4 7505             jne 0x3db
+03D6 800eb47502       or byte ptr [0x75b4], 2
+03DB befe03           mov si, 0x3fe
+03DE bfb075           mov di, 0x75b0
+03E1 b90400           mov cx, 4
+03E4 2e8a04           mov al, byte ptr cs:[si]
+03E7 3a05             cmp al, byte ptr [di]
+03E9 7504             jne 0x3ef
+03EB 47               inc di
+03EC 46               inc si
+03ED e2f5             loop 0x3e4
+03EF 83f900           cmp cx, 0
+03F2 7505             jne 0x3f9
+03F4 800eb47501       or byte ptr [0x75b4], 1
+03F9 cb               retf 
+03FA 41               inc cx
+03FB 5f               pop di
+03FC 43               inc bx
+03FD 316e5f           xor word ptr [bp + 0x5f], bp
+0400 6331             arpl word ptr [bx + di], si
+0402 b000             mov al, 0
+0404 e690             out 0x90, al
+0406 b000             mov al, 0
+0408 e691             out 0x91, al
+040A b80000           mov ax, 0
+040D e788             out 0x88, ax
+040F b80000           mov ax, 0
+0412 e789             out 0x89, ax
+0414 b80000           mov ax, 0
+0417 e78a             out 0x8a, ax
+0419 b80000           mov ax, 0
+041C e78b             out 0x8b, ax
+041E b80000           mov ax, 0
+0421 e780             out 0x80, ax
+0423 b80000           mov ax, 0
+0426 e782             out 0x82, ax
+0428 b80000           mov ax, 0
+042B e784             out 0x84, ax
+042D b80000           mov ax, 0
+0430 e786             out 0x86, ax
+0432 c3               ret 
+0433 bfed04           mov di, 0x4ed
+0436 2e8a05           mov al, byte ptr cs:[di]
+0439 a27d6c           mov byte ptr [0x6c7d], al
+043C 47               inc di
+043D 2e8b05           mov ax, word ptr cs:[di]
+0440 a37e6c           mov word ptr [0x6c7e], ax
+0443 83c702           add di, 2
+0446 2e8b05           mov ax, word ptr cs:[di]
+0449 a3806c           mov word ptr [0x6c80], ax
+044C 83c702           add di, 2
+044F 2e8a05           mov al, byte ptr cs:[di]
+0452 a2826c           mov byte ptr [0x6c82], al
+0455 47               inc di
+0456 2e8a05           mov al, byte ptr cs:[di]
+0459 a2836c           mov byte ptr [0x6c83], al
+045C 47               inc di
+045D 2e8b05           mov ax, word ptr cs:[di]
+0460 a39a6c           mov word ptr [0x6c9a], ax
+0463 2e8b4502         mov ax, word ptr cs:[di + 2]
+0467 a39c6c           mov word ptr [0x6c9c], ax
+046A 83c704           add di, 4
+046D 2e8a05           mov al, byte ptr cs:[di]
+0470 a2da6b           mov byte ptr [0x6bda], al
+0473 47               inc di
+0474 2e8a05           mov al, byte ptr cs:[di]
+0477 a2db6b           mov byte ptr [0x6bdb], al
+047A 47               inc di
+047B 2e8a05           mov al, byte ptr cs:[di]
+047E a2dc6b           mov byte ptr [0x6bdc], al
+0481 47               inc di
+0482 2e8a05           mov al, byte ptr cs:[di]
+0485 a2dd6b           mov byte ptr [0x6bdd], al
+0488 47               inc di
+0489 2e8a05           mov al, byte ptr cs:[di]
+048C a2de6b           mov byte ptr [0x6bde], al
+048F 47               inc di
+0490 2e8a05           mov al, byte ptr cs:[di]
+0493 a2846c           mov byte ptr [0x6c84], al
+0496 47               inc di
+0497 2e8a05           mov al, byte ptr cs:[di]
+049A a2856c           mov byte ptr [0x6c85], al
+049D 47               inc di
+049E 2e8a05           mov al, byte ptr cs:[di]
+04A1 a2e06b           mov byte ptr [0x6be0], al
+04A4 47               inc di
+04A5 2e8a05           mov al, byte ptr cs:[di]
+04A8 a2e16b           mov byte ptr [0x6be1], al
+04AB 47               inc di
+04AC 2e8a05           mov al, byte ptr cs:[di]
+04AF a2e26b           mov byte ptr [0x6be2], al
+04B2 47               inc di
+04B3 2e8a05           mov al, byte ptr cs:[di]
+04B6 a2e36b           mov byte ptr [0x6be3], al
+04B9 47               inc di
+04BA 2e8a05           mov al, byte ptr cs:[di]
+04BD a2e46b           mov byte ptr [0x6be4], al
+04C0 47               inc di
+04C1 2e8a05           mov al, byte ptr cs:[di]
+04C4 a2e56b           mov byte ptr [0x6be5], al
+04C7 47               inc di
+04C8 2e8a05           mov al, byte ptr cs:[di]
+04CB a2f56b           mov byte ptr [0x6bf5], al
+04CE 47               inc di
+04CF 2e8a05           mov al, byte ptr cs:[di]
+04D2 a2086c           mov byte ptr [0x6c08], al
+04D5 47               inc di
+04D6 2e8a05           mov al, byte ptr cs:[di]
+04D9 a20d6c           mov byte ptr [0x6c0d], al
+04DC be0000           mov si, 0
+04DF b90700           mov cx, 7
+04E2 a0856c           mov al, byte ptr [0x6c85]
+04E5 8884856c         mov byte ptr [si + 0x6c85], al
+04E9 46               inc si
+04EA e2f9             loop 0x4e5
+04EC c3               ret 
+04ED 011e001e         add word ptr [0x1e00], bx
+04F1 006464           add byte ptr [si + 0x64], ah
+04F4 0000             add byte ptr [bx + si], al
+04F6 0000             add byte ptr [bx + si], al
+04F8 0000             add byte ptr [bx + si], al
+04FA 0000             add byte ptr [bx + si], al
+04FC 001e320a         add byte ptr [0xa32], bl
+0500 1e               push ds
+0501 0a0a             or cl, byte ptr [bp + si]
+0503 0508ff           add ax, 0xff08
+ROM 1EC400
+C400 0e               push cs
+C401 3064e8           xor byte ptr [si - 0x18], ah
+C404 54               push sp
+C405 00c7             add bh, al
+C407 06               push es
+C408 30646c           xor byte ptr [si + 0x6c], ah
+C40B 00e8             add al, ch
+C40D 4b               dec bx
+C40E 0032             add byte ptr [bp + si], dh
+C410 e48a             in al, 0x8a

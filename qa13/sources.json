@@ -1,0 +1,9 @@
+{
+  "accessed_utc_date": "2026-10-14",
+  "sources": [
+    {"url":"https://wazap.com/cheat/セーブデータ破損？バグ/570082/","retrieval":"SUCCESS","scope":"Firsthand reports of special-floor save/elevator failures and comment dated June20 2026 about Telep99 then wrong map30 and a later freeze; supplies no save dump."},
+    {"url":"https://retroachievements.org/forums/topic/14392","retrieval":"SUCCESS","scope":"Reported freeze followed by save loss; exact SRAM and reproduction steps not supplied in the retrieved thread."},
+    {"url":"https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14305291199","retrieval":"UNAVAILABLE_THIS_PHASE","scope":"No new claim about the exact Atla failing conditions. Prior documented investigation retained."}
+  ],
+  "shared_chat":"Existing QA6 visible-text review retained; no additional distinct software incident established in that review."
+}

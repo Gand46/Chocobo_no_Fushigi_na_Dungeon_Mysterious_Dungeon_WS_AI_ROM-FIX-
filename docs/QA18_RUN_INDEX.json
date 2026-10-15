@@ -1,0 +1,366 @@
+[
+  {
+    "run": "base_G00_M015",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "plan_sha256": "c641aa2f419338a18960c1a583827554186ceb8d969961272674b50e3cff0b7c",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "base_G06_M012",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "plan_sha256": "59303c8dc5daee6c33364ef224255fc3829e9ddbf7239f88db87011fd239f352",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "base_G06_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "plan_sha256": "2125f96440d9ad9808fd66b31fb70100b298d6debe693ff9ba043735c69db1d1",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "base_G09_M191",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "plan_sha256": "297044ec6195223091177b2484f3bfb8e4baf8b6487bd4caf940ffeeb75aea29",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "candidate_G00_M015",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "8e385794d8f9027912205f5920a66a2bd38adffdd152cca9c402bb1c78ed73a1",
+    "plan_sha256": "c641aa2f419338a18960c1a583827554186ceb8d969961272674b50e3cff0b7c",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "candidate_G06_M012",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "8e385794d8f9027912205f5920a66a2bd38adffdd152cca9c402bb1c78ed73a1",
+    "plan_sha256": "59303c8dc5daee6c33364ef224255fc3829e9ddbf7239f88db87011fd239f352",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "candidate_G06_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "8e385794d8f9027912205f5920a66a2bd38adffdd152cca9c402bb1c78ed73a1",
+    "plan_sha256": "2125f96440d9ad9808fd66b31fb70100b298d6debe693ff9ba043735c69db1d1",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "candidate_G09_M191",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "8e385794d8f9027912205f5920a66a2bd38adffdd152cca9c402bb1c78ed73a1",
+    "plan_sha256": "297044ec6195223091177b2484f3bfb8e4baf8b6487bd4caf940ffeeb75aea29",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "final_G00_M015",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "a6bb2ee9e1d973f92aa7eac1a158f2873cde185075fc8a3b042dbe1f1dcb303f",
+    "plan_sha256": "c641aa2f419338a18960c1a583827554186ceb8d969961272674b50e3cff0b7c",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "final_G06_M012",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "a6bb2ee9e1d973f92aa7eac1a158f2873cde185075fc8a3b042dbe1f1dcb303f",
+    "plan_sha256": "59303c8dc5daee6c33364ef224255fc3829e9ddbf7239f88db87011fd239f352",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "final_G06_M073",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "a6bb2ee9e1d973f92aa7eac1a158f2873cde185075fc8a3b042dbe1f1dcb303f",
+    "plan_sha256": "2125f96440d9ad9808fd66b31fb70100b298d6debe693ff9ba043735c69db1d1",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "final_G09_M191",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "a6bb2ee9e1d973f92aa7eac1a158f2873cde185075fc8a3b042dbe1f1dcb303f",
+    "plan_sha256": "297044ec6195223091177b2484f3bfb8e4baf8b6487bd4caf940ffeeb75aea29",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "final_dyn_G00_M253_max",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "a6bb2ee9e1d973f92aa7eac1a158f2873cde185075fc8a3b042dbe1f1dcb303f",
+    "plan_sha256": "bd9f169f316a1ac87e9b9ed99b580d91dcc7d14bf4260c699435f8c87631362d",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION",
+      "DATA_INJECTION"
+    ]
+  },
+  {
+    "run": "final_dyn_G16_M034_max",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "a6bb2ee9e1d973f92aa7eac1a158f2873cde185075fc8a3b042dbe1f1dcb303f",
+    "plan_sha256": "c4318b1f9b60cc5d592758156f3d35d6305fe5286800d3ac1bfb4b11ff16acd2",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION",
+      "DATA_INJECTION"
+    ]
+  },
+  {
+    "run": "final_slot_native",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "rom_sha256": "a6bb2ee9e1d973f92aa7eac1a158f2873cde185075fc8a3b042dbe1f1dcb303f",
+    "plan_sha256": "a2987e696ce9e2c3c407f27ff9534bf151fb1e3ad109fe53e75e5701eb9b9466",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1200,
+    "access": [
+      "SAVESTATE",
+      "SCRIPT_POINTER_INJECTION"
+    ]
+  },
+  {
+    "run": "pre_final_G00_M015",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "286ebeadcd252658b17907911ddd7db4347c53000d9136588aed53ea2ea0e73d",
+    "plan_sha256": "c641aa2f419338a18960c1a583827554186ceb8d969961272674b50e3cff0b7c",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "pre_final_G06_M012",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "286ebeadcd252658b17907911ddd7db4347c53000d9136588aed53ea2ea0e73d",
+    "plan_sha256": "59303c8dc5daee6c33364ef224255fc3829e9ddbf7239f88db87011fd239f352",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "pre_final_G06_M073",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "286ebeadcd252658b17907911ddd7db4347c53000d9136588aed53ea2ea0e73d",
+    "plan_sha256": "2125f96440d9ad9808fd66b31fb70100b298d6debe693ff9ba043735c69db1d1",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "pre_final_G09_M191",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "286ebeadcd252658b17907911ddd7db4347c53000d9136588aed53ea2ea0e73d",
+    "plan_sha256": "297044ec6195223091177b2484f3bfb8e4baf8b6487bd4caf940ffeeb75aea29",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION"
+    ]
+  },
+  {
+    "run": "pre_final_dyn_G00_M253_max",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "286ebeadcd252658b17907911ddd7db4347c53000d9136588aed53ea2ea0e73d",
+    "plan_sha256": "bd9f169f316a1ac87e9b9ed99b580d91dcc7d14bf4260c699435f8c87631362d",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION",
+      "DATA_INJECTION"
+    ]
+  },
+  {
+    "run": "pre_final_dyn_G16_M034_max",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "286ebeadcd252658b17907911ddd7db4347c53000d9136588aed53ea2ea0e73d",
+    "plan_sha256": "c4318b1f9b60cc5d592758156f3d35d6305fe5286800d3ac1bfb4b11ff16acd2",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1050,
+    "access": [
+      "SAVESTATE",
+      "MESSAGE_SELECTOR_INJECTION",
+      "DATA_INJECTION"
+    ]
+  },
+  {
+    "run": "pre_final_slot_native",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "286ebeadcd252658b17907911ddd7db4347c53000d9136588aed53ea2ea0e73d",
+    "plan_sha256": "a2987e696ce9e2c3c407f27ff9534bf151fb1e3ad109fe53e75e5701eb9b9466",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1200,
+    "access": [
+      "SAVESTATE",
+      "SCRIPT_POINTER_INJECTION"
+    ]
+  },
+  {
+    "run": "slot_candidate",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "affa7015e8ab584ec3701a63f6033fc46ec4107fed3fa3bc18830488027a2510",
+    "plan_sha256": "a2987e696ce9e2c3c407f27ff9534bf151fb1e3ad109fe53e75e5701eb9b9466",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1200,
+    "access": [
+      "SAVESTATE",
+      "SCRIPT_POINTER_INJECTION"
+    ]
+  },
+  {
+    "run": "slot_jp",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+    "plan_sha256": "a2987e696ce9e2c3c407f27ff9534bf151fb1e3ad109fe53e75e5701eb9b9466",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1200,
+    "access": [
+      "SAVESTATE",
+      "SCRIPT_POINTER_INJECTION"
+    ]
+  },
+  {
+    "run": "slot_native",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "plan_sha256": "a2987e696ce9e2c3c407f27ff9534bf151fb1e3ad109fe53e75e5701eb9b9466",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1200,
+    "access": [
+      "SAVESTATE",
+      "SCRIPT_POINTER_INJECTION"
+    ]
+  },
+  {
+    "run": "storage_full_native",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "plan_sha256": "dc8bf8c46956dcea5285931e413c8071ce8410f875a9a0ae14b4c61e069f25b6",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1200,
+    "access": [
+      "SAVESTATE",
+      "SCRIPT_POINTER_INJECTION"
+    ]
+  },
+  {
+    "run": "storage_full_native_v2",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "plan_sha256": "8b93de0f5e74592989f26c75197bd9c2040b7a309ce8c9f1a398a291f7d8e3bd",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1200,
+    "access": [
+      "SAVESTATE",
+      "SCRIPT_POINTER_INJECTION"
+    ]
+  },
+  {
+    "run": "storage_native",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "plan_sha256": "f0241176180ef40b5e1e56022b67a75901beb97b72625ba860e1fa961b4c9740",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1200,
+    "access": [
+      "SAVESTATE",
+      "SCRIPT_POINTER_INJECTION"
+    ]
+  },
+  {
+    "run": "storage_scroll_native",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "plan_sha256": "ef0dfa5d4ade6a7173e3cda741fa75a8fa9d6105450a5eb6b039434117554a92",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1200,
+    "access": [
+      "SAVESTATE",
+      "SCRIPT_POINTER_INJECTION"
+    ]
+  },
+  {
+    "run": "storage_select_native",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "rom_sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "plan_sha256": "bcd95c707990f3249e710e4de0763efa533d978ae596aba038f8973237235ce2",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb",
+    "frames": 1200,
+    "access": [
+      "SAVESTATE",
+      "SCRIPT_POINTER_INJECTION"
+    ]
+  }
+]

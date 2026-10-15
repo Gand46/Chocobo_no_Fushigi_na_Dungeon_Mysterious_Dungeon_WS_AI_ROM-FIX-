@@ -1,0 +1,46 @@
+{
+  "status": "PASS_SYNTHETIC_SCOPED_WITH_CONTEXT_PENDING",
+  "validation": "V1_OF_5_EXECUTED",
+  "checks": 1353,
+  "references_audited": 83,
+  "references_corrected": 36,
+  "linguistic_scoped_pass": 82,
+  "context_pending": [
+    "G16:M073 host phrase"
+  ],
+  "native_sessions_passed": 84,
+  "native_frames": 20666,
+  "visual_readings": 101,
+  "nonblank_dropped_glyphs": 0,
+  "blank_padding_drops": 1,
+  "changed_bytes_vs_hf13": 1355,
+  "independent_bps": "PASS_EXACT_BYTES",
+  "global_visual_approved": false,
+  "global_linguistic_approved": false,
+  "actual_menu_consumers": "V2_PENDING; Slot one-line consumer covered",
+  "natural_reachability": "NOT_VALIDATED",
+  "static": {
+    "story_references": 3488,
+    "story_unique_pointers": 3472,
+    "story_nonempty": 3307,
+    "story_literal_references": 886,
+    "story_control_only_nonempty": 2421,
+    "story_dynamic_references": 9,
+    "story_unterminated": 0,
+    "horizontal_candidates": [
+      "G01:M031",
+      "G06:M022",
+      "G09:M063"
+    ],
+    "vertical_candidates": [],
+    "getter_entries": 2333,
+    "getter_nonempty": 1972,
+    "getter_unterminated": 0,
+    "window_presets": 141,
+    "unique_geometries": 79,
+    "status": "STATIC_ONLY_NOT_GLOBAL_VISUAL_APPROVAL"
+  },
+  "build": {
+    "scope": "HISTORICAL_HF14"
+  }
+}

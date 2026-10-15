@@ -1,0 +1,58 @@
+{
+  "build": {
+    "argv": [
+      "{python}",
+      "qa20/release_build.py"
+    ],
+    "timeout_seconds": 60,
+    "artifacts": [
+      {
+        "path": "build/Chocobo_EN_v1.1_HF15_TEST_JP_CCAA4853.bps",
+        "sha256": "f69ee474103edcff58396272b293748d45db2d68da0f83ffdbde3fbfa0f26c67"
+      },
+      {
+        "path": "build/release_build_result.json",
+        "sha256": "73285d060841a53ebe065f557f614ae7fb806d12f36602bc7336375ed1826efa"
+      }
+    ]
+  },
+  "exclude": [
+    "build/**",
+    "dist/**",
+    "**/__pycache__/**",
+    "**/*.pyc"
+  ],
+  "external_inputs": [
+    {
+      "id": "japanese_rom",
+      "env": "CONTINUITY_INPUT_JP",
+      "kind": "file",
+      "sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+      "size": 2097152
+    }
+  ],
+  "name": "Chocobo_EN",
+  "project_id": "00d1959d-14a2-4b47-98ae-73ecfd8a4435",
+  "required_paths": [
+    "AGENTS.md",
+    "tools/continuity.py",
+    "build.py",
+    "manifest.json",
+    "src/legacy_translation_ranges.json",
+    "src/corrections.json",
+    "qa20/translations.json",
+    "qa20/text_codec.py",
+    "qa20/rebuild_translation_edits.py",
+    "qa20/release_build.py",
+    "qa20/verify_scope.py",
+    "qa20/linguistic_review.json",
+    "qa20/visual_readings.json",
+    "PROJECT_CONTEXT.md"
+  ],
+  "schema": 1,
+  "bps_roundtrip": {
+    "base_input": "japanese_rom",
+    "patch_path": "build/Chocobo_EN_v1.1_HF15_TEST_JP_CCAA4853.bps",
+    "target_path": "build/Chocobo_EN_v1.1_HF15_TEST.ws"
+  }
+}

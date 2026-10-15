@@ -1,0 +1,62 @@
+[
+  {
+    "id": "TR-01",
+    "status": "PARTIAL_92_ITEM_DESCRIPTION_SURFACES",
+    "scope": "92 IDs65..C0 tested through native Check:90 named items,2 empty reserved entries9B/9C. TitanSaddle residual w fixed at16F1D4. No global layout or linguistic approval."
+  },
+  {
+    "id": "TR-02",
+    "status": "FIXED_SYNTHETIC_HF3",
+    "scope": "Whistle missing tile and palette aliases repaired; 2399 frame comparison; native menu with injected inventory"
+  },
+  {
+    "id": "TR-03",
+    "status": "ENGLISH_TITLE_INTEGRATED_RUNTIME_PASS",
+    "scope": "Title, platform caption, animation and title-menu transition verified. Canonical stencils, two native maps and 411-tile resource preserved structurally. Animation tiles328..391 unchanged."
+  },
+  {
+    "id": "EN-01",
+    "status": "NOT_REPRODUCED_92_BASE_ID_CHECKS",
+    "scope": "All92 description getters observed; no crossings in two watched text stores and no writes to175AC..17F8F. Synthetic bag records. Cause of reported freeze remains unknown; fusion combinations and exact failing save remain pending."
+  },
+  {
+    "id": "EN-02",
+    "status": "FIXED_SYNTHETIC_NATIVE_KICK",
+    "scope": "FF projectile restored; FE/FF native damage enabled; FF enemy death, consumption and return confirmed. Damage1000 with defense0,800 with200,1 with2000. Other combat contexts/natural acquisition not globally approved."
+  },
+  {
+    "id": "EN-03",
+    "status": "NOT_REPRODUCED_BOUNDED",
+    "scope": "HF3 Dispel before/after cursed native equip works; artificial acquisition; curse remains and equipment removed"
+  },
+  {
+    "id": "JP-01",
+    "status": "FIXED_SCOPED_SYNTHETIC_STALE_FLOOR_CACHE",
+    "scope": "HF6 refreshes floor digits only in D3 event selectors;12cold-load destinations. Native coherent save98->load99 passes both HF5/HF6. Continuous elevator route and natural save-loss trigger remain unvalidated."
+  },
+  {
+    "id": "JP-02",
+    "status": "COHERENT_FOUNTAIN_FROG_VARIANTS_NO_FAILURE_REPRODUCED",
+    "scope": "Minimum15Geyser+5Frog and full45+15 synthetic states complete ending; HF6 full variant repeats completion. No fountain-specific binary fix."
+  },
+  {
+    "id": "JP-03",
+    "status": "FIXED_SCOPED_SYNTHETIC_REENTRY_MAP",
+    "scope": "Native Telep99->town followed by synthetic saved-data reentry30: HF5 mapA217, HF6 ordinary0000. Continuous elevator route and subsequent reported freeze not reproduced."
+  },
+  {
+    "id": "JP-04",
+    "status": "PASS_SCOPED_SYNTHETIC_EXACT_PREBOSS_SCENE",
+    "scope": "D2F60 pre-boss rescue traced E0:9A1C..9E4D, transformations/extraction9D07 onward, flag18 set at9E44. No pointer injection or memory edits in rescue plan. Boss then assisted; ending and village movement completed. Retrospective Yahoo failure conditions unknown; no Atla binary fix."
+  },
+  {
+    "id": "SAVE-01",
+    "status": "FIXED_SYNTHETIC_PARTIAL_WRITE_ACCEPTANCE",
+    "scope": "HF4 7606 write-prefix checks accept only whole old/new data; 144 mutations rejected; native normal save and cold load pass; legacy compatibility passes; no prior-payload recovery; alternate gameplay resume and natural forum reset cause remain unvalidated; HF5 native new write and cold load exact2516bytes PASS; guard code unchanged."
+  },
+  {
+    "id": "HW-USER",
+    "status": "CLOSED_OUT_OF_ROM_SCOPE",
+    "scope": "User established electrical cause of physical cartridge freeze; not a ROM diagnosis target"
+  }
+]

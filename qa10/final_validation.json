@@ -1,0 +1,12 @@
+[
+  {
+    "check": "unit_tests",
+    "exit": 0,
+    "output": "test_caves_near_pointer_preserves_bank (test_project.PatchTests.test_caves_near_pointer_preserves_bank) ... ok\ntest_deterministic_roundtrip (test_project.PatchTests.test_deterministic_roundtrip) ... ok\ntest_manifest_scope (test_project.PatchTests.test_manifest_scope) ... ok\ntest_overlapping_edit_rejected (test_project.PatchTests.test_overlapping_edit_rejected) ... ok\ntest_preimage_rejected (test_project.PatchTests.test_preimage_rejected) ... ok\ntest_resizing (test_project.PatchTests.test_resizing) ... ok\ntest_sourcecopy_targetcopy (test_project.PatchTests.test_sourcecopy_targetcopy) ... ok\ntest_tampered_patch (test_project.PatchTests.test_tampered_patch) ... ok\ntest_ten_terminated_resources (test_project.PatchTests.test_ten_terminated_resources) ... ok\ntest_truncated_patch (test_project.PatchTests.test_truncated_patch) ... ok\ntest_wrong_base (test_project.PatchTests.test_wrong_base) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.009s\n\nOK\n"
+  },
+  {
+    "check": "independent_bps",
+    "exit": 0,
+    "output": "Independent BPS PASS 116cd3df2828e97c890049619f6f43bf10102490f0c709a3dc836ec54a6a065a\n"
+  }
+]

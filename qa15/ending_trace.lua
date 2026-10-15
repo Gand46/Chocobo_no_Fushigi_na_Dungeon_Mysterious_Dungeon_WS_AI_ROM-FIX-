@@ -1,0 +1,1 @@
+local p={frames=7200,capture_every=120,moves={{50,7100,'a',60,4}}};local o=assert(loadfile(os.getenv('LAYOUT_OBSERVER')))();p.tick=function(f,save,memory)o.tick(f,save,memory);if f==p.frames then o.finish(save)end end;return p

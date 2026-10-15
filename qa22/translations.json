@@ -1,0 +1,186 @@
+{
+  "G09:M000": {
+    "text": "Oh, a Chocobo...",
+    "reason": "El japonés reconoce al chocobo, no pregunta por un objeto."
+  },
+  "G09:M002": {
+    "text": "Wh... why is a Chocobo here?",
+    "reason": "Conserva sorpresa y pregunta sobre el personaje."
+  },
+  "G09:M009": {
+    "text": "There is a Book here, a rare treasure!",
+    "reason": "Conserva descubrimiento del libro como tesoro."
+  },
+  "G09:M011": {
+    "text": "Books start weak, then grow as you read.",
+    "reason": "Gramática y progresión causal del uso de libros."
+  },
+  "G09:M012": {
+    "text": "It is getting late. Be careful down there!",
+    "reason": "Restituye despedida y advertencia por la hora."
+  },
+  "G09:M015": {
+    "text": "Eh? You just came down?",
+    "reason": "降りてきただけって: no simple visita casual."
+  },
+  "G09:M024": {
+    "text": "Got your Talons and Saddle equipped?",
+    "reason": "Instrucción de equipo y término Talons del glosario."
+  },
+  "G09:M025": {
+    "text": "They only help when you equip them!",
+    "reason": "Referente plural Talons y Saddle, función de equipar."
+  },
+  "G09:M030": {
+    "text": "It raises the level of Talons and Saddles.",
+    "reason": "Unifica el término de equipo, antes Claws."
+  },
+  "G09:M039": {
+    "text": "Fuse two Talons or two Saddles.",
+    "reason": "Explicación funcional de fusión del japonés."
+  },
+  "G09:M043": {
+    "text": "I finally found a pearl, but I dropped it.",
+    "reason": "せっかく見つけたのに: contratiempo tras hallazgo."
+  },
+  "G09:M044": {
+    "text": "Oh well. I will find another.",
+    "reason": "Restituye singular y búsqueda futura."
+  },
+  "G09:M053": {
+    "text": "Oh, there is Magicite too!",
+    "reason": "Además de la perla, se presenta la magia."
+  },
+  "G09:M059": {
+    "text": "Now that is a rare item!",
+    "reason": "これこそ: deíctico enfático, no conclusión causal."
+  },
+  "G09:M060": {
+    "text": "Oh, do you call unusual items rare items?",
+    "reason": "Pregunta por la denominación, no tesoros en general."
+  },
+  "G09:M062": {
+    "text": "You should not go too deep into the dungeon.",
+    "reason": "Advertencia explícita sobre profundidad."
+  },
+  "G09:M063": {
+    "text": "Do not overdo it. Return to the village!",
+    "reason": "Restituye regreso a la aldea y condición de seguridad."
+  },
+  "G09:M070": {
+    "text": "I was taking it out when a monster appeared. It got scared and ran off somewhere.",
+    "reason": "Corrige agente, encuentro y huida del hámster."
+  },
+  "G09:M079": {
+    "text": "Then spread your feathers a little more.",
+    "reason": "羽根を広げて: indicación física."
+  },
+  "G09:M081": {
+    "text": "Now your feather bag holds a few more items.",
+    "reason": "Conserva aumento moderado y ubicación de la bolsa."
+  },
+  "G09:M083": {
+    "text": "Then I will take him up to the surface.",
+    "reason": "地上へ: a la superficie, no salida genérica."
+  },
+  "G09:M086": {
+    "text": "This came from {Doru}, the Djungarian hamster.",
+    "reason": "ドル君/Doru-kun en el original; Chip era otra entidad. Romanización provisional."
+  },
+  "G09:M087": {
+    "text": "He sent it to thank you for rescuing him.",
+    "reason": "Restaura agente: el hámster encargó entregar el objeto."
+  },
+  "G09:M089": {
+    "text": "Blow it and {Doru} will bring you an item. It comes from {Atla's Dresser}.",
+    "reason": "El consumidor menciona al mismo ドル君; no Chip."
+  },
+  "G09:M097": {
+    "text": "{Camilla's Dad} is safe, but...",
+    "reason": "思ったのに: expectativa truncada al cambiar el peligro a Atla."
+  },
+  "G09:M108": {
+    "text": "See you. My identity is a secret.",
+    "reason": "Corrige error gráfico de spelling; conserva misterio."
+  },
+  "G09:M117": {
+    "text": "I see. The {furnace} is powering up!",
+    "reason": "Restituye certeza tentativa y cambio del horno."
+  },
+  "G09:M121": {
+    "text": "I should tell {Rask} about this too.",
+    "reason": "Krehl habla en primera persona sobre avisar a Rask."
+  },
+  "G09:M135": {
+    "text": "Come on. Let us go home.",
+    "reason": "帰るのさ: acción de regresar, omitida en inglés."
+  },
+  "G09:M141": {
+    "text": "So he really is a good guy.",
+    "reason": "本当はイイヤツ: afirmación, no pregunta."
+  },
+  "G09:M142": {
+    "text": "A lot happens when you are with him, huh?",
+    "reason": "いろいろある: experiencias, no pregunta sobre la relación."
+  },
+  "G09:M151": {
+    "text": "I came to give you this!",
+    "reason": "Corrige la inversión tipográfica I'm y tono de la frase."
+  },
+  "G09:M159": {
+    "text": "I found another flowerpot!",
+    "reason": "鉢植え: maceta, no planta nueva confirmada."
+  },
+  "G09:M163": {
+    "text": "The Tyrian Crystal absorbs people. Their wishes form dungeons.",
+    "reason": "Cadena causal y sujeto del original.",
+    "pages": [
+      "The Tyrian Crystal absorbs people.",
+      "Their wishes form dungeons."
+    ]
+  },
+  "G09:M168": {
+    "text": "It bursts, sending copies across the world.",
+    "reason": "分身: copias del cristal, información omitida."
+  },
+  "G09:M172": {
+    "text": "I sought it before it took anyone else.",
+    "reason": "Restituye primera persona y anterioridad."
+  },
+  "G09:M177": {
+    "text": "You care about {Atla}, but like these items too?",
+    "reason": "Conserva interés por Atla y curiosidad por objetos."
+  },
+  "G09:M185": {
+    "text": "Lately I forgot what that duty was.",
+    "reason": "Matiz temporal y memoria del deber."
+  },
+  "G09:M186": {
+    "text": "Someone's heart was twisted by the crystal. I am that heart's cry for help.",
+    "reason": "El hablante es la petición de ayuda misma, no sólo un corazón corrupto."
+  },
+  "G09:M187": {
+    "text": "I can go between the dungeon and the surface. But I cannot fight.",
+    "reason": "戦うことはできない: incapacidad de combatir, no debilidad genérica.",
+    "pages": [
+      "I can go between the dungeon and the surface.",
+      "But I cannot fight."
+    ]
+  },
+  "G09:M188": {
+    "text": "My duty is to seek someone who can help.",
+    "reason": "探すコト: búsqueda de auxilio."
+  },
+  "G09:M189": {
+    "text": "I help you find those needing rescue.",
+    "reason": "No pide que el jugador lo saque del calabozo."
+  },
+  "G09:M192": {
+    "text": "{Atla} is asking you to save him. My role is to help you do that.",
+    "reason": "Corrige inversión grave de rescatador y rescatado.",
+    "pages": [
+      "{Atla} is asking you to save him.",
+      "My role is to help you do that."
+    ]
+  }
+}

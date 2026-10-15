@@ -1,0 +1,10 @@
+{
+  "F06:I019": {
+    "text": "Strong vs undead",
+    "reason": "Eficacia contra enemigos no muertos; sustituye Strong to por Strong vs."
+  },
+  "F06:I022": {
+    "text": "Strong vs poison foes",
+    "reason": "Eficacia contra enemigos venenosos; no resistencia al estado veneno."
+  }
+}

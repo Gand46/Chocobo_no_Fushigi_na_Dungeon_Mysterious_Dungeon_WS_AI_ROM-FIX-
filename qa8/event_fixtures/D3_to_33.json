@@ -1,0 +1,9 @@
+{
+  "method": "SYNTHETIC_PROGRESS_AND_FLOOR_FIXTURE",
+  "source_sha256": "eed34caf6b950715db8b0f550825e5e090a3e6ab69c11b840b3156202a3ace68",
+  "sha256": "3ed343f5d2cc3ba216d6e20bdc95a92cae943bfe8bc308af6c730b31b7a62d22",
+  "saved_730a_mask0080": true,
+  "saved_730c_mask0004": true,
+  "destination": 33,
+  "not_natural_route": true
+}

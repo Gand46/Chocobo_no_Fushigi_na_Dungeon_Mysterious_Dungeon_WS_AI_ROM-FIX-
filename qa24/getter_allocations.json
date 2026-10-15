@@ -1,0 +1,44 @@
+[
+  {
+    "id": "F17:I067",
+    "text": "Ruin Cannon",
+    "old_pointer": "0x19c3ba",
+    "pointer_entry": "0x19c04a",
+    "pointer": "0x19ff00",
+    "bytes": 16,
+    "words": [
+      208,
+      673,
+      471,
+      193,
+      15,
+      486,
+      471
+    ],
+    "native_window": "81",
+    "interior_px": 128,
+    "nominal_width_px": 112,
+    "reason": "Same Japanese \u7834\u52d5\u7832 glyph stream as G14:M067; reconcile the native getter sibling with the HF18 story label."
+  },
+  {
+    "id": "F17:I152",
+    "text": "Wave Cannon",
+    "old_pointer": "0x19c7b4",
+    "pointer_entry": "0x19c0f4",
+    "pointer": "0x19ff10",
+    "bytes": 16,
+    "words": [
+      213,
+      23,
+      770,
+      193,
+      15,
+      486,
+      471
+    ],
+    "native_window": "81",
+    "interior_px": 128,
+    "nominal_width_px": 112,
+    "reason": "Same Japanese \u6ce2\u52d5\u7832 glyph stream as G14:M152; reconcile the native getter sibling with the HF18 story label."
+  }
+]

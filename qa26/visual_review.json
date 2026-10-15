@@ -1,0 +1,16 @@
+{
+  "status": "PASS_SCOPED_18_PAGES",
+  "reviewer": "Coordinator",
+  "comparison_sheets": [
+    "qa26/comparison_01.png",
+    "qa26/comparison_02.png",
+    "qa26/comparison_03.png"
+  ],
+  "resources": 14,
+  "pages": 18,
+  "all_final_pages_viewed": true,
+  "no_new_joined_words": true,
+  "native_font_preserved": true,
+  "global_visual_approved": false,
+  "trial1": "REJECTED_4PX_WORD_GAPS"
+}

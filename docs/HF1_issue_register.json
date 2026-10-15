@@ -1,0 +1,72 @@
+[
+  {
+    "id": "TR-01",
+    "incidencia_pdf": "Texto desplazado",
+    "estado": "PARTIALLY_AUDITED",
+    "evidencia_y_limite": "Se corrigen 10 recursos con lectura hacia entradas vecinas; no se ha censado todo el guion ni se equipara este conjunto a todos los desplazamientos del readme.",
+    "siguiente_prueba": "Revisar los consumidores propios y completar la auditoria visual de mensajes."
+  },
+  {
+    "id": "TR-02",
+    "incidencia_pdf": "Animacion del silbato",
+    "estado": "NOT_REPRODUCED",
+    "evidencia_y_limite": "No se ha aislado el defecto de animacion. No se modifican sus graficos.",
+    "siguiente_prueba": "Capturar el ciclo completo con Whistle, ID 0xDE, en las variantes comparables."
+  },
+  {
+    "id": "TR-03",
+    "incidencia_pdf": "Titulo sin traducir",
+    "estado": "DOCUMENTED_UNCHANGED",
+    "evidencia_y_limite": "El titulo japones se conserva; no es una reparacion de estabilidad.",
+    "siguiente_prueba": "Tratar como localizacion grafica independiente, preservando composicion."
+  },
+  {
+    "id": "EN-01",
+    "incidencia_pdf": "Consulta de equipamiento",
+    "estado": "NOT_REPRODUCED_IN_TESTED_SUBSET",
+    "evidencia_y_limite": "15 equipos x Chk/Equ x 3 variantes: 90 casos, sin reproducir bloqueo en esta matriz. El inventario fue construido sinteticamente; no cubre todas las propiedades, posiciones, maldiciones ni partidas.",
+    "siguiente_prueba": "Capturar un equipo/partida disparador y ampliar propiedades nativas; probar persistencia tras arranque frio."
+  },
+  {
+    "id": "EN-02",
+    "incidencia_pdf": "Lafosse Pearls",
+    "estado": "ITEM_IDENTIFIED_FAILURE_NOT_REPRODUCED",
+    "evidencia_y_limite": "La ROM dibuja Lafoss pearls para ID 0xFF. Nombre/descripcion identificados con el renderer nativo. No se ha reproducido su uso ni el bloqueo.",
+    "siguiente_prueba": "Crear un estado de mazmorra valido con ID 0xFF y comparar su efecto, mensajes y retorno."
+  },
+  {
+    "id": "EN-03",
+    "incidencia_pdf": "DispelDrink inhabilitado",
+    "estado": "ITEM_IDENTIFIED_RULE_MATRIX_PENDING",
+    "evidencia_y_limite": "ID 0x59: descripcion Allow cursed item removal. Identificacion no demuestra cuando el uso deberia habilitarse.",
+    "siguiente_prueba": "Matriz de equipo maldito/no maldito, orden de adquisicion/equipamiento y contexto de mazmorra."
+  },
+  {
+    "id": "JP-01",
+    "incidencia_pdf": "Eventos / ascensor / guardado",
+    "estado": "NOT_REPRODUCED",
+    "evidencia_y_limite": "No hay estado tardio validado para el escenario. No se modifican flags, cargador ni guardado.",
+    "siguiente_prueba": "Partida antes del ascensor/evento; comparar bytes persistidos y cold-load."
+  },
+  {
+    "id": "JP-02",
+    "incidencia_pdf": "Final segunda mazmorra",
+    "estado": "NOT_REPRODUCED",
+    "evidencia_y_limite": "No se han obtenido las dos ramas equivalentes con/sin evento de fuente/rana.",
+    "siguiente_prueba": "Crear ramas pareadas y localizar primera divergencia antes de editar eventos."
+  },
+  {
+    "id": "JP-03",
+    "incidencia_pdf": "Teletransporte 99 a 30",
+    "estado": "NOT_REPRODUCED",
+    "evidencia_y_limite": "No se ha ejecutado la ruta reportada. Puede solaparse con JP-01.",
+    "siguiente_prueba": "Estado previo al 99, retorno a pueblo y entrada al 30 con trazas de mapa/eventos."
+  },
+  {
+    "id": "JP-04",
+    "incidencia_pdf": "Rescate de Atla",
+    "estado": "NOT_REPRODUCED",
+    "evidencia_y_limite": "No se ha identificado el instante exacto del bloqueo anecdótico.",
+    "siguiente_prueba": "Estado previo al rescate, dialogo completo y transicion posterior."
+  }
+]

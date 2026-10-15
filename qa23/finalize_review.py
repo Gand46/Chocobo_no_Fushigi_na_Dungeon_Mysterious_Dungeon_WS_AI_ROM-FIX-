@@ -1,0 +1,16 @@
+from pathlib import Path
+import json
+R=Path(__file__).resolve().parents[1]
+read=lambda p:json.loads((R/p).read_text())
+write=lambda p,x:(R/p).write_text(json.dumps(x,ensure_ascii=False,indent=2)+'\n')
+ids=read('qa23/audit_ids.json');translations=read('qa23/translations.json');visual={x['id']:x for x in read('qa23/visual_readings.json')}
+lexical={'G14:M007':'ウィザヒット / Wither Hit: confirmar el término de habilidad en un contexto natural y en el glosario transversal.', 'G14:M067':'破動砲 / Ruin Cannon: confirmar la matización del nombre frente a 波動砲 / Wave Cannon (M152) con contexto de juego.'}
+reviews=[]
+for index,id in enumerate(ids):
+ d=translations.get(id);reviews.append({'id':id,'status':'NEEDS_TERM_CONFIRMATION' if id in lexical else 'PASS_SYNTHETIC_REVIEWED_SCOPED','visual_status':'PASS_SYNTHETIC_SCOPED','changed':bool(d),'audit_sheet':f'qa23/audit_{index//6:02d}.png','final_run':f'verified_{id.replace(":","_")}','final_image':visual[id]['image'],'final_image_sha256':visual[id]['sha256'],'comparison_method':'DIRECT_FINAL_NATIVE_READING' if d else 'BILINGUAL_BASELINE_AND_EXACT_FINAL_PIXELS','translation':d['text'] if d else None,'correction_reason':d['reason'] if d else None,'reservation':lexical.get(id),'context_limit':'Selección sintética nativa; no acredita todas las ventanas de habilidad en ruta natural.'})
+write('qa23/linguistic_review.json',reviews)
+v=read('qa23/verification.json');m=read('manifest.json');m['qa23_validation']=v['status'];m['qa23']={'status':v['status'],'references_reviewed':154,'references_changed':65,'unchanged':89,'scoped_synthetic_visual_pass':154,'scoped_synthetic_linguistic_pass':152,'lexical_reservations':list(lexical),'name_reconciliations':2,'native_sessions_final':156,'native_frames':v['native_frames'],'native_end_images':v['native_end_images'],'checks':v['checks'],'unchanged_exact_end_images':89,'title_frames_exact_historical':1001,'credit_pages_exact_historical':14,'nonblank_dropped_glyphs':0,'changed_bytes_vs_hf17':v['changed_bytes_vs_hf17'],'independent_bps':v['independent_bps'],'portable_editable_rebuild':'PASS_EXACT_ROM_AND_EDITS','global_visual_approved':False,'global_linguistic_approved':False,'second_independent_reviewer':False}
+write('manifest.json',m)
+a=read('docs/approval_matrix.json');a.update({'scope':'HF18 / QA23 / validación 5 de 5; las cinco particiones ejecutadas, aprobación global pendiente','authority':'HF18-QA23-V5','story_references_reviewed':154,'story_corrections':65,'scoped_synthetic_visual_pass':154,'scoped_synthetic_linguistic_pass':152,'v4_name_confirmation_pending':[],'v4_names_reconciled_in_v5':['G09:M086','G09:M089'],'v5_lexical_pending':list(lexical),'v5_pending':None,'runtime_scope':'V5: 154 selecciones sintéticas HF18 G14 y 2 nombres G09; 20706 cuadros, 156 imágenes; 89 imágenes sin edición idénticas a HF17; título 1001/1001 y créditos 14/14 idénticos a sus referencias históricas','story_references_reviewed_cumulative_by_validations':{'V1':83,'V2':248,'V3':207,'V4':194,'V5':154},'cumulative_literal_references_reviewed':886,'cumulative_linguistic_scoped_pass_after_name_reconciliation':875,'cumulative_context_or_lexical_reservations':11,'global_visual_approved':False,'global_linguistic_approved':False,'FINAL_APPROVED':False})
+write('docs/approval_matrix.json',a)
+print('finalized',len(reviews),m['target']['sha256'])

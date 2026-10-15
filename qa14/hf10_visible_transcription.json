@@ -1,0 +1,20 @@
+{
+  "method": "same_reviewer_context_masked_shuffled_native_and_6x_nearest",
+  "independent_second_reviewer": false,
+  "literal_readings": {
+    "P01": "w",
+    "P02": "S",
+    "P03": "o",
+    "P04": "a",
+    "P05": "e",
+    "P06": "W",
+    "P07": "d",
+    "P08": "r",
+    "P09": "n",
+    "P10": "r",
+    "P11": "f",
+    "P12": "o",
+    "P13": "n"
+  },
+  "uncertain": []
+}

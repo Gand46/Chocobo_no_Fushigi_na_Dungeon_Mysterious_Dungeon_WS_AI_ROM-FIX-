@@ -1,0 +1,550 @@
+[
+  {
+    "run": "inventory_boundaries",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Native sorted list and descriptions; long IDs136/137/138; +99/-99; multiple scroll positions.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "320abd406423140fe341af4212e16bf29214977cae759ed72de73b4c59c7c8a6",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "magic_boundaries",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Raw255 source produces truncated decimal display (ATB55). Out-of-two-digit-domain stress; not an approved numeric boundary and not a demonstrated reachable ROM defect. Superseded by magic_display99.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "45b11405af96a30b8a7d69d0f980334f0e5a92b3334edbeb15f4eb1c032d09b6",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "magic_display99",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Seven spells, Lv.99, ATB99 and NEXT99P visible without clipping; display-domain test, not natural progression claim.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "386ef3b4b34bece0f02c8cb2c8a91f2ed5dae241b7a74c05ce7de0d366bde36a",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "magic_route",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Four initial spell rows, Lv.1, ATB50, labels and gauges.",
+    "access": [
+      "SAVESTATE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "251e3df5e5ec17894bd21b6d7e7b9de8eab0c76fe6004c005825ca3b0ce2d68a",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e"
+  },
+  {
+    "run": "quantity_unknown",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Visible quantities1/99, unidentified names F14:I010/I020.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "7a272b1c767fc9bf377213aca9960443a5c5167fb37389ea91697f9977c44fc7",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_buy",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "NPC says Nothing is for sale; not a commercial UI test.",
+    "access": [
+      "SAVESTATE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "32baaf8c6dfbf2a0877f2bb75b403d060e931233057be8ded14bf1607695af07",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e"
+  },
+  {
+    "run": "shop_buy_insufficient",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Buy with zero money leaves money and inventory unchanged; no separate error text observed.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "03c6506a809a22619304fc636deb5aaedb80b68f5ade95d9bd89708f4167d493",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_buy_list",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Enabled Buy, five merchandise IDs, scrolling and prices100/200/300/1000; balance99,999,999.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "e61bddf491ebd3be8e40a9d62059468748238d879d5c98a78cf3592e20c5bc03",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_buy_purchase",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Potion ID73 acquired, balance99,999,999 ->99,999,899, exact100 Gil debit.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "99cf5671d7f763377964f4990c09be8a00a59e43da36718c68e8a7b6b3423ff5",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_context_trace",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Identified NPC script branches; not a commercial UI test.",
+    "access": [
+      "SAVESTATE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "abdc208e582150536add9cbcf0309ab41a7648a8dfe68e65ce90cc89acb9b800",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_default",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "TIMEOUT_NOT_PASS; incompatible story-flag fixture entered an introductory scene; no freeze attribution.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 255,
+    "completed": false,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "3d06fdd60829617743a5b3ec76248ecee4926e492946dbd03ada0c8d974b26c7",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e"
+  },
+  {
+    "run": "shop_enter",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Checkpoint production: enters shop; no text layout approval.",
+    "access": [
+      "SAVESTATE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2d31195743c2ac0b6e377febcb1b5b3657df23ba7fc9e0803a6e59cc523fe99d",
+    "plan_sha256": "4598c0261dcfb6f6be497b340adfd261e538c56b0d34d186323ead43bd856fdc",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e"
+  },
+  {
+    "run": "shop_flag4",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Progress branch followed, empty inventory test leads to Nothing is for sale.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "724f9da14fa77bee52ba8b1e9216ae98d987fd3661b62fbb431236008fea7ae8",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_flag8",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Alternate story dialogue; not commercial UI.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "6de2a9aaaa857db44fdf1f2139daed2a94699297e998bbd635cf9a576525120c",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_inventory",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Story cutscene with injected inventory; no Buy/Sell coverage.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "de16b9cff6a268b802fa5e193a3b255c217164670911c85e4cf3541869968626",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_native_entry",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Native Buy/Sell and eight-digit balance; initial Buy-disabled state. Synthetic script entry.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "02ed6e220b8ec0881922fa99c310eb3792738ece37bc20af4736e504b3de99fb",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_route",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "No shop UI/text, merely town movement attempt.",
+    "access": [
+      "SAVESTATE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2d31195743c2ac0b6e377febcb1b5b3657df23ba7fc9e0803a6e59cc523fe99d",
+    "plan_sha256": "f2e0da0aa54a6e8c20ba8302c89497cee57003abb54b18ab2421c926a1064d14",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e"
+  },
+  {
+    "run": "shop_sell_confirm_minus",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Actual ID157-99 sale confirmation1Gil; acceptance removes item and credits1Gil.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "4285794a014348b7cd936e36b5d67f296114aa277a4840dc8fc639d0e84c3443",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_sell_confirm_plus",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Actual ID136+99 sale confirmation2898Gil; acceptance removes item and credits2898Gil.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "24a818931de48c78a4e0c895fac491911fb6ffec1ffc88620f5bb8a20e90b551",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_sell_minus",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Misleading plan name: actual ID136+99 selected; used diagnostic evidence, superseded by confirmed transaction.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "851403690ff4792daace30125d103af6a874e7a2ad83e2c2fa37777c6bb658a1",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_sell_plus",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Despite plan name, actual selected item is Fire ID233 quantity99; confirmation200Gil; cancel preserves inventory.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "0c654b5f27632f457869e144f0807fd568324df2937d60ca865d5cc4306565b5",
+    "plan_sha256": "e06026126705940fc43c5ea0bbf7327df7d0d4980eae54f3bf2c370f2bbe3d2a",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "shop_trace",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "No interaction: approach did not reach counter.",
+    "access": [
+      "SAVESTATE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "8debfd849d2ae1dce4732f9ba87704f8d488ee37c2c3746eb53ac02a320f2447",
+    "plan_sha256": "7af0fb063457d3ba1d91c3a93985d81c542137f5f700a7f6c4cba97778ad9df4",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "status_equipped_minus",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Longest item name ID136 with -99, native inventory-equipped construction.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "9f4442d866c601a69bffd2607f4562a9586fdd35a35cc972891bca0cd44e7b9e",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "status_equipped_plus",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Longest item name ID136 with +99, native inventory-equipped construction.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "1fa4793fda54cfe515ad4ea8a7df9b2d98a2ef006273f2cdd9f81cb1bb0e1331",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "status_extreme",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Record 99F, Money 99,999,999 Gil, lower status rows and scrolling.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "0209ada88e49b3b861ef3889dd7b19a3c0285cf0a4ef32f5324442114812a85f",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e"
+  },
+  {
+    "run": "status_long_minus",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "DIRECT_EQUIPMENT_POKE_INEFFECTIVE: native setup rebuilds equipment from inventory; superseded.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "4d3b463ebd473d0f3784d40eb9d4a75237439ee396d2fed55256fb58f8bd3789",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "status_long_plus",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "DIRECT_EQUIPMENT_POKE_INEFFECTIVE: native setup rebuilds equipment from inventory; superseded.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "7ecec7005207378754f570723250aa3b79ae750520dcf4d8cee0cc8a98efd5a0",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e"
+  },
+  {
+    "run": "storage_scroll",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Input did not scroll forced preset; no tail coverage.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "3d052ed6a9e9251012ba0c03a3d01cb1b69d7f7030194a47cf6ca396b58c5b92",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "storage_tail",
+    "status": "CANDIDATE_NOT_CLOSED",
+    "scope": "CANDIDATE_ONLY: forced preset32 + forced64C4=5; F00:I053 crosses narrow window. Native reachability unknown; do not change shared text.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "2f6b7e0e1abf895360429d9b5d7fc335e24a8aea4c158130f03efb7da32091f0",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "ui_route",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Main menu; baseline Status; Check/Exit submenu. No claim for other attempted branches.",
+    "access": [
+      "SAVESTATE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "e8b76756061fcc11ef2941018d3551e68c66bc98a8557d214e8ac4ec0112a42f",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e"
+  },
+  {
+    "run": "unknown_names_long",
+    "status": "PASS_SYNTHETIC_SCOPED",
+    "scope": "Unidentified names F14:I087/I093, both maximum144px in family14; quantities1/99.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "5f52a6544312b3ac84b58ca02724c50c8b48b77b87c5df82bfa7c9e866f27d97",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "window_32",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Forced preset first page Store1..5 only; no gameplay context established.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "53658845896d73621e7b1ed567955ce7f7b5bae7b1eda5913b59b66483e747e4",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "window_36",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Forced Yes/No preset only; not a validated gameplay flow.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "ebb400a23c24efa93ac947853b276c92f4d25572422c697d033f8e1eb16d394b",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "window_40",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Forced Read it/Return it preset only; not a validated gameplay flow.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "b0a6103d8fa841a09da6254eb4f965d6ebe98e3f16fc7c0fb3e8c2e0996889d4",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "window_47",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Forced item-name preset only; not a validated gameplay flow.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "e21e22d9320354fdb3107d36ffed0187e9f54c77fdc498bc1a71fb47c7fe64e3",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  },
+  {
+    "run": "window_49",
+    "status": "DIAGNOSTIC_EXCLUDED",
+    "scope": "Forced incompatible preset returns to title; excluded from defect/pass claims.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "exit": 0,
+    "completed": true,
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "05571595e4ae4a2ed31d8f7260c0bd7b6bde9070f718856b7245142f78179f99",
+    "observer_sha256": "103b9d8ee9c312c82f00c0a884a2ddbde859f7a39a2b960d4627ba8137110bbb"
+  }
+]

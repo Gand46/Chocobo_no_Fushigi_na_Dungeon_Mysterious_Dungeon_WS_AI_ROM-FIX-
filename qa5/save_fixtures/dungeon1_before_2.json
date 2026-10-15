@@ -1,0 +1,12 @@
+{
+  "method": "SYNTHETIC_SAVE_FROM_NATIVE_DUNGEON_PAYLOAD",
+  "runtime_source": "runs/q3_dungeon/sram.bin",
+  "runtime_sha256": "3d3c6e3ec1cf8db1375fe9f57945eec12fab41890837b5c63922b0e1c465e0de",
+  "copy": "6BD8..75AB -> 75B6..7F89",
+  "mutations": {
+    "7303": 1,
+    "7305": 1
+  },
+  "warning": "Does not establish natural late-game event flags or the exact forum path",
+  "sha256": "1347834f0b347abfe784d00e80258ae62741dfd2f4a954be9a757084ea5ac908"
+}

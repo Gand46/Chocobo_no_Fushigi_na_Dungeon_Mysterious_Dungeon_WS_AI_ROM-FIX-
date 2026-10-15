@@ -1,0 +1,43 @@
+{
+  "reviewer": "same assistant; no independent human panel",
+  "records": [
+    {
+      "image": "dialogue_candidate_go/f00150.png",
+      "observed": "Using it, you can easily",
+      "note": "First line visible; go never becomes visible before the implicit row advance."
+    },
+    {
+      "image": "dialogue_candidate_go/f00300.png",
+      "observed": "from 2F to 1F!",
+      "note": "First line has disappeared before confirmation."
+    },
+    {
+      "image": "hf11_dialogue_final/f00300.png",
+      "observed": [
+        "Using it, you can easily",
+        "go from 2F to 1F!"
+      ],
+      "result": "PASS_SYNTHETIC_BOUNDED_LAYOUT"
+    },
+    {
+      "image": "hf11_dialogue_final/f00420.png",
+      "observed": "Dialogue closed; town scene resumes after A at350."
+    },
+    {
+      "image": "variable_item/f00420.png",
+      "observed": [
+        "TarSaddle +99",
+        "Hide saddle"
+      ],
+      "result": "PASS_SYNTHETIC_SINGLE_VARIABLE_SAMPLE",
+      "scope": "No approval of all names, flags or numeric boundaries."
+    },
+    {
+      "image": "dialogue_candidate/f00300.png",
+      "observed": "Wah! Thanks, brotherffff",
+      "result": "OPEN",
+      "note": "Third 00DD lost at column13; existing visible f suffix also needs linguistic review."
+    }
+  ],
+  "reading_method": "Native pixels inspected by same reviewer with source context; not a blind or independent study."
+}

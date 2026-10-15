@@ -1,0 +1,17 @@
+{
+  "reviewer": "Delegated Astra (gpt-6-astra)",
+  "scope": "18 paired native pages,14 resources; read-only visual and recipe review; no independent runtime tests",
+  "status": "PASS_SCOPED_AESTHETIC_IMPROVEMENT",
+  "revert_recommendations": [],
+  "findings": {
+    "G00:M044/G06:M063/G07:M003/G08:M004": "Reflujos claramente mejores; evitan últimas líneas de una palabra y mantienen agrupaciones naturales.",
+    "G06:M054": "Mejor equilibrio; the fourth book permanece unido.",
+    "G09:M141": "Mejor reparto; persiste hueco previo en guy .",
+    "G04:M038/G06:M018/G09:M108/G09:M151": "Se reducen huecos excesivos sin unir palabras.",
+    "G04:M061/G10:M026": "Mejor continuidad después de puntuación; G04:M061 conserva hueco amplio previo tras Hey!",
+    "G08:M026": "Mejora of everyone; otras dos páginas visualmente iguales.",
+    "G10:M032": "Mejor Poulet, get y dungeon. See you; persiste hueco previo Poulet ,; primera página sin cambio visible."
+  },
+  "global_visual_approved": false,
+  "note": "Persisten líneas breves como this? en G09:M151; no son regresiones."
+}

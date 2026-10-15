@@ -1,0 +1,93 @@
+
+/workspace/scratch/191cd4343452/qa16/ae11.bin:     file format binary
+
+
+Disassembly of section .data:
+
+0000ae11 <.data>:
+    ae11:	be 9f 6c             	mov    si,0x6c9f
+    ae14:	b5 00                	mov    ch,0x0
+    ae16:	8a 0e 9e 6c          	mov    cl,BYTE PTR ds:0x6c9e
+    ae1a:	80 3c 00             	cmp    BYTE PTR [si],0x0
+    ae1d:	74 09                	je     0xae28
+    ae1f:	f6 44 04 08          	test   BYTE PTR [si+0x4],0x8
+    ae23:	75 03                	jne    0xae28
+    ae25:	c6 04 00             	mov    BYTE PTR [si],0x0
+    ae28:	83 c6 05             	add    si,0x5
+    ae2b:	e2 ed                	loop   0xae1a
+    ae2d:	cb                   	retf
+    ae2e:	32 c0                	xor    al,al
+    ae30:	be 9f 6c             	mov    si,0x6c9f
+    ae33:	b5 00                	mov    ch,0x0
+    ae35:	8a 0e 9e 6c          	mov    cl,BYTE PTR ds:0x6c9e
+    ae39:	80 3c 00             	cmp    BYTE PTR [si],0x0
+    ae3c:	74 02                	je     0xae40
+    ae3e:	fe c0                	inc    al
+    ae40:	83 c6 05             	add    si,0x5
+    ae43:	e2 f4                	loop   0xae39
+    ae45:	cb                   	retf
+    ae46:	be 9f 6c             	mov    si,0x6c9f
+    ae49:	b5 00                	mov    ch,0x0
+    ae4b:	8a 0e 9e 6c          	mov    cl,BYTE PTR ds:0x6c9e
+    ae4f:	80 3c 00             	cmp    BYTE PTR [si],0x0
+    ae52:	75 02                	jne    0xae56
+    ae54:	f8                   	clc
+    ae55:	cb                   	retf
+    ae56:	8a 44 01             	mov    al,BYTE PTR [si+0x1]
+    ae59:	e8 76 fb             	call   0xa9d2
+    ae5c:	73 05                	jae    0xae63
+    ae5e:	80 3c 63             	cmp    BYTE PTR [si],0x63
+    ae61:	75 f1                	jne    0xae54
+    ae63:	83 c6 05             	add    si,0x5
+    ae66:	e2 e7                	loop   0xae4f
+    ae68:	f9                   	stc
+    ae69:	cb                   	retf
+    ae6a:	be 9f 6c             	mov    si,0x6c9f
+    ae6d:	b5 00                	mov    ch,0x0
+    ae6f:	8a 0e 9e 6c          	mov    cl,BYTE PTR ds:0x6c9e
+    ae73:	80 3c 00             	cmp    BYTE PTR [si],0x0
+    ae76:	75 02                	jne    0xae7a
+    ae78:	f8                   	clc
+    ae79:	cb                   	retf
+    ae7a:	83 c6 05             	add    si,0x5
+    ae7d:	e2 f4                	loop   0xae73
+    ae7f:	f9                   	stc
+    ae80:	cb                   	retf
+    ae81:	32 e4                	xor    ah,ah
+    ae83:	bf ad ae             	mov    di,0xaead
+    ae86:	03 f8                	add    di,ax
+    ae88:	be 9f 6c             	mov    si,0x6c9f
+    ae8b:	b5 00                	mov    ch,0x0
+    ae8d:	8a 0e 9e 6c          	mov    cl,BYTE PTR ds:0x6c9e
+    ae91:	80 3c 00             	cmp    BYTE PTR [si],0x0
+    ae94:	74 10                	je     0xaea6
+    ae96:	8a 44 01             	mov    al,BYTE PTR [si+0x1]
+    ae99:	2e 3a 05             	cmp    al,BYTE PTR cs:[di]
+    ae9c:	72 08                	jb     0xaea6
+    ae9e:	2e 3a 45 01          	cmp    al,BYTE PTR cs:[di+0x1]
+    aea2:	73 02                	jae    0xaea6
+    aea4:	f9                   	stc
+    aea5:	cb                   	retf
+    aea6:	83 c6 05             	add    si,0x5
+    aea9:	e2 e6                	loop   0xae91
+    aeab:	f8                   	clc
+    aeac:	cb                   	retf
+    aead:	00 0d                	add    BYTE PTR [di],cl
+    aeaf:	2d 49 65             	sub    ax,0x6549
+    aeb2:	9d                   	popf
+    aeb3:	cd d9                	int    0xd9
+    aeb5:	e9 f0 ff             	jmp    0xaea8
+    aeb8:	ff                   	(bad)
+    aeb9:	ff                   	(bad)
+    aeba:	ff                   	(bad)
+    aebb:	ff                   	(bad)
+    aebc:	ff                   	(bad)
+    aebd:	ff                   	(bad)
+    aebe:	ff                   	(bad)
+    aebf:	ff 80 3e d9          	inc    WORD PTR [bx+si-0x26c2]
+    aec3:	4a                   	dec    dx
+    aec4:	00 74 01             	add    BYTE PTR [si+0x1],dh
+    aec7:	c3                   	ret
+    aec8:	8a 2e c7 4a          	mov    ch,BYTE PTR ds:0x4ac7
+    aecc:	8a                   	.byte 0x8a
+    aecd:	0e                   	push   cs

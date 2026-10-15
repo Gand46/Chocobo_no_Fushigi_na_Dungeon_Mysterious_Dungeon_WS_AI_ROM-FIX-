@@ -1,0 +1,1379 @@
+[
+  {
+    "id": "G16:M000",
+    "table_entry": "06CB86",
+    "original_pointer": "06CD86",
+    "new_pointer": "06E000",
+    "bytes": 14,
+    "pages": [
+      [
+        "New Game"
+      ]
+    ],
+    "words": [
+      204,
+      152,
+      0,
+      197,
+      14,
+      770,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M003",
+    "table_entry": "06CB8C",
+    "original_pointer": "06CDC0",
+    "new_pointer": "06E00E",
+    "bytes": 10,
+    "pages": [
+      [
+        "Unused"
+      ]
+    ],
+    "words": [
+      211,
+      492,
+      605,
+      97,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M004",
+    "table_entry": "06CB8E",
+    "original_pointer": "06CDD2",
+    "new_pointer": "06E018",
+    "bytes": 62,
+    "pages": [
+      [
+        "Warning!"
+      ],
+      [
+        "The last session did",
+        "not end normally."
+      ]
+    ],
+    "words": [
+      213,
+      19,
+      480,
+      478,
+      173,
+      65522,
+      65533,
+      210,
+      284,
+      0,
+      408,
+      620,
+      0,
+      605,
+      619,
+      326,
+      471,
+      106,
+      97,
+      65534,
+      486,
+      632,
+      143,
+      97,
+      486,
+      581,
+      13,
+      432,
+      183,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M012",
+    "table_entry": "06CB9E",
+    "original_pointer": "06CEBA",
+    "new_pointer": "06E056",
+    "bytes": 24,
+    "pages": [
+      [
+        "Fountain restored!"
+      ]
+    ],
+    "words": [
+      196,
+      524,
+      491,
+      10,
+      471,
+      573,
+      620,
+      521,
+      133,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M013",
+    "table_entry": "06CBA0",
+    "original_pointer": "06CECA",
+    "new_pointer": "06E06E",
+    "bytes": 44,
+    "pages": [
+      [
+        "HP and Energy",
+        "recovered a little!"
+      ]
+    ],
+    "words": [
+      198,
+      206,
+      0,
+      15,
+      97,
+      195,
+      476,
+      575,
+      792,
+      65534,
+      573,
+      80,
+      701,
+      573,
+      97,
+      1,
+      416,
+      652,
+      412,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M014",
+    "table_entry": "06CBA2",
+    "original_pointer": "06CECA",
+    "new_pointer": "06E06E",
+    "bytes": 44,
+    "pages": [
+      [
+        "HP and Energy",
+        "recovered a little!"
+      ]
+    ],
+    "words": [
+      198,
+      206,
+      0,
+      15,
+      97,
+      195,
+      476,
+      575,
+      792,
+      65534,
+      573,
+      80,
+      701,
+      573,
+      97,
+      1,
+      416,
+      652,
+      412,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M015",
+    "table_entry": "06CBA4",
+    "original_pointer": "06CECA",
+    "new_pointer": "06E06E",
+    "bytes": 44,
+    "pages": [
+      [
+        "HP and Energy",
+        "recovered a little!"
+      ]
+    ],
+    "words": [
+      198,
+      206,
+      0,
+      15,
+      97,
+      195,
+      476,
+      575,
+      792,
+      65534,
+      573,
+      80,
+      701,
+      573,
+      97,
+      1,
+      416,
+      652,
+      412,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M020",
+    "table_entry": "06CBAE",
+    "original_pointer": "06CF18",
+    "new_pointer": "06E09A",
+    "bytes": 44,
+    "pages": [
+      [
+        "A little more",
+        "confident in kicking."
+      ]
+    ],
+    "words": [
+      191,
+      0,
+      416,
+      652,
+      412,
+      0,
+      454,
+      573,
+      65534,
+      80,
+      477,
+      315,
+      143,
+      632,
+      325,
+      0,
+      384,
+      76,
+      325,
+      274,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M021",
+    "table_entry": "06CBB0",
+    "original_pointer": "06CF3E",
+    "new_pointer": "06E0C6",
+    "bytes": 40,
+    "pages": [
+      [
+        "HP and Energy",
+        "fully restored!"
+      ]
+    ],
+    "words": [
+      198,
+      206,
+      0,
+      15,
+      97,
+      195,
+      476,
+      575,
+      792,
+      65534,
+      236,
+      419,
+      792,
+      573,
+      620,
+      521,
+      133,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M022",
+    "table_entry": "06CBB2",
+    "original_pointer": "06CF3E",
+    "new_pointer": "06E0C6",
+    "bytes": 40,
+    "pages": [
+      [
+        "HP and Energy",
+        "fully restored!"
+      ]
+    ],
+    "words": [
+      198,
+      206,
+      0,
+      15,
+      97,
+      195,
+      476,
+      575,
+      792,
+      65534,
+      236,
+      419,
+      792,
+      573,
+      620,
+      521,
+      133,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M023",
+    "table_entry": "06CBB4",
+    "original_pointer": "06CF3E",
+    "new_pointer": "06E0C6",
+    "bytes": 40,
+    "pages": [
+      [
+        "HP and Energy",
+        "fully restored!"
+      ]
+    ],
+    "words": [
+      198,
+      206,
+      0,
+      15,
+      97,
+      195,
+      476,
+      575,
+      792,
+      65534,
+      236,
+      419,
+      792,
+      573,
+      620,
+      521,
+      133,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M024",
+    "table_entry": "06CBB6",
+    "original_pointer": "06CF3E",
+    "new_pointer": "06E0C6",
+    "bytes": 40,
+    "pages": [
+      [
+        "HP and Energy",
+        "fully restored!"
+      ]
+    ],
+    "words": [
+      198,
+      206,
+      0,
+      15,
+      97,
+      195,
+      476,
+      575,
+      792,
+      65534,
+      236,
+      419,
+      792,
+      573,
+      620,
+      521,
+      133,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M025",
+    "table_entry": "06CBB8",
+    "original_pointer": "06CF58",
+    "new_pointer": "06E0EE",
+    "bytes": 18,
+    "pages": [
+      [
+        "Poison cured."
+      ]
+    ],
+    "words": [
+      206,
+      512,
+      615,
+      471,
+      86,
+      573,
+      124,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M028",
+    "table_entry": "06CBBE",
+    "original_pointer": "06CF80",
+    "new_pointer": "06E100",
+    "bytes": 20,
+    "pages": [
+      [
+        "Gained Haste."
+      ]
+    ],
+    "words": [
+      197,
+      10,
+      476,
+      97,
+      198,
+      20,
+      637,
+      183,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M030",
+    "table_entry": "06CBC2",
+    "original_pointer": "06CFA4",
+    "new_pointer": "06E114",
+    "bytes": 28,
+    "pages": [
+      [
+        "Can no longer read!"
+      ]
+    ],
+    "words": [
+      193,
+      15,
+      0,
+      486,
+      0,
+      422,
+      478,
+      147,
+      0,
+      573,
+      5,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M032",
+    "table_entry": "06CBC6",
+    "original_pointer": "06CFE0",
+    "new_pointer": "06E130",
+    "bytes": 28,
+    "pages": [
+      [
+        "Cursed gear came off!"
+      ]
+    ],
+    "words": [
+      193,
+      682,
+      605,
+      97,
+      252,
+      19,
+      0,
+      66,
+      444,
+      0,
+      509,
+      245,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M033",
+    "table_entry": "06CBC8",
+    "original_pointer": "06D002",
+    "new_pointer": "06E14C",
+    "bytes": 34,
+    "pages": [
+      [
+        "Forgot all item",
+        "identities!"
+      ]
+    ],
+    "words": [
+      196,
+      521,
+      262,
+      632,
+      13,
+      407,
+      331,
+      142,
+      65534,
+      315,
+      143,
+      641,
+      641,
+      148,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M037",
+    "table_entry": "06CBD0",
+    "original_pointer": "06D046",
+    "new_pointer": "06E16E",
+    "bytes": 20,
+    "pages": [
+      [
+        "Getting tired."
+      ]
+    ],
+    "words": [
+      197,
+      149,
+      641,
+      478,
+      0,
+      641,
+      573,
+      124,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M039",
+    "table_entry": "06CBD4",
+    "original_pointer": "06D076",
+    "new_pointer": "06E182",
+    "bytes": 20,
+    "pages": [
+      [
+        "Feeling faint."
+      ]
+    ],
+    "words": [
+      196,
+      134,
+      416,
+      478,
+      0,
+      162,
+      325,
+      659,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M043",
+    "table_entry": "06CBDC",
+    "original_pointer": "06D0B2",
+    "new_pointer": "06E196",
+    "bytes": 24,
+    "pages": [
+      [
+        "The bag is full!"
+      ]
+    ],
+    "words": [
+      210,
+      284,
+      0,
+      34,
+      247,
+      330,
+      0,
+      236,
+      419,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M044",
+    "table_entry": "06CBDE",
+    "original_pointer": "06D0CE",
+    "new_pointer": "06E1AE",
+    "bytes": 28,
+    "pages": [
+      [
+        "Cannot walk properly!"
+      ]
+    ],
+    "words": [
+      193,
+      15,
+      486,
+      632,
+      729,
+      418,
+      0,
+      553,
+      519,
+      147,
+      432,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M045",
+    "table_entry": "06CBE0",
+    "original_pointer": "06D0E6",
+    "new_pointer": "06E1CA",
+    "bytes": 20,
+    "pages": [
+      [
+        "Lost strength."
+      ]
+    ],
+    "words": [
+      202,
+      522,
+      632,
+      620,
+      573,
+      478,
+      640,
+      183,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M047",
+    "table_entry": "06CBE4",
+    "original_pointer": "06D122",
+    "new_pointer": "06E1DE",
+    "bytes": 44,
+    "pages": [
+      [
+        "Your equipped talons",
+        "were shattered!"
+      ]
+    ],
+    "words": [
+      215,
+      524,
+      568,
+      146,
+      673,
+      551,
+      133,
+      0,
+      633,
+      422,
+      490,
+      65534,
+      733,
+      573,
+      0,
+      608,
+      21,
+      637,
+      573,
+      127,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M048",
+    "table_entry": "06CBE6",
+    "original_pointer": "06D152",
+    "new_pointer": "06E20A",
+    "bytes": 26,
+    "pages": [
+      [
+        "Your gear came off!"
+      ]
+    ],
+    "words": [
+      215,
+      524,
+      568,
+      252,
+      19,
+      0,
+      66,
+      444,
+      0,
+      509,
+      245,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M049",
+    "table_entry": "06CBE8",
+    "original_pointer": "06D16C",
+    "new_pointer": "06E224",
+    "bytes": 30,
+    "pages": [
+      [
+        "Energy fully",
+        "restored!"
+      ]
+    ],
+    "words": [
+      195,
+      476,
+      575,
+      792,
+      236,
+      419,
+      792,
+      65534,
+      573,
+      620,
+      521,
+      133,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M050",
+    "table_entry": "06CBEA",
+    "original_pointer": "06D180",
+    "new_pointer": "06E242",
+    "bytes": 26,
+    "pages": [
+      [
+        "HP fully restored!"
+      ]
+    ],
+    "words": [
+      198,
+      206,
+      0,
+      236,
+      419,
+      792,
+      573,
+      620,
+      521,
+      133,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M051",
+    "table_entry": "06CBEC",
+    "original_pointer": "06D194",
+    "new_pointer": "06E25C",
+    "bytes": 28,
+    "pages": [
+      [
+        "Descend to which floor?"
+      ]
+    ],
+    "words": [
+      194,
+      148,
+      70,
+      475,
+      0,
+      647,
+      0,
+      736,
+      314,
+      279,
+      227,
+      518,
+      599,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M052",
+    "table_entry": "06CBEE",
+    "original_pointer": "06D1AA",
+    "new_pointer": "06E278",
+    "bytes": 12,
+    "pages": [
+      [
+        "Hello!"
+      ]
+    ],
+    "words": [
+      198,
+      141,
+      422,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M053",
+    "table_entry": "06CBF0",
+    "original_pointer": "06D1BE",
+    "new_pointer": "06E284",
+    "bytes": 24,
+    "pages": [
+      [
+        "First time here?"
+      ]
+    ],
+    "words": [
+      196,
+      329,
+      620,
+      0,
+      641,
+      444,
+      0,
+      284,
+      573,
+      174,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M061",
+    "table_entry": "06CC00",
+    "original_pointer": "06D306",
+    "new_pointer": "06E29C",
+    "bytes": 26,
+    "pages": [
+      [
+        "Trade for which item?"
+      ]
+    ],
+    "words": [
+      210,
+      569,
+      102,
+      0,
+      230,
+      568,
+      736,
+      314,
+      279,
+      331,
+      142,
+      174,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M064",
+    "table_entry": "06CC06",
+    "original_pointer": "06D336",
+    "new_pointer": "06E2B6",
+    "bytes": 74,
+    "pages": [
+      [
+        "1 Slot Point"
+      ],
+      [
+        "costs 100 Gil."
+      ],
+      [
+        "How many Slot Points?"
+      ]
+    ],
+    "words": [
+      164,
+      0,
+      209,
+      422,
+      632,
+      206,
+      512,
+      491,
+      65522,
+      65533,
+      80,
+      620,
+      600,
+      164,
+      163,
+      163,
+      0,
+      197,
+      122,
+      183,
+      65522,
+      65533,
+      198,
+      526,
+      0,
+      440,
+      496,
+      0,
+      209,
+      422,
+      632,
+      206,
+      512,
+      491,
+      631,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M066",
+    "table_entry": "06CC0A",
+    "original_pointer": "06D3A0",
+    "new_pointer": "06E300",
+    "bytes": 38,
+    "pages": [
+      [
+        "Cannot carry more",
+        "Slot Points!"
+      ]
+    ],
+    "words": [
+      193,
+      15,
+      486,
+      632,
+      66,
+      586,
+      792,
+      454,
+      573,
+      65534,
+      209,
+      422,
+      632,
+      206,
+      512,
+      491,
+      630,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M070",
+    "table_entry": "06CC12",
+    "original_pointer": "06D3FE",
+    "new_pointer": "06E326",
+    "bytes": 196,
+    "pages": [
+      [
+        "A word from supervisor",
+        "Koichi Nakamura."
+      ],
+      [
+        "Did you enjoy",
+        "Chocobo's Dungeon?"
+      ],
+      [
+        "If you have not played",
+        "Shiren the Wanderer,"
+      ],
+      [
+        "I recommend it too.",
+        "Give it a try!"
+      ]
+    ],
+    "words": [
+      191,
+      0,
+      743,
+      572,
+      0,
+      233,
+      516,
+      0,
+      621,
+      540,
+      590,
+      330,
+      521,
+      65534,
+      201,
+      512,
+      73,
+      713,
+      204,
+      12,
+      14,
+      682,
+      28,
+      65522,
+      65533,
+      194,
+      315,
+      0,
+      873,
+      524,
+      0,
+      143,
+      358,
+      792,
+      65534,
+      193,
+      294,
+      80,
+      184,
+      532,
+      600,
+      194,
+      678,
+      252,
+      517,
+      174,
+      65522,
+      65533,
+      199,
+      161,
+      873,
+      524,
+      0,
+      280,
+      701,
+      0,
+      486,
+      632,
+      547,
+      26,
+      133,
+      65534,
+      209,
+      288,
+      573,
+      471,
+      640,
+      770,
+      213,
+      15,
+      102,
+      573,
+      596,
+      65522,
+      65533,
+      199,
+      0,
+      573,
+      80,
+      452,
+      143,
+      97,
+      331,
+      0,
+      647,
+      530,
+      65534,
+      197,
+      333,
+      770,
+      331,
+      0,
+      1,
+      650,
+      792,
+      173,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G16:M071",
+    "table_entry": "06CC14",
+    "original_pointer": "06D4D6",
+    "new_pointer": "06E3EA",
+    "bytes": 222,
+    "pages": [
+      [
+        "Welcome!",
+        "The key to success is"
+      ],
+      [
+        "to improve your books,",
+        "talons and saddles."
+      ],
+      [
+        "Do not rush in.",
+        "Use a Teleport Card"
+      ],
+      [
+        "to go home often and",
+        "raise your level."
+      ],
+      [
+        "Supervisor",
+        "Koichi Nakamura."
+      ]
+    ],
+    "words": [
+      213,
+      141,
+      80,
+      444,
+      173,
+      65534,
+      210,
+      284,
+      0,
+      380,
+      792,
+      647,
+      0,
+      621,
+      68,
+      148,
+      600,
+      330,
+      65522,
+      65533,
+      647,
+      0,
+      324,
+      553,
+      525,
+      770,
+      873,
+      524,
+      568,
+      48,
+      514,
+      628,
+      65534,
+      633,
+      422,
+      490,
+      0,
+      15,
+      97,
+      601,
+      101,
+      412,
+      627,
+      65522,
+      65533,
+      194,
+      503,
+      486,
+      632,
+      589,
+      608,
+      0,
+      325,
+      183,
+      65534,
+      211,
+      605,
+      0,
+      1,
+      210,
+      141,
+      145,
+      521,
+      632,
+      193,
+      19,
+      97,
+      65522,
+      65533,
+      647,
+      0,
+      262,
+      0,
+      294,
+      444,
+      0,
+      509,
+      637,
+      471,
+      15,
+      97,
+      65534,
+      569,
+      330,
+      770,
+      873,
+      524,
+      568,
+      412,
+      701,
+      434,
+      65522,
+      65533,
+      209,
+      680,
+      147,
+      705,
+      615,
+      568,
+      65534,
+      201,
+      512,
+      73,
+      713,
+      204,
+      12,
+      14,
+      682,
+      28,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G06:M073",
+    "table_entry": "0656FC",
+    "original_pointer": "0667AA",
+    "new_pointer": "06E4C8",
+    "bytes": 104,
+    "pages": [
+      [
+        "Touch the front cover",
+        "to keep your level."
+      ],
+      [
+        "Touch the back cover",
+        "to reset your level."
+      ]
+    ],
+    "words": [
+      210,
+      524,
+      73,
+      0,
+      640,
+      770,
+      233,
+      517,
+      632,
+      80,
+      701,
+      568,
+      65534,
+      647,
+      0,
+      380,
+      145,
+      0,
+      873,
+      524,
+      568,
+      412,
+      701,
+      434,
+      65522,
+      65533,
+      210,
+      524,
+      73,
+      0,
+      640,
+      770,
+      34,
+      76,
+      0,
+      80,
+      701,
+      568,
+      65534,
+      647,
+      0,
+      573,
+      605,
+      632,
+      873,
+      524,
+      568,
+      412,
+      701,
+      434,
+      65522,
+      65535
+    ]
+  },
+  {
+    "id": "G06:M099",
+    "table_entry": "065730",
+    "original_pointer": "066C36",
+    "new_pointer": "06E530",
+    "bytes": 88,
+    "pages": [
+      [
+        "Debug mode active."
+      ],
+      [
+        "Item trading normally",
+        "starts in Chapter 3!"
+      ]
+    ],
+    "words": [
+      194,
+      131,
+      671,
+      0,
+      454,
+      102,
+      0,
+      4,
+      641,
+      701,
+      183,
+      65522,
+      65533,
+      199,
+      637,
+      439,
+      650,
+      5,
+      325,
+      247,
+      486,
+      581,
+      13,
+      432,
+      65534,
+      620,
+      19,
+      651,
+      0,
+      325,
+      0,
+      65530,
+      6,
+      193,
+      280,
+      555,
+      147,
+      0,
+      166,
+      65530,
+      0,
+      173,
+      65522,
+      65535
+    ]
+  }
+]

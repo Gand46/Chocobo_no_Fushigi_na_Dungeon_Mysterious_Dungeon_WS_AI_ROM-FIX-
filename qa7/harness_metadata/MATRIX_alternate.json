@@ -1,0 +1,11 @@
+{
+  "purpose": "TEST HARNESS ONLY, not a playable release",
+  "parent_sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+  "sha256": "3d4fa51d3ac3399396876d279bb0bb9ba37e1ff391f021abfb661e05a091718b",
+  "cases": 2538,
+  "changes": [
+    "validator entry dispatches harness19FC00",
+    "harness calls release validator9000:FB72 for each case",
+    "ROM checksum"
+  ]
+}

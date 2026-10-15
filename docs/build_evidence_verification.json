@@ -1,0 +1,21 @@
+{
+  "resource_words_verified": {
+    "JP": 72,
+    "EN_v1.1": 196,
+    "HF1_TEST": 77,
+    "HF2_TEST": 77,
+    "HF3_TEST": 77
+  },
+  "distributed_patch_byte_identical": true,
+  "build": {
+    "source_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+    "legacy_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+    "target_sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+    "bps_sha256": "cc7dcd13e8b171acea9643c9aeaf345f869a34a8c9dd80a050a4dc4295f417b0",
+    "changed_bytes_vs_legacy": 1132,
+    "unexpected_changed_offsets": 0,
+    "checksum": "06C5",
+    "roundtrip": "PASS",
+    "release_hash_verified": true
+  }
+}

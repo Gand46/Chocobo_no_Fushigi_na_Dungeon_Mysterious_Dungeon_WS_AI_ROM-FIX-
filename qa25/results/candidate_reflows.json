@@ -1,0 +1,158 @@
+[
+  {
+    "id": "G00:M044",
+    "status": "UNAPPLIED_EDITORIAL_REVIEW_CANDIDATE",
+    "source_phase": 20,
+    "source_text": "Put the pot in a sunny spot.",
+    "before_cells": [
+      13,
+      3
+    ],
+    "proposed_lines": [
+      "Put the pot in",
+      "a sunny spot."
+    ],
+    "proposed_cells": [
+      8,
+      7
+    ],
+    "encoded_byte_delta": -2,
+    "same_wording": true,
+    "width_limit_13": "PASS",
+    "existing_controls": [
+      "FFFE",
+      "FFF2"
+    ],
+    "runtime_status": "NOT_TESTED_AS_REFLOW"
+  },
+  {
+    "id": "G06:M054",
+    "status": "UNAPPLIED_EDITORIAL_REVIEW_CANDIDATE",
+    "source_phase": 21,
+    "source_text": "The Professor has the fourth book.",
+    "before_cells": [
+      13,
+      7
+    ],
+    "proposed_lines": [
+      "The Professor has",
+      "the fourth book."
+    ],
+    "proposed_cells": [
+      11,
+      9
+    ],
+    "encoded_byte_delta": 0,
+    "same_wording": true,
+    "width_limit_13": "PASS",
+    "existing_controls": [
+      "FFFE",
+      "FFF2"
+    ],
+    "runtime_status": "NOT_TESTED_AS_REFLOW"
+  },
+  {
+    "id": "G06:M063",
+    "status": "UNAPPLIED_EDITORIAL_REVIEW_CANDIDATE",
+    "source_phase": 21,
+    "source_text": "The Professor has the book.",
+    "before_cells": [
+      13,
+      3
+    ],
+    "proposed_lines": [
+      "The Professor",
+      "has the book."
+    ],
+    "proposed_cells": [
+      8,
+      7
+    ],
+    "encoded_byte_delta": -2,
+    "same_wording": true,
+    "width_limit_13": "PASS",
+    "existing_controls": [
+      "FFFE",
+      "FFF2"
+    ],
+    "runtime_status": "NOT_TESTED_AS_REFLOW"
+  },
+  {
+    "id": "G07:M003",
+    "status": "UNAPPLIED_EDITORIAL_REVIEW_CANDIDATE",
+    "source_phase": 21,
+    "source_text": "A few more things will change.",
+    "before_cells": [
+      13,
+      4
+    ],
+    "proposed_lines": [
+      "A few more things",
+      "will change."
+    ],
+    "proposed_cells": [
+      10,
+      7
+    ],
+    "encoded_byte_delta": 0,
+    "same_wording": true,
+    "width_limit_13": "PASS",
+    "existing_controls": [
+      "FFFE",
+      "FFF2"
+    ],
+    "runtime_status": "NOT_TESTED_AS_REFLOW"
+  },
+  {
+    "id": "G08:M004",
+    "status": "UNAPPLIED_EDITORIAL_REVIEW_CANDIDATE",
+    "source_phase": 21,
+    "source_text": "Could he have found a dungeon?",
+    "before_cells": [
+      13,
+      4
+    ],
+    "proposed_lines": [
+      "Could he have",
+      "found a dungeon?"
+    ],
+    "proposed_cells": [
+      8,
+      8
+    ],
+    "encoded_byte_delta": -2,
+    "same_wording": true,
+    "width_limit_13": "PASS",
+    "existing_controls": [
+      "FFFE",
+      "FFF2"
+    ],
+    "runtime_status": "NOT_TESTED_AS_REFLOW"
+  },
+  {
+    "id": "G09:M141",
+    "status": "UNAPPLIED_EDITORIAL_REVIEW_CANDIDATE",
+    "source_phase": 22,
+    "source_text": "So he really is a good guy.",
+    "before_cells": [
+      13,
+      3
+    ],
+    "proposed_lines": [
+      "So he really",
+      "is a good guy."
+    ],
+    "proposed_cells": [
+      7,
+      9
+    ],
+    "encoded_byte_delta": 0,
+    "same_wording": true,
+    "width_limit_13": "PASS",
+    "existing_controls": [
+      "FFFE",
+      "FFF2"
+    ],
+    "runtime_status": "NOT_TESTED_AS_REFLOW"
+  }
+]

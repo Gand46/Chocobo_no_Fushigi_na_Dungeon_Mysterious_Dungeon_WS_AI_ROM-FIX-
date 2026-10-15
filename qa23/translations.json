@@ -1,0 +1,262 @@
+{
+  "G14:M010": {
+    "text": "Odd Sound Wave",
+    "reason": "怪音波: sonido anómalo; la etiqueta heredada «Sod» carece de sentido."
+  },
+  "G14:M016": {
+    "text": "Gil Toss",
+    "reason": "ギル投げ: separar las dos palabras sin perder el nombre Gil."
+  },
+  "G14:M018": {
+    "text": "Medicine",
+    "reason": "薬: el inglés heredado sólo decía «ha»."
+  },
+  "G14:M019": {
+    "text": "Ice Claw",
+    "reason": "氷のツメ: reparar «Iceffff» y recuperar el referente hielo/garra."
+  },
+  "G14:M020": {
+    "text": "Ice Fist",
+    "reason": "氷の鉄拳: reparar la composición «Icefist»."
+  },
+  "G14:M024": {
+    "text": "Hand Bomb",
+    "reason": "手ボム: recuperar el modificador omitido."
+  },
+  "G14:M025": {
+    "text": "Confuse Wave",
+    "reason": "混乱音波: recuperar confusión y onda sin abreviaturas ilegibles."
+  },
+  "G14:M026": {
+    "text": "Confuse Breath",
+    "reason": "混乱の息: el original habla de aliento, no gas."
+  },
+  "G14:M028": {
+    "text": "Resentment",
+    "reason": "さかうらみ: completar la palabra inglesa."
+  },
+  "G14:M029": {
+    "text": "Spit",
+    "reason": "唾: corregir los glifos heredados «l9»."
+  },
+  "G14:M032": {
+    "text": "Doom",
+    "reason": "死の宣告: nombre breve de la sentencia de muerte."
+  },
+  "G14:M033": {
+    "text": "Self-Destruct",
+    "reason": "自爆: acción de autodestrucción, no bomba genérica."
+  },
+  "G14:M034": {
+    "text": "Shuriken Toss",
+    "reason": "手裏剣投げ: separar componentes del nombre."
+  },
+  "G14:M035": {
+    "text": "Summon",
+    "reason": "召喚: nombre de la habilidad, no mera llamada."
+  },
+  "G14:M036": {
+    "text": "Tentacle",
+    "reason": "触手: restituir el sustantivo original."
+  },
+  "G14:M038": {
+    "text": "Headbutt",
+    "reason": "頭つき: golpe de cabeza, no «Head» aislado."
+  },
+  "G14:M041": {
+    "text": "Body Slam",
+    "reason": "体当たり: recuperar ortografía y separación."
+  },
+  "G14:M047": {
+    "text": "Frost Fang",
+    "reason": "冷たいキバ: conserva el colmillo helado."
+  },
+  "G14:M048": {
+    "text": "Frost Drill",
+    "reason": "冷たいギリ: separar componentes del ataque."
+  },
+  "G14:M049": {
+    "text": "Toad",
+    "reason": "トード: nombre del hechizo, no «Frog»."
+  },
+  "G14:M050": {
+    "text": "Toad Breath",
+    "reason": "トードの息: aliento de Toad, no gas."
+  },
+  "G14:M051": {
+    "text": "Poison Gas",
+    "reason": "毒ガス: gas venenoso, no «Toxin» genérico."
+  },
+  "G14:M052": {
+    "text": "Poison Breath",
+    "reason": "毒の息: aliento venenoso, no tos."
+  },
+  "G14:M053": {
+    "text": "Venom Fang",
+    "reason": "毒のキバ: recuperar el colmillo omitido."
+  },
+  "G14:M054": {
+    "text": "Poison Sting",
+    "reason": "毒ハリ: recuperar el veneno omitido."
+  },
+  "G14:M055": {
+    "text": "Skull Toss",
+    "reason": "ドクロ投げ: separar componentes."
+  },
+  "G14:M059": {
+    "text": "Sweep",
+    "reason": "なぎはらい: barrido, no derribo genérico."
+  },
+  "G14:M060": {
+    "text": "Punch",
+    "reason": "なぐり: golpe de puño."
+  },
+  "G14:M063": {
+    "text": "Steal",
+    "reason": "ぬすむ: reparar «Steep»."
+  },
+  "G14:M067": {
+    "text": "Ruin Cannon",
+    "reason": "破動砲: cañón destructor; se distingue de 波動砲 en M152."
+  },
+  "G14:M081": {
+    "text": "Cleaver",
+    "reason": "包丁: arma cortante, no verbo «Cut»."
+  },
+  "G14:M083": {
+    "text": "Flame Claw",
+    "reason": "炎のツメ: se había omitido la garra."
+  },
+  "G14:M084": {
+    "text": "Fire Whip",
+    "reason": "炎のムチ: separar componentes."
+  },
+  "G14:M087": {
+    "text": "Mega Flare",
+    "reason": "メガフレア: corregir «Gigaflare», que nombra otra magnitud."
+  },
+  "G14:M090": {
+    "text": "Dream Mist",
+    "reason": "夢みるキリ: recuperar la separación natural."
+  },
+  "G14:M096": {
+    "text": "Fatigue Gas",
+    "reason": "疲労ガス: fatiga y gas, no «Tiredgas»."
+  },
+  "G14:M097": {
+    "text": "Warp Toss",
+    "reason": "ワープ投げ: separar componentes."
+  },
+  "G14:M098": {
+    "text": "Slap Down",
+    "reason": "はたきこみ: técnica de derribo con la mano, no «Hammering»."
+  },
+  "G14:M099": {
+    "text": "Purple Breath",
+    "reason": "パープルブレス: completar «Purple»."
+  },
+  "G14:M104": {
+    "text": "Plasma",
+    "reason": "プラズマ: reparar glifo incorrecto de «Plasda»."
+  },
+  "G14:M109": {
+    "text": "Diamond Dust",
+    "reason": "D・ダスト: expandir abreviatura transparente."
+  },
+  "G14:M110": {
+    "text": "Judgment Bolt",
+    "reason": "裁きの雷: recuperar juicio y trueno."
+  },
+  "G14:M111": {
+    "text": "Rebirth Flame",
+    "reason": "転生の炎: recuperar el referente de la llama."
+  },
+  "G14:M112": {
+    "text": "Ruby Light",
+    "reason": "ルビーの光: separar y conservar el referente de luz."
+  },
+  "G14:M114": {
+    "text": "Zantetsuken",
+    "reason": "斬鉄剣: recuperar el nombre propio de la técnica."
+  },
+  "G14:M116": {
+    "text": "Tidal Wave",
+    "reason": "大海衝: restituir acción de la gran ola."
+  },
+  "G14:M118": {
+    "text": "Cataclysm",
+    "reason": "天地崩壊: cataclismo, no limpieza."
+  },
+  "G14:M119": {
+    "text": "Six Nether Blasts",
+    "reason": "冥界六砲撃: seis disparos del inframundo; conserva el numeral omitido en el primer borrador."
+  },
+  "G14:M121": {
+    "text": "None",
+    "reason": "無属性: recuperar inicial visible."
+  },
+  "G14:M124": {
+    "text": "Lightning",
+    "reason": "雷属性: nombre del elemento sin abreviatura opaca."
+  },
+  "G14:M129": {
+    "text": "type Poison",
+    "reason": "毒タイプ: corregir letra omitida."
+  },
+  "G14:M130": {
+    "text": "type Revive",
+    "reason": "復活タイプ: expresar el rasgo de resurrección."
+  },
+  "G14:M131": {
+    "text": "type Immortal",
+    "reason": "不死タイプ: distinguirlo de 死者 tipo no muerto."
+  },
+  "G14:M133": {
+    "text": "type Undead",
+    "reason": "死者タイプ: reparar «Unded»."
+  },
+  "G14:M135": {
+    "text": "type Dragon",
+    "reason": "竜タイプ: completar el nombre de la clase."
+  },
+  "G14:M137": {
+    "text": "Float Immortal",
+    "reason": "浮遊・不死タイプ: clase compuesta de flotante e inmortal."
+  },
+  "G14:M138": {
+    "text": "Poison Revive",
+    "reason": "毒・復活タイプ: clase compuesta sin abreviaturas."
+  },
+  "G14:M139": {
+    "text": "Undead Revive",
+    "reason": "死者・復活タイプ: clases compuestas sin abreviaturas."
+  },
+  "G14:M140": {
+    "text": "Plant Poison",
+    "reason": "植物・毒タイプ: conserva ambas clases en orden japonés."
+  },
+  "G14:M141": {
+    "text": "Dragon Float",
+    "reason": "竜・浮遊タイプ: conserva ambas clases sin abreviatura Dgn."
+  },
+  "G14:M146": {
+    "text": "Gil Toss A",
+    "reason": "ギル投げA: distinguir variante A y separar el nombre."
+  },
+  "G14:M147": {
+    "text": "Gil Toss B",
+    "reason": "ギル投げB: distinguir variante B y completar Toss."
+  },
+  "G14:M148": {
+    "text": "Needle A",
+    "reason": "ニードルA: nombre completo y variante A."
+  },
+  "G14:M149": {
+    "text": "Needle B",
+    "reason": "ニードルB: nombre completo y variante B."
+  },
+  "G14:M152": {
+    "text": "Wave Cannon",
+    "reason": "波動砲: recuperar el nombre técnico, no «Aura»."
+  }
+}

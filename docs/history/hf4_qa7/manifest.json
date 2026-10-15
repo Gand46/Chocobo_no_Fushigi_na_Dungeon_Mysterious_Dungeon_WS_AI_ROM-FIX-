@@ -1,0 +1,75 @@
+{
+  "version": "1.1-HF4-TEST",
+  "date": "2026-10-14",
+  "release_class": "TEST_NOT_RC",
+  "original": {
+    "bytes": 2097152,
+    "sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+    "crc32": "CCAA4853",
+    "ws_checksum": "3321"
+  },
+  "legacy_english_normalized": {
+    "bytes": 2097152,
+    "sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+    "crc32": "6E8CA148",
+    "ws_checksum": "13E3"
+  },
+  "target": {
+    "bytes": 2097152,
+    "sha256": "1ec449933e812c8e4f5e83b882db17b4c5f1ce3b5ea85527d9a1dd2a0891060d",
+    "crc32": "12E75051",
+    "ws_checksum": "06C5"
+  },
+  "changed_bytes_vs_english": 1132,
+  "changed_bytes_vs_japanese": 63391,
+  "corrected_resources": 10,
+  "new_font_bitmap_edits": 0,
+  "intentional_near_pointer_edits": 5,
+  "second_emulator": "NOT_VALIDATED",
+  "hardware": "NOT_VALIDATED",
+  "native_save_load": "PASS_COLD_BOOT_LEGACY_AND_PROTECTED_NORMAL_MESEN_HF4",
+  "all_pdf_incidents_fixed": false,
+  "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+  "previous_hf1": {
+    "bytes": 2097152,
+    "sha256": "c5ca8fcda7d40a22215bea83b4c0f6b210d244e8ab5ac90fd8a3392a28a279cb",
+    "crc32": "F576EF15",
+    "ws_checksum": "F9B9"
+  },
+  "changed_bytes_vs_hf1": 757,
+  "lafoss_animation_restored": false,
+  "previous_hf2": {
+    "bytes": 2097152,
+    "sha256": "605ef4467766d778d74f01edee57ed1794698fd587056b2cff1f542e61b41864",
+    "crc32": "A18CFFA6",
+    "ws_checksum": "F2E4"
+  },
+  "changed_bytes_vs_hf2": 735,
+  "whistle_visual": "PASS_SYNTHETIC_MESEN",
+  "whistle_resource_pointer_edits": 2,
+  "whistle_resource_blocks": 2,
+  "physical_cartridge_incident": "ELECTRICAL_CAUSE_ESTABLISHED_BY_USER_OUT_OF_ROM_SCOPE",
+  "audit_revision": "QA7_PROTECTED_SAVE",
+  "rom_changes_in_QA5": 0,
+  "new_bps_required": true,
+  "rom_changes_in_QA6": 0,
+  "shared_chat_review": "PUBLIC_VISIBLE_TEXT_RETRIEVED",
+  "native_write_interruption": "PASS_SYNTHETIC_7606_PREFIXES_NO_MIXED_PAYLOAD_ACCEPTED",
+  "qa5_d2_fixture": "CORRECTED_MASK_0080_NOT_8000",
+  "natural_save_loss_trigger": "NOT_VALIDATED",
+  "previous_hf3": {
+    "bytes": 2097152,
+    "sha256": "85a8be61fdac2feb777ed1726235b46b36f8950265a1788e7d7c9a0bc90f4b11",
+    "crc32": "302765E7",
+    "ws_checksum": "A43B"
+  },
+  "date_timezone": "UTC",
+  "changed_bytes_vs_hf3": 308,
+  "rom_changes_in_QA7": 308,
+  "new_guard_code_bytes": 297,
+  "new_sram_reserved_bytes": 6,
+  "save_legacy_export": "PASS_COLD_BOOT_HF3",
+  "save_previous_payload_recovery": false,
+  "alternate_gameplay_resume": "NOT_VALIDATED",
+  "bps_sha256": "cc7dcd13e8b171acea9643c9aeaf345f869a34a8c9dd80a050a4dc4295f417b0"
+}

@@ -1,0 +1,1039 @@
+[
+  {
+    "run": "q13_atla_boss",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 7.795352750000347,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+        "--testRunner",
+        "--timeout=50",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "05eb69ec2ecdd6c097b30628bd4e22f231a3b0629c319f6da948cd5577b38ec4",
+      "plan_sha256": "c3c7fe77f67352f74ed51ec1c99db0b995d8db2232cf1d0a74db7266390cbb53",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "5ba770ddb1edefc70a5ba59709ceb6941ce7df9340daf4f935feee3f0c8d7acb"
+    },
+    "metadata_sha256": "95401d37f9182c5fb0c10ea0f85fb915f79fd80a6f512f7e2da85ed714671fc4",
+    "image_count": 13,
+    "input_state": "evidence/qa13_runs/q13_atla_stress/checkpoint.mss"
+  },
+  {
+    "run": "q13_atla_ending",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 9.292356695999842,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+        "--testRunner",
+        "--timeout=50",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "ac492aaf0ff7daefa41c1c902a0f87929aaebca56e807d3a65e8eaddb38303c5",
+      "plan_sha256": "bea3e033ba19e3225cee0b90954b3aa2d35ab211421227b23f709f993c2c33e5",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "cc8c879121496b3c744c6b957f7aaf71a3a8bd943b0ecbdbe11ac7d5b1ddbe6d"
+    },
+    "metadata_sha256": "867cc34ee6da425edde672df9b5394c617ac564cfdcd886e1b73fda278380617",
+    "image_count": 13,
+    "input_state": "evidence/qa13_runs/q13_atla_boss/checkpoint.mss"
+  },
+  {
+    "run": "q13_atla_jp_control",
+    "role": "REFERENCE_ROM_CAUSAL_OR_REPRODUCTION_CONTROL",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 7.890142284999456,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/JP.ws"
+      ],
+      "rom_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+      "state_sha256": "6d67f049fe57904e6b2de8578de2e651d9f50fba2eb485fc098c2a37adde7ed0",
+      "plan_sha256": "69d86d3615f8b6218083211a91bd41b32ec14dce9d4a620ae5c12f9ab7b80732",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "229b8ca678330256947a2d542b23007067e09c5e948a50ce094384f024fe1688"
+    },
+    "metadata_sha256": "2574add19b1bb87a6871a5e7790c163007b8dd957d7baf25969e4de212b35e75",
+    "image_count": 148,
+    "input_state": "evidence/qa13_fixtures/d2_preboss.mss"
+  },
+  {
+    "run": "q13_atla_stress",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 7.185951651999858,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+        "--testRunner",
+        "--timeout=50",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "6d67f049fe57904e6b2de8578de2e651d9f50fba2eb485fc098c2a37adde7ed0",
+      "plan_sha256": "69d86d3615f8b6218083211a91bd41b32ec14dce9d4a620ae5c12f9ab7b80732",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "de8e70d3a1614276649e2bc0f925987a51500c8f69ccb77fc2d18b7c2f8721b3"
+    },
+    "metadata_sha256": "3d4b44c85d15d85414f7b20a823039cef88e2b3db7de8020088744474cae3108",
+    "image_count": 148,
+    "input_state": "evidence/qa13_fixtures/d2_preboss.mss"
+  },
+  {
+    "run": "q13_atla_walk",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 0.8661534029997711,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+        "--testRunner",
+        "--timeout=30",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "5414f0d54b08b9c922058368a780e3da6dcdcc9e74845f1d0dce61e6da6a7027",
+      "plan_sha256": "f9eb3b194437a0cc23eedeb13ac8a17273ee84c4ee8695263702222d96d8cf7c",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "afcfffd36bb04f9f865cd9e63e16f5cbaef058077e9f161d127ef7a0c13ad300"
+    },
+    "metadata_sha256": "fe70d34010ed1b9fa03352cc017f82f5183f9a125ba50fea6e943a39cb62594f",
+    "image_count": 9,
+    "input_state": "evidence/qa13_runs/q13_atla_ending/checkpoint.mss"
+  },
+  {
+    "run": "q13_cold99",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 5.729005034000693,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=50",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": null,
+      "plan_sha256": "2eb5ca8795b339bc458c67d7c12bfaf149e6df33021609488343feacec2a552e",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "input_save_sha256": "96ba4954ed44e93824cfba8883cc51e27a5579239a056b4a19627b0e56e09835",
+      "native_save_after_sha256": "9ae24ef06c1e314e4b107aca6306770b6a7b2cd0638e3e2b4a7ceebd7c924f32"
+    },
+    "metadata_sha256": "e83aaaa0a2ae5fb7e588dfcc2d1251f7b2113d947bbca8ff22a94842c68be388",
+    "image_count": 6,
+    "input_state": null,
+    "input_save": "evidence/qa13_runs/q13_cold99/input_save.sav"
+  },
+  {
+    "run": "q13_elevator_caller30",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {
+      "TARGET_FLOOR": 30
+    },
+    "metadata": {
+      "exit": 0,
+      "elapsed": 6.68191467699944,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "a09f8528dcc53939121f3913b51201b0bf6e0cf4d2b11529945489bc74e5d110",
+      "plan_sha256": "43104af658f0948ce61de9ed436ba003335f7c8c6d9e3d96465d97db877607e6",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "abee8fc2dd21203d7cd0cd49bc7e359099bafe259d16fba57e684051e10dfb86"
+    },
+    "metadata_sha256": "594f86ef7ebcf7dce4e387a1074eee1b874f76478527ae4023ddc5e4dbc7561f",
+    "image_count": 37,
+    "input_state": "evidence/qa13_runs/q13_telep99/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_caller32",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {
+      "TARGET_FLOOR": 32
+    },
+    "metadata": {
+      "exit": 0,
+      "elapsed": 6.984355399999913,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "a09f8528dcc53939121f3913b51201b0bf6e0cf4d2b11529945489bc74e5d110",
+      "plan_sha256": "77008b5f30ccae13513cd8cfabc2ad43e7f662aa2e0f8768a32f660593bdda20",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "0e90352deb897fe081a084d0c019566d03856c19e25690b19d8208f1c4af6fc8"
+    },
+    "metadata_sha256": "951e266525d64e9168d300ca9fa2f60e616989b791316394dd32eadabf12ed33",
+    "image_count": 37,
+    "input_state": "evidence/qa13_runs/q13_telep99/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_caller99",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {
+      "TARGET_FLOOR": 99
+    },
+    "metadata": {
+      "exit": 0,
+      "elapsed": 5.885778915000628,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "a09f8528dcc53939121f3913b51201b0bf6e0cf4d2b11529945489bc74e5d110",
+      "plan_sha256": "43104af658f0948ce61de9ed436ba003335f7c8c6d9e3d96465d97db877607e6",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "437734013fcc699565cce42caf0e4d1883ef97f5b440cb0206029060554173ea"
+    },
+    "metadata_sha256": "70cd6c54bc61e62e6885813036dfad683e452aeb32c86b5a14f5d4ef079c6422",
+    "image_count": 37,
+    "input_state": "evidence/qa13_runs/q13_telep99/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_cold31",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 6.78438798299976,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": null,
+      "plan_sha256": "2eb5ca8795b339bc458c67d7c12bfaf149e6df33021609488343feacec2a552e",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "input_save_sha256": "f76c0032b8a8bf45c64fba4b486c92105b130b3ea93eeabe90fcf4e43f6b0954",
+      "native_save_after_sha256": "4c265e2eb12a0a8ca9aab54b29bf2b06f6bf1b28ce53e5434ddb655a4f7e7ece"
+    },
+    "metadata_sha256": "9e0f4cd3f8d240aa9d6612796bdf2841ec9f8302cc604cfaa37545cf68c33e09",
+    "image_count": 6,
+    "input_state": null,
+    "input_save": "evidence/qa13_runs/q13_elevator_cold31/input_save.sav"
+  },
+  {
+    "run": "q13_elevator_cold33",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 6.490687364999758,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": null,
+      "plan_sha256": "2eb5ca8795b339bc458c67d7c12bfaf149e6df33021609488343feacec2a552e",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "input_save_sha256": "6eab03201233a97a44ac919d950b86b65096475896d778d498e800b88f636506",
+      "native_save_after_sha256": "f46d7719eb87024caa17c7d519aba0a4bdaf81a518d1c4b8669b3c31f900822d"
+    },
+    "metadata_sha256": "b8922cd33b19b663393835f89ab4b4f427953de3fdecf870e409e88e13e79d75",
+    "image_count": 6,
+    "input_state": null,
+    "input_save": "evidence/qa13_runs/q13_elevator_cold33/input_save.sav"
+  },
+  {
+    "run": "q13_elevator_complete",
+    "role": "EXCLUDED_WRONG_CALLER_STATE05",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 5.981215812999835,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "a09f8528dcc53939121f3913b51201b0bf6e0cf4d2b11529945489bc74e5d110",
+      "plan_sha256": "d6b9cd8d2217968d19fe1999c4cb3d8ba30cc8b8799886bca4779360bcd8e627",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "4022ef54c940c678e164e44f72dba1636e7c82caf38d4e59297c4877c613a872"
+    },
+    "metadata_sha256": "2497bfbc08456a6bd1e453ffd5c1c992e4607c43a33c43a31063ac8bb9b3208f",
+    "image_count": 19,
+    "input_state": "evidence/qa13_runs/q13_telep99/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_jp30",
+    "role": "REFERENCE_ROM_CAUSAL_OR_REPRODUCTION_CONTROL",
+    "parameters_from_invocation": {
+      "TARGET_FLOOR": 30
+    },
+    "metadata": {
+      "exit": 0,
+      "elapsed": 5.986522496999896,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/JP.ws"
+      ],
+      "rom_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+      "state_sha256": "a09f8528dcc53939121f3913b51201b0bf6e0cf4d2b11529945489bc74e5d110",
+      "plan_sha256": "77008b5f30ccae13513cd8cfabc2ad43e7f662aa2e0f8768a32f660593bdda20",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "f25248fa58f5deef3b4c141bb8ffd26f5f85bd442442fe69e29f279e1f273df2"
+    },
+    "metadata_sha256": "7a86eb7fccaeb906cbbc68b956620477336c2cb1c87e4ad4d9ff221d933bb094",
+    "image_count": 37,
+    "input_state": "evidence/qa13_runs/q13_telep99/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_jp_cache30",
+    "role": "DIAGNOSTIC_EARLY_CACHE_WRITE_OVERWRITTEN_NOT_EFFECTIVE_CONTROL",
+    "parameters_from_invocation": {
+      "TARGET_FLOOR": 30
+    },
+    "metadata": {
+      "exit": 0,
+      "elapsed": 6.885041688999991,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/JP.ws"
+      ],
+      "rom_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+      "state_sha256": "a09f8528dcc53939121f3913b51201b0bf6e0cf4d2b11529945489bc74e5d110",
+      "plan_sha256": "d69c3d93dc4bc252eb3f22a330cdf040887a34c38320806d8234402a41c5c2cc",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "f25248fa58f5deef3b4c141bb8ffd26f5f85bd442442fe69e29f279e1f273df2"
+    },
+    "metadata_sha256": "910fb25a83641039c6a563813660690fea1fea14402daa0c3be1fffc89d3745e",
+    "image_count": 37,
+    "input_state": "evidence/qa13_runs/q13_telep99/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_jp_cache_consumer",
+    "role": "REFERENCE_ROM_CAUSAL_OR_REPRODUCTION_CONTROL",
+    "parameters_from_invocation": {
+      "TARGET_FLOOR": 30
+    },
+    "metadata": {
+      "exit": 0,
+      "elapsed": 7.396288568000273,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/JP.ws"
+      ],
+      "rom_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+      "state_sha256": "a09f8528dcc53939121f3913b51201b0bf6e0cf4d2b11529945489bc74e5d110",
+      "plan_sha256": "a707efe7ae9a44530d7e0e6c38ef0afb462d112dbe50bc8d044d5cb7f1c8b3c3",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "60f5e47e1805be1aab55deb0ca8d802bd15e44165969819bef4077c8f38a274a"
+    },
+    "metadata_sha256": "61ab40f382d16eb08c2c78bd8fa221f6638ae136f02744f55d8477c72d79195c",
+    "image_count": 37,
+    "input_state": "evidence/qa13_runs/q13_telep99/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_jp_walk30",
+    "role": "REFERENCE_ROM_CAUSAL_OR_REPRODUCTION_CONTROL",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 4.132795814000019,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/JP.ws"
+      ],
+      "rom_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+      "state_sha256": "18027eb3f6af4b4a0c9793115c01b72af4a4d174fe61f64488b86b8b42e4268d",
+      "plan_sha256": "35078c6ce22fdc98779ffbce7e2e321005e3946f698a6f210347a18ab8c4e003",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "026424bf3199415b1838d455109adf8a0142f7967752cd4e3c6451ab3a0e4e8e"
+    },
+    "metadata_sha256": "6740f7490f8ad09dc71daa8c94edd2fcef96e0f3b7bd9126e45d57720a70379f",
+    "image_count": 16,
+    "input_state": "evidence/qa13_runs/q13_elevator_jp_cache30/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_native_save30",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 3.9831643120005538,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "9d5761437d73152c11f1fe2b5972972a6ce4d9fb74ef119b0f7b0e9da3129b8a",
+      "plan_sha256": "ecfc8ded1a980aca0118313d10e53d5708cc8496fb8891ae47eac8381d21d819",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "f76c0032b8a8bf45c64fba4b486c92105b130b3ea93eeabe90fcf4e43f6b0954"
+    },
+    "metadata_sha256": "34e7d3d3c8d9e7a71c71af638486014150db71b2d266ef5059b7791addc8ce10",
+    "image_count": 19,
+    "input_state": "evidence/qa13_runs/q13_elevator_caller30/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_native_save32",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 4.075427155000398,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "7d6c1ce6a328be93ac92905de73068388ed0a6f148cf7bd8c6d14892867e8737",
+      "plan_sha256": "ecfc8ded1a980aca0118313d10e53d5708cc8496fb8891ae47eac8381d21d819",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "6eab03201233a97a44ac919d950b86b65096475896d778d498e800b88f636506"
+    },
+    "metadata_sha256": "0be4c8990271940fbb008bd1c3cd79ee7a2b168d8e242c3556388e0d6182a3d8",
+    "image_count": 19,
+    "input_state": "evidence/qa13_runs/q13_elevator_caller32/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_probe",
+    "role": "EXCLUDED_INCOMPLETE_ELEVATOR_CALLER_STATE05",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 3.473505486999784,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "a09f8528dcc53939121f3913b51201b0bf6e0cf4d2b11529945489bc74e5d110",
+      "plan_sha256": "65f2532905999429016c847ef9cac4e7b8772ca981263d288c6adbbb37ca8a5d",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "b5f745e4a0e0c4f5a596e8fd3121197785ff4c87482d88ba2ff319225c004933"
+    },
+    "metadata_sha256": "f4a197ebb71a0db264b049e3bc9fd1e8effc6334f0a866fb68f28d474ebc8453",
+    "image_count": 21,
+    "input_state": "evidence/qa13_runs/q13_telep99/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_stair_down",
+    "role": "EXCLUDED_STAIR_MENU_NOT_REACHED",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 0.8178183070003797,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "9d5761437d73152c11f1fe2b5972972a6ce4d9fb74ef119b0f7b0e9da3129b8a",
+      "plan_sha256": "aad87a250391618369996f796cfe54757f727b29245ece1cba16dd81cc7cd11d",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "c8359bc8dd0fe4868f71d177e9409a2a8bcbc6e165b8e13a8c02caa0d508b8bd"
+    },
+    "metadata_sha256": "aaec3c2e9cb7d3678b2f722d12ddc11f9ed4607011c1adbce3c59e1006d44a6e",
+    "image_count": 5,
+    "input_state": "evidence/qa13_runs/q13_elevator_caller30/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_walk30",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 4.341475871000512,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "9d5761437d73152c11f1fe2b5972972a6ce4d9fb74ef119b0f7b0e9da3129b8a",
+      "plan_sha256": "35078c6ce22fdc98779ffbce7e2e321005e3946f698a6f210347a18ab8c4e003",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "397dff515ae6a40ed1c3e24754b37de8bcf688394702f25b718357a0385c49f2"
+    },
+    "metadata_sha256": "b5fc60a2c243fb95bc41eae0390b8e3fd40985abf01612504d8a3123969a20e3",
+    "image_count": 16,
+    "input_state": "evidence/qa13_runs/q13_elevator_caller30/checkpoint.mss"
+  },
+  {
+    "run": "q13_elevator_walk99",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 1.0165838879993316,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "59d6e30990c593c9e1aaff5da721751424bebf6224cd0810fab6334b243b5e07",
+      "plan_sha256": "f9eb3b194437a0cc23eedeb13ac8a17273ee84c4ee8695263702222d96d8cf7c",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "a30c8dbdc679bc099d186cc8f0311ee3a82c64f35929fb14505309f3f2ae3a4f"
+    },
+    "metadata_sha256": "1f73f7271afefed83397be16bf3f7b2b05a570b6a94bd5f272d930b7046bf8c3",
+    "image_count": 9,
+    "input_state": "evidence/qa13_runs/q13_elevator_caller99/checkpoint.mss"
+  },
+  {
+    "run": "q13_equipment_checkpoint",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "method": "SYNTHETIC_SINGLE_BAG_RECORD_NATIVE_MENU",
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+      "script_sha256": "1b8b34bedc5e9d4874ce112cdc6797b76a77a0bf082c14b04a9a934b02ee3f69",
+      "cases_sha256": "8f7e4d2dc036d82ed95dff99aef67fe671378dd8370285e0c41f5b6bfa08c06b",
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=30",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/equipment_checkpoint/native_suite.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "elapsed_seconds": 3.2743250680005076,
+      "timed_out": false,
+      "exit": 0,
+      "completed": true
+    },
+    "metadata_sha256": "a427cb473f8e85e27be4b56dd4c4a7cf8fa19b7405c70ecbf56041a4d15c7340",
+    "image_count": 3,
+    "input_state": "evidence/qa13_fixtures/dungeon_baseline.mss"
+  },
+  {
+    "run": "q13_equipment_cold",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 6.2352638849997675,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": null,
+      "plan_sha256": "2eb5ca8795b339bc458c67d7c12bfaf149e6df33021609488343feacec2a552e",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "input_save_sha256": "94378fa3e94af98347f3b22a6dc697ed9ca9dbc2bc9984ec02cad244ade7cf47",
+      "native_save_after_sha256": "9665e43c04efe870f8becbd86f51259d36dadf1243b539ee94ecd31b920774ca"
+    },
+    "metadata_sha256": "fd86f7a9890413e93434ba773e33fd19d98a9f546c9fca2e48cd4fd234592835",
+    "image_count": 6,
+    "input_state": null,
+    "input_save": "evidence/qa13_runs/q13_equipment_cold/input_save.sav"
+  },
+  {
+    "run": "q13_equipment_en_control",
+    "role": "REFERENCE_ROM_CAUSAL_OR_REPRODUCTION_CONTROL",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "method": "SYNTHETIC_SINGLE_BAG_RECORD_NATIVE_MENU",
+      "rom_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+      "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+      "script_sha256": "fbc6a71ac473bd57013bbe4a6fdf3e4c108f1459cca260c741c1318aee32e42e",
+      "cases_sha256": "3a6b34a20b125495fa628a304b7bd4c4afc91066e51d7c90f18bb08604f3309e",
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+        "--testRunner",
+        "--timeout=60",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/equipment_sorted/native_suite.lua",
+        "/workspace/scratch/191cd4343452/private_roms/EN.ws"
+      ],
+      "elapsed_seconds": 16.92694363099963,
+      "timed_out": false,
+      "exit": 0,
+      "completed": true
+    },
+    "metadata_sha256": "efdedd1a9bf0edff2651f95d6ea4341664bd84ac675801be8e137240b746cb6d",
+    "image_count": 18,
+    "input_state": "evidence/qa13_fixtures/dungeon_baseline.mss"
+  },
+  {
+    "run": "q13_equipment_full",
+    "role": "EXCLUDED_TARGET_SELECTED_BEFORE_NATIVE_SORT",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "method": "SYNTHETIC_SINGLE_BAG_RECORD_NATIVE_MENU",
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+      "script_sha256": "19b59486fa9cbcd0bf0451d29e3c195ada9571eb90fa781f568932416fcb5d60",
+      "cases_sha256": "3a6b34a20b125495fa628a304b7bd4c4afc91066e51d7c90f18bb08604f3309e",
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=120",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/equipment_full/native_suite.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "elapsed_seconds": 12.903251122000256,
+      "timed_out": false,
+      "exit": 0,
+      "completed": true
+    },
+    "metadata_sha256": "662edda0703c20ac37a24668e2fe77e5bcacfb09bb0d556e7987c82c34711810",
+    "image_count": 18,
+    "input_state": "evidence/qa13_fixtures/dungeon_baseline.mss"
+  },
+  {
+    "run": "q13_equipment_jp_control",
+    "role": "REFERENCE_ROM_CAUSAL_OR_REPRODUCTION_CONTROL",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "method": "SYNTHETIC_SINGLE_BAG_RECORD_NATIVE_MENU",
+      "rom_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+      "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+      "script_sha256": "fbc6a71ac473bd57013bbe4a6fdf3e4c108f1459cca260c741c1318aee32e42e",
+      "cases_sha256": "3a6b34a20b125495fa628a304b7bd4c4afc91066e51d7c90f18bb08604f3309e",
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+        "--testRunner",
+        "--timeout=60",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/equipment_sorted/native_suite.lua",
+        "/workspace/scratch/191cd4343452/private_roms/JP.ws"
+      ],
+      "elapsed_seconds": 15.416878601000462,
+      "timed_out": false,
+      "exit": 0,
+      "completed": true
+    },
+    "metadata_sha256": "e385212831004be6b7b305d0dec8d226287b332c644798ae3f50882f7c86526c",
+    "image_count": 18,
+    "input_state": "evidence/qa13_fixtures/dungeon_baseline.mss"
+  },
+  {
+    "run": "q13_equipment_native_save",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 3.475222756999756,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "957c03716cce8cd2303d293147d55b79eee50b778bf4f92ad284f54de873ff9a",
+      "plan_sha256": "ecfc8ded1a980aca0118313d10e53d5708cc8496fb8891ae47eac8381d21d819",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "94378fa3e94af98347f3b22a6dc697ed9ca9dbc2bc9984ec02cad244ade7cf47"
+    },
+    "metadata_sha256": "cd8492d8772c3aef16cd64de75280c8388f16ffd313014868f88f025ef4bb2c7",
+    "image_count": 19,
+    "input_state": "evidence/qa13_runs/q13_equipment_checkpoint/fullbag_checked_checkpoint.mss"
+  },
+  {
+    "run": "q13_equipment_save",
+    "role": "EXCLUDED_NO_NATIVE_SAVE_OCCURRED_ZERO_PAYLOAD_WRITES",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 2.173023125000327,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "2ca93acf6f97f64581ce5400c3e130567d88aeed13797a92e82cb28f88d79b7e",
+      "plan_sha256": "cc27ca735340a4f891618256492d292139023eb0fb736c2683c4c1e6cb0ead0b",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "d7386d74aff878d9b2b0312efa372c6fc42dc9dbda6367c7c2459d9d08555255"
+    },
+    "metadata_sha256": "9a4cab28a55799358bfae86a783905a5c2c5693344e181c73acfd9cb1ce82096",
+    "image_count": 11,
+    "input_state": "evidence/qa13_runs/q13_equipment_stair/checkpoint.mss"
+  },
+  {
+    "run": "q13_equipment_save_prompt",
+    "role": "EXCLUDED_OBSERVER_DEPENDENCY_FAILURE_NO_GAME_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 255,
+      "elapsed": 30.239119040000332,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=30",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "957c03716cce8cd2303d293147d55b79eee50b778bf4f92ad284f54de873ff9a",
+      "plan_sha256": "a8e5f5de081372a399eb014de7cca6fa4a048c6c9b6938a0588b81b771cca4d8",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": false,
+      "native_save_after_sha256": "712a54d32d67f9b9ed30222f98abf5cbe2f3bd3d6b58e856e051f2052d970fb3"
+    },
+    "metadata_sha256": "f6626a19e67a904f715d52ee9c44a1c93ce9c6cbc1f62b3392288255ab87a0a1",
+    "image_count": 0,
+    "input_state": "evidence/qa13_runs/q13_equipment_checkpoint/fullbag_checked_checkpoint.mss"
+  },
+  {
+    "run": "q13_equipment_sorted",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "method": "SYNTHETIC_SINGLE_BAG_RECORD_NATIVE_MENU",
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+      "script_sha256": "fbc6a71ac473bd57013bbe4a6fdf3e4c108f1459cca260c741c1318aee32e42e",
+      "cases_sha256": "3a6b34a20b125495fa628a304b7bd4c4afc91066e51d7c90f18bb08604f3309e",
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=120",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/equipment_sorted/native_suite.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "elapsed_seconds": 15.205068293000295,
+      "timed_out": false,
+      "exit": 0,
+      "completed": true
+    },
+    "metadata_sha256": "e4af51322a3c159bbe44ec9660148284246cc57f34489dc439ea66386dc14f55",
+    "image_count": 18,
+    "input_state": "evidence/qa13_fixtures/dungeon_baseline.mss"
+  },
+  {
+    "run": "q13_equipment_stair",
+    "role": "EXCLUDED_STAIR_MENU_NOT_REACHED",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 0.5652354959993318,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=30",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "957c03716cce8cd2303d293147d55b79eee50b778bf4f92ad284f54de873ff9a",
+      "plan_sha256": "1b736859de9cea6126e22089cf234401e59f051516b4865bfd53702b5c10b86c",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "08cc4144964f08b184ed06387a4eaf48490bc55d1f20933ae136d35eda995296"
+    },
+    "metadata_sha256": "bde4ebc629314442d6e1898bf87ceacd15c0ad646192a23bf016f29453613b0b",
+    "image_count": 4,
+    "input_state": "evidence/qa13_runs/q13_equipment_checkpoint/fullbag_checked_checkpoint.mss"
+  },
+  {
+    "run": "q13_equipment_stair_down",
+    "role": "EXCLUDED_STAIR_MENU_NOT_REACHED",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 0.7668230380004388,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "957c03716cce8cd2303d293147d55b79eee50b778bf4f92ad284f54de873ff9a",
+      "plan_sha256": "aad87a250391618369996f796cfe54757f727b29245ece1cba16dd81cc7cd11d",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "f571e2ddc4867518c88d4871b86459ea35e9f922bbb3c1ba3641ee67839cbad2"
+    },
+    "metadata_sha256": "4fa10cd9eb501dfb0449ec5c90a96e3ce25a07339582df32c1fdb43038640dfe",
+    "image_count": 5,
+    "input_state": "evidence/qa13_runs/q13_equipment_checkpoint/fullbag_checked_checkpoint.mss"
+  },
+  {
+    "run": "q13_jp_restart_after_wrong_map",
+    "role": "REFERENCE_ROM_CAUSAL_OR_REPRODUCTION_CONTROL",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 6.134089268000025,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+        "--testRunner",
+        "--timeout=40",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/JP.ws"
+      ],
+      "rom_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+      "state_sha256": null,
+      "plan_sha256": "2eb5ca8795b339bc458c67d7c12bfaf149e6df33021609488343feacec2a552e",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "input_save_sha256": "026424bf3199415b1838d455109adf8a0142f7967752cd4e3c6451ab3a0e4e8e",
+      "native_save_after_sha256": "090ab145b502794252990f96e366daf33cd0fd28cfd3365364c47678c090fc36"
+    },
+    "metadata_sha256": "e7e9b89710f9ae12da2a89890152ec3eac3c0111fc68608f9014f96cca34e986",
+    "image_count": 6,
+    "input_state": null,
+    "input_save": "evidence/qa13_runs/q13_jp_restart_after_wrong_map/input_save.sav"
+  },
+  {
+    "run": "q13_telep99",
+    "role": "FINAL_HF9_SYNTHETIC_EVIDENCE",
+    "parameters_from_invocation": {},
+    "metadata": {
+      "exit": 0,
+      "elapsed": 3.825524712000515,
+      "command": [
+        "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+        "--testRunner",
+        "--timeout=50",
+        "--enableStdout",
+        "--doNotSaveSettings",
+        "--debug.scriptWindow.allowIoOsAccess=true",
+        "/workspace/scratch/191cd4343452/qa13/driver.lua",
+        "/workspace/scratch/191cd4343452/private_roms/hf9_release/Chocobo_EN_v1.1_HF9_TEST.ws"
+      ],
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "state_sha256": "e99e77f4aae308a0d29ba3b7fc194c463c24e25150b06cf54dcc46e1ed0ef33e",
+      "plan_sha256": "90b4aa2414c19dbf2f485f2bed5355493bc4300bc216f882ec5d26e0bf520127",
+      "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+      "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+      "completed": true,
+      "native_save_after_sha256": "3eb23878ddc7954fbef568928bb9d3885c7b7963618ba6a309a17bca4e256961"
+    },
+    "metadata_sha256": "e402280a18a9b38622b7585cc5837a4400c6d1a675077169d3cb29cc5d836c31",
+    "image_count": 21,
+    "input_state": "evidence/qa13_runs/q13_cold99/checkpoint.mss"
+  }
+]

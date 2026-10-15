@@ -1,0 +1,79 @@
+
+/workspace/scratch/191cd4343452/qa16/storageconsumer.bin:     file format binary
+
+
+Disassembly of section .data:
+
+00008f2c <.data>:
+    8f2c:	c6 06 27 64 00       	mov    BYTE PTR ds:0x6427,0x0
+    8f31:	c7 06 2c 64 01 00    	mov    WORD PTR ds:0x642c,0x1
+    8f37:	a0 c4 64             	mov    al,ds:0x64c4
+    8f3a:	02 06 99 62          	add    al,BYTE PTR ds:0x6299
+    8f3e:	38 06 c3 64          	cmp    BYTE PTR ds:0x64c3,al
+    8f42:	77 01                	ja     0x8f45
+    8f44:	c3                   	ret
+    8f45:	a0 c4 64             	mov    al,ds:0x64c4
+    8f48:	02 06 99 62          	add    al,BYTE PTR ds:0x6299
+    8f4c:	b4 00                	mov    ah,0x0
+    8f4e:	03 c0                	add    ax,ax
+    8f50:	bf 9a 62             	mov    di,0x629a
+    8f53:	03 f8                	add    di,ax
+    8f55:	8b 05                	mov    ax,WORD PTR [di]
+    8f57:	a3 28 64             	mov    ds:0x6428,ax
+    8f5a:	e8 76 eb             	call   0x7ad3
+    8f5d:	c7 06 32 60 10 00    	mov    WORD PTR ds:0x6032,0x10
+    8f63:	c3                   	ret
+    8f64:	c6 06 27 64 00       	mov    BYTE PTR ds:0x6427,0x0
+    8f69:	c7 06 2c 64 01 00    	mov    WORD PTR ds:0x642c,0x1
+    8f6f:	e8 9b ea             	call   0x7a0d
+    8f72:	e8 5e eb             	call   0x7ad3
+    8f75:	c7 06 32 60 10 00    	mov    WORD PTR ds:0x6032,0x10
+    8f7b:	c3                   	ret
+    8f7c:	80 3e 99 62 00       	cmp    BYTE PTR ds:0x6299,0x0
+    8f81:	75 05                	jne    0x8f88
+    8f83:	c6 06 4b 05 00       	mov    BYTE PTR ds:0x54b,0x0
+    8f88:	a0 08 04             	mov    al,ds:0x408
+    8f8b:	02 06 99 62          	add    al,BYTE PTR ds:0x6299
+    8f8f:	fe c0                	inc    al
+    8f91:	9a 08 a0 00 90       	call   0x9000:0xa008
+    8f96:	a0 99 62             	mov    al,ds:0x6299
+    8f99:	d0 e0                	shl    al,1
+    8f9b:	8a d8                	mov    bl,al
+    8f9d:	b7 00                	mov    bh,0x0
+    8f9f:	81 c3 a6 8f          	add    bx,0x8fa6
+    8fa3:	2e ff 27             	jmp    WORD PTR cs:[bx]
+    8fa6:	b6 8f                	mov    dh,0x8f
+    8fa8:	d3 8f f0 8f          	ror    WORD PTR [bx-0x7010],cl
+    8fac:	0d 90 2a             	or     ax,0x2a90
+    8faf:	90                   	nop
+    8fb0:	47                   	inc    di
+    8fb1:	90                   	nop
+    8fb2:	65 90                	gs nop
+    8fb4:	85 90 8b 1e          	test   WORD PTR [bx+si+0x1e8b],dx
+    8fb8:	18 06 c6 06          	sbb    BYTE PTR ds:0x6c6,al
+    8fbc:	27                   	daa
+    8fbd:	64 09 c7             	fs or  di,ax
+    8fc0:	06                   	push   es
+    8fc1:	2c 64                	sub    al,0x64
+    8fc3:	09 00                	or     WORD PTR [bx+si],ax
+    8fc5:	89 1e 28 64          	mov    WORD PTR ds:0x6428,bx
+    8fc9:	e8 07 eb             	call   0x7ad3
+    8fcc:	c7 06 32 60 10 00    	mov    WORD PTR ds:0x6032,0x10
+    8fd2:	c3                   	ret
+    8fd3:	8b 1e db 1f          	mov    bx,WORD PTR ds:0x1fdb
+    8fd7:	c6 06 27 64 0c       	mov    BYTE PTR ds:0x6427,0xc
+    8fdc:	c7 06 2c 64 09 00    	mov    WORD PTR ds:0x642c,0x9
+    8fe2:	89 1e 28 64          	mov    WORD PTR ds:0x6428,bx
+    8fe6:	e8 ea ea             	call   0x7ad3
+    8fe9:	c7 06 32 60 10 00    	mov    WORD PTR ds:0x6032,0x10
+    8fef:	c3                   	ret
+    8ff0:	8b 1e db 1f          	mov    bx,WORD PTR ds:0x1fdb
+    8ff4:	c6 06 27 64 0a       	mov    BYTE PTR ds:0x6427,0xa
+    8ff9:	c7 06 2c 64 0c 00    	mov    WORD PTR ds:0x642c,0xc
+    8fff:	89 1e 28 64          	mov    WORD PTR ds:0x6428,bx
+    9003:	e8 cd ea             	call   0x7ad3
+    9006:	c7 06 32 60 10 00    	mov    WORD PTR ds:0x6032,0x10
+    900c:	c3                   	ret
+    900d:	8b                   	.byte 0x8b
+    900e:	1e                   	push   ds
+    900f:	db                   	.byte 0xdb

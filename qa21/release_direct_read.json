@@ -1,0 +1,27 @@
+[
+  {
+    "id": "G06:M081",
+    "path": "pregetter_G06_M081/page_01.png",
+    "pixel_sha256": "e4c8b6fdae2c587bf1b6422470657131fc35142e82a63265215c82e314963413"
+  },
+  {
+    "id": "G06:M096",
+    "path": "pregetter_G06_M096/page_01.png",
+    "pixel_sha256": "e640fcd90e82529d950152297082a56a56e43fa17e788c8cbf690b78df8e2c3f"
+  },
+  {
+    "id": "G08:M026",
+    "path": "pregetter_G08_M026/page_01.png",
+    "pixel_sha256": "d3eeccba31a85a012809c087d73e268cfdd638a4de170a03ab414870143b0983"
+  },
+  {
+    "id": "G08:M026",
+    "path": "pregetter_G08_M026/page_02.png",
+    "pixel_sha256": "59d5adeff1032ccd57f51fe2005e83c1de40e6f323175f29d31f8be48528b6bb"
+  },
+  {
+    "id": "G08:M026",
+    "path": "pregetter_G08_M026/page_03.png",
+    "pixel_sha256": "d142f91ee86e673a8acd5d669918a1d241119c2768361de4177c9edfa207c527"
+  }
+]

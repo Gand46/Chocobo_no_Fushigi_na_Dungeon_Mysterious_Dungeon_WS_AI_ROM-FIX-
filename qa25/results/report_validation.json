@@ -1,0 +1,12 @@
+{
+  "status": "PASS_STATIC_SCOPED_EDITORIAL_REVIEW",
+  "rom_sha256": "f27e69f65e134b161c1f3ce263c3ed78a8ae247997c95d7383c43c4a78c8962f",
+  "story_literal_resources": 886,
+  "balance_flags": 99,
+  "historical_images_read": 128,
+  "candidates_unapplied": 6,
+  "current_rom_edited": false,
+  "html": "QA25_HF19_Auditoria_Distribucion_Texto.html",
+  "html_sha256": "22ba282eb4870ad303e9ba32d82be228e44d4def74f7acdbd7593573c8c945f6",
+  "global_visual_approved": false
+}

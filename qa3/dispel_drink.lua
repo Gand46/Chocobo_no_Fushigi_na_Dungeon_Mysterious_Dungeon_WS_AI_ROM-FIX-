@@ -1,0 +1,1 @@
+return {frames=1200,capture_every=60,moves={{100,104,'a'},{400,404,'a'},{900,904,'a'}},tick=function(f,save,memory) if f==90 or f==1100 then save('sram_f'..f..'.bin',memory(emu.memType.wsCartRam)) end end}

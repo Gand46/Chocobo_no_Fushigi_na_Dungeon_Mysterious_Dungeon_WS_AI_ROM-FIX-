@@ -1,0 +1,16 @@
+[
+  {
+    "id": "FLOOR_DIGITS_READ_HOOK",
+    "offset": "0x14d398",
+    "before": "e8210e",
+    "after": "e90d2a",
+    "reason": "Refresh native decimal floor cache753A..753E from authoritative7303 only for byte comparisons in D3 event selectors E1:639C..69FF. Preserve registers/flags; menu-specific cache remains unchanged."
+  },
+  {
+    "id": "FLOOR_DIGITS_READ_GUARD",
+    "offset": "0x14fda8",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "e811e49c803e9b64e17523813ea1649c63721b813ea164006a731381ff3a75720d81ff3e757707609a1c6e0090619de9c1d5",
+    "reason": "Refresh native decimal floor cache753A..753E from authoritative7303 only for byte comparisons in D3 event selectors E1:639C..69FF. Preserve registers/flags; menu-specific cache remains unchanged."
+  }
+]

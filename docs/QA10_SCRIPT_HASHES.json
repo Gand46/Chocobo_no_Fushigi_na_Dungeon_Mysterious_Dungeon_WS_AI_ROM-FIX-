@@ -1,0 +1,20 @@
+{
+  "qa10/atla_rescue.lua": "e9e1079e22f13ff30b2cb698eab03abe91c2381cf9f3f02d0bacdd3806db0a5e",
+  "qa10/atla_rescue_final.lua": "9dfe9635bb99d7973eaad6ee1ad1b2173faed6216013f8621b7b364183cdf05f",
+  "qa10/atla_trace.lua": "d3954fee7d76ad2c1276158a230a3d694cc8040ab9d4c6da38ed46ab7ed14c7a",
+  "qa10/close_delivery.py": "eb47fb4b757799899514efe4ab44bfca8799d75b0b251d6093a0cdf61df616cf",
+  "qa10/driver.lua": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+  "qa10/equipment_suite/cases_equip.lua": "83b19eff3d8ca8b1a690723f4236892e09e7cc427377fb1608473548b3edc0ed",
+  "qa10/equipment_suite/native_suite.lua": "e6914f438d5bce254c73505a38a12501a88b41d27c7b57dadb2c513ac51dd90e",
+  "qa10/equipment_suite/run_suite.py": "88c4c063eb40a94c0a3ce225750424c2eba5280bdbda0353d7968b898a446311",
+  "qa10/final_suite/cases_equip.lua": "935a69b643cdd2a9f987506357201da112075fdae7e26ae0fdc5102e83227f7f",
+  "qa10/final_suite/native_suite.lua": "e6914f438d5bce254c73505a38a12501a88b41d27c7b57dadb2c513ac51dd90e",
+  "qa10/final_suite/run_suite.py": "88c4c063eb40a94c0a3ce225750424c2eba5280bdbda0353d7968b898a446311",
+  "qa10/finalize_sources.py": "099f9488e9cc3e8bebd9c24860cdbf80dd74ed93cf26510020a3fe7f49a529f9",
+  "qa10/glyph_sheet.py": "56b632e1ab215967a172369f1cc7bf57f39f9bfa0f4742e276907c41507c149f",
+  "qa10/package_final.py": "47dabe660b52d8c1e107ede083f69c5a3fec0ac79e2adcd64ff4be163fede573",
+  "qa10/run.py": "da416b051424d949b777c395465ed52cdcb6d0e5f5183c50ce8c907a857e8ae6",
+  "qa10/title_build.py": "aca6aee02de0fe21761a7869459b9d38d86919d1a1190b66eb17ac838bfcb1a8",
+  "qa10/title_menu.lua": "aebf04b819a36bb958f68d041015f7a5ef0640b305b5758a41c4053afd24e47c",
+  "qa10/title_probe.lua": "80636a4440c483a86d49cf26c6f4a1cd6fc3618394c315703d54887e75ee020e"
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "run": "final_G00_M015",
+    "image": "f00300.png",
+    "sha256": "9e0e31c726c2d908e3a090c83b02f6efe0c63d37c5e12deb23202bd0852238ef",
+    "observed_reading": "Oh, sorry.",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  },
+  {
+    "run": "final_G00_M015",
+    "image": "f00600.png",
+    "sha256": "ed595634cf86cba57e810df1ab8c3fb70f39d43c1cfd24b0a2febf06e4bc9660",
+    "observed_reading": "After you came all / this way.",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  },
+  {
+    "run": "final_G06_M012",
+    "image": "f00360.png",
+    "sha256": "be8e757a849f78fdb5370c288e0ffd57ecda08570f6678cbccafc955f34d5e6c",
+    "observed_reading": "... I see. / So Camilla's Dad was",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  },
+  {
+    "run": "final_G06_M012",
+    "image": "f00600.png",
+    "sha256": "4bc42592656788bd9ec3eb1f3b336fb5d6bf210dc92f2b6e02eb1c595e647a13",
+    "observed_reading": "taken by something / and had a dungeon",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  },
+  {
+    "run": "final_G06_M012",
+    "image": "f00840.png",
+    "sha256": "d671b96289ca2e228bde8163db89a2b968b398c9f70e9544dc907b7ca91e1f50",
+    "observed_reading": "built under the inn.",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  },
+  {
+    "run": "final_G06_M073",
+    "image": "f00330.png",
+    "sha256": "53e27944f6bbd46616b4a28f3493bce65a3a58bf4418e8fb52e81bc331b7a865",
+    "observed_reading": "Touching the back / will revert your level to",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": false
+  },
+  {
+    "run": "final_G06_M073",
+    "image": "f00600.png",
+    "sha256": "73db1ca000c79121f4e9c93689cdf09fc3afc4db1de32f2f6af0e9f218a27bcd",
+    "observed_reading": "You cannot undo.",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": false
+  },
+  {
+    "run": "final_G09_M191",
+    "image": "f00330.png",
+    "sha256": "09488179320df89b6fce67833348611c7a3b472b931f5e4ea81daf64f77e3f63",
+    "observed_reading": "Hm...",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  },
+  {
+    "run": "final_G09_M191",
+    "image": "f00600.png",
+    "sha256": "3f010136a9d6390ab329f422b74f95e99f03488c475a09c1e488f0d074168a95",
+    "observed_reading": "To put it / more bluntly...",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  },
+  {
+    "run": "final_slot_native",
+    "image": "f00120.png",
+    "sha256": "7b6dc490bad64ec0e7e22feaa1ba3304b7159880312f3997888b142f65036a37",
+    "observed_reading": "1 Slot Point",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  },
+  {
+    "run": "final_slot_native",
+    "image": "f00300.png",
+    "sha256": "3bc99c76aa21a60b753fffaeca4a7efe951ff93c3167708687f4fe2812441962",
+    "observed_reading": "100 Gil",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  },
+  {
+    "run": "final_slot_native",
+    "image": "f00600.png",
+    "sha256": "a31118202c9a51fd1b1f407bd63ae9232ffc18a2f2d3caf99a8c92c9351b40c5",
+    "observed_reading": "Exchange Slot Points?",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  },
+  {
+    "run": "final_dyn_G00_M253_max",
+    "image": "f00330.png",
+    "sha256": "38ad26d8af719a9d2a911893a06037953dd41ffe4d8e95f2bebf5c5e64637fc3",
+    "observed_reading": "Cost 65535Gil",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  },
+  {
+    "run": "final_dyn_G16_M034_max",
+    "image": "f00330.png",
+    "sha256": "61379fa02f295713dd226e3ccaeb36d7a7bfa3d3a3321b041e00bd47a8393e06",
+    "observed_reading": "Double KnockTalon / Level 65535!",
+    "layout": "PASS_SYNTHETIC_SCOPED",
+    "semantic_approval": "NOT_GLOBAL_LINGUISTIC_REVIEW"
+  }
+]

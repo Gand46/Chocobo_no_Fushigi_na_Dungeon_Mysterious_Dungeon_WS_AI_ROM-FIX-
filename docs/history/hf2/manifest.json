@@ -1,0 +1,44 @@
+{
+  "version": "1.1-HF2-TEST",
+  "date": "2026-10-13",
+  "release_class": "TEST_NOT_RC",
+  "original": {
+    "bytes": 2097152,
+    "sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+    "crc32": "CCAA4853",
+    "ws_checksum": "3321"
+  },
+  "legacy_english_normalized": {
+    "bytes": 2097152,
+    "sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+    "crc32": "6E8CA148",
+    "ws_checksum": "13E3"
+  },
+  "target": {
+    "bytes": 2097152,
+    "sha256": "605ef4467766d778d74f01edee57ed1794698fd587056b2cff1f542e61b41864",
+    "crc32": "A18CFFA6",
+    "ws_checksum": "F2E4"
+  },
+  "ips_sha256": "46408bc9842ed235ce9d20fae9118e231557563bedb7e329ca9abd1007c2ea0c",
+  "changed_bytes_vs_english": 93,
+  "changed_bytes_vs_japanese": 62352,
+  "corrected_resources": 10,
+  "new_font_bitmap_edits": 0,
+  "new_executable_code_edits": 2,
+  "intentional_near_pointer_edits": 3,
+  "second_emulator": "NOT_VALIDATED",
+  "hardware": "NOT_VALIDATED",
+  "native_save_load": "PASS_BASIC_COLD_BOOT_MESEN_HF2",
+  "all_pdf_incidents_fixed": false,
+  "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+  "previous_hf1": {
+    "bytes": 2097152,
+    "sha256": "c5ca8fcda7d40a22215bea83b4c0f6b210d244e8ab5ac90fd8a3392a28a279cb",
+    "crc32": "F576EF15",
+    "ws_checksum": "F9B9"
+  },
+  "changed_bytes_vs_hf1": 24,
+  "lafoss_animation_restored": false,
+  "bps_sha256": "694cc67034e6e13a6c83887d0ec5dd55b3ecdd64b100903c8a0c706d635e41ce"
+}

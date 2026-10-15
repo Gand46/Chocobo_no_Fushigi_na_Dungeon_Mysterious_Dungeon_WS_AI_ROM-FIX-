@@ -1,0 +1,10 @@
+{
+  "rom_range": "155155..156B04",
+  "bytes": 6576,
+  "tiles": 411,
+  "format": "WS planar2bpp, 16 bytes per8x8tile",
+  "consumer": "native15:4A27..4A43 copies19B0bytes to WRAM2000",
+  "sha256": "096b555e78fc03cf59a0fdaf91ec5ea577bf7d58dc88b36f1d08486223942b96",
+  "status": "EXTRACTED_AND_RUNTIME_LINKED_UNTRANSLATED",
+  "art_requirement": "Preserve distinctive original logo; no generic-font replacement accepted."
+}

@@ -1,0 +1,56 @@
+
+/workspace/scratch/191cd4343452/qa16/h71.bin:     file format binary
+
+
+Disassembly of section .data:
+
+0000004e <.data>:
+  4e:	60                   	pusha
+  4f:	e8 5e e1             	call   0xe1b0
+  52:	3c 00                	cmp    al,0x0
+  54:	75 05                	jne    0x5b
+  56:	bb 09 73             	mov    bx,0x7309
+  59:	eb 03                	jmp    0x5e
+  5b:	bb 29 73             	mov    bx,0x7329
+  5e:	e8 4f e1             	call   0xe1b0
+  61:	32 e4                	xor    ah,ah
+  63:	b2 10                	mov    dl,0x10
+  65:	f6 f2                	div    dl
+  67:	8b c8                	mov    cx,ax
+  69:	8a cd                	mov    cl,ch
+  6b:	32 ed                	xor    ch,ch
+  6d:	32 e4                	xor    ah,ah
+  6f:	d1 e0                	shl    ax,1
+  71:	03 d8                	add    bx,ax
+  73:	b8 01 00             	mov    ax,0x1
+  76:	d3 e0                	shl    ax,cl
+  78:	8b d0                	mov    dx,ax
+  7a:	e8 3f e1             	call   0xe1bc
+  7d:	85 17                	test   WORD PTR [bx],dx
+  7f:	74 04                	je     0x85
+  81:	89 3e a1 64          	mov    WORD PTR ds:0x64a1,di
+  85:	61                   	popa
+  86:	c6 06 9c 64 00       	mov    BYTE PTR ds:0x649c,0x0
+  8b:	c3                   	ret
+  8c:	e8 2d e1             	call   0xe1bc
+  8f:	8b d7                	mov    dx,di
+  91:	e8 1c e1             	call   0xe1b0
+  94:	3c 01                	cmp    al,0x1
+  96:	75 09                	jne    0xa1
+  98:	8b c2                	mov    ax,dx
+  9a:	9a 71 e8 00 40       	call   0x4000:0xe871
+  9f:	eb 25                	jmp    0xc6
+  a1:	3c 02                	cmp    al,0x2
+  a3:	75 09                	jne    0xae
+  a5:	8b c2                	mov    ax,dx
+  a7:	9a 8c e8 00 40       	call   0x4000:0xe88c
+  ac:	eb 18                	jmp    0xc6
+  ae:	3c 03                	cmp    al,0x3
+  b0:	75 09                	jne    0xbb
+  b2:	8b c2                	mov    ax,dx
+  b4:	9a a7 e8 00 40       	call   0x4000:0xe8a7
+  b9:	eb 0b                	jmp    0xc6
+  bb:	3c 04                	cmp    al,0x4
+  bd:	75 07                	jne    0xc6
+  bf:	8b c2                	mov    ax,dx
+  c1:	9a c2 e8 00 40       	call   0x4000:0xe8c2

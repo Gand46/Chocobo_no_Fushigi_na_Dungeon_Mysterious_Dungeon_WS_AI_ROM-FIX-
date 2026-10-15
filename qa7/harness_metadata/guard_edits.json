@@ -1,0 +1,47 @@
+{
+  "base_sha256": "85a8be61fdac2feb777ed1726235b46b36f8950265a1788e7d7c9a0bc90f4b11",
+  "edits": [
+    {
+      "id": "SAVE_NORMAL_GUARD",
+      "offset": "0x190367",
+      "before": "9a7ac400e0",
+      "after": "e916f79090",
+      "reason": "HF4 protected SRAM format: invalidate both shared-payload markers, CRC16 plus commit, legacy load compatibility."
+    },
+    {
+      "id": "SAVE_ALTERNATE_GUARD",
+      "offset": "0x19038C",
+      "before": "bfb675",
+      "after": "e90cf7",
+      "reason": "HF4 protected SRAM format: invalidate both shared-payload markers, CRC16 plus commit, legacy load compatibility."
+    },
+    {
+      "id": "SAVE_VALIDATOR_GUARD",
+      "offset": "0x1903B8",
+      "before": "c606b47500",
+      "after": "e9b7f79090",
+      "reason": "HF4 protected SRAM format: invalidate both shared-payload markers, CRC16 plus commit, legacy load compatibility."
+    },
+    {
+      "id": "SAVE_ALTERNATE_PROTECTED_SIGNATURE",
+      "offset": "0x1903FD",
+      "before": "31",
+      "after": "34",
+      "reason": "HF4 protected SRAM format: invalidate both shared-payload markers, CRC16 plus commit, legacy load compatibility."
+    },
+    {
+      "id": "SAVE_NORMAL_PROTECTED_SIGNATURE",
+      "offset": "0x190401",
+      "before": "31",
+      "after": "34",
+      "reason": "HF4 protected SRAM format: invalidate both shared-payload markers, CRC16 plus commit, legacy load compatibility."
+    },
+    {
+      "id": "SAVE_GUARD_CODE",
+      "offset": "0x19FA80",
+      "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "after": "9c60b001e87800619d9a7ac400e09a6c0300909c60e8a100619dcb9c60b002e85d00619dbfb6759a8f0300909c60e88800619dcb31c0813eb0756e5f751c803eb275637515803eb3753175040c01eb0a803eb37534750380cc01813eac75415f751c803eae75437515803eaf753175040c02eb0a803eaf7534750380cc02c388c3e8b0ff08c308e3c6068b7f00881e8a7fc606b37500c606af7500c3baffffbeb675b9d509323446b308d1e2730481f22110fecb75f4e2edc3e8e0ff89168c7ff7d289168e7ff6068a7f01740cc706b0756e5fc706b2756334f6068a7f02740cc706ac75415fc706ae754334c6068b7fa5c39c60e83dffa2b47584e47428803e8b7fa575218a1e8a7f20e338dc751750e889ff583b168c7f750cf7d23b168e7f75040826b475619dcb",
+      "reason": "HF4 protected SRAM format: invalidate both shared-payload markers, CRC16 plus commit, legacy load compatibility."
+    }
+  ]
+}

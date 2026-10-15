@@ -1,0 +1,20 @@
+{
+  "exit": -11,
+  "elapsed": 0.00044283799979893956,
+  "command": [
+    "/tmp/chocobo_qa14_emulator/Mesen",
+    "--testRunner",
+    "--timeout=45",
+    "--enableStdout",
+    "--doNotSaveSettings",
+    "--debug.scriptWindow.allowIoOsAccess=true",
+    "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+    "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+  ],
+  "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+  "state_sha256": null,
+  "plan_sha256": "0d03182697fc420de7e3e9531f5e037d3b2b04c85741d102dca8d3b93944925f",
+  "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+  "mesen_sha256": "87d306aee03fce3d5c439f7f2ce96b38926a181980663c356b8f5357ac18170c",
+  "completed": false
+}

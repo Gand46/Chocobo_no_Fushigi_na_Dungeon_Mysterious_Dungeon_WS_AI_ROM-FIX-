@@ -1,0 +1,345 @@
+[
+  {
+    "run": "atla_dialog",
+    "exit": 0,
+    "elapsed": 3.4739786879999883,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=45",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+      "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+    ],
+    "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+    "state_sha256": "bb2724f179f52126787a3240ee346f6d989de75ef451d53ba19cb0e21b4421fe",
+    "plan_sha256": "a709ee772512506435644b41867910b5a4eb8e0593e7c39886e91fe25455e2f2",
+    "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": true,
+    "native_save_after_sha256": "c0081b5505d91ac7eb4c4ffbe988b672f2e94f82e54ee72b3a5d9abe93df2d2f",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SAVESTATE"
+    ],
+    "fixture": "Inherited checkpoint; does not establish a natural route. Event/ending runs inherit earlier synthetic setup."
+  },
+  {
+    "run": "hf11_dialogue_go",
+    "exit": 255,
+    "elapsed": 46.13897283999904,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=45",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF11_TEST_Fuentes_QA15_M1_20261014/qa11/driver.lua",
+      "/workspace/scratch/191cd4343452/qa15/private/hf11_final/Chocobo_EN_v1.1_HF11_TEST.ws"
+    ],
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "6c5bcdf413ba34adf9bcb4bf3268469e1b2b6da48f623d4c270b210bc83ad92f",
+    "plan_sha256": "65197adc9ee800d56c37ef4766528489734d3707fe6922b735c12682a18a2570",
+    "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": false,
+    "native_save_after_sha256": "76abc0876c25e67fefacfe2af464f9b8513489073b8e90a12d4ca5d31f6d5d98",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SAVESTATE",
+      "POINTER_INJECTION"
+    ],
+    "fixture": "Native next-message selectors 648F/648E redirected once; no injected text or pixels.",
+    "status": "DIAGNOSTIC_INCOMPLETE_TIMEOUT_NOT_PASS",
+    "note": "Captured expected frame300 but missed completion; exit255 after46s. Accepted replacement is hf11_dialogue_final (exit0/500frames). Exact first failure cause not established."
+  },
+  {
+    "run": "dialogue_candidate_go",
+    "exit": 0,
+    "elapsed": 1.3203907959996286,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=45",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+      "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+    ],
+    "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+    "state_sha256": "6c5bcdf413ba34adf9bcb4bf3268469e1b2b6da48f623d4c270b210bc83ad92f",
+    "plan_sha256": "65197adc9ee800d56c37ef4766528489734d3707fe6922b735c12682a18a2570",
+    "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": true,
+    "native_save_after_sha256": "33d6fcff4d712cfbfc783bf4cd9926c1af3d761fcc54c168fe48b46b0ce28e7d",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SAVESTATE",
+      "POINTER_INJECTION"
+    ],
+    "fixture": "Native next-message selectors 648F/648E redirected once; no injected text or pixels."
+  },
+  {
+    "run": "intro_story",
+    "exit": 0,
+    "elapsed": 7.14512360900153,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=45",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+      "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+    ],
+    "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+    "state_sha256": null,
+    "plan_sha256": "f76ff9cd00b015bfc9261c2cd351a0c875f35c97a25a714e21767a820c13a955",
+    "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": true,
+    "native_save_after_sha256": "79c1dd6e8666ecab4aff6d3905fee258d8a26f2b0305d7860fad152f5444779b",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SCRIPTED_NATURAL"
+    ],
+    "fixture": "Boot with existing emulator test SRAM; not a clean/new-save test. intro_story stayed at menu; zero story coverage."
+  },
+  {
+    "run": "intro_ui",
+    "exit": 0,
+    "elapsed": 9.683808136000152,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=45",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+      "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+    ],
+    "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+    "state_sha256": null,
+    "plan_sha256": "f76ff9cd00b015bfc9261c2cd351a0c875f35c97a25a714e21767a820c13a955",
+    "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": true,
+    "native_save_after_sha256": "6dc7b59789ae07ff339a46fb0214c35c9b7345596ea9ec95a99b8054290ec106",
+    "observer_sha256": "79f4651306714add50c6f88a802e3d152fea7e681bc2b49df8c243b9458210a6",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SCRIPTED_NATURAL"
+    ],
+    "fixture": "Boot with existing emulator test SRAM; not a clean/new-save test. intro_story stayed at menu; zero story coverage."
+  },
+  {
+    "run": "variable_item",
+    "exit": 0,
+    "elapsed": 3.1823400689991104,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=45",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+      "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+    ],
+    "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "6af6f98914d41de28ee37d5d25567ededc04f10bcc19c2e3d5ebd27aa0fc1ed7",
+    "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": true,
+    "native_save_after_sha256": "d6ee6adf26b18d68ab09c118e49ef3dd084387ef4648656ac533220ed92ec186",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE"
+    ],
+    "fixture": "One five-byte inventory record in cartridge RAM: 01 9D 63 00 11; no natural acquisition claim. Tag WRAM_POKE denotes memory injection; physical target is cartridge RAM."
+  },
+  {
+    "run": "hf11_dialogue_final",
+    "exit": 0,
+    "elapsed": 1.3680856890005089,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=15",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/qa15/driver.lua",
+      "/workspace/scratch/191cd4343452/qa15/private/hf11_final/Chocobo_EN_v1.1_HF11_TEST.ws"
+    ],
+    "rom_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+    "state_sha256": "6c5bcdf413ba34adf9bcb4bf3268469e1b2b6da48f623d4c270b210bc83ad92f",
+    "plan_sha256": "f793cd975b2940b72dfd59cef408c282a58145d2c342827949e6391ecc76244b",
+    "script_sha256": "07db7d1416e87199262286cc39cf6e01335f6499e4b20117a7273091433caf67",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": true,
+    "native_save_after_sha256": "b164144be0208c299c2a34213e5b994565f721b434ef40c260b2910b4cb4c6b0",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SAVESTATE",
+      "POINTER_INJECTION"
+    ],
+    "fixture": "Native next-message selectors 648F/648E redirected once; no injected text or pixels."
+  },
+  {
+    "run": "menus",
+    "exit": 0,
+    "elapsed": 4.736559609998949,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=40",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+      "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+    ],
+    "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+    "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+    "plan_sha256": "2c49bfdd571a65d5c5c8e4e914afa254a302e5eeea595ad2abab52814b37834c",
+    "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": true,
+    "native_save_after_sha256": "2597e289cc02d25421fcacad37f22843102a759a515beda4899c8c07ca4cd8d3",
+    "observer_sha256": "79f4651306714add50c6f88a802e3d152fea7e681bc2b49df8c243b9458210a6",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SAVESTATE"
+    ],
+    "fixture": "Inherited checkpoint; does not establish a natural route. Event/ending runs inherit earlier synthetic setup."
+  },
+  {
+    "run": "boss_dialog",
+    "exit": 0,
+    "elapsed": 2.6727272309999535,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=45",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+      "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+    ],
+    "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+    "state_sha256": "6c5bcdf413ba34adf9bcb4bf3268469e1b2b6da48f623d4c270b210bc83ad92f",
+    "plan_sha256": "75e5696d8a88549fc63cfa97176ed37e5995625539fa5c4e3c547e9e48d65a17",
+    "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": true,
+    "native_save_after_sha256": "48da29916c6b638959f6c4cebfab8402ead93c1879b4bafd89c4b495de29efb4",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SAVESTATE"
+    ],
+    "fixture": "Inherited checkpoint; does not establish a natural route. Event/ending runs inherit earlier synthetic setup."
+  },
+  {
+    "run": "ending",
+    "exit": 0,
+    "elapsed": 9.995308079000097,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=45",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+      "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+    ],
+    "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+    "state_sha256": "ac492aaf0ff7daefa41c1c902a0f87929aaebca56e807d3a65e8eaddb38303c5",
+    "plan_sha256": "a6fc9f626a3cd28f41099b6572f5c6f62339961bbaf6ed252885bc8d720486c7",
+    "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": true,
+    "native_save_after_sha256": "cc8c879121496b3c744c6b957f7aaf71a3a8bd943b0ecbdbe11ac7d5b1ddbe6d",
+    "observer_sha256": "79f4651306714add50c6f88a802e3d152fea7e681bc2b49df8c243b9458210a6",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SAVESTATE"
+    ],
+    "fixture": "Inherited checkpoint; does not establish a natural route. Event/ending runs inherit earlier synthetic setup."
+  },
+  {
+    "run": "dialogue_candidate",
+    "exit": 0,
+    "elapsed": 1.2708009849993687,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=45",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+      "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+    ],
+    "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+    "state_sha256": "6c5bcdf413ba34adf9bcb4bf3268469e1b2b6da48f623d4c270b210bc83ad92f",
+    "plan_sha256": "61e6c5226d9c9c35e26868358520150341208006f7c9ad93f03f405bd1ceb64d",
+    "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": true,
+    "native_save_after_sha256": "b99a95c72002cf7842c811aaabcecc679f6ae5aa0252efe448e2c1a450f3beea",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SAVESTATE",
+      "POINTER_INJECTION"
+    ],
+    "fixture": "Native next-message selectors 648F/648E redirected once; no injected text or pixels."
+  },
+  {
+    "run": "ending_story",
+    "exit": 0,
+    "elapsed": 10.453634711000632,
+    "command": [
+      "/tmp/chocobo_qa14_emulator/Mesen",
+      "--testRunner",
+      "--timeout=45",
+      "--enableStdout",
+      "--doNotSaveSettings",
+      "--debug.scriptWindow.allowIoOsAccess=true",
+      "/workspace/scratch/191cd4343452/delivery/Chocobo_EN_v1.1_HF10_TEST_Fuentes_QA14_20261014/qa11/driver.lua",
+      "/workspace/scratch/191cd4343452/qa14/private/hf10_final/Chocobo_EN_v1.1_HF10_TEST.ws"
+    ],
+    "rom_sha256": "aacb4fc13587eda56923548f8fad9f8dac83ff24d4ddb1a0372cddcb3475f39f",
+    "state_sha256": "ac492aaf0ff7daefa41c1c902a0f87929aaebca56e807d3a65e8eaddb38303c5",
+    "plan_sha256": "a6fc9f626a3cd28f41099b6572f5c6f62339961bbaf6ed252885bc8d720486c7",
+    "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+    "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+    "completed": true,
+    "native_save_after_sha256": "cc8c879121496b3c744c6b957f7aaf71a3a8bd943b0ecbdbe11ac7d5b1ddbe6d",
+    "observer_sha256": "5197c833eef788069e151f0fd9527dd1cde2f3ab512f076ee8d691ca865dfc9e",
+    "scope": "LAYOUT_ONLY; no functional regression claim",
+    "access": [
+      "SAVESTATE"
+    ],
+    "fixture": "Inherited checkpoint; does not establish a natural route. Event/ending runs inherit earlier synthetic setup."
+  }
+]

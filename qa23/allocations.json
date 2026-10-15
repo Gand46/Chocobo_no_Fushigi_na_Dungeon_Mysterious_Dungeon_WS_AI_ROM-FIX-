@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "G14:M010",
+    "mode": "allocated",
+    "pointer": "0x6fca0",
+    "bytes": 22,
+    "old_pointer": "06C524",
+    "text": "Odd Sound Wave",
+    "words": [
+      205,
+      101,
+      0,
+      209,
+      524,
+      475,
+      0,
+      213,
+      23,
+      770
+    ],
+    "reason": "怪音波: sonido anómalo; la etiqueta heredada «Sod» carece de sentido."
+  },
+  {
+    "id": "G14:M016",
+    "mode": "allocated",
+    "pointer": "0x6fcb6",
+    "bytes": 14,
+    "old_pointer": "06C55A",
+    "text": "Gil Toss",
+    "words": [
+      197,
+      122,
+      0,
+      210,
+      522,
+      600
+    ],
+    "reason": "ギル投げ: separar las dos palabras sin perder el nombre Gil."
+  },
+  {
+    "id": "G14:M018",
+    "mode": "allocated",
+    "pointer": "0x6fcc4",
+    "bytes": 12,
+    "old_pointer": "06C56E",
+    "text": "Medicine",
+    "words": [
+      203,
+      133,
+      314,
+      325,
+      770
+    ],
+    "reason": "薬: el inglés heredado sólo decía «ha»."
+  },
+  {
+    "id": "G14:M019",
+    "mode": "allocated",
+    "pointer": "0x6fcd0",
+    "bytes": 14,
+    "old_pointer": "06C572",
+    "text": "Ice Claw",
+    "words": [
+      199,
+      70,
+      0,
+      193,
+      408,
+      728
+    ],
+    "reason": "氷のツメ: reparar «Iceffff» y recuperar el referente hielo/garra."
+  },
+  {
+    "id": "G14:M020",
+    "mode": "allocated",
+    "pointer": "0x6fcde",
+    "bytes": 14,
+    "old_pointer": "06C57C",
+    "text": "Ice Fist",
+    "words": [
+      199,
+      70,
+      0,
+      196,
+      330,
+      632
+    ],
+    "reason": "氷の鉄拳: reparar la composición «Icefist»."
+  },
+  {
+    "id": "G14:M024",
+    "mode": "allocated",
+    "pointer": "0x6fcec",
+    "bytes": 14,
+    "old_pointer": "06C5AE",
+    "text": "Hand Bomb",
+    "words": [
+      198,
+      15,
+      97,
+      192,
+      516,
+      33
+    ],
+    "reason": "手ボム: recuperar el modificador omitido."
+  },
+  {
+    "id": "G14:M025",
+    "mode": "allocated",
+    "pointer": "0x6fcfa",
+    "bytes": 18,
+    "old_pointer": "06C5B6",
+    "text": "Confuse Wave",
+    "words": [
+      193,
+      517,
+      236,
+      605,
+      0,
+      213,
+      23,
+      770
+    ],
+    "reason": "混乱音波: recuperar confusión y onda sin abreviaturas ilegibles."
+  },
+  {
+    "id": "G14:M026",
+    "mode": "allocated",
+    "pointer": "0x6fd0c",
+    "bytes": 20,
+    "old_pointer": "06C5C0",
+    "text": "Confuse Breath",
+    "words": [
+      193,
+      517,
+      236,
+      605,
+      0,
+      192,
+      573,
+      21,
+      279
+    ],
+    "reason": "混乱の息: el original habla de aliento, no gas."
+  },
+  {
+    "id": "G14:M028",
+    "mode": "allocated",
+    "pointer": "0x6fd20",
+    "bytes": 14,
+    "old_pointer": "06C5D4",
+    "text": "Resentment",
+    "words": [
+      208,
+      148,
+      143,
+      645,
+      143,
+      632
+    ],
+    "reason": "さかうらみ: completar la palabra inglesa."
+  },
+  {
+    "id": "G14:M029",
+    "mode": "allocated",
+    "pointer": "0x6fd2e",
+    "bytes": 8,
+    "old_pointer": "06C5E0",
+    "text": "Spit",
+    "words": [
+      209,
+      544,
+      632
+    ],
+    "reason": "唾: corregir los glifos heredados «l9»."
+  },
+  {
+    "id": "G14:M032",
+    "mode": "inplace",
+    "pointer": "0x6c600",
+    "bytes": 10,
+    "old_pointer": "06C600",
+    "text": "Doom",
+    "words": [
+      194,
+      518,
+      439
+    ],
+    "reason": "死の宣告: nombre breve de la sentencia de muerte."
+  },
+  {
+    "id": "G14:M033",
+    "mode": "allocated",
+    "pointer": "0x6fd36",
+    "bytes": 20,
+    "old_pointer": "06C60A",
+    "text": "Self-Destruct",
+    "words": [
+      209,
+      141,
+      161,
+      175,
+      194,
+      148,
+      650,
+      667,
+      632
+    ],
+    "reason": "自爆: acción de autodestrucción, no bomba genérica."
+  },
+  {
+    "id": "G14:M034",
+    "mode": "allocated",
+    "pointer": "0x6fd4a",
+    "bytes": 18,
+    "old_pointer": "06C610",
+    "text": "Shuriken Toss",
+    "words": [
+      209,
+      300,
+      577,
+      380,
+      471,
+      210,
+      522,
+      600
+    ],
+    "reason": "手裏剣投げ: separar componentes del nombre."
+  },
+  {
+    "id": "G14:M035",
+    "mode": "allocated",
+    "pointer": "0x6fd5c",
+    "bytes": 10,
+    "old_pointer": "06C620",
+    "text": "Summon",
+    "words": [
+      209,
+      677,
+      454,
+      471
+    ],
+    "reason": "召喚: nombre de la habilidad, no mera llamada."
+  },
+  {
+    "id": "G14:M036",
+    "mode": "allocated",
+    "pointer": "0x6fd66",
+    "bytes": 12,
+    "old_pointer": "06C626",
+    "text": "Tentacle",
+    "words": [
+      210,
+      143,
+      633,
+      77,
+      770
+    ],
+    "reason": "触手: restituir el sustantivo original."
+  },
+  {
+    "id": "G14:M038",
+    "mode": "allocated",
+    "pointer": "0x6fd72",
+    "bytes": 12,
+    "old_pointer": "06C634",
+    "text": "Headbutt",
+    "words": [
+      198,
+      130,
+      99,
+      684,
+      632
+    ],
+    "reason": "頭つき: golpe de cabeza, no «Head» aislado."
+  },
+  {
+    "id": "G14:M041",
+    "mode": "allocated",
+    "pointer": "0x6fd7e",
+    "bytes": 14,
+    "old_pointer": "06C64E",
+    "text": "Body Slam",
+    "words": [
+      192,
+      507,
+      792,
+      209,
+      408,
+      439
+    ],
+    "reason": "体当たり: recuperar ortografía y separación."
+  },
+  {
+    "id": "G14:M047",
+    "mode": "allocated",
+    "pointer": "0x6fd8c",
+    "bytes": 16,
+    "old_pointer": "06C690",
+    "text": "Frost Fang",
+    "words": [
+      196,
+      583,
+      620,
+      0,
+      196,
+      15,
+      247
+    ],
+    "reason": "冷たいキバ: conserva el colmillo helado."
+  },
+  {
+    "id": "G14:M048",
+    "mode": "allocated",
+    "pointer": "0x6fd9c",
+    "bytes": 16,
+    "old_pointer": "06C69C",
+    "text": "Frost Drill",
+    "words": [
+      196,
+      583,
+      620,
+      0,
+      194,
+      577,
+      419
+    ],
+    "reason": "冷たいギリ: separar componentes del ataque."
+  },
+  {
+    "id": "G14:M049",
+    "mode": "inplace",
+    "pointer": "0x6c6a8",
+    "bytes": 8,
+    "old_pointer": "06C6A8",
+    "text": "Toad",
+    "words": [
+      210,
+      504,
+      97
+    ],
+    "reason": "トード: nombre del hechizo, no «Frog»."
+  },
+  {
+    "id": "G14:M050",
+    "mode": "allocated",
+    "pointer": "0x6fdac",
+    "bytes": 16,
+    "old_pointer": "06C6B0",
+    "text": "Toad Breath",
+    "words": [
+      210,
+      504,
+      97,
+      192,
+      573,
+      21,
+      279
+    ],
+    "reason": "トードの息: aliento de Toad, no gas."
+  },
+  {
+    "id": "G14:M051",
+    "mode": "allocated",
+    "pointer": "0x6fdbc",
+    "bytes": 14,
+    "old_pointer": "06C6BC",
+    "text": "Poison Gas",
+    "words": [
+      206,
+      512,
+      615,
+      471,
+      197,
+      20
+    ],
+    "reason": "毒ガス: gas venenoso, no «Toxin» genérico."
+  },
+  {
+    "id": "G14:M052",
+    "mode": "allocated",
+    "pointer": "0x6fdca",
+    "bytes": 18,
+    "old_pointer": "06C6C4",
+    "text": "Poison Breath",
+    "words": [
+      206,
+      512,
+      615,
+      471,
+      192,
+      573,
+      21,
+      279
+    ],
+    "reason": "毒の息: aliento venenoso, no tos."
+  },
+  {
+    "id": "G14:M053",
+    "mode": "allocated",
+    "pointer": "0x6fddc",
+    "bytes": 16,
+    "old_pointer": "06C6CC",
+    "text": "Venom Fang",
+    "words": [
+      212,
+      143,
+      516,
+      0,
+      196,
+      15,
+      247
+    ],
+    "reason": "毒のキバ: recuperar el colmillo omitido."
+  },
+  {
+    "id": "G14:M054",
+    "mode": "allocated",
+    "pointer": "0x6fdec",
+    "bytes": 16,
+    "old_pointer": "06C6D6",
+    "text": "Poison Sting",
+    "words": [
+      206,
+      512,
+      615,
+      471,
+      209,
+      641,
+      478
+    ],
+    "reason": "毒ハリ: recuperar el veneno omitido."
+  },
+  {
+    "id": "G14:M055",
+    "mode": "allocated",
+    "pointer": "0x6fdfc",
+    "bytes": 16,
+    "old_pointer": "06C6DE",
+    "text": "Skull Toss",
+    "words": [
+      209,
+      396,
+      419,
+      0,
+      210,
+      522,
+      600
+    ],
+    "reason": "ドクロ投げ: separar componentes."
+  },
+  {
+    "id": "G14:M059",
+    "mode": "inplace",
+    "pointer": "0x6c702",
+    "bytes": 12,
+    "old_pointer": "06C702",
+    "text": "Sweep",
+    "words": [
+      209,
+      733,
+      145
+    ],
+    "reason": "なぎはらい: barrido, no derribo genérico."
+  },
+  {
+    "id": "G14:M060",
+    "mode": "inplace",
+    "pointer": "0x6c70e",
+    "bytes": 8,
+    "old_pointer": "06C70E",
+    "text": "Punch",
+    "words": [
+      206,
+      678,
+      73
+    ],
+    "reason": "なぐり: golpe de puño."
+  },
+  {
+    "id": "G14:M063",
+    "mode": "inplace",
+    "pointer": "0x6c72c",
+    "bytes": 8,
+    "old_pointer": "06C72C",
+    "text": "Steal",
+    "words": [
+      209,
+      637,
+      13
+    ],
+    "reason": "ぬすむ: reparar «Steep»."
+  },
+  {
+    "id": "G14:M067",
+    "mode": "allocated",
+    "pointer": "0x6fe0c",
+    "bytes": 16,
+    "old_pointer": "06C75A",
+    "text": "Ruin Cannon",
+    "words": [
+      208,
+      673,
+      471,
+      193,
+      15,
+      486,
+      471
+    ],
+    "reason": "破動砲: cañón destructor; se distingue de 波動砲 en M152."
+  },
+  {
+    "id": "G14:M081",
+    "mode": "allocated",
+    "pointer": "0x6fe1c",
+    "bytes": 10,
+    "old_pointer": "06C7FA",
+    "text": "Cleaver",
+    "words": [
+      193,
+      412,
+      23,
+      147
+    ],
+    "reason": "包丁: arma cortante, no verbo «Cut»."
+  },
+  {
+    "id": "G14:M083",
+    "mode": "allocated",
+    "pointer": "0x6fe26",
+    "bytes": 16,
+    "old_pointer": "06C80A",
+    "text": "Flame Claw",
+    "words": [
+      196,
+      408,
+      444,
+      0,
+      193,
+      408,
+      728
+    ],
+    "reason": "炎のツメ: se había omitido la garra."
+  },
+  {
+    "id": "G14:M084",
+    "mode": "allocated",
+    "pointer": "0x6fe36",
+    "bytes": 14,
+    "old_pointer": "06C814",
+    "text": "Fire Whip",
+    "words": [
+      196,
+      329,
+      770,
+      213,
+      288,
+      535
+    ],
+    "reason": "炎のムチ: separar componentes."
+  },
+  {
+    "id": "G14:M087",
+    "mode": "allocated",
+    "pointer": "0x6fe44",
+    "bytes": 14,
+    "old_pointer": "06C83A",
+    "text": "Mega Flare",
+    "words": [
+      203,
+      136,
+      1,
+      196,
+      408,
+      573
+    ],
+    "reason": "メガフレア: corregir «Gigaflare», que nombra otra magnitud."
+  },
+  {
+    "id": "G14:M090",
+    "mode": "allocated",
+    "pointer": "0x6fe52",
+    "bytes": 16,
+    "old_pointer": "06C858",
+    "text": "Dream Mist",
+    "words": [
+      194,
+      573,
+      14,
+      0,
+      203,
+      330,
+      632
+    ],
+    "reason": "夢みるキリ: recuperar la separación natural."
+  },
+  {
+    "id": "G14:M096",
+    "mode": "allocated",
+    "pointer": "0x6fe62",
+    "bytes": 16,
+    "old_pointer": "06C8B4",
+    "text": "Fatigue Gas",
+    "words": [
+      196,
+      21,
+      318,
+      669,
+      0,
+      197,
+      20
+    ],
+    "reason": "疲労ガス: fatiga y gas, no «Tiredgas»."
+  },
+  {
+    "id": "G14:M097",
+    "mode": "allocated",
+    "pointer": "0x6fe72",
+    "bytes": 14,
+    "old_pointer": "06C8BE",
+    "text": "Warp Toss",
+    "words": [
+      213,
+      19,
+      535,
+      210,
+      522,
+      600
+    ],
+    "reason": "ワープ投げ: separar componentes."
+  },
+  {
+    "id": "G14:M098",
+    "mode": "allocated",
+    "pointer": "0x6fe80",
+    "bytes": 14,
+    "old_pointer": "06C8CA",
+    "text": "Slap Down",
+    "words": [
+      209,
+      408,
+      535,
+      194,
+      526,
+      471
+    ],
+    "reason": "はたきこみ: técnica de derribo con la mano, no «Hammering»."
+  },
+  {
+    "id": "G14:M099",
+    "mode": "allocated",
+    "pointer": "0x6fe8e",
+    "bytes": 18,
+    "old_pointer": "06C8D6",
+    "text": "Purple Breath",
+    "words": [
+      206,
+      682,
+      547,
+      770,
+      192,
+      573,
+      21,
+      279
+    ],
+    "reason": "パープルブレス: completar «Purple»."
+  },
+  {
+    "id": "G14:M104",
+    "mode": "inplace",
+    "pointer": "0x6c920",
+    "bytes": 10,
+    "old_pointer": "06C920",
+    "text": "Plasma",
+    "words": [
+      206,
+      408,
+      613,
+      1
+    ],
+    "reason": "プラズマ: reparar glifo incorrecto de «Plasda»."
+  },
+  {
+    "id": "G14:M109",
+    "mode": "allocated",
+    "pointer": "0x6fea0",
+    "bytes": 18,
+    "old_pointer": "06C956",
+    "text": "Diamond Dust",
+    "words": [
+      194,
+      312,
+      454,
+      475,
+      0,
+      194,
+      683,
+      632
+    ],
+    "reason": "D・ダスト: expandir abreviatura transparente."
+  },
+  {
+    "id": "G14:M110",
+    "mode": "allocated",
+    "pointer": "0x6feb2",
+    "bytes": 18,
+    "old_pointer": "06C962",
+    "text": "Judgment Bolt",
+    "words": [
+      200,
+      668,
+      260,
+      143,
+      632,
+      192,
+      515,
+      632
+    ],
+    "reason": "裁きの雷: recuperar juicio y trueno."
+  },
+  {
+    "id": "G14:M111",
+    "mode": "allocated",
+    "pointer": "0x6fec4",
+    "bytes": 18,
+    "old_pointer": "06C96C",
+    "text": "Rebirth Flame",
+    "words": [
+      208,
+      131,
+      329,
+      640,
+      0,
+      196,
+      408,
+      444
+    ],
+    "reason": "転生の炎: recuperar el referente de la llama."
+  },
+  {
+    "id": "G14:M112",
+    "mode": "allocated",
+    "pointer": "0x6fed6",
+    "bytes": 14,
+    "old_pointer": "06C976",
+    "text": "Ruby Light",
+    "words": [
+      208,
+      666,
+      792,
+      202,
+      318,
+      299
+    ],
+    "reason": "ルビーの光: separar y conservar el referente de luz."
+  },
+  {
+    "id": "G14:M114",
+    "mode": "allocated",
+    "pointer": "0x6fee4",
+    "bytes": 14,
+    "old_pointer": "06C98E",
+    "text": "Zantetsuken",
+    "words": [
+      216,
+      15,
+      637,
+      651,
+      675,
+      143
+    ],
+    "reason": "斬鉄剣: recuperar el nombre propio de la técnica."
+  },
+  {
+    "id": "G14:M116",
+    "mode": "allocated",
+    "pointer": "0x6fef2",
+    "bytes": 16,
+    "old_pointer": "06C9A6",
+    "text": "Tidal Wave",
+    "words": [
+      210,
+      315,
+      13,
+      0,
+      213,
+      23,
+      770
+    ],
+    "reason": "大海衝: restituir acción de la gran ola."
+  },
+  {
+    "id": "G14:M118",
+    "mode": "allocated",
+    "pointer": "0x6ff02",
+    "bytes": 12,
+    "old_pointer": "06C9BA",
+    "text": "Cataclysm",
+    "words": [
+      193,
+      21,
+      4,
+      432,
+      613
+    ],
+    "reason": "天地崩壊: cataclismo, no limpieza."
+  },
+  {
+    "id": "G14:M119",
+    "mode": "allocated",
+    "pointer": "0x6ff0e",
+    "bytes": 24,
+    "old_pointer": "06C9C4",
+    "text": "Six Nether Blasts",
+    "words": [
+      209,
+      335,
+      0,
+      204,
+      149,
+      284,
+      568,
+      192,
+      408,
+      620,
+      600
+    ],
+    "reason": "冥界六砲撃: seis disparos del inframundo; conserva el numeral omitido en el primer borrador."
+  },
+  {
+    "id": "G14:M121",
+    "mode": "inplace",
+    "pointer": "0x6c9e2",
+    "bytes": 10,
+    "old_pointer": "06C9E2",
+    "text": "None",
+    "words": [
+      204,
+      517,
+      770
+    ],
+    "reason": "無属性: recuperar inicial visible."
+  },
+  {
+    "id": "G14:M124",
+    "mode": "allocated",
+    "pointer": "0x6ff26",
+    "bytes": 12,
+    "old_pointer": "06CA00",
+    "text": "Lightning",
+    "words": [
+      202,
+      318,
+      299,
+      480,
+      478
+    ],
+    "reason": "雷属性: nombre del elemento sin abreviatura opaca."
+  },
+  {
+    "id": "G14:M129",
+    "mode": "allocated",
+    "pointer": "0x6ff32",
+    "bytes": 16,
+    "old_pointer": "06CA34",
+    "text": "type Poison",
+    "words": [
+      657,
+      540,
+      0,
+      206,
+      512,
+      615,
+      471
+    ],
+    "reason": "毒タイプ: corregir letra omitida."
+  },
+  {
+    "id": "G14:M130",
+    "mode": "allocated",
+    "pointer": "0x6ff42",
+    "bytes": 16,
+    "old_pointer": "06CA40",
+    "text": "type Revive",
+    "words": [
+      657,
+      540,
+      0,
+      208,
+      151,
+      333,
+      770
+    ],
+    "reason": "復活タイプ: expresar el rasgo de resurrección."
+  },
+  {
+    "id": "G14:M131",
+    "mode": "allocated",
+    "pointer": "0x6ff52",
+    "bytes": 18,
+    "old_pointer": "06CA4C",
+    "text": "type Immortal",
+    "words": [
+      657,
+      540,
+      0,
+      199,
+      452,
+      521,
+      633,
+      407
+    ],
+    "reason": "不死タイプ: distinguirlo de 死者 tipo no muerto."
+  },
+  {
+    "id": "G14:M133",
+    "mode": "allocated",
+    "pointer": "0x6ff64",
+    "bytes": 16,
+    "old_pointer": "06CA64",
+    "text": "type Undead",
+    "words": [
+      657,
+      540,
+      0,
+      211,
+      475,
+      130,
+      97
+    ],
+    "reason": "死者タイプ: reparar «Unded»."
+  },
+  {
+    "id": "G14:M135",
+    "mode": "allocated",
+    "pointer": "0x6ff74",
+    "bytes": 16,
+    "old_pointer": "06CA7C",
+    "text": "type Dragon",
+    "words": [
+      657,
+      540,
+      0,
+      194,
+      569,
+      262,
+      471
+    ],
+    "reason": "竜タイプ: completar el nombre de la clase."
+  },
+  {
+    "id": "G14:M137",
+    "mode": "allocated",
+    "pointer": "0x6ff84",
+    "bytes": 20,
+    "old_pointer": "06CA96",
+    "text": "Float Immortal",
+    "words": [
+      196,
+      422,
+      21,
+      0,
+      199,
+      452,
+      521,
+      633,
+      407
+    ],
+    "reason": "浮遊・不死タイプ: clase compuesta de flotante e inmortal."
+  },
+  {
+    "id": "G14:M138",
+    "mode": "inplace",
+    "pointer": "0x6d800",
+    "bytes": 18,
+    "old_pointer": "06D800",
+    "text": "Poison Revive",
+    "words": [
+      206,
+      512,
+      615,
+      471,
+      208,
+      151,
+      333,
+      770
+    ],
+    "reason": "毒・復活タイプ: clase compuesta sin abreviaturas."
+  },
+  {
+    "id": "G14:M139",
+    "mode": "inplace",
+    "pointer": "0x6cab8",
+    "bytes": 18,
+    "old_pointer": "06CAB8",
+    "text": "Undead Revive",
+    "words": [
+      211,
+      475,
+      130,
+      97,
+      208,
+      151,
+      333,
+      770
+    ],
+    "reason": "死者・復活タイプ: clases compuestas sin abreviaturas."
+  },
+  {
+    "id": "G14:M140",
+    "mode": "inplace",
+    "pointer": "0x6caca",
+    "bytes": 18,
+    "old_pointer": "06CACA",
+    "text": "Plant Poison",
+    "words": [
+      206,
+      408,
+      491,
+      0,
+      206,
+      512,
+      615,
+      471
+    ],
+    "reason": "植物・毒タイプ: conserva ambas clases en orden japonés."
+  },
+  {
+    "id": "G14:M141",
+    "mode": "inplace",
+    "pointer": "0x6cadc",
+    "bytes": 16,
+    "old_pointer": "06CADC",
+    "text": "Dragon Float",
+    "words": [
+      194,
+      569,
+      262,
+      471,
+      196,
+      422,
+      21
+    ],
+    "reason": "竜・浮遊タイプ: conserva ambas clases sin abreviatura Dgn."
+  },
+  {
+    "id": "G14:M146",
+    "mode": "allocated",
+    "pointer": "0x6ff98",
+    "bytes": 16,
+    "old_pointer": "06CB0E",
+    "text": "Gil Toss A",
+    "words": [
+      197,
+      122,
+      0,
+      210,
+      522,
+      600,
+      191
+    ],
+    "reason": "ギル投げA: distinguir variante A y separar el nombre."
+  },
+  {
+    "id": "G14:M147",
+    "mode": "allocated",
+    "pointer": "0x6ffa8",
+    "bytes": 16,
+    "old_pointer": "06CB1A",
+    "text": "Gil Toss B",
+    "words": [
+      197,
+      122,
+      0,
+      210,
+      522,
+      600,
+      192
+    ],
+    "reason": "ギル投げB: distinguir variante B y completar Toss."
+  },
+  {
+    "id": "G14:M148",
+    "mode": "allocated",
+    "pointer": "0x6ffb8",
+    "bytes": 12,
+    "old_pointer": "06CB26",
+    "text": "Needle A",
+    "words": [
+      204,
+      134,
+      109,
+      770,
+      191
+    ],
+    "reason": "ニードルA: nombre completo y variante A."
+  },
+  {
+    "id": "G14:M149",
+    "mode": "allocated",
+    "pointer": "0x6ffc4",
+    "bytes": 12,
+    "old_pointer": "06CB32",
+    "text": "Needle B",
+    "words": [
+      204,
+      134,
+      109,
+      770,
+      192
+    ],
+    "reason": "ニードルB: nombre completo y variante B."
+  },
+  {
+    "id": "G14:M152",
+    "mode": "allocated",
+    "pointer": "0x6ffd0",
+    "bytes": 16,
+    "old_pointer": "06CB54",
+    "text": "Wave Cannon",
+    "words": [
+      213,
+      23,
+      770,
+      193,
+      15,
+      486,
+      471
+    ],
+    "reason": "波動砲: recuperar el nombre técnico, no «Aura»."
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "id": "G01:M039",
+    "offset": "0x1B3AEF",
+    "before": "d5004b012601ac02b600d7018500fc00b700b700b700feffd100bc01a30158028002150067031a00b700f2ff",
+    "after": "d5004b012601ac02b600d7018500fc00b700b700feffd100bc01a30158028002150067031a00b700f2ffffff",
+    "reason": "Restore original resource boundary before G01:M040. Remove one ellipsis dot to retain input pause and terminator; next message bytes preserved.",
+    "old_words": 37,
+    "new_words": 22,
+    "lines": [
+      10,
+      9
+    ]
+  },
+  {
+    "id": "G03:M012",
+    "offset": "0x1B4CA5",
+    "before": "d5000900ad00d2001801e2017402b800470280029300dd00dd00dd00",
+    "after": "d5000900ad00d2001801e2017402b800470280029300ad00f2ffffff",
+    "reason": "Remove three erroneous ff digraphs. Japanese says thanks to brother; complete with exclamation.",
+    "old_words": 16,
+    "new_words": 14,
+    "lines": [
+      12
+    ]
+  },
+  {
+    "id": "G04:M031",
+    "offset": "0x1B5867",
+    "before": "c700670309025102bc000902faff0600c1000e007a0098017502c2000500faff0000b500feff360078020d00670264031c01ba00a602fc000502b700b700b700f2ffffff4800f2ff",
+    "after": "c700670309025102bc000902fefffaff0600c1000e007a0098017502c2000500faff0000b500f2fffdff360078020d00670264031c01ba00a602fc000502b700b700b700f2ffffff",
+    "reason": "Split before colored name; pause and clear before dungeon sentence. Preserve all glyphs, palette and timed pause.",
+    "old_words": 34,
+    "new_words": 36,
+    "lines": [
+      6,
+      8,
+      13
+    ]
+  },
+  {
+    "id": "G04:M034",
+    "offset": "0x1B5905",
+    "before": "c1000a0278024a010000a400a300a300a300c5007a00b500cd00c900ae00feffc1000a0278024a010000a800",
+    "after": "a400a300a300a300c5007a00b500cd00c900ae00feffa800a300a300c5007a00b500cd00c900ae00f2ffffff",
+    "reason": "Two price confirmations 1000 Gil and 500 Gil, OK? Remove redundant Cost is prefixes and erroneous ff/ae residuals; values and question meaning preserved.",
+    "old_words": 36,
+    "new_words": 22,
+    "lines": [
+      10,
+      9
+    ]
+  },
+  {
+    "id": "G04:M048",
+    "offset": "0x1B5C27",
+    "before": "d500180178024a0159039702feffbf00e60180029300d2008d00910009027802c0000f02dd00dd00dd00",
+    "after": "d500180178024a0159039702feffbf00e60180029300d2008d00910009027802c0000f02ae00f2ffffff",
+    "reason": "Preserve What is it? / Another Teleport Box? Remove ff digraphs and Japanese ae residue.",
+    "old_words": 25,
+    "new_words": 21,
+    "lines": [
+      6,
+      12
+    ]
+  },
+  {
+    "id": "G06:M099",
+    "offset": "0x066C36",
+    "before": "c20083009f025d03fb01020304008102bd02b700fcfffeffcd00e3011803faff0600c10018012b029300a600faff0000feff4b018e0058020502d9023c02b9000f00bb00fb021801de010203ad00f2ffffff",
+    "after": "c20083009f025d03fb01020304008102bd02b700fcfffeffcd00e3011803faff0600c10018012b029300a600faff00004b018e005802feff0502d9023c02b9000f00bb00fb021801de010203ad00f2ffffff",
+    "reason": "Move explicit break after items; preserve every glyph, palette and existing wait.",
+    "old_words": 41,
+    "new_words": 41,
+    "lines": [
+      10,
+      11,
+      11
+    ]
+  },
+  {
+    "id": "G08:M020",
+    "offset": "0x0684D0",
+    "before": "faff0600c10020011702faff00000f006100faff0600cb007a009701faff000058030500b80003003c0176020000fcfffeffc7007802d90258028a0247019c018b02ad000000feff0000f2ffffff",
+    "after": "faff0600c10020011702faff00000f006100faff0600cb007a009701faff0000feff58030500b80003003c017602fcfffdffc7007802d90258028a0247019c018b02ad000000feff0000f2ffffff",
+    "reason": "Break before had babies; remove trailing padding; clear after existing wait before triplets sentence. Palette and content preserved.",
+    "old_words": 39,
+    "new_words": 39,
+    "lines": [
+      8,
+      6,
+      10,
+      1
+    ]
+  },
+  {
+    "id": "G16:M004",
+    "offset": "0x06CDD2",
+    "before": "ad00d500bf00d000cc00c700cc00c500ad00feffca001400780223021a00ba0015000100d902580250004a02a8027d027c0000000000f2ffffff",
+    "after": "ad00d500bf00d000cc00c700cc00c500ad00f2fffdffca001400780223021a00ba0015000100feffd902580250004a02a8027d027c00f2ffffff",
+    "reason": "Warning on first input page; full sentence on second two-line page. Remove trailing padding only.",
+    "old_words": 29,
+    "new_words": 29,
+    "lines": [
+      9,
+      8,
+      7
+    ]
+  },
+  {
+    "id": "G16:M070",
+    "offset": "0x06D3FE",
+    "before": "0000cb0094005902fc00bc004702b7016a003d0255000902feffc90000024900c902cc000c000e00aa021f00f2fffeffc700a100270398028f006601180380024a01bd000e009d00feffc700620384000402bc01db01d10020013d02d70180020203d5000f0066003d025602f2ffffffae00fcff",
+    "after": "0000cb0094005902fc00bc004702b7016a003d0255000902feffc90000024900c902cc000c000e00aa021f00f2fffdffc700a100270398028f006601180380024a01bd000e009d00feffc700620384000402bc01db01f2fffdffd10020013d02d70180020203d5000f0066003d025602f2ffffff",
+    "reason": "Clear after first input page; pause before Shiren the Wanderer to prevent third-line scroll and dropped glyph. Extend into verified unused same-resource tail.",
+    "old_words": 56,
+    "new_words": 58,
+    "lines": [
+      12,
+      9,
+      12,
+      6,
+      11
+    ]
+  },
+  {
+    "id": "G00:M253",
+    "offset": "0x1B30F5",
+    "before": "ce0041024600f4ff0001c5007a00f2ffffff",
+    "after": "c1000a027802f4ff0001c5007a00f2ffffff",
+    "reason": "Cost label ends with a space, separating its numeric substitution. Equivalent price meaning and identical control structure.",
+    "old_words": 9,
+    "new_words": 9,
+    "lines": [
+      5
+    ]
+  },
+  {
+    "id": "G16:M034",
+    "offset": "0x06D028",
+    "before": "f8ff0000ca0097008d00feff4a015e030e020000f4ff0000",
+    "after": "f8ff0000feffca0097008d000000f4ff0000ad00f2ffffff",
+    "reason": "Put object name on first line and Level plus numeric value on second. Remove is now phrase to avoid fused name/Level boundary. Shared aliases M035 and M036 preserved.",
+    "old_words": 15,
+    "new_words": 12,
+    "lines": [
+      0,
+      5
+    ]
+  }
+]

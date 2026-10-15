@@ -1,0 +1,34 @@
+{
+  "scope": "M2/M3/M4 approved target cases only; incidental reads never become visual approvals",
+  "approved_runs_per_iteration": {
+    "qa16": 16,
+    "qa17": 29,
+    "qa18": 7
+  },
+  "direct_target_story_references": 26,
+  "unique_target_story_pointers": 26,
+  "references_sharing_target_pointers": 28,
+  "dynamic_references": 9,
+  "dynamic_references_sharing_tested_pointers": 9,
+  "getter_window_ids_observed": [
+    3,
+    4,
+    5,
+    7,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    25,
+    26
+  ],
+  "getter_windows_observed": 12,
+  "getter_bindings_observed": 97,
+  "getter_total_entries": 2333,
+  "window_total_presets": 141,
+  "story_literal_reference_denominator": 886,
+  "global_visual_approval": false,
+  "inheritance_rule": "HF12 -> HF13 changes restricted to five enumerated non-dynamic message spans and checksum; all getter streams, pointer bindings, code, font/title graphics unchanged. Historical approvals retain original access and scope."
+}

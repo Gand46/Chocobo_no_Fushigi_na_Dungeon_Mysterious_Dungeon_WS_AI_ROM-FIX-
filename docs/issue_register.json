@@ -1,0 +1,247 @@
+[
+  {
+    "id": "TR-01",
+    "status": "SPLIT_OPEN_TR01_M_AND_TR01_L",
+    "scope": "Maquetaci\u00f3n global y revisi\u00f3n ling\u00fc\u00edstica separadas en QA14. Cobertura previa conservada; 2333 entradas del getter no son un censo global de di\u00e1logos.",
+    "children": [
+      "TR-01-M",
+      "TR-01-L"
+    ]
+  },
+  {
+    "id": "TR-02",
+    "status": "FIXED_SYNTHETIC_HF3",
+    "scope": "Whistle missing tile and palette aliases repaired; 2399 frame comparison; native menu with injected inventory"
+  },
+  {
+    "id": "TR-03",
+    "status": "PASS_VISUAL_CONTEXT_MASKED_RUNTIME",
+    "scope": "HF10 conserva dibujo principal del usuario. Subt\u00edtulo peque\u00f1o recompuesto mediante fuente nativa 2bpp. Lectura aislada:23 caracteres del t\u00edtulo principal y13 del subt\u00edtulo. Mismo revisor, sin estudio humano independiente. 1001 cuadros nativos: s\u00f3lo cambia franja94x12 del subt\u00edtulo; animaci\u00f3n, prompt y resto de pantalla id\u00e9nticos. Arranque y men\u00fa final HF10 comprobados.",
+    "binary_change_in_QA14": true
+  },
+  {
+    "id": "EN-01",
+    "status": "PASS_SYNTHETIC",
+    "scope": "Six full-bag cases on HF9/EN/JP: sorted target resolution, fused/cursed/unidentified +/-99, native Check and field return, no watched overrun or persistent write. HF9 full bag and synthesis metadata survive native save/cold load.",
+    "functional_validation": "PASS_SYNTHETIC",
+    "historical_cause": "NOT_REPRODUCED",
+    "acceptance": "USER_AUTHORIZED_SYNTHETIC;NATURAL_ACCESS_NOT_REQUIRED_FOR_THIS_SCOPE",
+    "binary_change_in_QA13": false
+  },
+  {
+    "id": "EN-02",
+    "status": "FIXED_SYNTHETIC_NATIVE_KICK",
+    "scope": "FF projectile restored; FE/FF native damage enabled; FF enemy death, consumption and return confirmed. Damage1000 with defense0,800 with200,1 with2000. Other combat contexts/natural acquisition not globally approved."
+  },
+  {
+    "id": "EN-03",
+    "status": "NOT_REPRODUCED_BOUNDED",
+    "scope": "HF3 Dispel before/after cursed native equip works; artificial acquisition; curse remains and equipment removed"
+  },
+  {
+    "id": "JP-01",
+    "status": "PASS_SYNTHETIC",
+    "scope": "Complete native elevator dispatch after synthetic caller entry; HF9 destinations30/32/99. Native save32 and cold load33/event0010 exact. Existing HF6 cache fix retained.",
+    "functional_validation": "PASS_SYNTHETIC",
+    "historical_cause": "STALE_CACHE_MAP_SELECTION_REPRODUCED_SYNTHETICALLY;NATURAL_SAVE_ERASURE_NOT_REPRODUCED",
+    "acceptance": "USER_AUTHORIZED_SYNTHETIC;NATURAL_ACCESS_NOT_REQUIRED_FOR_THIS_SCOPE",
+    "binary_change_in_QA13": false
+  },
+  {
+    "id": "JP-02",
+    "status": "COHERENT_FOUNTAIN_FROG_VARIANTS_NO_FAILURE_REPRODUCED",
+    "scope": "Minimum15Geyser+5Frog and full45+15 synthetic states complete ending; HF6 full variant repeats completion. No fountain-specific binary fix."
+  },
+  {
+    "id": "JP-03",
+    "status": "PASS_SYNTHETIC",
+    "scope": "Cold99 -> native Telep -> town -> synthetic elevator caller/destination -> native confirmation and floor30/event0000; bounded walking. JP selectsA216; cache refresh at consumer makes JP select0000. No intermediate saved-data reentry container.",
+    "functional_validation": "PASS_SYNTHETIC",
+    "historical_cause": "STALE_CACHED_DIGITS_CAUSE_WRONG_MAP;POSTER_REPORTED_LATER_FREEZE_NOT_REPRODUCED",
+    "acceptance": "USER_AUTHORIZED_SYNTHETIC;NATURAL_ACCESS_NOT_REQUIRED_FOR_THIS_SCOPE",
+    "binary_change_in_QA13": false
+  },
+  {
+    "id": "JP-04",
+    "status": "PASS_SYNTHETIC",
+    "scope": "Full fused cursed bag and HP1 before exact D2 rescue, no story/pointer edits in rescue. Rescue flags pass on HF9/JP. HF9 assisted boss -> credits -> village movement. Stress variant, not proven identical to historical failing state.",
+    "functional_validation": "PASS_SYNTHETIC",
+    "historical_cause": "HISTORICAL_TRIGGER_UNKNOWN",
+    "acceptance": "USER_AUTHORIZED_SYNTHETIC;NATURAL_ACCESS_NOT_REQUIRED_FOR_THIS_SCOPE",
+    "binary_change_in_QA13": false
+  },
+  {
+    "id": "SAVE-01",
+    "status": "PASS_SYNTHETIC",
+    "scope": "Three new HF9 native writes and fresh-process cold loads: six exact2516-byte copies, valid CRC/complement/commit, full inventory/synthesis retained. JP wrong-map traversal does not overwrite stored data and cold-restarts successfully. HF4 interruption evidence retained, not rerun.",
+    "functional_validation": "PASS_SYNTHETIC",
+    "historical_cause": "NATURAL_RESET_NOT_REPRODUCED;PARTIAL_WRITE_ACCEPTANCE_FIXED_IN_HF4",
+    "acceptance": "USER_AUTHORIZED_SYNTHETIC;NATURAL_ACCESS_NOT_REQUIRED_FOR_THIS_SCOPE",
+    "binary_change_in_QA13": false
+  },
+  {
+    "id": "HW-USER",
+    "status": "CLOSED_OUT_OF_ROM_SCOPE",
+    "scope": "User established electrical cause of physical cartridge freeze; not a ROM diagnosis target"
+  },
+  {
+    "id": "TR-01-M",
+    "status": "M4_EXECUTED_SCOPED_PASSES_GLOBAL_NOT_APPROVED",
+    "scope": "M4/HF13: five message resources corrected, seven final synthetic runs,147 content bytes+2 checksum. No remaining vertical static candidates; three horizontal alerts are padding-only cases already validated in M3.26 targeted story pointers across M2-M4,12 getter windows/97bindings. This does not visually approve all886 literal story references/141presets. Storage preset32 caller remains unconfirmed.",
+    "planned_iterations": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "base_iterations": 4,
+    "completed_layout_iterations": 4,
+    "remaining_base_layout_iterations": 0
+  },
+  {
+    "id": "TR-01-L",
+    "status": "OPEN",
+    "scope": "Revisi\u00f3n ling\u00fc\u00edstica global: sentido japon\u00e9s/ingl\u00e9s, gram\u00e1tica, naturalidad, terminolog\u00eda y coherencia contextual. No se acredita por revisi\u00f3n de tama\u00f1os ni por cero candidatos estructurales.",
+    "planned_iterations": [
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "base_iterations": 5,
+    "qa15_note": "Not closed by structural census. Residual f suffix in G03:M012 linked for bilingual review; no linguistic approval in M1.",
+    "qa17_note": "G03:M012 suffix resolved; global bilingual review remains open. G06:M099 awkward legacy wording and G16:M004 corruption wording require separate linguistic/contextual review."
+  },
+  {
+    "id": "M-15-01",
+    "status": "FIXED_PASS_SYNTHETIC_HF11",
+    "resource": "G05:M002",
+    "access": [
+      "SAVESTATE",
+      "POINTER_INJECTION"
+    ],
+    "scope": "14th literal go dropped at column13; implicit plus explicit line advances erased first line. Move FFFE before go.500 frames, both lines readable, confirmation consumesFFFF and resumes. No claim of natural acquisition/route."
+  },
+  {
+    "id": "M-15-02",
+    "status": "FIXED_PASS_SYNTHETIC_HF12",
+    "resource": "G03:M012",
+    "scope": "G03:M012: Japanese thanks-to-brother meaning checked; remove erroneous ff suffix and complete with exclamation. Native output and confirmation pass.",
+    "evidence": "evidence/qa17_runs/final_G03_M012"
+  },
+  {
+    "id": "TR-01-M2-C01",
+    "status": "CANDIDATE_NOT_CONFIRMED_AFTER_M4",
+    "scope": "Forced second page still exceeds the96px window. M4 found no validated native caller: at E0:11C2 opcode24 consumes17 as an argument, so11C3 is not an open-window instruction. At5ADB, opcode11 consumes0019, so5ADD is not a selection instruction. These injected mid-instruction entries are excluded diagnostics. No proof of unreachability; do not replace shared floor question F00:I053 or call this case PASS.",
+    "access": [
+      "SAVESTATE",
+      "WRAM_POKE",
+      "POINTER_INJECTION"
+    ],
+    "evidence": "qa18/context_resolution.json"
+  },
+  {
+    "id": "TR-01-M3-C01",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF13",
+    "resource": "G16:M064",
+    "scope": "Existing script E0:59B5 opens native one-line window1 and opcode28 at59BF readsG16:M064; old stream drops nonblank glyphs. Three input-paced pages now retain full rate and prompt. Inherited fo lot glyph sequence repaired to Slot. Native loop7B remains unchanged; scene reachability and real exchange transaction are not approved.",
+    "evidence": "evidence/qa18_runs/final_slot_native"
+  },
+  {
+    "id": "M-17-G01-M039",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF12",
+    "resource": "G01:M039",
+    "scope": "Restore original resource boundary before G01:M040. Remove one ellipsis dot to retain input pause and terminator; next message bytes preserved."
+  },
+  {
+    "id": "M-17-G03-M012",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF12",
+    "resource": "G03:M012",
+    "scope": "Remove three erroneous ff digraphs. Japanese says thanks to brother; complete with exclamation."
+  },
+  {
+    "id": "M-17-G04-M031",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF12",
+    "resource": "G04:M031",
+    "scope": "Split before colored name; pause and clear before dungeon sentence. Preserve all glyphs, palette and timed pause."
+  },
+  {
+    "id": "M-17-G04-M034",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF12",
+    "resource": "G04:M034",
+    "scope": "Two price confirmations 1000 Gil and 500 Gil, OK? Remove redundant Cost is prefixes and erroneous ff/ae residuals; values and question meaning preserved."
+  },
+  {
+    "id": "M-17-G04-M048",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF12",
+    "resource": "G04:M048",
+    "scope": "Preserve What is it? / Another Teleport Box? Remove ff digraphs and Japanese ae residue."
+  },
+  {
+    "id": "M-17-G06-M099",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF12",
+    "resource": "G06:M099",
+    "scope": "Move explicit break after items; preserve every glyph, palette and existing wait."
+  },
+  {
+    "id": "M-17-G08-M020",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF12",
+    "resource": "G08:M020",
+    "scope": "Break before had babies; remove trailing padding; clear after existing wait before triplets sentence. Palette and content preserved."
+  },
+  {
+    "id": "M-17-G16-M004",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF12",
+    "resource": "G16:M004",
+    "scope": "Warning on first input page; full sentence on second two-line page. Remove trailing padding only."
+  },
+  {
+    "id": "M-17-G16-M070",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF12",
+    "resource": "G16:M070",
+    "scope": "Clear after first input page; pause before Shiren the Wanderer to prevent third-line scroll and dropped glyph. Extend into verified unused same-resource tail."
+  },
+  {
+    "id": "M-17-G00-M253",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF12",
+    "resource": "G00:M253",
+    "scope": "Cost label ends with a space, separating its numeric substitution. Equivalent price meaning and identical control structure."
+  },
+  {
+    "id": "M-17-G16-M034",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF12",
+    "resource": "G16:M034",
+    "scope": "Put object name on first line and Level plus numeric value on second. Remove is now phrase to avoid fused name/Level boundary. Shared aliases M035 and M036 preserved."
+  },
+  {
+    "id": "M-18-G00-M015",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF13",
+    "resource": "G00:M015",
+    "scope": "Pause after apology, then show the complete two-line sentence. Remove one trailing padding cell to stay within slot."
+  },
+  {
+    "id": "M-18-G06-M012",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF13",
+    "resource": "G06:M012",
+    "scope": "Clear after existing timed wait; add input pause/clear before third line of long paragraph. Separate Camilla's and Dad; preserve colored name, palette arguments and all nonblank glyphs."
+  },
+  {
+    "id": "M-18-G06-M073",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF13",
+    "resource": "G06:M073",
+    "scope": "Join isolated to with preceding line, adding a word separator (13 cells total); clear after existing wait so final sentence uses its own page. All original glyphs retained; inherited translation semantics not approved."
+  },
+  {
+    "id": "M-18-G09-M191",
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED_HF13",
+    "resource": "G09:M191",
+    "scope": "Complete three-dot ellipsis before timed wait, then clear before two-line To put it / more bluntly... sentence. Preserve glyph sequence and FFF5 pauses."
+  },
+  {
+    "id": "TR-01-L-G06-M073",
+    "status": "OPEN_INHERITED_TRANSLATION_DEFECT",
+    "resource": "G06:M073",
+    "scope": "The English sentence visibly ends will revert your level to, without a complement. M4 fixes pagination and word separation only. Compare complete Japanese explanation of the book sides and restore missing content in the separate bilingual revision; no linguistic PASS."
+  }
+]

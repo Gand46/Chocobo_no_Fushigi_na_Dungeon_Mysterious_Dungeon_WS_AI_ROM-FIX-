@@ -1,0 +1,38 @@
+{
+  "status": "PASS_SYNTHETIC",
+  "interruption_cases": 7606,
+  "results": {
+    "new": {
+      "cases": 2534,
+      "accepted_prefixes": [
+        0,
+        1,
+        2,
+        2533
+      ],
+      "mixed_accepted": 0
+    },
+    "rewrite": {
+      "cases": 2534,
+      "accepted_prefixes": [
+        0,
+        2533
+      ],
+      "mixed_accepted": 0
+    },
+    "alternate": {
+      "cases": 2538,
+      "accepted_prefixes": [
+        0,
+        2537
+      ],
+      "mixed_accepted": 0
+    },
+    "crc_mutations": {
+      "valid_control": 1,
+      "rejected": 144,
+      "total": 145
+    }
+  },
+  "scope": "Native CPU validator with DS=1000 harness; exact write prefixes; CRC oracle is Python binascii.crc_hqx. No natural power-loss claim."
+}

@@ -1,0 +1,11 @@
+{
+  "source_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+  "legacy_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+  "target_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+  "bps_sha256": "87a48858a65e66f4f11b3865869f1c0df499317b56fbeae19f2335fcfff9e183",
+  "changed_bytes_vs_legacy": 4310,
+  "unexpected_changed_offsets": 0,
+  "checksum": "E1F6",
+  "roundtrip": "PASS",
+  "release_hash_verified": true
+}

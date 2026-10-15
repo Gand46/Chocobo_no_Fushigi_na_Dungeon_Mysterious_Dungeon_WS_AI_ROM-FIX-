@@ -1,0 +1,11 @@
+{
+  "frames_compared": 1001,
+  "top_56_mismatches": [],
+  "footer_121_143_mismatches": [],
+  "logo_64_120_mismatches": [],
+  "all_animation_map_frames_equal": false,
+  "unique_top_states": 16,
+  "unique_full_states": 27,
+  "unique_footer_states": 5,
+  "all_animation_map_frames_equal_explanation": "BG1 contains intentionally replaced static artwork; comparison is diagnostic only. Animation checks use visible top/footer equality plus asset/code byte identity."
+}

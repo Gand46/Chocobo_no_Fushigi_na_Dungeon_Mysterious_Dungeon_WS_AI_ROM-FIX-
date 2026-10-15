@@ -1,0 +1,50 @@
+
+/workspace/scratch/191cd4343452/qa16/magicinit.bin:     file format binary
+
+
+Disassembly of section .data:
+
+00004b08 <.data>:
+    4b08:	b0 40                	mov    al,0x40
+    4b0a:	e8 52 f9             	call   0x445f
+    4b0d:	b0 40                	mov    al,0x40
+    4b0f:	e8 73 f9             	call   0x4485
+    4b12:	b9 00 00             	mov    cx,0x0
+    4b15:	b9 00 00             	mov    cx,0x0
+    4b18:	be 9a 62             	mov    si,0x629a
+    4b1b:	bf 0a 04             	mov    di,0x40a
+    4b1e:	bb e9 00             	mov    bx,0xe9
+    4b21:	eb 3e                	jmp    0x4b61
+    4b23:	89 1c                	mov    WORD PTR [si],bx
+    4b25:	43                   	inc    bx
+    4b26:	83 c6 02             	add    si,0x2
+    4b29:	b8 00 00             	mov    ax,0x0
+    4b2c:	89 04                	mov    WORD PTR [si],ax
+    4b2e:	83 c6 02             	add    si,0x2
+    4b31:	57                   	push   di
+    4b32:	8b f9                	mov    di,cx
+    4b34:	8a 85 8c 6c          	mov    al,BYTE PTR [di+0x6c8c]
+    4b38:	b4 00                	mov    ah,0x0
+    4b3a:	5f                   	pop    di
+    4b3b:	e8 96 07             	call   0x52d4
+    4b3e:	57                   	push   di
+    4b3f:	8b f9                	mov    di,cx
+    4b41:	8a 85 93 6c          	mov    al,BYTE PTR [di+0x6c93]
+    4b45:	b4 00                	mov    ah,0x0
+    4b47:	5f                   	pop    di
+    4b48:	e8 3b 07             	call   0x5286
+    4b4b:	b8 02 00             	mov    ax,0x2
+    4b4e:	89 04                	mov    WORD PTR [si],ax
+    4b50:	83 c6 04             	add    si,0x4
+    4b53:	57                   	push   di
+    4b54:	8b f9                	mov    di,cx
+    4b56:	8a 85 85 6c          	mov    al,BYTE PTR [di+0x6c85]
+    4b5a:	b4 00                	mov    ah,0x0
+    4b5c:	5f                   	pop    di
+    4b5d:	e8 26 07             	call   0x5286
+    4b60:	41                   	inc    cx
+    4b61:	83 f9 08             	cmp    cx,0x8
+    4b64:	72 bd                	jb     0x4b23
+    4b66:	c6 06 c3 64 0e       	mov    BYTE PTR ds:0x64c3,0xe
+    4b6b:	c6 06 21 64 08       	mov    BYTE PTR ds:0x6421,0x8
+    4b70:	c3                   	ret

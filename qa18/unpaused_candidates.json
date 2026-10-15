@@ -1,0 +1,26 @@
+[
+  {
+    "id": "G00:M015",
+    "pointer": "1B2203",
+    "max_unpaused_lines": 3,
+    "controls": "FFF2x1 FFF5x1 FFFEx2"
+  },
+  {
+    "id": "G06:M012",
+    "pointer": "065AD0",
+    "max_unpaused_lines": 3,
+    "controls": "FFF2x1 FFFAx2 FFFCx1 FFFEx4"
+  },
+  {
+    "id": "G06:M073",
+    "pointer": "0667AA",
+    "max_unpaused_lines": 3,
+    "controls": "FFF2x1 FFFCx1 FFFEx3"
+  },
+  {
+    "id": "G09:M191",
+    "pointer": "06A9A8",
+    "max_unpaused_lines": 3,
+    "controls": "FFF2x1 FFF5x2 FFFCx1 FFFEx2"
+  }
+]

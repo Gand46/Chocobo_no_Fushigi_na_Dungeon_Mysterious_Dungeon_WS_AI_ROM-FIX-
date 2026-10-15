@@ -1,0 +1,14 @@
+[
+  {
+    "file": "load_1_copied.sav",
+    "payload_exact": true,
+    "live_level": 3,
+    "live_hp": 28
+  },
+  {
+    "file": "load_2_copied.sav",
+    "payload_exact": true,
+    "live_level": 3,
+    "live_hp": 28
+  }
+]

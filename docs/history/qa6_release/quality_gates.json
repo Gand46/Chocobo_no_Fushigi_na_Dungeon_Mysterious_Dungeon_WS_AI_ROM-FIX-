@@ -1,0 +1,21 @@
+{
+  "version": "HF3_TEST",
+  "build": "PASS",
+  "bps_roundtrip": "PASS",
+  "independent_bps": "PASS",
+  "checksum": "PASS",
+  "lafoss_no_hang_synthetic": "PASS",
+  "lafoss_full_spell_semantics": "NOT_VALIDATED",
+  "whistle_visual": "PASS_BOUNDED_MESEN_SYNTHETIC_INVENTORY",
+  "whistle_transition_difference": "3_FRAMES_REVIEWED_RECORDED",
+  "basic_cold_save_load_mesen": "PASS",
+  "late_event_save_integrity": "NOT_VALIDATED",
+  "second_emulator": "NOT_VALIDATED",
+  "hardware": "NOT_VALIDATED",
+  "physical_incident": "ELECTRICAL_CAUSE_ESTABLISHED_OUT_OF_SCOPE",
+  "global_linguistic_visual": "NOT_VALIDATED",
+  "final_approved": false,
+  "unit_tests": "11_PASS",
+  "equipment_actions": "30_COMPLETED_NO_CPU_POWEROFF_NO_GUARD_HITS",
+  "text_resources": "10_CASES_77_WORDS_MATCH_ROM"
+}

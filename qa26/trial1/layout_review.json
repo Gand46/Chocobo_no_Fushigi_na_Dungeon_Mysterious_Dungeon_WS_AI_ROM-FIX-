@@ -1,0 +1,700 @@
+[
+  {
+    "id": "G00:M044",
+    "original_lines": [
+      13,
+      3
+    ],
+    "new_lines": [
+      8,
+      7
+    ],
+    "reflow": true,
+    "proposed_lines": [
+      "Put the pot in",
+      "a sunny spot."
+    ],
+    "spacing_events": [],
+    "bytes_before": 38,
+    "bytes_used": 36,
+    "pointer": 1826478
+  },
+  {
+    "id": "G00:M060",
+    "original_lines": [
+      13,
+      6
+    ],
+    "new_lines": [
+      11,
+      6
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 1,
+        "left_glyph": 199,
+        "right_glyph": 14,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      },
+      {
+        "word_index": 8,
+        "left_glyph": 199,
+        "right_glyph": 556,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      }
+    ],
+    "bytes_before": 44,
+    "bytes_used": 40,
+    "pointer": 1826742
+  },
+  {
+    "id": "G01:M025",
+    "original_lines": [
+      10,
+      11,
+      13,
+      7
+    ],
+    "new_lines": [
+      10,
+      10,
+      12,
+      7
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 17,
+        "left_glyph": 199,
+        "right_glyph": 743,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      },
+      {
+        "word_index": 31,
+        "left_glyph": 628,
+        "right_glyph": 640,
+        "before_gap_px": 21,
+        "after_gap_px": 5
+      }
+    ],
+    "bytes_before": 94,
+    "bytes_used": 90,
+    "pointer": 1827668
+  },
+  {
+    "id": "G01:M056",
+    "original_lines": [
+      10,
+      3
+    ],
+    "new_lines": [
+      9,
+      3
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 1,
+        "left_glyph": 199,
+        "right_glyph": 14,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      }
+    ],
+    "bytes_before": 32,
+    "bytes_used": 30,
+    "pointer": 1828480
+  },
+  {
+    "id": "G04:M007",
+    "original_lines": [
+      13,
+      7
+    ],
+    "new_lines": [
+      11,
+      7
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 3,
+        "left_glyph": 309,
+        "right_glyph": 210,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      },
+      {
+        "word_index": 9,
+        "left_glyph": 21,
+        "right_glyph": 193,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      }
+    ],
+    "bytes_before": 46,
+    "bytes_used": 42,
+    "pointer": 1830350
+  },
+  {
+    "id": "G04:M020",
+    "original_lines": [
+      10,
+      13,
+      12,
+      3
+    ],
+    "new_lines": [
+      9,
+      13,
+      12,
+      3
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 3,
+        "left_glyph": 605,
+        "right_glyph": 210,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      }
+    ],
+    "bytes_before": 88,
+    "bytes_used": 86,
+    "pointer": 1830396
+  },
+  {
+    "id": "G04:M038",
+    "original_lines": [
+      13,
+      6
+    ],
+    "new_lines": [
+      11,
+      6
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 7,
+        "left_glyph": 149,
+        "right_glyph": 873,
+        "before_gap_px": 24,
+        "after_gap_px": 8
+      },
+      {
+        "word_index": 11,
+        "left_glyph": 173,
+        "right_glyph": 199,
+        "before_gap_px": 31,
+        "after_gap_px": 15
+      }
+    ],
+    "bytes_before": 52,
+    "bytes_used": 48,
+    "pointer": 1830484
+  },
+  {
+    "id": "G04:M050",
+    "original_lines": [
+      13,
+      6
+    ],
+    "new_lines": [
+      12,
+      6
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 8,
+        "left_glyph": 199,
+        "right_glyph": 680,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      }
+    ],
+    "bytes_before": 44,
+    "bytes_used": 42,
+    "pointer": 1829544
+  },
+  {
+    "id": "G04:M061",
+    "original_lines": [
+      11,
+      3
+    ],
+    "new_lines": [
+      10,
+      3
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 12,
+        "left_glyph": 181,
+        "right_glyph": 80,
+        "before_gap_px": 29,
+        "after_gap_px": 13
+      }
+    ],
+    "bytes_before": 42,
+    "bytes_used": 40,
+    "pointer": 1829662
+  },
+  {
+    "id": "G06:M018",
+    "original_lines": [
+      12,
+      4
+    ],
+    "new_lines": [
+      11,
+      4
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 3,
+        "left_glyph": 411,
+        "right_glyph": 873,
+        "before_gap_px": 24,
+        "after_gap_px": 8
+      }
+    ],
+    "bytes_before": 38,
+    "bytes_used": 36,
+    "pointer": 452472
+  },
+  {
+    "id": "G06:M054",
+    "original_lines": [
+      13,
+      7
+    ],
+    "new_lines": [
+      10,
+      9
+    ],
+    "reflow": true,
+    "proposed_lines": [
+      "The Professor has",
+      "the fourth book."
+    ],
+    "spacing_events": [
+      {
+        "word_index": 2,
+        "left_glyph": 284,
+        "right_glyph": 206,
+        "before_gap_px": 21,
+        "after_gap_px": 5
+      }
+    ],
+    "bytes_before": 46,
+    "bytes_used": 44,
+    "pointer": 453320
+  },
+  {
+    "id": "G06:M063",
+    "original_lines": [
+      13,
+      3
+    ],
+    "new_lines": [
+      7,
+      7
+    ],
+    "reflow": true,
+    "proposed_lines": [
+      "The Professor",
+      "has the book."
+    ],
+    "spacing_events": [
+      {
+        "word_index": 2,
+        "left_glyph": 284,
+        "right_glyph": 206,
+        "before_gap_px": 21,
+        "after_gap_px": 5
+      }
+    ],
+    "bytes_before": 38,
+    "bytes_used": 34,
+    "pointer": 453574
+  },
+  {
+    "id": "G07:M003",
+    "original_lines": [
+      13,
+      4
+    ],
+    "new_lines": [
+      10,
+      7
+    ],
+    "reflow": true,
+    "proposed_lines": [
+      "A few more things",
+      "will change."
+    ],
+    "spacing_events": [],
+    "bytes_before": 40,
+    "bytes_used": 40,
+    "pointer": 454716
+  },
+  {
+    "id": "G08:M004",
+    "original_lines": [
+      13,
+      4
+    ],
+    "new_lines": [
+      8,
+      8
+    ],
+    "reflow": true,
+    "proposed_lines": [
+      "Could he have",
+      "found a dungeon?"
+    ],
+    "spacing_events": [],
+    "bytes_before": 40,
+    "bytes_used": 38,
+    "pointer": 454864
+  },
+  {
+    "id": "G08:M026",
+    "original_lines": [
+      13,
+      11,
+      13,
+      8,
+      11,
+      5
+    ],
+    "new_lines": [
+      11,
+      11,
+      12,
+      8,
+      11,
+      5
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 1,
+        "left_glyph": 199,
+        "right_glyph": 640,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      },
+      {
+        "word_index": 6,
+        "left_glyph": 199,
+        "right_glyph": 678,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      },
+      {
+        "word_index": 34,
+        "left_glyph": 509,
+        "right_glyph": 187,
+        "before_gap_px": 25,
+        "after_gap_px": 9
+      }
+    ],
+    "bytes_before": 140,
+    "bytes_used": 134,
+    "pointer": 455266
+  },
+  {
+    "id": "G09:M015",
+    "original_lines": [
+      11,
+      3
+    ],
+    "new_lines": [
+      10,
+      3
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 2,
+        "left_glyph": 310,
+        "right_glyph": 215,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      }
+    ],
+    "bytes_before": 34,
+    "bytes_used": 32,
+    "pointer": 430024
+  },
+  {
+    "id": "G09:M044",
+    "original_lines": [
+      13,
+      4
+    ],
+    "new_lines": [
+      12,
+      4
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 7,
+        "left_glyph": 199,
+        "right_glyph": 737,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      }
+    ],
+    "bytes_before": 40,
+    "bytes_used": 38,
+    "pointer": 456628
+  },
+  {
+    "id": "G09:M053",
+    "original_lines": [
+      13,
+      2
+    ],
+    "new_lines": [
+      12,
+      2
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 2,
+        "left_glyph": 307,
+        "right_glyph": 640,
+        "before_gap_px": 21,
+        "after_gap_px": 5
+      }
+    ],
+    "bytes_before": 36,
+    "bytes_used": 34,
+    "pointer": 456668
+  },
+  {
+    "id": "G09:M108",
+    "original_lines": [
+      13,
+      7
+    ],
+    "new_lines": [
+      11,
+      7
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 2,
+        "left_glyph": 134,
+        "right_glyph": 873,
+        "before_gap_px": 24,
+        "after_gap_px": 8
+      },
+      {
+        "word_index": 6,
+        "left_glyph": 183,
+        "right_glyph": 203,
+        "before_gap_px": 30,
+        "after_gap_px": 14
+      }
+    ],
+    "bytes_before": 46,
+    "bytes_used": 42,
+    "pointer": 457232
+  },
+  {
+    "id": "G09:M141",
+    "original_lines": [
+      13,
+      3
+    ],
+    "new_lines": [
+      7,
+      9
+    ],
+    "reflow": true,
+    "proposed_lines": [
+      "So he really",
+      "is a good guy."
+    ],
+    "spacing_events": [],
+    "bytes_before": 38,
+    "bytes_used": 38,
+    "pointer": 457368
+  },
+  {
+    "id": "G09:M151",
+    "original_lines": [
+      12,
+      3
+    ],
+    "new_lines": [
+      10,
+      3
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 1,
+        "left_glyph": 199,
+        "right_glyph": 66,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      },
+      {
+        "word_index": 9,
+        "left_glyph": 701,
+        "right_glyph": 873,
+        "before_gap_px": 24,
+        "after_gap_px": 8
+      }
+    ],
+    "bytes_before": 36,
+    "bytes_used": 32,
+    "pointer": 457458
+  },
+  {
+    "id": "G09:M186",
+    "original_lines": [
+      11,
+      12,
+      13,
+      5
+    ],
+    "new_lines": [
+      11,
+      12,
+      12,
+      5
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 27,
+        "left_glyph": 199,
+        "right_glyph": 14,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      }
+    ],
+    "bytes_before": 94,
+    "bytes_used": 92,
+    "pointer": 436360
+  },
+  {
+    "id": "G10:M026",
+    "original_lines": [
+      13,
+      6
+    ],
+    "new_lines": [
+      11,
+      6
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 2,
+        "left_glyph": 756,
+        "right_glyph": 526,
+        "before_gap_px": 21,
+        "after_gap_px": 5
+      },
+      {
+        "word_index": 5,
+        "left_glyph": 173,
+        "right_glyph": 213,
+        "before_gap_px": 28,
+        "after_gap_px": 12
+      }
+    ],
+    "bytes_before": 44,
+    "bytes_used": 40,
+    "pointer": 455814
+  },
+  {
+    "id": "G10:M032",
+    "original_lines": [
+      11,
+      8,
+      12,
+      12,
+      12,
+      3
+    ],
+    "new_lines": [
+      10,
+      8,
+      11,
+      12,
+      10,
+      3
+    ],
+    "reflow": false,
+    "proposed_lines": null,
+    "spacing_events": [
+      {
+        "word_index": 1,
+        "left_glyph": 199,
+        "right_glyph": 737,
+        "before_gap_px": 20,
+        "after_gap_px": 4
+      },
+      {
+        "word_index": 31,
+        "left_glyph": 181,
+        "right_glyph": 252,
+        "before_gap_px": 29,
+        "after_gap_px": 13
+      },
+      {
+        "word_index": 59,
+        "left_glyph": 498,
+        "right_glyph": 209,
+        "before_gap_px": 26,
+        "after_gap_px": 10
+      },
+      {
+        "word_index": 62,
+        "left_glyph": 134,
+        "right_glyph": 873,
+        "before_gap_px": 24,
+        "after_gap_px": 8
+      }
+    ],
+    "bytes_before": 142,
+    "bytes_used": 134,
+    "pointer": 456054
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "started_utc": "2026-10-14T08:09:48+00:00",
+  "base": "HF7",
+  "base_sha256": "116cd3df2828e97c890049619f6f43bf10102490f0c709a3dc836ec54a6a065a",
+  "scope": "Integrate user-provided logo without redesign; synthetic/gameplay issues unchanged",
+  "safety_cap_minutes": 40
+}

@@ -1,0 +1,225 @@
+{
+  "reviewer": "Independent delegated Astra review",
+  "rom_sha256": "f27e69f65e134b161c1f3ce263c3ed78a8ae247997c95d7383c43c4a78c8962f",
+  "story_method": "Direct visual reading of native 224x144 screenshots arranged at native scale in qa24/native_review_contact.png",
+  "story_contact_sha256": "a678bdf02374426ea39c334e958bd6a9088f6d2b97352260f4807bfab4b6e9a9",
+  "story_readings": [
+    {
+      "run": "final_G00_M252_distinct",
+      "transcription": [
+        "37 Level"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G00_M252_max",
+      "transcription": [
+        "65535 Level"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G00_M253_distinct",
+      "transcription": [
+        "Cost 123456 Gil"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G00_M253_max",
+      "transcription": [
+        "Cost 9999999 Gil"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G00_M254_distinct",
+      "transcription": [
+        "Ore Items"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G00_M254_max",
+      "transcription": [
+        "Double KnockTalon Items"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G00_M255_distinct",
+      "transcription": [
+        "Name Ore"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G00_M255_max",
+      "transcription": [
+        "Name Double KnockTalon"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G04_M033_distinct",
+      "transcription": [
+        "Are these 2 OK?",
+        "Are these 3 OK?"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G04_M034_distinct",
+      "transcription": [
+        "1000 Gil, OK?",
+        "500 Gil, OK?"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G06_M100_distinct",
+      "transcription": [
+        "Debug mode!",
+        "Start item trading!"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G06_M100_max",
+      "transcription": [
+        "Debug mode!",
+        "Start item trading!"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G11_M011_distinct",
+      "transcription": [
+        "floors or so later"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G14_M007_distinct",
+      "transcription": [
+        "Wither Hit"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G14_M007_max",
+      "transcription": [
+        "Wither Hit"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G14_M067_distinct",
+      "transcription": [
+        "Ruin Cannon"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G14_M067_max",
+      "transcription": [
+        "Ruin Cannon"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G14_M152_distinct",
+      "transcription": [
+        "Wave Cannon"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G14_M152_max",
+      "transcription": [
+        "Wave Cannon"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    },
+    {
+      "run": "final_G16_M073_distinct",
+      "transcription": [
+        "floors or so later"
+      ],
+      "visual_status": "PASS_NATIVE_SYNTHETIC_SCOPED",
+      "method": "CONTACT_NATIVE_SCALE_DIRECT_READING"
+    }
+  ],
+  "getter_readings": [
+    {
+      "run": "bestiary_treant_scroll",
+      "id": "F17:I007",
+      "image": "evidence/qa24_runs/bestiary_treant_scroll/f00120.png",
+      "image_sha256": "ac2cdca81ee2b0b2900c3bc1bd10b4d349a20a2d9caf5f54e208a5433c7dbeaa",
+      "transcription": "Wither Hit",
+      "visual_status": "PASS_NATIVE_CONSUMER_SYNTHETIC_SCOPED",
+      "getter_words_including_terminator": 7,
+      "window": 129,
+      "return_ip": "7AEA",
+      "target_row_overflows": 0,
+      "frames": 600,
+      "fixture": "preset81 + monster selector + initial scroll=1",
+      "natural_traversal": false
+    },
+    {
+      "run": "bestiary_omega",
+      "id": "F17:I152",
+      "image": "evidence/qa24_runs/bestiary_omega/f00120.png",
+      "image_sha256": "d224a49eb1636b6346e192e7aa805e111ec71804eb29139d1d713bcb9e5ee19b",
+      "transcription": "Wave Cannon",
+      "visual_status": "PASS_NATIVE_CONSUMER_SYNTHETIC_SCOPED",
+      "getter_words_including_terminator": 8,
+      "window": 129,
+      "return_ip": "7AEA",
+      "target_row_overflows": 0,
+      "frames": 600,
+      "fixture": "preset81 + monster selector + initial scroll=1",
+      "natural_traversal": false
+    },
+    {
+      "run": "bestiary_ruin_fixture",
+      "id": "F17:I067",
+      "image": "evidence/qa24_runs/bestiary_ruin_fixture/f00120.png",
+      "image_sha256": "de2cb587166b7a769164473ae3b4a9de22b5317b603b83a29b8a459aea15c1a0",
+      "transcription": "Ruin Cannon",
+      "visual_status": "PASS_NATIVE_CONSUMER_SYNTHETIC_SCOPED",
+      "getter_words_including_terminator": 8,
+      "window": 129,
+      "return_ip": "7AEA",
+      "target_row_overflows": 0,
+      "frames": 600,
+      "fixture": "preset81 + monster selector + initial scroll=1 + ability index62A6=67 after native initializer",
+      "natural_traversal": false
+    }
+  ],
+  "limitations": [
+    "Synthetic selector/value/scroll fixtures, not universal natural traversal.",
+    "G04 alternatives and G11/G16 number host composition not proven by these isolated message reads.",
+    "Wither Hit and Ruin/Wave Cannon are reviewed localization choices, not claims of official English nomenclature.",
+    "I067 bestiary row explicitly replaces an existing ability index in SRAM; does not establish the monster uses I067 naturally."
+  ]
+}

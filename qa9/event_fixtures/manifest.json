@@ -1,0 +1,19 @@
+{
+  "source": "qa8/event_fixtures/D3_post_ending_to_99.sav",
+  "access": "SYNTHETIC_STATE",
+  "changes": "stored floor and maximum=current=destination-1, original cached61 unless filename coherent_digits (98)",
+  "files": {
+    "D3_to_30.sav": "fce3cb346a70184ca2a28fe5a80a93040d75a7ded6d3a942c873101912679a85",
+    "D3_to_33.sav": "a96884181006c738b32a8494bae323166403b9560c74784962dd8676ac536510",
+    "D3_to_100.sav": "6607936eaafda746c698c55a60c5cd94f5be7c815063ae6730d59b79fa476dd7",
+    "D3_to_88.sav": "7ae300f815d3402299d4c78ecbaf8e8510733ea783c78c8789abd190bba62b48",
+    "D3_to_99_coherent_digits.sav": "96ba4954ed44e93824cfba8883cc51e27a5579239a056b4a19627b0e56e09835",
+    "D3_to_11.sav": "f99f4276140b6e8c8dafeb42802573b7d90465880941b467cd90fb1b010da730",
+    "D3_to_66.sav": "e471d8680ad66c7881872c75f5a073d84ec9b2ed3d9026bfc1f8218c81616a26",
+    "D3_to_44.sav": "82fc776e16db62b6a7f7bf2b226cb2bd8346f50752526e1fd382eb7a4397ca8a",
+    "D3_to_99.sav": "c96e00e72692b0de80e8f2b4b6e07eec79a2ef52cb1fe608c09e52c263a956bb",
+    "D3_to_22.sav": "84d49049dc22aba9fbba6df18e64b95dd674df936d7d932aa0f133e505584aeb",
+    "D3_to_55.sav": "18d47783b1f73d7a0cb61d99e9ee899f93369ee0d26bff18a705b5b7b90e7b7c",
+    "D3_to_77.sav": "4a12f0fce49d3b61af1f2e1b6c2396f6378442ab89d0828503ecdf96a2a209f8"
+  }
+}

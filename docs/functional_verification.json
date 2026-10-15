@@ -1,0 +1,20 @@
+{
+  "q7_cold_final_normal": {
+    "copies": 2,
+    "payload_exact": true
+  },
+  "q7_cold_final_legacy": {
+    "copies": 2,
+    "payload_exact": true
+  },
+  "q7_cold_exported_hf3": {
+    "copies": 2,
+    "payload_exact": true
+  },
+  "writer_final_vs_probe": "EXACT_WRITE_STREAM_AND_SAVE_IDENTICAL",
+  "reject_partial": "PASS_COLD_BOOT",
+  "reject_corrupt": "PASS_COLD_BOOT",
+  "selective_marker_deletion": "PASS_3_2_1",
+  "reserved_tail_observation": "NO_HF3_ACCESS_BOUNDED_D2_AND_LAFOSS",
+  "corrupt_export_rejected": true
+}

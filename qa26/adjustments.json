@@ -1,0 +1,51 @@
+{
+  "spacing_ids": [
+    "G00:M060",
+    "G01:M025",
+    "G01:M056",
+    "G04:M007",
+    "G04:M020",
+    "G04:M038",
+    "G04:M050",
+    "G04:M061",
+    "G06:M018",
+    "G06:M054",
+    "G06:M063",
+    "G08:M026",
+    "G09:M015",
+    "G09:M044",
+    "G09:M053",
+    "G09:M108",
+    "G09:M151",
+    "G09:M186",
+    "G10:M026",
+    "G10:M032"
+  ],
+  "reflows": {
+    "G00:M044": [
+      "Put the pot in",
+      "a sunny spot."
+    ],
+    "G06:M054": [
+      "The Professor has",
+      "the fourth book."
+    ],
+    "G06:M063": [
+      "The Professor",
+      "has the book."
+    ],
+    "G07:M003": [
+      "A few more things",
+      "will change."
+    ],
+    "G08:M004": [
+      "Could he have",
+      "found a dungeon?"
+    ],
+    "G09:M141": [
+      "So he really",
+      "is a good guy."
+    ]
+  },
+  "excluded": "G02:M009 punctuation-only spacing is deliberate ellipsis; do not compact."
+}

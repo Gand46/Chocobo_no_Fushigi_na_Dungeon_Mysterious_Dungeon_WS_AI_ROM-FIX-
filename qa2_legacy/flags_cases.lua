@@ -1,0 +1,18 @@
+return {
+{name="flags_65_01",id=101,mode="check",flags=1},
+{name="flags_65_02",id=101,mode="check",flags=2},
+{name="flags_65_04",id=101,mode="check",flags=4},
+{name="flags_65_08",id=101,mode="check",flags=8},
+{name="flags_65_10",id=101,mode="check",flags=16},
+{name="flags_65_20",id=101,mode="check",flags=32},
+{name="flags_65_40",id=101,mode="check",flags=64},
+{name="flags_65_80",id=101,mode="check",flags=128},
+{name="flags_9D_01",id=157,mode="check",flags=1},
+{name="flags_9D_02",id=157,mode="check",flags=2},
+{name="flags_9D_04",id=157,mode="check",flags=4},
+{name="flags_9D_08",id=157,mode="check",flags=8},
+{name="flags_9D_10",id=157,mode="check",flags=16},
+{name="flags_9D_20",id=157,mode="check",flags=32},
+{name="flags_9D_40",id=157,mode="check",flags=64},
+{name="flags_9D_80",id=157,mode="check",flags=128},
+}

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "G09:M000",
+    "new_bytes": 26,
+    "old_bytes": 22,
+    "mode": "allocate",
+    "lines": [
+      "Oh, a Chocobo..."
+    ]
+  },
+  {
+    "id": "G09:M002",
+    "new_bytes": 42,
+    "old_bytes": 48,
+    "mode": "inplace",
+    "lines": [
+      "Wh... why is a",
+      "Chocobo here?"
+    ]
+  },
+  {
+    "id": "G09:M009",
+    "new_bytes": 50,
+    "old_bytes": 78,
+    "mode": "inplace",
+    "lines": [
+      "There is a Book here,",
+      "a rare treasure!"
+    ]
+  },
+  {
+    "id": "G09:M011",
+    "new_bytes": 54,
+    "old_bytes": 104,
+    "mode": "inplace",
+    "lines": [
+      "Books start weak, then",
+      "grow as you read."
+    ]
+  },
+  {
+    "id": "G09:M012",
+    "new_bytes": 52,
+    "old_bytes": 58,
+    "mode": "inplace",
+    "lines": [
+      "It is getting late.",
+      "Be careful down there!"
+    ]
+  },
+  {
+    "id": "G09:M015",
+    "new_bytes": 34,
+    "old_bytes": 34,
+    "mode": "inplace",
+    "lines": [
+      "Eh? You just came",
+      "down?"
+    ]
+  },
+  {
+    "id": "G09:M024",
+    "new_bytes": 48,
+    "old_bytes": 46,
+    "mode": "allocate",
+    "lines": [
+      "Got your Talons and",
+      "Saddle equipped?"
+    ]
+  },
+  {
+    "id": "G09:M025",
+    "new_bytes": 46,
+    "old_bytes": 34,
+    "mode": "allocate",
+    "lines": [
+      "They only help when",
+      "you equip them!"
+    ]
+  },
+  {
+    "id": "G09:M030",
+    "new_bytes": 52,
+    "old_bytes": 52,
+    "mode": "inplace",
+    "lines": [
+      "It raises the level of",
+      "Talons and Saddles."
+    ]
+  },
+  {
+    "id": "G09:M039",
+    "new_bytes": 42,
+    "old_bytes": 52,
+    "mode": "inplace",
+    "lines": [
+      "Fuse two Talons or two",
+      "Saddles."
+    ]
+  },
+  {
+    "id": "G09:M043",
+    "new_bytes": 52,
+    "old_bytes": 44,
+    "mode": "allocate",
+    "lines": [
+      "I finally found a pearl,",
+      "but I dropped it."
+    ]
+  },
+  {
+    "id": "G09:M044",
+    "new_bytes": 40,
+    "old_bytes": 32,
+    "mode": "allocate",
+    "lines": [
+      "Oh well. I will find",
+      "another."
+    ]
+  },
+  {
+    "id": "G09:M053",
+    "new_bytes": 36,
+    "old_bytes": 34,
+    "mode": "allocate",
+    "lines": [
+      "Oh, there is Magicite",
+      "too!"
+    ]
+  },
+  {
+    "id": "G09:M059",
+    "new_bytes": 34,
+    "old_bytes": 34,
+    "mode": "inplace",
+    "lines": [
+      "Now that is a rare",
+      "item!"
+    ]
+  },
+  {
+    "id": "G09:M060",
+    "new_bytes": 52,
+    "old_bytes": 60,
+    "mode": "inplace",
+    "lines": [
+      "Oh, do you call",
+      "unusual items rare items?"
+    ]
+  },
+  {
+    "id": "G09:M062",
+    "new_bytes": 56,
+    "old_bytes": 66,
+    "mode": "inplace",
+    "lines": [
+      "You should not go too",
+      "deep into the dungeon."
+    ]
+  },
+  {
+    "id": "G09:M063",
+    "new_bytes": 50,
+    "old_bytes": 32,
+    "mode": "allocate",
+    "lines": [
+      "Do not overdo it.",
+      "Return to the village!"
+    ]
+  },
+  {
+    "id": "G09:M070",
+    "new_bytes": 100,
+    "old_bytes": 72,
+    "mode": "allocate",
+    "lines": [
+      "I was taking it out",
+      "when a monster appeared.",
+      "It got scared and ran",
+      "off somewhere."
+    ]
+  },
+  {
+    "id": "G09:M079",
+    "new_bytes": 52,
+    "old_bytes": 40,
+    "mode": "allocate",
+    "lines": [
+      "Then spread your",
+      "feathers a little more."
+    ]
+  },
+  {
+    "id": "G09:M081",
+    "new_bytes": 54,
+    "old_bytes": 62,
+    "mode": "inplace",
+    "lines": [
+      "Now your feather bag",
+      "holds a few more items."
+    ]
+  },
+  {
+    "id": "G09:M083",
+    "new_bytes": 52,
+    "old_bytes": 40,
+    "mode": "allocate",
+    "lines": [
+      "Then I will take him",
+      "up to the surface."
+    ]
+  },
+  {
+    "id": "G09:M086",
+    "new_bytes": 64,
+    "old_bytes": 50,
+    "mode": "allocate",
+    "lines": [
+      "This came from {Doru},",
+      "the Djungarian hamster."
+    ]
+  },
+  {
+    "id": "G09:M087",
+    "new_bytes": 54,
+    "old_bytes": 46,
+    "mode": "allocate",
+    "lines": [
+      "He sent it to thank",
+      "you for rescuing him."
+    ]
+  },
+  {
+    "id": "G09:M089",
+    "new_bytes": 108,
+    "old_bytes": 90,
+    "mode": "allocate",
+    "lines": [
+      "Blow it and {Doru} will",
+      "bring you an item.",
+      "It comes from",
+      "{Atla's Dresser}."
+    ]
+  },
+  {
+    "id": "G09:M097",
+    "new_bytes": 48,
+    "old_bytes": 46,
+    "mode": "allocate",
+    "lines": [
+      "{Camilla's Dad} is safe,",
+      "but..."
+    ]
+  },
+  {
+    "id": "G09:M108",
+    "new_bytes": 46,
+    "old_bytes": 42,
+    "mode": "allocate",
+    "lines": [
+      "See you. My identity",
+      "is a secret."
+    ]
+  },
+  {
+    "id": "G09:M117",
+    "new_bytes": 56,
+    "old_bytes": 78,
+    "mode": "inplace",
+    "lines": [
+      "I see. The {furnace}",
+      "is powering up!"
+    ]
+  },
+  {
+    "id": "G09:M121",
+    "new_bytes": 54,
+    "old_bytes": 46,
+    "mode": "allocate",
+    "lines": [
+      "I should tell {Rask}",
+      "about this too."
+    ]
+  },
+  {
+    "id": "G09:M135",
+    "new_bytes": 36,
+    "old_bytes": 22,
+    "mode": "allocate",
+    "lines": [
+      "Come on. Let us go",
+      "home."
+    ]
+  },
+  {
+    "id": "G09:M141",
+    "new_bytes": 38,
+    "old_bytes": 34,
+    "mode": "allocate",
+    "lines": [
+      "So he really is a good",
+      "guy."
+    ]
+  },
+  {
+    "id": "G09:M142",
+    "new_bytes": 52,
+    "old_bytes": 36,
+    "mode": "allocate",
+    "lines": [
+      "A lot happens when you",
+      "are with him, huh?"
+    ]
+  },
+  {
+    "id": "G09:M151",
+    "new_bytes": 36,
+    "old_bytes": 30,
+    "mode": "allocate",
+    "lines": [
+      "I came to give you",
+      "this!"
+    ]
+  },
+  {
+    "id": "G09:M159",
+    "new_bytes": 34,
+    "old_bytes": 34,
+    "mode": "inplace",
+    "lines": [
+      "I found another",
+      "flowerpot!"
+    ]
+  },
+  {
+    "id": "G09:M163",
+    "new_bytes": 80,
+    "old_bytes": 64,
+    "mode": "allocate",
+    "lines": [
+      "The Tyrian Crystal",
+      "absorbs people.",
+      "Their wishes form",
+      "dungeons."
+    ]
+  },
+  {
+    "id": "G09:M168",
+    "new_bytes": 54,
+    "old_bytes": 44,
+    "mode": "allocate",
+    "lines": [
+      "It bursts, sending",
+      "copies across the world."
+    ]
+  },
+  {
+    "id": "G09:M172",
+    "new_bytes": 52,
+    "old_bytes": 74,
+    "mode": "inplace",
+    "lines": [
+      "I sought it before it",
+      "took anyone else."
+    ]
+  },
+  {
+    "id": "G09:M177",
+    "new_bytes": 66,
+    "old_bytes": 54,
+    "mode": "allocate",
+    "lines": [
+      "You care about {Atla},",
+      "but like these items too?"
+    ]
+  },
+  {
+    "id": "G09:M185",
+    "new_bytes": 46,
+    "old_bytes": 46,
+    "mode": "inplace",
+    "lines": [
+      "Lately I forgot what",
+      "that duty was."
+    ]
+  },
+  {
+    "id": "G09:M186",
+    "new_bytes": 94,
+    "old_bytes": 98,
+    "mode": "inplace",
+    "lines": [
+      "Someone's heart was",
+      "twisted by the crystal.",
+      "I am that heart's cry",
+      "for help."
+    ]
+  },
+  {
+    "id": "G09:M187",
+    "new_bytes": 82,
+    "old_bytes": 94,
+    "mode": "inplace",
+    "lines": [
+      "I can go between the",
+      "dungeon and the surface.",
+      "But I cannot fight."
+    ]
+  },
+  {
+    "id": "G09:M188",
+    "new_bytes": 50,
+    "old_bytes": 42,
+    "mode": "allocate",
+    "lines": [
+      "My duty is to seek",
+      "someone who can help."
+    ]
+  },
+  {
+    "id": "G09:M189",
+    "new_bytes": 48,
+    "old_bytes": 40,
+    "mode": "allocate",
+    "lines": [
+      "I help you find",
+      "those needing rescue."
+    ]
+  },
+  {
+    "id": "G09:M192",
+    "new_bytes": 96,
+    "old_bytes": 92,
+    "mode": "allocate",
+    "lines": [
+      "{Atla} is asking you",
+      "to save him.",
+      "My role is to help",
+      "you do that."
+    ]
+  }
+]

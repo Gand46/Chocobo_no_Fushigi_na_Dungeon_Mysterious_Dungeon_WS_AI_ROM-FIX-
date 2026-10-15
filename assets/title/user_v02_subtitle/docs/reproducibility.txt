@@ -1,0 +1,2 @@
+PASS: 117 generated files are byte-identical after a second build.
+Linux x86_64; Python 3.12.14; Pillow 12.3.0; NumPy 2.3.5.

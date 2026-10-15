@@ -1,0 +1,49 @@
+{
+  "slot": {
+    "status": "FIXED_PASS_SYNTHETIC_SCOPED",
+    "script_entry": "E0:59B5",
+    "window": 1,
+    "caller": "E0:59BF opcode28 group10hex message40hex",
+    "native_line_limit": 1,
+    "observed_old_nonblank_drop_values": [
+      "00A4",
+      "00CE"
+    ],
+    "new_pages": [
+      "1 Slot Point",
+      "100 Gil",
+      "Exchange Slot Points?"
+    ],
+    "additional_glyph_repair": {
+      "old": [
+        "00E6",
+        "035C",
+        "020B"
+      ],
+      "new": [
+        "00D1",
+        "01A6",
+        "0278"
+      ],
+      "origin": "Reuse S / lo / t-space already rendered in first line of same resource"
+    },
+    "native_loop": "E0:59C2 opcode7B ->59B5 preserved",
+    "natural_reachability": "NOT_VALIDATED",
+    "exchange_transaction": "NOT_VALIDATED"
+  },
+  "storage": {
+    "status": "CANDIDATE_NOT_CONFIRMED",
+    "initializer": "ROM1860AF",
+    "consumer": "ROM188F2C",
+    "forced_index": 53,
+    "native_caller": "NOT_FOUND_IN_BOUNDED_INVESTIGATION",
+    "false_candidate_entry_points": [
+      "11C3: argument of opcode24 at11C2, confirmed by storage_full_native_v2 trace",
+      "5ADD: third byte of opcode11 at5ADB; injected interpretation is invalid",
+      "11BB: operand of preceding jump0F at11B9; diagnostic excluded"
+    ],
+    "claim_of_unreachability": false,
+    "rom_resource_modified": false,
+    "next_action": "Recover a valid caller/state with actual storage list navigation before modifying F00:I053."
+  }
+}

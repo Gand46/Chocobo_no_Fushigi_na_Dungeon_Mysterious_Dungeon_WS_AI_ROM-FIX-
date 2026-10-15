@@ -1,0 +1,170 @@
+{
+  "target_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+  "base_sha256": "831d5778ba5887941235365a4065d8cc090c1a871fbdfc00f398c2b5c0ebc89c",
+  "changed_bytes_vs_hf8": 19,
+  "allowed_ranges": [
+    [
+      "15CAEE",
+      "15CB0A"
+    ],
+    [
+      "15CBA6",
+      "15CBA8"
+    ],
+    [
+      "15CFB0",
+      "15CFB2"
+    ],
+    [
+      "16EA1C",
+      "16EA2C"
+    ],
+    [
+      "1FFFFE",
+      "200000"
+    ]
+  ],
+  "changed_offsets": [
+    "15CAFC",
+    "15CAFE",
+    "15CAFF",
+    "15CB00",
+    "15CB01",
+    "15CB02",
+    "15CB04",
+    "15CB05",
+    "15CB06",
+    "15CBA6",
+    "15CBA7",
+    "15CFB0",
+    "16EA22",
+    "16EA24",
+    "16EA26",
+    "16EA28",
+    "16EA29",
+    "1FFFFE",
+    "1FFFFF"
+  ],
+  "unexpected_changed_offsets": 0,
+  "checksum": "PASS",
+  "runs": {
+    "q12_item_check_fixed": {
+      "cases": 163,
+      "completed": true,
+      "rom_sha256": "831d5778ba5887941235365a4065d8cc090c1a871fbdfc00f398c2b5c0ebc89c",
+      "native_return_and_inventory": "PASS",
+      "four_watched_store_overruns": 0,
+      "persistent_write_range_175AC_17F8F": 0,
+      "distinct_family_counts": {
+        "2": 163,
+        "3": 163,
+        "6": 0,
+        "7": 0
+      }
+    },
+    "q12_property_all_before": {
+      "cases": 49,
+      "completed": true,
+      "rom_sha256": "831d5778ba5887941235365a4065d8cc090c1a871fbdfc00f398c2b5c0ebc89c",
+      "native_return_and_inventory": "PASS",
+      "four_watched_store_overruns": 0,
+      "persistent_write_range_175AC_17F8F": 0,
+      "distinct_family_counts": {
+        "2": 2,
+        "3": 2,
+        "6": 57,
+        "7": 39
+      }
+    },
+    "q12_property_final_hf9": {
+      "cases": 49,
+      "completed": true,
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "native_return_and_inventory": "PASS",
+      "four_watched_store_overruns": 0,
+      "persistent_write_range_175AC_17F8F": 0,
+      "distinct_family_counts": {
+        "2": 2,
+        "3": 2,
+        "6": 57,
+        "7": 39
+      }
+    },
+    "q12_critical_hf9": {
+      "cases": 9,
+      "completed": true,
+      "rom_sha256": "c91c1f57485dac8237724a148e19181a42dfd82cfb6fd3d2661ff9b93ad49284",
+      "native_return_and_inventory": "PASS",
+      "four_watched_store_overruns": 0,
+      "persistent_write_range_175AC_17F8F": 0,
+      "distinct_family_counts": {
+        "2": 3,
+        "3": 3,
+        "6": 4,
+        "7": 3
+      }
+    },
+    "q12_legacy_fused": {
+      "cases": 6,
+      "completed": true,
+      "rom_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+      "native_return_and_inventory": "PASS",
+      "four_watched_store_overruns": 0,
+      "persistent_write_range_175AC_17F8F": 0,
+      "distinct_family_counts": {
+        "2": 1,
+        "3": 1,
+        "6": 0,
+        "7": 3
+      }
+    },
+    "q12_jp_controls": {
+      "cases": 7,
+      "completed": true,
+      "rom_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+      "native_return_and_inventory": "PASS",
+      "four_watched_store_overruns": 0,
+      "persistent_write_range_175AC_17F8F": 0,
+      "distinct_family_counts": {
+        "2": 3,
+        "3": 3,
+        "6": 4,
+        "7": 2
+      }
+    }
+  },
+  "property_image_comparison": {
+    "compared": 147,
+    "changed": [
+      {
+        "image": "prop_6_19_20_f720.png",
+        "changed_bbox": [
+          121,
+          89,
+          216,
+          104
+        ]
+      },
+      {
+        "image": "prop_6_25_26_f720.png",
+        "changed_bbox": [
+          169,
+          89,
+          200,
+          104
+        ]
+      },
+      {
+        "image": "prop_7_01_02_f720.png",
+        "changed_bbox": [
+          89,
+          89,
+          104,
+          102
+        ]
+      }
+    ],
+    "unchanged": 144
+  },
+  "scope": "Synthetic fixtures plus native buttons and renderer. Properties cover all 96 nonzero descriptors in 49 pairs, not all pair combinations or native acquisition. No historical equipment-freeze reproduction; no global layout approval."
+}

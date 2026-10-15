@@ -1,0 +1,28 @@
+{
+  "scope": "Environment diagnostics, excluded from ROM failure counts and PASS evidence",
+  "attempts": [
+    {
+      "run": "title_animation",
+      "result": "EXEC_PERMISSION_ERROR_IN_WORKSPACE",
+      "resolution": "Execute isolated copy from /tmp."
+    },
+    {
+      "run": "title_animation_final",
+      "result": "TRUNCATED_LOCAL_EXECUTABLE_41222144_BYTES",
+      "resolution": "Re-extract complete ZIP member;83367840bytes, expected SHA256 matches."
+    },
+    {
+      "run": "title_animation_valid",
+      "result": "XOpenDisplay_failed_WITHOUT_PORTABLE_SETTINGS",
+      "resolution": "Create settings.json containing{} in isolated Mesen folder. Headless testRunner then completes."
+    },
+    {
+      "result": "APT_PRIVILEGE_SETUP_ERROR",
+      "resolution": "Abandoned; Xvfb was not necessary."
+    }
+  ],
+  "final_runs": [
+    "evidence/qa14_runs/title_portable",
+    "evidence/qa14_runs/title_menu"
+  ]
+}

@@ -1,0 +1,19 @@
+"""Rebuild HF19 and independently regenerate editable QA24 source changes."""
+from pathlib import Path
+import json,os,subprocess,sys
+ROOT=Path(__file__).resolve().parents[1];sys.path.insert(0,str(ROOT))
+from build import build,PATCH_NAME
+from qa24.rebuild_translation_edits import reconstruct
+jp=Path(os.environ['CONTINUITY_INPUT_JP']);out=ROOT/'build';out.mkdir(exist_ok=True)
+rom,bps,result=build(jp.read_bytes())
+(out/'Chocobo_EN_v1.1_HF19_TEST.ws').write_bytes(rom);(out/PATCH_NAME).write_bytes(bps)
+semantic=out/'semantic24';semantic.mkdir(exist_ok=True)
+(semantic/'hf18.ws').write_bytes(reconstruct(jp.read_bytes()))
+subprocess.run([sys.executable,str(ROOT/'qa24/rebuild_getter_edits.py'),'--base-rom',str(semantic/'hf18.ws'),'--out',str(semantic/'getters')],check=True)
+assert json.loads((semantic/'getters/getter_edits.json').read_text())==json.loads((ROOT/'qa24/getter_edits.json').read_text())
+subprocess.run([sys.executable,str(ROOT/'qa24/rebuild_translation_edits.py'),'--japanese-rom',str(jp),'--out',str(semantic)],check=True)
+assert (semantic/'candidate.ws').read_bytes()==rom
+assert json.loads((semantic/'edits.json').read_text())==json.loads((ROOT/'qa24/edits.json').read_text())
+assert (ROOT/'patches'/PATCH_NAME).read_bytes()==bps
+result['editable_regeneration']='PASS_EXACT_ROM_AND_EDITS';(out/'release_build_result.json').write_text(json.dumps(result,indent=2)+'\n')
+print(json.dumps(result,indent=2))

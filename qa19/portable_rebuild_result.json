@@ -1,0 +1,6 @@
+{
+  "status": "PASS_EXACT_ROM_AND_EDITS",
+  "target_sha256": "056c7fa5eec4779ce7c21a07b640fbf7e32c4cc326bd2d462259f80390248a7c",
+  "source": "rebuild_translation_edits.py; translations.json; text_codec.py",
+  "verified_with": "cmp against canonical build and qa19/edits.json"
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "run": "release_menu_empty",
+    "getter_bindings": [
+      "W36/F00:I064",
+      "W36/F00:I065",
+      "W36/F00:I066"
+    ],
+    "story_bindings": [],
+    "scope": "Native consumer trace, no assumed link to G16 labels"
+  },
+  {
+    "run": "release_menu_saved",
+    "getter_bindings": [
+      "W35/F00:I010",
+      "W35/F00:I012",
+      "W36/F00:I064",
+      "W36/F00:I065",
+      "W36/F00:I066",
+      "W37/F00:I073",
+      "W3A/F00:I075",
+      "W3A/F00:I076"
+    ],
+    "story_bindings": [],
+    "scope": "Native consumer trace, no assumed link to G16 labels"
+  },
+  {
+    "run": "release_save_native",
+    "getter_bindings": [
+      "W4F/F05:I063",
+      "W4F/F05:I064",
+      "W4F/F05:I065"
+    ],
+    "story_bindings": [
+      "G09:M000",
+      "G09:M001",
+      "G09:M002",
+      "G09:M003"
+    ],
+    "scope": "Native consumer trace, no assumed link to G16 labels"
+  },
+  {
+    "run": "release_load_saved",
+    "getter_bindings": [
+      "W35/F00:I010",
+      "W35/F00:I012",
+      "W36/F00:I064",
+      "W36/F00:I065",
+      "W36/F00:I066",
+      "W37/F00:I073",
+      "W3A/F00:I075",
+      "W3A/F00:I076"
+    ],
+    "story_bindings": [
+      "G09:M000"
+    ],
+    "scope": "Native consumer trace, no assumed link to G16 labels"
+  }
+]

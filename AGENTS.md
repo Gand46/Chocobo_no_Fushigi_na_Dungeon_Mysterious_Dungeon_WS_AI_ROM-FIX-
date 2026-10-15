@@ -1,0 +1,5 @@
+# Chocobo GitHub source export
+
+Read `PROJECT_CONTEXT.md`, `README.md`, and `docs/SOURCE_PROVENANCE.md` before editing. Verify the packaged inventory using `python3 tools/verify_github_export.py .`; rebuild the active HF20 ROM using a private clean Japanese dump and `python3 qa26/release_build.py`. Never include that ROM, an emulator, BIOS or a personal save in a public commit. The included `.sav` files are controlled project test fixtures/native traces. Publish a cumulative BPS made directly from Japanese CRC32 CCAA4853.
+
+The original formal continuity history, including the full 115,444-file QA26 source inventory, remains in `docs/history/qa26/AGENTS_FULL_CONTINUITY.md` and `docs/history/qa26/CONTINUITY_FULL.json`. This GitHub repository retains all build sources and a selected evidence subset. Older selected native traces are in `support/historical_native_evidence.zip`. Its package manifest verifies the tracked export; it must not be represented as the complete 115,444-file snapshot.

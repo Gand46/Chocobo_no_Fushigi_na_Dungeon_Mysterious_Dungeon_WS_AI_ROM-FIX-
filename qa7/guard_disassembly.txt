@@ -1,0 +1,110 @@
+FA80 9c pushf 
+FA81 60 pushaw 
+FA82 b001 mov al, 1
+FA84 e87800 call 0xfaff
+FA87 61 popaw 
+FA88 9d popf 
+FA89 9a7ac400e0 lcall 0xe000, 0xc47a
+FA8E 9a6c030090 lcall 0x9000, 0x36c
+FA93 9c pushf 
+FA94 60 pushaw 
+FA95 e8a100 call 0xfb39
+FA98 61 popaw 
+FA99 9d popf 
+FA9A cb retf 
+FA9B 9c pushf 
+FA9C 60 pushaw 
+FA9D b002 mov al, 2
+FA9F e85d00 call 0xfaff
+FAA2 61 popaw 
+FAA3 9d popf 
+FAA4 bfb675 mov di, 0x75b6
+FAA7 9a8f030090 lcall 0x9000, 0x38f
+FAAC 9c pushf 
+FAAD 60 pushaw 
+FAAE e88800 call 0xfb39
+FAB1 61 popaw 
+FAB2 9d popf 
+FAB3 cb retf 
+FAB4 31c0 xor ax, ax
+FAB6 813eb0756e5f cmp word ptr [0x75b0], 0x5f6e
+FABC 751c jne 0xfada
+FABE 803eb27563 cmp byte ptr [0x75b2], 0x63
+FAC3 7515 jne 0xfada
+FAC5 803eb37531 cmp byte ptr [0x75b3], 0x31
+FACA 7504 jne 0xfad0
+FACC 0c01 or al, 1
+FACE eb0a jmp 0xfada
+FAD0 803eb37534 cmp byte ptr [0x75b3], 0x34
+FAD5 7503 jne 0xfada
+FAD7 80cc01 or ah, 1
+FADA 813eac75415f cmp word ptr [0x75ac], 0x5f41
+FAE0 751c jne 0xfafe
+FAE2 803eae7543 cmp byte ptr [0x75ae], 0x43
+FAE7 7515 jne 0xfafe
+FAE9 803eaf7531 cmp byte ptr [0x75af], 0x31
+FAEE 7504 jne 0xfaf4
+FAF0 0c02 or al, 2
+FAF2 eb0a jmp 0xfafe
+FAF4 803eaf7534 cmp byte ptr [0x75af], 0x34
+FAF9 7503 jne 0xfafe
+FAFB 80cc02 or ah, 2
+FAFE c3 ret 
+FAFF 88c3 mov bl, al
+FB01 e8b0ff call 0xfab4
+FB04 08c3 or bl, al
+FB06 08e3 or bl, ah
+FB08 c6068b7f00 mov byte ptr [0x7f8b], 0
+FB0D 881e8a7f mov byte ptr [0x7f8a], bl
+FB11 c606b37500 mov byte ptr [0x75b3], 0
+FB16 c606af7500 mov byte ptr [0x75af], 0
+FB1B c3 ret 
+FB1C baffff mov dx, 0xffff
+FB1F beb675 mov si, 0x75b6
+FB22 b9d509 mov cx, 0x9d5
+FB25 3234 xor dh, byte ptr [si]
+FB27 46 inc si
+FB28 b308 mov bl, 8
+FB2A d1e2 shl dx, 1
+FB2C 7304 jae 0xfb32
+FB2E 81f22110 xor dx, 0x1021
+FB32 fecb dec bl
+FB34 75f4 jne 0xfb2a
+FB36 e2ed loop 0xfb25
+FB38 c3 ret 
+FB39 e8e0ff call 0xfb1c
+FB3C 89168c7f mov word ptr [0x7f8c], dx
+FB40 f7d2 not dx
+FB42 89168e7f mov word ptr [0x7f8e], dx
+FB46 f6068a7f01 test byte ptr [0x7f8a], 1
+FB4B 740c je 0xfb59
+FB4D c706b0756e5f mov word ptr [0x75b0], 0x5f6e
+FB53 c706b2756334 mov word ptr [0x75b2], 0x3463
+FB59 f6068a7f02 test byte ptr [0x7f8a], 2
+FB5E 740c je 0xfb6c
+FB60 c706ac75415f mov word ptr [0x75ac], 0x5f41
+FB66 c706ae754334 mov word ptr [0x75ae], 0x3443
+FB6C c6068b7fa5 mov byte ptr [0x7f8b], 0xa5
+FB71 c3 ret 
+FB72 9c pushf 
+FB73 60 pushaw 
+FB74 e83dff call 0xfab4
+FB77 a2b475 mov byte ptr [0x75b4], al
+FB7A 84e4 test ah, ah
+FB7C 7424 je 0xfba2
+FB7E 803e8b7fa5 cmp byte ptr [0x7f8b], 0xa5
+FB83 751d jne 0xfba2
+FB85 3a268a7f cmp ah, byte ptr [0x7f8a]
+FB89 7517 jne 0xfba2
+FB8B 50 push ax
+FB8C e88dff call 0xfb1c
+FB8F 58 pop ax
+FB90 3b168c7f cmp dx, word ptr [0x7f8c]
+FB94 750c jne 0xfba2
+FB96 f7d2 not dx
+FB98 3b168e7f cmp dx, word ptr [0x7f8e]
+FB9C 7504 jne 0xfba2
+FB9E 0826b475 or byte ptr [0x75b4], ah
+FBA2 61 popaw 
+FBA3 9d popf 
+FBA4 cb retf 

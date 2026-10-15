@@ -1,0 +1,54 @@
+{
+  "project": "Chocobo no Fushigi na Dungeon WS Japanese Rev2 -> English v1.1 cumulative patch",
+  "iteration": "HF10-QA14",
+  "started_utc": "2026-10-14T19:10:43+00:00",
+  "packaged_utc": "2026-10-14T19:35:22.760326+00:00",
+  "elapsed_minutes_at_packaging": 24.66,
+  "safety_cap_minutes": 40,
+  "request": "Gestionar legibilidad del logo; separar maquetación y revisión lingüística global y estimar iteraciones.",
+  "base_source_zip_sha256": "a0df81acce6d1249143fbd5a02944de8995e0b2e40ad7a933da038d97c252170",
+  "identity": "manifest.json",
+  "rules": [
+    "WS_TRANSLATION_UNIVERSAL_RULES_v1.5",
+    "PROTOCOLO_EFICIENCIA_TOKENS_PROYECTOS_v1.2",
+    "ingenieria-traduccion-ws"
+  ],
+  "change": "Title-specific native subtitle font; supplied main design preserved. 370 changed bytes in title bitmap/map/checksum only; before/after ranges in src/corrections.json TITLE_ entries.",
+  "text": {
+    "id": "TITLE-SUBTITLE",
+    "expected": "for WonderSwan",
+    "original_reference": "forワンダースワン in supplied JP GIF",
+    "native_region": [
+      65,
+      109,
+      159,
+      121
+    ],
+    "native_glyph_height": 7,
+    "shared_font_modified": false
+  },
+  "dimensions": {
+    "native_integration": "PASS",
+    "main_art_fidelity": "PASS",
+    "scoped_visual_legibility": "PASS_CONTEXT_MASKED_SAME_REVIEWER",
+    "animation_regression": "PASS_1001_FRAMES",
+    "boot_menu": "PASS_SCRIPTED_NATURAL",
+    "global_layout": "NOT_VALIDATED",
+    "global_linguistic": "NOT_VALIDATED",
+    "second_independent_reviewer": "NOT_PERFORMED",
+    "hardware": "NOT_VALIDATED"
+  },
+  "evidence": [
+    "QA14_VALIDATION.json",
+    "QA14_RUN_INDEX.json",
+    "QA14_TITLE_INTEGRATION.json",
+    "../qa14/glyph_review.json",
+    "../qa14/hf10_visible_transcription.json",
+    "QA14_ATTEMPTS.json"
+  ],
+  "patch": "Cumulative BPS against clean JP; build and independent application verified; identity in manifest.",
+  "next_action": "Iteration1 of QA14_PLAN_ITERACIONES.json: complete visible resource/context census and re-estimate.",
+  "pending": "TR-01-M and TR-01-L; QA13 functional acceptance inherited by unchanged non-title code.",
+  "agents_spawned": 0,
+  "token_savings": "NOT_MEASURED"
+}

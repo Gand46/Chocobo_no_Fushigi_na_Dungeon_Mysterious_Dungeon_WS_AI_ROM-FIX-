@@ -1,0 +1,3050 @@
+[
+  {
+    "id": "G00:M000",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_00.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M000/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M001",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_00.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M001/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M002",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_00.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M002/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M003",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_00.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M003/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M004",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_00.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M004/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M005",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Oh, come to think of it... Have you seen my husband?",
+    "reason": "Restaurar transición de recuerdo y referente marido.",
+    "japanese_source_sheet": "qa20/audit_00.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M005/page_01.png",
+      "evidence/qa20_runs/release_G00_M005/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M006",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_00.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M006/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M007",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_00.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M007/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M008",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_00.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M008/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M009",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_00.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M009/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M010",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_01.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M010/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M011",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_01.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M011/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M012",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_01.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M012/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M013",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_01.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M013/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M014",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_01.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M014/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M015",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_01.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M015/page_01.png",
+      "evidence/qa20_runs/release_G00_M015/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M016",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_01.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M016/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M017",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Oh, sorry. The shop is not ready yet.",
+    "reason": "Preparación de tienda, no inexistencia genérica de mercancía.",
+    "japanese_source_sheet": "qa20/audit_01.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M017/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M018",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "With my husband gone, we have nothing to sell.",
+    "reason": "Restaurar causa explícita.",
+    "japanese_source_sheet": "qa20/audit_01.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M018/page_01.png",
+      "evidence/qa20_runs/release_G00_M018/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M019",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_01.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M019/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M020",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_02.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M020/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M021",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I do not know where you got it. Will you sell it to me?",
+    "reason": "No presupone compra previa; restaurar destinataria.",
+    "japanese_source_sheet": "qa20/audit_02.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M021/page_01.png",
+      "evidence/qa20_runs/release_G00_M021/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M022",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_02.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M022/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M023",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_02.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M023/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M024",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_02.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M024/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M025",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Honestly, Dad! Where did you go? We have nothing left to sell.",
+    "reason": "Pérdida visible de out; conservar queja y mercancía agotada.",
+    "japanese_source_sheet": "qa20/audit_02.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M025/page_01.png",
+      "evidence/qa20_runs/release_G00_M025/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M026",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Thanks to all the items you bring back, the shop is doing well.",
+    "reason": "Eliminar ffffff y mejorar sintaxis causal.",
+    "japanese_source_sheet": "qa20/audit_02.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M026/page_01.png",
+      "evidence/qa20_runs/release_G00_M026/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M027",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_02.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M027/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M028",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_02.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M028/page_01.png",
+      "evidence/qa20_runs/release_G00_M028/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M029",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_02.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M029/page_01.png",
+      "evidence/qa20_runs/release_G00_M029/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M030",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_03.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M030/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M031",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Papa was always so quiet and gentle...",
+    "reason": "Otonashii/odayaka: tranquilo y afable, no maduro.",
+    "japanese_source_sheet": "qa20/audit_03.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M031/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M032",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_03.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M032/page_01.png",
+      "evidence/qa20_runs/release_G00_M032/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M033",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_03.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M033/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M034",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_03.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M034/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M035",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_03.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M035/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M036",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_03.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M036/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M037",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I wonder what will happen to {Atla}...",
+    "reason": "Pregunta por destino futuro, no por hecho pasado.",
+    "japanese_source_sheet": "qa20/audit_03.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M037/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M038",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_03.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M038/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M039",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_03.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M039/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M040",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "What an unusual pot!",
+    "reason": "Hachi es maceta, no planta.",
+    "japanese_source_sheet": "qa20/audit_04.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M040/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M041",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_04.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M041/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M042",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_04.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M042/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M043",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_04.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M043/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M044",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Put the pot in a sunny spot.",
+    "reason": "Referente maceta.",
+    "japanese_source_sheet": "qa20/audit_04.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M044/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M045",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Once you decide what to plant, put it in the pot. I will take care of it.",
+    "reason": "Restituir instrucción de introducir semilla y cuidado.",
+    "japanese_source_sheet": "qa20/audit_04.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M045/page_01.png",
+      "evidence/qa20_runs/release_G00_M045/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M046",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_04.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M046/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M047",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "It has sprouted!",
+    "reason": "Brote, no crecimiento completo.",
+    "japanese_source_sheet": "qa20/audit_04.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M047/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M048",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "What a pretty flower!",
+    "reason": "Restituir flor explícita.",
+    "japanese_source_sheet": "qa20/audit_04.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M048/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M049",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_04.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M049/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M050",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_05.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M050/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M051",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_05.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M051/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M052",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_05.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M052/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M053",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_05.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M053/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M054",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_05.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M054/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M055",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Grow it with this?",
+    "reason": "Kore de refiere al insumo, no al lugar.",
+    "japanese_source_sheet": "qa20/audit_05.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M055/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M056",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_05.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M056/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M057",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Your bag is full. Why not store some items?",
+    "reason": "Invitación a depositar fuera, no oferta de servicio local.",
+    "japanese_source_sheet": "qa20/audit_05.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M057/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M058",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_05.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M058/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M059",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_05.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M059/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M060",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I am sorry I put you in danger.",
+    "reason": "Restituir objeto y responsabilidad.",
+    "japanese_source_sheet": "qa20/audit_06.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M060/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M061",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "After showing you the way, I dug up a purple crystal.",
+    "reason": "Dug up preciso, no solo found.",
+    "japanese_source_sheet": "qa20/audit_06.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M061/page_01.png",
+      "evidence/qa20_runs/release_G00_M061/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M062",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_06.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M062/page_01.png",
+      "evidence/qa20_runs/release_G00_M062/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M063",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_06.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M063/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M064",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_06.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M064/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M065",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Every heart has light and darkness. But the darkness must never take over.",
+    "reason": "Restituir prohibición de inversión, no aclarar oscuridad.",
+    "japanese_source_sheet": "qa20/audit_06.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M065/page_01.png",
+      "evidence/qa20_runs/release_G00_M065/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M066",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_06.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M066/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M067",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I am lucky I was saved. And I am sorry.",
+    "reason": "Sujeto salvado, no elogio de habilidad.",
+    "japanese_source_sheet": "qa20/audit_06.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M067/page_01.png",
+      "evidence/qa20_runs/release_G00_M067/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M068",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Now your friend has been possessed.",
+    "reason": "Concordancia temporal.",
+    "japanese_source_sheet": "qa20/audit_06.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M068/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M069",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_06.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M069/page_01.png",
+      "evidence/qa20_runs/release_G00_M069/page_02.png",
+      "evidence/qa20_runs/release_G00_M069/page_03.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M070",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_07.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M070/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M071",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_07.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M071/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M072",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Lately, having a dungeon here has started to feel normal.",
+    "reason": "Naturalidad sin omitir normalización.",
+    "japanese_source_sheet": "qa20/audit_07.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M072/page_01.png",
+      "evidence/qa20_runs/release_G00_M072/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M073",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_07.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M073/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M074",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_07.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M074/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M075",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_07.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M075/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M076",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "No one is possessed, yet the dungeon is still here. How strange.",
+    "reason": "Corregir gone por possessed.",
+    "japanese_source_sheet": "qa20/audit_07.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M076/page_01.png",
+      "evidence/qa20_runs/release_G00_M076/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M077",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_07.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M077/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M078",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_07.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M078/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M079",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_07.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M079/page_01.png",
+      "evidence/qa20_runs/release_G00_M079/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M080",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_08.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M080/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M081",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "No one is possessed, but the dungeon is still there. Why...?",
+    "reason": "Restituir pregunta final.",
+    "japanese_source_sheet": "qa20/audit_08.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M081/page_01.png",
+      "evidence/qa20_runs/release_G00_M081/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M082",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Dungeons grow from the desires of someone. Whose desires could these be...?",
+    "reason": "Separar these are y recuperar expansión.",
+    "japanese_source_sheet": "qa20/audit_08.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M082/page_01.png",
+      "evidence/qa20_runs/release_G00_M082/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G00:M252",
+    "status": "NEEDS_CONTEXT",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_08.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M252/page_01.png"
+    ],
+    "context_limit": "Depuración/variables en estado ajeno: requiere consumidor válido."
+  },
+  {
+    "id": "G00:M253",
+    "status": "NEEDS_CONTEXT",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_08.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M253/page_01.png"
+    ],
+    "context_limit": "Depuración/variables en estado ajeno: requiere consumidor válido."
+  },
+  {
+    "id": "G00:M254",
+    "status": "NEEDS_CONTEXT",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_08.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M254/page_01.png"
+    ],
+    "context_limit": "Depuración/variables en estado ajeno: requiere consumidor válido."
+  },
+  {
+    "id": "G00:M255",
+    "status": "NEEDS_CONTEXT",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_08.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G00_M255/f02400.png"
+    ],
+    "context_limit": "Depuración/variables en estado ajeno: requiere consumidor válido."
+  },
+  {
+    "id": "G01:M000",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_08.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M000/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M001",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_08.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M001/page_01.png",
+      "evidence/qa20_runs/release_G01_M001/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M002",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_08.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M002/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M003",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Huh? If no one knows, the treasure is all ours!",
+    "reason": "Restituir plural de posesión y lógica.",
+    "japanese_source_sheet": "qa20/audit_09.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M003/page_01.png",
+      "evidence/qa20_runs/release_G01_M003/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M004",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_09.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M004/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M005",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_09.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M005/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M006",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I got a room ready for you over here, {Poulet}!",
+    "reason": "Room, no home.",
+    "japanese_source_sheet": "qa20/audit_09.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M006/page_01.png",
+      "evidence/qa20_runs/release_G01_M006/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M007",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_09.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M007/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M008",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_09.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M008/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M009",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_09.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M009/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M010",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Oh, is there anything you want to leave here?",
+    "reason": "Falta m en me; reformular sin pérdida.",
+    "japanese_source_sheet": "qa20/audit_09.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M010/page_01.png",
+      "evidence/qa20_runs/release_G01_M010/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M011",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_09.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M011/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M012",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_09.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M012/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M013",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "If you have lots to store, use the storehouse. I have already spoken to them.",
+    "reason": "Restituir gestión previa del almacén.",
+    "japanese_source_sheet": "qa20/audit_10.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M013/page_01.png",
+      "evidence/qa20_runs/release_G01_M013/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M014",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_10.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M014/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M015",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_10.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M015/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M016",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "So, did anything happen?",
+    "reason": "Falta a en anything.",
+    "japanese_source_sheet": "qa20/audit_10.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M016/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M017",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_10.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M017/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M018",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Orbs and Magicite?",
+    "reason": "Omisión de orbes.",
+    "japanese_source_sheet": "qa20/audit_10.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M018/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M019",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_10.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M019/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M020",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_10.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M020/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M021",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Hmm... First it was {Camilla's Dad}. When we got pushed off, it was {Janita}.",
+    "reason": "Camilla papa es el padre de Camilla; restaurar empujón.",
+    "japanese_source_sheet": "qa20/audit_10.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M021/page_01.png",
+      "evidence/qa20_runs/release_G01_M021/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M022",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_10.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M022/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M023",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_11.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M023/page_01.png",
+      "evidence/qa20_runs/release_G01_M023/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M024",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_11.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M024/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M025",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "The crystal was so pretty. I wondered what it was, then got all confused.",
+    "reason": "Confusión causada, no no recordar por qué.",
+    "japanese_source_sheet": "qa20/audit_11.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M025/page_01.png",
+      "evidence/qa20_runs/release_G01_M025/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M026",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Well, I have said sorry. While I was possessed, I saw an amazing vision.",
+    "reason": "Ayamatta = disculparse, no error.",
+    "japanese_source_sheet": "qa20/audit_11.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M026/page_01.png",
+      "evidence/qa20_runs/release_G01_M026/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M027",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "In the knowledge of that crystal, there were lots of items unknown to us!",
+    "reason": "Knowledge, no conscience.",
+    "japanese_source_sheet": "qa20/audit_11.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M027/page_01.png",
+      "evidence/qa20_runs/release_G01_M027/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M028",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_11.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M028/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M029",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I do not know why, but the mayor was making a fuss.",
+    "reason": "Sujeto alcalde haciendo alboroto, no buscar alcalde.",
+    "japanese_source_sheet": "qa20/audit_11.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M029/page_01.png",
+      "evidence/qa20_runs/release_G01_M029/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M030",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "{Rask} next door seems to be fixing a worn-out machine.",
+    "reason": "Next door, no dirección izquierda inventada.",
+    "japanese_source_sheet": "qa20/audit_11.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M030/page_01.png",
+      "evidence/qa20_runs/release_G01_M030/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M031",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_11.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M031/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M032",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "{Rask} next door seems to be looking for another Card.",
+    "reason": "Vecindad y modalidad.",
+    "japanese_source_sheet": "qa20/audit_11.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M032/page_01.png",
+      "evidence/qa20_runs/release_G01_M032/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M033",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_12.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M033/page_01.png",
+      "evidence/qa20_runs/release_G01_M033/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M034",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "{Poulet}, everyone is amazed by the items you bring back.",
+    "reason": "Restaurar everyone sin glifo perdido.",
+    "japanese_source_sheet": "qa20/audit_12.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M034/page_01.png",
+      "evidence/qa20_runs/release_G01_M034/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M035",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "They are rare and useful. They may change how everyone lives.",
+    "reason": "Posibilidad futura, no pasado consumado.",
+    "japanese_source_sheet": "qa20/audit_12.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M035/page_01.png",
+      "evidence/qa20_runs/release_G01_M035/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M036",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "If we keep selling items, we will become famous too!",
+    "reason": "Juego de palabras fama, no comercializar nombres.",
+    "japanese_source_sheet": "qa20/audit_12.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M036/page_01.png",
+      "evidence/qa20_runs/release_G01_M036/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M037",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_12.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M037/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M038",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_12.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M038/page_01.png",
+      "evidence/qa20_runs/release_G01_M038/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M039",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_12.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M039/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M040",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_12.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M040/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M041",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Wow, this is great!",
+    "reason": "Ii ya positivo, no pregunta despectiva.",
+    "japanese_source_sheet": "qa20/audit_12.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M041/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M042",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_12.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M042/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M043",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_13.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M043/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M044",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_13.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M044/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M045",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "What? You say you are fine? You can handle it?",
+    "reason": "Restituir respuestas referidas del interlocutor.",
+    "japanese_source_sheet": "qa20/audit_13.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M045/page_01.png",
+      "evidence/qa20_runs/release_G01_M045/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M046",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_13.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M046/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M047",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_13.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M047/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M048",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_13.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M048/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M049",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_13.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M049/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M050",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_13.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M050/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M051",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_13.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M051/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M052",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_13.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M052/page_01.png",
+      "evidence/qa20_runs/release_G01_M052/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M053",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Oh, man! No wonder you are all right.",
+    "reason": "Restituir relación explicativa.",
+    "japanese_source_sheet": "qa20/audit_14.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M053/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M054",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "{Poulet}, next time, find a way to get back on your own.",
+    "reason": "Restaurar separación to get.",
+    "japanese_source_sheet": "qa20/audit_14.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M054/page_01.png",
+      "evidence/qa20_runs/release_G01_M054/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M055",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Otherwise...",
+    "reason": "Restituir condicional inacabado.",
+    "japanese_source_sheet": "qa20/audit_14.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M055/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G01:M056",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I am counting on you!",
+    "reason": "Petición, no despedida.",
+    "japanese_source_sheet": "qa20/audit_14.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G01_M056/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G02:M000",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_14.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G02_M000/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G02:M001",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I forgot where I put my precious ring. I am at a loss.",
+    "reason": "Dejar, no dejar caer; valor sentimental y problema.",
+    "japanese_source_sheet": "qa20/audit_14.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G02_M001/page_01.png",
+      "evidence/qa20_runs/release_G02_M001/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G02:M002",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "If only I had an item that could tell me where things are...",
+    "reason": "Localización, no memoria.",
+    "japanese_source_sheet": "qa20/audit_14.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G02_M002/page_01.png",
+      "evidence/qa20_runs/release_G02_M002/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G02:M003",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_14.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G02_M003/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G02:M004",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_14.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G02_M004/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G02:M005",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_14.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G02_M005/page_01.png",
+      "evidence/qa20_runs/release_G02_M005/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G02:M006",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_15.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G02_M006/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G02:M007",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_15.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G02_M007/page_01.png",
+      "evidence/qa20_runs/release_G02_M007/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G02:M008",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_15.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G02_M008/page_01.png",
+      "evidence/qa20_runs/release_G02_M008/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G02:M009",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Thank you very much. ...",
+    "reason": "Gramática y residuo b.",
+    "japanese_source_sheet": "qa20/audit_15.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G02_M009/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M000",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_15.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M000/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M001",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_15.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M001/page_01.png",
+      "evidence/qa20_runs/release_G03_M001/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M002",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_15.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M002/page_01.png",
+      "evidence/qa20_runs/release_G03_M002/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M003",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_15.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M003/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M004",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_15.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M004/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M005",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "A healthy color...",
+    "reason": "Restituir color saludable.",
+    "japanese_source_sheet": "qa20/audit_15.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M005/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M006",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_16.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M006/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M007",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_16.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M007/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M008",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_16.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M008/page_01.png",
+      "evidence/qa20_runs/release_G03_M008/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M009",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_16.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M009/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M010",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "You are going to play in the dungeon with all those strange items, right?",
+    "reason": "Oniichan tratamiento al protagonista, no hermano ausente.",
+    "japanese_source_sheet": "qa20/audit_16.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M010/page_01.png",
+      "evidence/qa20_runs/release_G03_M010/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M011",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_16.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M011/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M012",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Yay! Thank you!",
+    "reason": "Wah confundía alegría; evitar hermano literal no demostrado.",
+    "japanese_source_sheet": "qa20/audit_16.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M012/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G03:M013",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Mom said not to play as a toad so much.",
+    "reason": "No agrega fuentes ausentes en este mensaje.",
+    "japanese_source_sheet": "qa20/audit_16.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G03_M013/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M000",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_16.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M000/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M001",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_16.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M001/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M002",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_17.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M002/page_01.png",
+      "evidence/qa20_runs/release_G04_M002/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M003",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "That lively moogle went to the home of the mayor. I will start an unusual business soon. Come back then!",
+    "reason": "Restituir negocio inusual.",
+    "japanese_source_sheet": "qa20/audit_17.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M003/page_01.png",
+      "evidence/qa20_runs/release_G04_M003/page_02.png",
+      "evidence/qa20_runs/release_G04_M003/page_03.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M004",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_17.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M004/page_01.png",
+      "evidence/qa20_runs/release_G04_M004/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M005",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_17.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M005/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M006",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_17.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M006/page_01.png",
+      "evidence/qa20_runs/release_G04_M006/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M007",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Ahhh! Th-that Card! What is it?",
+    "reason": "La pausa de tartamudeo elimina A en ejecución; reponer interjección legible.",
+    "japanese_source_sheet": "qa20/audit_17.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M007/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M008",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_17.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M008/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M009",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_17.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M009/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M010",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_17.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M010/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M011",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_17.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M011/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M012",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_18.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M012/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M013",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I used the Card without asking.",
+    "reason": "Restituir ausencia de permiso.",
+    "japanese_source_sheet": "qa20/audit_18.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M013/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M014",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_18.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M014/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M015",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_18.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M015/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M016",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_18.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M016/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M017",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "This machine mixes two hoes together to make a new hoe.",
+    "reason": "Kuwa literal: broma de azadas antes de aclarar Talons.",
+    "japanese_source_sheet": "qa20/audit_18.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M017/page_01.png",
+      "evidence/qa20_runs/release_G04_M017/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M018",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_18.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M018/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M019",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Well, to put it simply...",
+    "reason": "Restituir simplificación.",
+    "japanese_source_sheet": "qa20/audit_18.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M019/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M020",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Those Talons you have... Put two in, and they become a new pair.",
+    "reason": "Separación Those Talons y naturalidad de resultado.",
+    "japanese_source_sheet": "qa20/audit_18.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M020/page_01.png",
+      "evidence/qa20_runs/release_G04_M020/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M021",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_18.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M021/page_01.png",
+      "evidence/qa20_runs/release_G04_M021/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M022",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_19.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M022/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M023",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_19.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M023/page_01.png",
+      "evidence/qa20_runs/release_G04_M023/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M024",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_19.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M024/page_01.png",
+      "evidence/qa20_runs/release_G04_M024/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M025",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_19.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M025/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M026",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "It is a secret?",
+    "reason": "Artículo ausente.",
+    "japanese_source_sheet": "qa20/audit_19.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M026/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M027",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_19.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M027/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M028",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_19.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M028/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M029",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_19.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M029/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M030",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_19.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M030/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M031",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I worry about {Camilla's Dad}, but I am curious about the dungeon too.",
+    "reason": "Padre de Camilla; curiosidad, no preocupación por dungeon.",
+    "japanese_source_sheet": "qa20/audit_19.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M031/page_01.png",
+      "evidence/qa20_runs/release_G04_M031/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M032",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_20.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M032/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M033",
+    "status": "NEEDS_CONTEXT",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_20.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M033/page_01.png"
+    ],
+    "context_limit": "Preguntas/precios compuestos: falta ejecutar cada consumidor de forja."
+  },
+  {
+    "id": "G04:M034",
+    "status": "NEEDS_CONTEXT",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_20.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M034/page_01.png"
+    ],
+    "context_limit": "Preguntas/precios compuestos: falta ejecutar cada consumidor de forja."
+  },
+  {
+    "id": "G04:M035",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_20.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M035/page_01.png",
+      "evidence/qa20_runs/release_G04_M035/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M036",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_20.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M036/page_01.png",
+      "evidence/qa20_runs/release_G04_M036/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M037",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_20.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M037/page_01.png",
+      "evidence/qa20_runs/release_G04_M037/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M038",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Nice to meet you! I am {Sania}.",
+    "reason": "Separar presentación y nombre; mantener saludo de primer encuentro.",
+    "japanese_source_sheet": "qa20/audit_20.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M038/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M039",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Thank you for all you do for {Rask}.",
+    "reason": "Invertido agente de ayuda; fórmula de gratitud a interlocutor.",
+    "japanese_source_sheet": "qa20/audit_20.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M039/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M040",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_20.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M040/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M041",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_20.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M041/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M042",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_21.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M042/page_01.png",
+      "evidence/qa20_runs/release_G04_M042/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M043",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_21.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M043/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M044",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_21.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M044/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M045",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_21.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M045/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M046",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "I made this on impulse, but I think you can use it.",
+    "reason": "Restituir acción impulsiva y probabilidad.",
+    "japanese_source_sheet": "qa20/audit_21.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M046/page_01.png",
+      "evidence/qa20_runs/release_G04_M046/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M047",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "It should carry one item somewhere above ground. If it works as planned, it will return to your house.",
+    "reason": "Restituir incertidumbre, cantidad uno y destino planeado.",
+    "japanese_source_sheet": "qa20/audit_21.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M047/page_01.png",
+      "evidence/qa20_runs/release_G04_M047/page_02.png",
+      "evidence/qa20_runs/release_G04_M047/page_03.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M048",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_21.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M048/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M049",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_21.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M049/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M050",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Actually, I upgraded the machine.",
+    "reason": "Mejora, no encendido.",
+    "japanese_source_sheet": "qa20/audit_21.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M050/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M051",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_21.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M051/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M052",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_22.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M052/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M053",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_22.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M053/page_01.png",
+      "evidence/qa20_runs/release_G04_M053/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M054",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_22.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M054/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M055",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_22.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M055/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M056",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_22.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M056/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M057",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "It has been a while! Children grow up so quickly.",
+    "reason": "Saludo omitido y verdad general.",
+    "japanese_source_sheet": "qa20/audit_22.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M057/page_01.png",
+      "evidence/qa20_runs/release_G04_M057/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M058",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_22.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M058/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M059",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_22.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M059/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M060",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Bleh!",
+    "reason": "Burla con lengua, no silencio.",
+    "japanese_source_sheet": "qa20/audit_22.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M060/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M061",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Hey! {Kakia}, come back!",
+    "reason": "Detener huida, no esperar aquí.",
+    "japanese_source_sheet": "qa20/audit_22.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M061/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M062",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Honestly! Who does he take after?",
+    "reason": "Pregunta prepara respuesta Me; no frase rota.",
+    "japanese_source_sheet": "qa20/audit_23.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M062/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M063",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_23.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M063/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M064",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_23.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M064/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M065",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Everyone is safe, but the dungeon remains.",
+    "reason": "Naturalidad y contraste.",
+    "japanese_source_sheet": "qa20/audit_23.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M065/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M066",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "The dungeon keeps my shop in business.",
+    "reason": "Relación causal natural.",
+    "japanese_source_sheet": "qa20/audit_23.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M066/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M067",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_23.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M067/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M068",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_23.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M068/page_01.png",
+      "evidence/qa20_runs/release_G04_M068/page_02.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M069",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_23.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M069/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M070",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "Is it fun?",
+    "reason": "Fun, no funny.",
+    "japanese_source_sheet": "qa20/audit_23.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M070/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M071",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_23.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M071/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M072",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_24.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M072/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M073",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_24.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M073/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M074",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": true,
+    "english_final": "No, you need to have enough money.",
+    "reason": "Requisito jugador, no necesidad del vendedor.",
+    "japanese_source_sheet": "qa20/audit_24.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M074/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G04:M075",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_24.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G04_M075/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G05:M000",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_24.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G05_M000/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G05:M001",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_24.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G05_M001/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G05:M002",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_24.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G05_M002/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  },
+  {
+    "id": "G05:M003",
+    "status": "PASS_SYNTHETIC_REVIEWED_SCOPED",
+    "changed": false,
+    "english_final": null,
+    "reason": "Conservado tras lectura bilingüe y nativa; no se propone corrección en esta fase.",
+    "japanese_source_sheet": "qa20/audit_24.png",
+    "final_images": [
+      "evidence/qa20_runs/release_G05_M003/page_01.png"
+    ],
+    "context_limit": "Selección sintética en motor nativo de dos líneas; no acredita recorrido natural ni todos los interlocutores."
+  }
+]

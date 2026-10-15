@@ -1,0 +1,173 @@
+[
+  {
+    "family": 0,
+    "table": "16E1E0",
+    "entries": 128,
+    "nonempty": 65,
+    "unique_pointers": 128,
+    "word_lengths_max": 14,
+    "words_total": 566
+  },
+  {
+    "family": 1,
+    "table": "16E786",
+    "entries": 12,
+    "nonempty": 12,
+    "unique_pointers": 12,
+    "word_lengths_max": 4,
+    "words_total": 41
+  },
+  {
+    "family": 2,
+    "table": "15AD00",
+    "entries": 256,
+    "nonempty": 216,
+    "unique_pointers": 256,
+    "word_lengths_max": 14,
+    "words_total": 2644
+  },
+  {
+    "family": 3,
+    "table": "16E7F0",
+    "entries": 256,
+    "nonempty": 216,
+    "unique_pointers": 256,
+    "word_lengths_max": 14,
+    "words_total": 1429
+  },
+  {
+    "family": 4,
+    "table": "1EF400",
+    "entries": 256,
+    "nonempty": 256,
+    "unique_pointers": 256,
+    "word_lengths_max": 2,
+    "words_total": 512
+  },
+  {
+    "family": 5,
+    "table": "15C3B2",
+    "entries": 84,
+    "nonempty": 83,
+    "unique_pointers": 84,
+    "word_lengths_max": 22,
+    "words_total": 602
+  },
+  {
+    "family": 6,
+    "table": "15C918",
+    "entries": 58,
+    "nonempty": 57,
+    "unique_pointers": 58,
+    "word_lengths_max": 14,
+    "words_total": 641
+  },
+  {
+    "family": 7,
+    "table": "15CF54",
+    "entries": 40,
+    "nonempty": 39,
+    "unique_pointers": 40,
+    "word_lengths_max": 14,
+    "words_total": 420
+  },
+  {
+    "family": 8,
+    "table": "15D2EC",
+    "entries": 45,
+    "nonempty": 45,
+    "unique_pointers": 45,
+    "word_lengths_max": 14,
+    "words_total": 402
+  },
+  {
+    "family": 9,
+    "table": "16051A",
+    "entries": 72,
+    "nonempty": 71,
+    "unique_pointers": 72,
+    "word_lengths_max": 3,
+    "words_total": 214
+  },
+  {
+    "family": 10,
+    "table": "15D66A",
+    "entries": 72,
+    "nonempty": 71,
+    "unique_pointers": 72,
+    "word_lengths_max": 7,
+    "words_total": 498
+  },
+  {
+    "family": 11,
+    "table": "16F636",
+    "entries": 72,
+    "nonempty": 71,
+    "unique_pointers": 72,
+    "word_lengths_max": 10,
+    "words_total": 671
+  },
+  {
+    "family": 12,
+    "table": "1E439E",
+    "entries": 72,
+    "nonempty": 71,
+    "unique_pointers": 72,
+    "word_lengths_max": 9,
+    "words_total": 421
+  },
+  {
+    "family": 13,
+    "table": "1E2DB2",
+    "entries": 356,
+    "nonempty": 209,
+    "unique_pointers": 356,
+    "word_lengths_max": 15,
+    "words_total": 2445
+  },
+  {
+    "family": 14,
+    "table": "1E47CE",
+    "entries": 112,
+    "nonempty": 100,
+    "unique_pointers": 112,
+    "word_lengths_max": 10,
+    "words_total": 744
+  },
+  {
+    "family": 15,
+    "table": "15CE92",
+    "entries": 10,
+    "nonempty": 4,
+    "unique_pointers": 10,
+    "word_lengths_max": 4,
+    "words_total": 17
+  },
+  {
+    "family": 16,
+    "table": "15CEE8",
+    "entries": 16,
+    "nonempty": 15,
+    "unique_pointers": 16,
+    "word_lengths_max": 2,
+    "words_total": 31
+  },
+  {
+    "family": 17,
+    "table": "19BFC4",
+    "entries": 160,
+    "nonempty": 154,
+    "unique_pointers": 160,
+    "word_lengths_max": 9,
+    "words_total": 846
+  },
+  {
+    "family": 18,
+    "table": "1E4ED6",
+    "entries": 256,
+    "nonempty": 215,
+    "unique_pointers": 256,
+    "word_lengths_max": 3,
+    "words_total": 598
+  }
+]

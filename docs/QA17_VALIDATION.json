@@ -1,0 +1,42 @@
+{
+  "status": "PASS_SYNTHETIC_SCOPED",
+  "checks": 790,
+  "approved_runs": 29,
+  "recorded_runs": 78,
+  "native_frames_approved": 36600,
+  "unique_resources_fixed": 11,
+  "references_fixed": 13,
+  "static_alerts_fixed": 9,
+  "padding_only_alerts": 3,
+  "composite_alert_pending": 1,
+  "variable_cases": 14,
+  "variable_unique_pointers": 7,
+  "variable_references": 9,
+  "credits_pages": 14,
+  "nonblank_dropped_glyphs_approved": 0,
+  "blank_padding_drops_approved": 6,
+  "content_changed_bytes": 203,
+  "checksum_changed_bytes": 2,
+  "independent_bps": "PASS_EXACT_BYTES",
+  "build": {
+    "source_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+    "legacy_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+    "target_sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "bps_sha256": "fa8a91019a1994a060c43c23827ae624b3bfe82c7164390f1e12b1ae9d92516a",
+    "changed_bytes_vs_legacy": 4513,
+    "unexpected_changed_offsets": 0,
+    "checksum": "FA41",
+    "roundtrip": "PASS",
+    "release_hash_verified": true
+  },
+  "global_layout_approved": false,
+  "global_linguistic_approved": false,
+  "remaining_base_iterations": 1,
+  "limitations": [
+    "SAVESTATE/selector/data fixtures; natural reachability not established by these tests.",
+    "FFF8 selector1 uses a ROM-derived prepared buffer fixture.",
+    "Item12 currency composite excluded from generic item-name maximum.",
+    "Global denominator of runtime contexts remains incomplete.",
+    "Historical equipment/Atla/save causes not newly reproduced."
+  ]
+}

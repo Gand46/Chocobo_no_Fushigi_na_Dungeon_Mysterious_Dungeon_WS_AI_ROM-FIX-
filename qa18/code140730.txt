@@ -1,0 +1,69 @@
+
+qa18/private/code140730.bin:     file format binary
+
+
+Disassembly of section .data:
+
+00000730 <.data>:
+ 730:	e7 00                	out    0x0,ax
+ 732:	eb 2f                	jmp    0x763
+ 734:	b0 9a                	mov    al,0x9a
+ 736:	e6 03                	out    0x3,al
+ 738:	c6 06 33 1f 00       	mov    BYTE PTR ds:0x1f33,0x0
+ 73d:	a0 e5 4a             	mov    al,ds:0x4ae5
+ 740:	8a 26 e7 4a          	mov    ah,BYTE PTR ds:0x4ae7
+ 744:	f7 06 1b 73 02 00    	test   WORD PTR ds:0x731b,0x2
+ 74a:	74 02                	je     0x74e
+ 74c:	33 c0                	xor    ax,ax
+ 74e:	e7 12                	out    0x12,ax
+ 750:	a0 a6 1f             	mov    al,ds:0x1fa6
+ 753:	8a 26 a7 1f          	mov    ah,BYTE PTR ds:0x1fa7
+ 757:	f7 06 1b 73 04 00    	test   WORD PTR ds:0x731b,0x4
+ 75d:	74 02                	je     0x761
+ 75f:	24 fd                	and    al,0xfd
+ 761:	e7 00                	out    0x0,ax
+ 763:	b0 10                	mov    al,0x10
+ 765:	e6 b6                	out    0xb6,al
+ 767:	9d                   	popf
+ 768:	5d                   	pop    bp
+ 769:	07                   	pop    es
+ 76a:	1f                   	pop    ds
+ 76b:	5f                   	pop    di
+ 76c:	5e                   	pop    si
+ 76d:	5a                   	pop    dx
+ 76e:	59                   	pop    cx
+ 76f:	5b                   	pop    bx
+ 770:	58                   	pop    ax
+ 771:	cf                   	iret
+ 772:	50                   	push   ax
+ 773:	b0 20                	mov    al,0x20
+ 775:	e6 b6                	out    0xb6,al
+ 777:	58                   	pop    ax
+ 778:	cf                   	iret
+ 779:	90                   	nop
+ 77a:	50                   	push   ax
+ 77b:	53                   	push   bx
+ 77c:	51                   	push   cx
+ 77d:	52                   	push   dx
+ 77e:	56                   	push   si
+ 77f:	57                   	push   di
+ 780:	1e                   	push   ds
+ 781:	06                   	push   es
+ 782:	55                   	push   bp
+ 783:	9c                   	pushf
+ 784:	b8 00 10             	mov    ax,0x1000
+ 787:	8e d8                	mov    ds,ax
+ 789:	80 3e b9 1f 00       	cmp    BYTE PTR ds:0x1fb9,0x0
+ 78e:	75 62                	jne    0x7f2
+ 790:	fe 06 b9 1f          	inc    BYTE PTR ds:0x1fb9
+ 794:	b0 40                	mov    al,0x40
+ 796:	e6 b6                	out    0xb6,al
+ 798:	fb                   	sti
+ 799:	e8 ae de             	call   0xe64a
+ 79c:	e8 f1 dd             	call   0xe590
+ 79f:	9a 60 49 00 50       	call   0x5000:0x4960
+ 7a4:	e8 85 00             	call   0x82c
+ 7a7:	33 c0                	xor    ax,ax
+ 7a9:	8e d8                	mov    ds,ax
+ 7ab:	ff 06 10 05          	inc    WORD PTR ds:0x510
+ 7af:	9a                   	.byte 0x9a

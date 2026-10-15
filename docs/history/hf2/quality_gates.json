@@ -1,0 +1,16 @@
+{
+  "version": "HF2_TEST",
+  "build": "PASS",
+  "bps_roundtrip": "PASS",
+  "independent_bps": "PASS",
+  "checksum": "PASS",
+  "lafoss_no_hang_synthetic": "PASS",
+  "lafoss_full_spell_semantics": "NOT_VALIDATED",
+  "whistle_visual": "FAIL_UNFIXED_INHERITED_TILE_REUSE",
+  "basic_cold_save_load_mesen": "PASS",
+  "late_event_save_integrity": "NOT_VALIDATED",
+  "second_emulator": "NOT_VALIDATED",
+  "hardware": "NOT_VALIDATED",
+  "global_linguistic_visual": "NOT_VALIDATED",
+  "final_approved": false
+}

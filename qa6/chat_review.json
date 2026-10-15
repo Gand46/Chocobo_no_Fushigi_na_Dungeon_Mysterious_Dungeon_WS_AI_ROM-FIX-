@@ -1,0 +1,32 @@
+{
+  "url": "https://chatgpt.com/share/6acebdec-2b5c-83e9-833e-60560c52d788",
+  "title": "Analizar bloqueo de Chocobo",
+  "http_status": 200,
+  "html_sha256": "f951a19a166f585c841a1cfda4ac9f93385764317a874657f773ad5677e07ffd",
+  "visible_messages": 58,
+  "extraction": "Public share HTML hydration data; no authentication or browser storage",
+  "read_scope": "user and assistant final/commentary, text parts; attachments not fetched",
+  "software_crosscheck": {
+    "catalog_count": 10,
+    "ids": [
+      "TR-01",
+      "TR-02",
+      "TR-03",
+      "EN-01",
+      "EN-02",
+      "EN-03",
+      "JP-01",
+      "JP-02",
+      "JP-03",
+      "JP-04"
+    ],
+    "additional_distinct_software_incidents_found": 0,
+    "review_method": "Examined final incident report and software-related passages across all 58 extracted user/final/commentary text messages",
+    "limitations": "Some plugin output in the share is redacted; image attachments and linked files were not re-downloaded. No claim to have inspected inaccessible plugin output.",
+    "updated_conclusions": [
+      "QA5 CRC32 difference explained by two ROM checksum bytes; no evidence for another English translation variant",
+      "Hardware cause closed by user; historical suspicion scores are not current diagnostic evidence",
+      "Report mentions save loss, not demonstrated erasure of ROM flash"
+    ]
+  }
+}

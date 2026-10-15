@@ -1,0 +1,26 @@
+{
+  "rom_sha256": "f27e69f65e134b161c1f3ce263c3ed78a8ae247997c95d7383c43c4a78c8962f",
+  "status": "STATIC_TRIAGE_ONLY_NOT_GLOBAL_VISUAL_APPROVAL",
+  "story_entries": 3488,
+  "story_literal_resources": 886,
+  "getter_entries": 2333,
+  "window_presets": 141,
+  "risk_counts": {
+    "NONE": 640,
+    "BALANCE_REVIEW": 99,
+    "PADDING_ONLY": 147
+  },
+  "dynamic_literal_resources": 9,
+  "raw_over_13": [
+    "G01:M031",
+    "G06:M022"
+  ],
+  "visible_over_13": [],
+  "unbound_getters_nominal_over_208px": 5,
+  "limitations": [
+    "Balance is an editorial heuristic. Short trailing lines, names and deliberate pauses are not errors by count alone.",
+    "FFF2 is a pause and does not necessarily clear the native window.",
+    "Dynamic substitutions and shared/composed getter consumers need native runtime window traces.",
+    "Static counts do not establish natural scene reachability, legibility, or actual on-screen margins."
+  ]
+}

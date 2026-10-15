@@ -1,0 +1,7 @@
+{
+  "id": "LAFOSS_LAST_PEARLS_EFFECT",
+  "offset": "0x1EA771",
+  "before": "fe00",
+  "after": "0001",
+  "reason": "Complete native F0..FF pearl interval. F26B/F29A initializes 16 magic bits; CA3E already implements FE bit0002 and FF bit0001 at native base damage1000; old cmp DX,00FE bypasses both."
+}

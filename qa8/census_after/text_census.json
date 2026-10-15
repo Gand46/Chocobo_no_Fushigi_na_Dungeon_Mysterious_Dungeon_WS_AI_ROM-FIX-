@@ -1,0 +1,8 @@
+{
+  "families": 19,
+  "entries": 2333,
+  "cross_slot_candidates": [],
+  "scope": "Native getter descriptor families only; slot end inferred from next distinct pointer; candidates are not automatic defects or a global layout PASS.",
+  "japanese_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+  "translated_sha256": "312f688f627f0c5ccf430c35c9632033344fc0397aa25c6f0db9d99a3630f9c8"
+}

@@ -1,0 +1,10 @@
+{
+  "method": "SYNTHETIC_SAVE_FROM_NATIVE_DUNGEON_PAYLOAD",
+  "source": "dungeon1_before_2.sav",
+  "source_sha256": "1347834f0b347abfe784d00e80258ae62741dfd2f4a954be9a757084ea5ac908",
+  "dungeon": 3,
+  "current_floor": 98,
+  "resume_destination": 99,
+  "sha256": "eed34caf6b950715db8b0f550825e5e090a3e6ab69c11b840b3156202a3ace68",
+  "story_flags": "early-game fixture, not natural progression"
+}

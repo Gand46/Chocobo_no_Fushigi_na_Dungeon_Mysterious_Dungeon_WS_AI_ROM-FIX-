@@ -1,0 +1,20 @@
+family,role,basis,global_visual_pass
+0,UI labels and shared-tail resources,RUNTIME_F00_WITH_LIMITED_WINDOWS,False
+1,commands/labels,RUNTIME_F01_WINDOW21,False
+2,item descriptions,RUNTIME_F02_WINDOW05,False
+3,item names,RUNTIME_F03_WINDOW04,False
+4,icon descriptors,STATIC_WORD_CLASSES_AND_CONSUMER_CALLS,False
+5,UI/mixed labels,STATIC_ONLY_CONTEXT_PENDING,False
+6,talon properties,INHERITED_QA10_QA12,False
+7,saddle properties,INHERITED_QA10_QA12,False
+8,UI/action mixed labels,STATIC_ONLY_CONTEXT_PENDING,False
+9,numeric label resources,STATIC_ONLY_CONTEXT_PENDING,False
+10,short text labels and padding,STATIC_ONLY_CONTEXT_PENDING,False
+11,names and padding,STATIC_ONLY_CONTEXT_PENDING,False
+12,names,STATIC_ONLY_CONTEXT_PENDING,False
+13,short descriptive strings,STATIC_ONLY_CONTEXT_PENDING,False
+14,name-like resources,UNKNOWN_EXACT_CONTEXT,False
+15,four nonempty special text resources,UNKNOWN_EXACT_CONTEXT,False
+16,icon descriptors,STATIC_WORD_CLASSES,False
+17,short labels,UNKNOWN_EXACT_CONTEXT,False
+18,numeric resources,STATIC_GLYPH_CHECK_CONTEXT_PENDING,False

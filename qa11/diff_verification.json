@@ -1,0 +1,27 @@
+{
+  "base_sha256": "116cd3df2828e97c890049619f6f43bf10102490f0c709a3dc836ec54a6a065a",
+  "target_sha256": "831d5778ba5887941235365a4065d8cc090c1a871fbdfc00f398c2b5c0ebc89c",
+  "changed_bytes_vs_hf7": 2368,
+  "allowed_ranges_half_open": [
+    [
+      "0x150032",
+      "0x1501b7"
+    ],
+    [
+      "0x155155",
+      "0x156b05"
+    ],
+    [
+      "0x15fd58",
+      "0x160000"
+    ],
+    [
+      "0x1ffffe",
+      "0x200000"
+    ]
+  ],
+  "unexpected_changed_offsets": [],
+  "animation_tiles_byte_identical": true,
+  "native_title_executable_and_gameplay_outside_title_assets": "BYTE_IDENTICAL",
+  "new_rom_bytes": 2097152
+}

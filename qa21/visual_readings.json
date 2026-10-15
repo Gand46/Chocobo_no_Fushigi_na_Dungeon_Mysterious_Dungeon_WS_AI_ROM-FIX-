@@ -1,0 +1,2558 @@
+[
+  {
+    "id": "G06:M000",
+    "run": "verified_G06_M000",
+    "image": "page_01.png",
+    "sha256": "0f52d9b072db502e52313de56470f597b7e05870079342883e27f98413b3bc0e",
+    "pixel_sha256": "4ffd8069dccbe0e6b5ebc7c280331d2d89adcfc3a79d5b9bf9b2e2a6008af0a6",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M000/page_01.png"
+  },
+  {
+    "id": "G06:M001",
+    "run": "verified_G06_M001",
+    "image": "page_01.png",
+    "sha256": "1c1643258895800b394e09f4f0c9b76a6e99c5df79785660f6efba10afc4d420",
+    "pixel_sha256": "5d8cc46d59944296d47e2faba03e27b5b9546b46adc8eb02216becd462279e92",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M001/page_01.png"
+  },
+  {
+    "id": "G06:M001",
+    "run": "verified_G06_M001",
+    "image": "page_02.png",
+    "sha256": "f04906744e362bcb1f47379095bc7b4b2bbbef4fd83cfeb47f14a41384653c2a",
+    "pixel_sha256": "d6085274018946dc30e76734814a51c731b35fa7817c38dcd76504f1de4a2db0",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M001/page_02.png"
+  },
+  {
+    "id": "G06:M002",
+    "run": "verified_G06_M002",
+    "image": "page_01.png",
+    "sha256": "895ea7712008b56000e8930132e7f4aacc069c5e59a533709b289446025c3757",
+    "pixel_sha256": "e16bb336370cdcbb989f6a538517f1bedffdcae28a647fe242a04bfbaa19b059",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M002/page_01.png"
+  },
+  {
+    "id": "G06:M003",
+    "run": "verified_G06_M003",
+    "image": "page_01.png",
+    "sha256": "123f11de55b532eec3e3b4d5593e470241a385d5821291517f02777da2ef12ff",
+    "pixel_sha256": "508d029390630fbfa6e5a893fd4f9110082d224e678c7dbf0e08a195a1dba078",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M003/page_01.png"
+  },
+  {
+    "id": "G06:M003",
+    "run": "verified_G06_M003",
+    "image": "page_02.png",
+    "sha256": "85265d2a564815a324a59d1467822cf3f68be1ebf01a9e838f186e2c82fc2f2d",
+    "pixel_sha256": "69321b4e9c56e815e8e05b032f12dd7f0def26df89d0008adf956287fbcd86e9",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M003/page_02.png"
+  },
+  {
+    "id": "G06:M004",
+    "run": "verified_G06_M004",
+    "image": "page_01.png",
+    "sha256": "9c8d763f2d74bdc93360b3d905e95a5b65a7d34b96709cae5a25fe3f79f0e912",
+    "pixel_sha256": "a1c95a6901aa14df3fa50a7d8a7985a18e829fc0e8eb0b2c0c57f393d169748c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M004/page_01.png"
+  },
+  {
+    "id": "G06:M004",
+    "run": "verified_G06_M004",
+    "image": "page_02.png",
+    "sha256": "c2029b0a482b91ab9840075782740b1c0ff90be94fc520092fb166f399dde6ed",
+    "pixel_sha256": "9ffb997ce2f74bd6d350ab4cf51b6070f239dc7666ba74ca5b1db00a8bfca7b3",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M004/page_02.png"
+  },
+  {
+    "id": "G06:M005",
+    "run": "verified_G06_M005",
+    "image": "page_01.png",
+    "sha256": "4905ece5d8427791ef9e7b996e2d829dd1d8207f4c7057bebb30293263b68a3f",
+    "pixel_sha256": "3bdf7136711c4c471cd18d9ced7c1696ff6abaafedaa3d780eb8556b41b1fa8b",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M005/page_01.png"
+  },
+  {
+    "id": "G06:M006",
+    "run": "verified_G06_M006",
+    "image": "page_01.png",
+    "sha256": "d573317baaec8a1f73ecfb956af8319c5baa9703fc73c0477cc0fd97c555d6dc",
+    "pixel_sha256": "63e597e6bc26e0126e98cef20e5f5ccb4039362ddf98ae2813700f6fdbb11632",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M006/page_01.png"
+  },
+  {
+    "id": "G06:M006",
+    "run": "verified_G06_M006",
+    "image": "page_02.png",
+    "sha256": "4715549e03d202fe24b16e8054fc256ff0e632e78ba54a0a74f02a46361279e1",
+    "pixel_sha256": "2d34706a0d14521a480f5b4257d0aa2d6936e449e21c6b74aa0f0a633cbd127f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M006/page_02.png"
+  },
+  {
+    "id": "G06:M007",
+    "run": "verified_G06_M007",
+    "image": "page_01.png",
+    "sha256": "8e9edb2c93c2006c9e85ca65b7260cf6c2b7437eb8fb8376843de7b01b1223f4",
+    "pixel_sha256": "f218c382c06cbfae725f9d5fe712b1c47bfc2cd551e2a7c53bbb41599ad5e9f4",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M007/page_01.png"
+  },
+  {
+    "id": "G06:M007",
+    "run": "verified_G06_M007",
+    "image": "page_02.png",
+    "sha256": "d8312effe70e8515141d4500550bb2d283556a427e78671a84cfdd81a95f67e8",
+    "pixel_sha256": "1a2ca85d2bc358d28102a4543fa6b730633d3b64e410ed924993c205688ce389",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M007/page_02.png"
+  },
+  {
+    "id": "G06:M008",
+    "run": "verified_G06_M008",
+    "image": "page_01.png",
+    "sha256": "bc877680f4ae1caf959f408e3f95ff3d09c761ebc56191b8d1e631caf688b315",
+    "pixel_sha256": "980066fadf5139b5b03d305fe2122f4c24ad5c7e290a5d8da83c12dc56bff209",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M008/page_01.png"
+  },
+  {
+    "id": "G06:M009",
+    "run": "verified_G06_M009",
+    "image": "page_01.png",
+    "sha256": "9bfb88c2f8562938f027177cb92a8cf57c61e8f0a8a030bde0035a3ba01ebf62",
+    "pixel_sha256": "6d663ea8774c6fed7588b7bdfa39b1ddf86b13cb1d3b10ea518705c9a07d162c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M009/page_01.png"
+  },
+  {
+    "id": "G06:M010",
+    "run": "verified_G06_M010",
+    "image": "page_01.png",
+    "sha256": "c8c90b3354d8bf7b4b0d58133dc66007593cfe652bcd2d29668f97d200178c99",
+    "pixel_sha256": "7f720289c1a7a13f836074e183bb4497879c1b2343d8b54243a650fd4ca104b7",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M010/page_01.png"
+  },
+  {
+    "id": "G06:M010",
+    "run": "verified_G06_M010",
+    "image": "page_02.png",
+    "sha256": "a67fb9a22f97698e91b306598188250bcbaeccac7dffd24b393d01844d333923",
+    "pixel_sha256": "97e2ada4a39dd7e4c56995f1006fa0c7480029ad34d9f8c4767c432379070742",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M010/page_02.png"
+  },
+  {
+    "id": "G06:M011",
+    "run": "verified_G06_M011",
+    "image": "page_01.png",
+    "sha256": "2bf0bb47f479dc0e4c87f939d240af1e8af16cc21bc982107b83e39b829ec88e",
+    "pixel_sha256": "53cd030d689f582453a80cc33c3cff264d49603da8a2b2bac640414f5e6589c3",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M011/page_01.png"
+  },
+  {
+    "id": "G06:M012",
+    "run": "verified_G06_M012",
+    "image": "page_01.png",
+    "sha256": "7d3e1ddf8455121dbc9cc36482225ac57d005dfcabdbed00f8d0bfb26867df3b",
+    "pixel_sha256": "d755bc1cf602f421befb172b273587037a045cb0d4a07f7b7c154734a506420c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M012/page_01.png"
+  },
+  {
+    "id": "G06:M012",
+    "run": "verified_G06_M012",
+    "image": "page_02.png",
+    "sha256": "06052768c3c4c2aced3a2a7465deb93248d971248d7a948b609995eeef1b5bf6",
+    "pixel_sha256": "e77d3b06f8d85c811d6f21add683daf8a0bbd18211221535ed30f66d85a9d61c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M012/page_02.png"
+  },
+  {
+    "id": "G06:M013",
+    "run": "verified_G06_M013",
+    "image": "page_01.png",
+    "sha256": "426d414f23c59af167d89b810fc0f07a9fd10cf1106a841bb4c11ec2491dfdf2",
+    "pixel_sha256": "7d67a037510e93a0cf391db3f62f891b599c5231b8f3edc7ea21074b8de2ff58",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M013/page_01.png"
+  },
+  {
+    "id": "G06:M013",
+    "run": "verified_G06_M013",
+    "image": "page_02.png",
+    "sha256": "e8fcc07faa8198e554a0a0f6d4d3ed07c4674e5449c9d9f67b5e92c68d4a4549",
+    "pixel_sha256": "8fe3526070701f7269ccf3d9ad3da49698b900075698c80018b5e12afb07e24a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M013/page_02.png"
+  },
+  {
+    "id": "G06:M014",
+    "run": "verified_G06_M014",
+    "image": "page_01.png",
+    "sha256": "1f18243579171e7ccf14381febbe5b56e2e9edf4e4092d436881dd5d9662421a",
+    "pixel_sha256": "27fcd0d8a335636d25c647b43c322f3a84b938b93b7a26ffe84e40f7439981fa",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M014/page_01.png"
+  },
+  {
+    "id": "G06:M015",
+    "run": "verified_G06_M015",
+    "image": "page_01.png",
+    "sha256": "592b78ac8ba7e73f71b4853d08144e0392c218c2efa033125fc87f709da32087",
+    "pixel_sha256": "882e28a8e88f8656b31a76ee48bd428069919b2b0b54e83f1307becf5208c1b2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M015/page_01.png"
+  },
+  {
+    "id": "G06:M016",
+    "run": "verified_G06_M016",
+    "image": "page_01.png",
+    "sha256": "77661b598c7b2d4d1c63faab747c7d61a1e7b360307e0e04c07df08444213a60",
+    "pixel_sha256": "b65295bfdd5dccb8a0d1eff6d8f0b9f5de43c081bfb1ccaa1eb0d85f1085c007",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M016/page_01.png"
+  },
+  {
+    "id": "G06:M016",
+    "run": "verified_G06_M016",
+    "image": "page_02.png",
+    "sha256": "582ca98cf1ef5609c9be5d2300100d5a1fa00f3f6b5713aa39c8506511fe59a6",
+    "pixel_sha256": "62a843478f98e9ab762a9b5c77e1e4a290fc94fa52dca3de9cc30b2b9aa3a464",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M016/page_02.png"
+  },
+  {
+    "id": "G06:M017",
+    "run": "verified_G06_M017",
+    "image": "page_01.png",
+    "sha256": "1f4909ade33e5d6c2969ecb265d3c2fde593cf5a9994c936718483f50a595446",
+    "pixel_sha256": "c8ea43c07cc36c7e4a5fbe6d3dc0114e421ebf0954f4b5a92ee28aaa348350bb",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M017/page_01.png"
+  },
+  {
+    "id": "G06:M018",
+    "run": "verified_G06_M018",
+    "image": "page_01.png",
+    "sha256": "38ce145cba93fe276fec064e359f3a652d5eedb685475702a9e3771a5a60cb3b",
+    "pixel_sha256": "43809f50c29cab3575b833fc6e9e0acf39d23a53141d4936f318b88707978a05",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M018/page_01.png"
+  },
+  {
+    "id": "G06:M019",
+    "run": "verified_G06_M019",
+    "image": "page_01.png",
+    "sha256": "0e356b6c751636d0639c65f60c1189a72d3fa9d81db0e51aeb55ab954c42b2b3",
+    "pixel_sha256": "5dde869db557cc31a42e5160cd58db26f4f7fe69dad3b5d93aa37567e6a4061e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M019/page_01.png"
+  },
+  {
+    "id": "G06:M019",
+    "run": "verified_G06_M019",
+    "image": "page_02.png",
+    "sha256": "22bca5e01b645dfb0862087951a2ef1cfcc280b39cc01468bc447b1cedeb3fe5",
+    "pixel_sha256": "a34fb3192d26c1783eeddec054f45fcca7970c10cc276205fd4eaa8dd6eab18c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M019/page_02.png"
+  },
+  {
+    "id": "G06:M020",
+    "run": "verified_G06_M020",
+    "image": "page_01.png",
+    "sha256": "5f88a9a434d4fa471cc8b695a482273cde913fd508ee82ba02a9cff601cc03bc",
+    "pixel_sha256": "4e26c15ade40521d6ec4f2bce0358b1a97c580dfc288e999f92e849e3ae456cd",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M020/page_01.png"
+  },
+  {
+    "id": "G06:M021",
+    "run": "verified_G06_M021",
+    "image": "page_01.png",
+    "sha256": "d1dca536cfa9bbd87ca3854552ff649e38dc70867902a2558922940a919b505b",
+    "pixel_sha256": "3ae1c7e4c0f99c71d0681970858d57099e4ceefed4ef81a77f6928d360087c48",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M021/page_01.png"
+  },
+  {
+    "id": "G06:M022",
+    "run": "verified_G06_M022",
+    "image": "page_01.png",
+    "sha256": "6316f2e6e475dc30d3789837431158cfc81b12f4aac1facdaa8abacc4cdcaa6d",
+    "pixel_sha256": "90e396bf0ff5a1f9f1ffdc7bcef24f5b0a658def39a968ebc136233e4bb43a26",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M022/page_01.png"
+  },
+  {
+    "id": "G06:M023",
+    "run": "verified_G06_M023",
+    "image": "page_01.png",
+    "sha256": "934ee4d3db1f656066dfd06f265aba763e85e7cb5b637b4c29880d6ba0841c60",
+    "pixel_sha256": "8598b802153fb6ae81c3e84efedf2fc187f21755d40ae8d0d28a5fb2469e6164",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M023/page_01.png"
+  },
+  {
+    "id": "G06:M024",
+    "run": "verified_G06_M024",
+    "image": "page_01.png",
+    "sha256": "6219cfc28a9d5a074c7b20442d39146fdc7a590c63b9522e61b1dacdbe993ed5",
+    "pixel_sha256": "1cc65d95974e1c08a669dd9814d0960356f3ab0ef3aa3c7ecc9123679e239f41",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M024/page_01.png"
+  },
+  {
+    "id": "G06:M025",
+    "run": "verified_G06_M025",
+    "image": "page_01.png",
+    "sha256": "058a0e41c71e4381d1c6bda3203c4aedd7e3f3d45b87e4f3b6817e5ed308a48a",
+    "pixel_sha256": "37a1bd985a97c0e84b7501a39284c047546384083ce50fe81a154167896600b9",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M025/page_01.png"
+  },
+  {
+    "id": "G06:M026",
+    "run": "verified_G06_M026",
+    "image": "page_01.png",
+    "sha256": "0f5fb0fe770d26da79b66759c3d01619e85af4dd5b764ef4b807e722a2ad44f8",
+    "pixel_sha256": "ed9470e1d0e4478c289d6c2850343fe954157531c78b185f8ed7400be49f1521",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M026/page_01.png"
+  },
+  {
+    "id": "G06:M027",
+    "run": "verified_G06_M027",
+    "image": "page_01.png",
+    "sha256": "6cb3dbf472d2a080fb77baf132c00d338325d20ae2e9e1ec378a1abf5f608a54",
+    "pixel_sha256": "cf9a826298770f14d4ddfab307a0fe69526e9abb698ef88971d98476165a0320",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M027/page_01.png"
+  },
+  {
+    "id": "G06:M028",
+    "run": "verified_G06_M028",
+    "image": "page_01.png",
+    "sha256": "ce3daac083b1933831d2e30a8cbcdb3bbacbbfe6884e7606c38a66c6922aa474",
+    "pixel_sha256": "81a2b23ee6a85ac80c6c079f2238cc598051767d74c28bf3e804d33907d72892",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M028/page_01.png"
+  },
+  {
+    "id": "G06:M029",
+    "run": "verified_G06_M029",
+    "image": "page_01.png",
+    "sha256": "f8f37f5728befdf4d6e8648fcd73788cdf1d4d7fa2e3a9e9eb980354933e04a1",
+    "pixel_sha256": "1615cbd2efce224e11f3ccb21f6048105def88d871edf27b9c2e962d4e5adca6",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M040/page_01.png"
+  },
+  {
+    "id": "G06:M030",
+    "run": "verified_G06_M030",
+    "image": "page_01.png",
+    "sha256": "dce0269884d62efccbc18501ec336dfd9e403fb896cb8d3205a396726920536e",
+    "pixel_sha256": "da467a42e589b8d8116fc82a0b00903fd0e6ee68a2bd4f62c4012eb78445cbd9",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M030/page_01.png"
+  },
+  {
+    "id": "G06:M030",
+    "run": "verified_G06_M030",
+    "image": "page_02.png",
+    "sha256": "2b0a026618cbb03d0765002cd7da791fae1049a002d277d479ed3e4c814b593d",
+    "pixel_sha256": "1eff4d3f3dd3dd0b99b2229ebf0393cf932da14973797a3d45a13aaf9308c4e2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M030/page_02.png"
+  },
+  {
+    "id": "G06:M031",
+    "run": "verified_G06_M031",
+    "image": "page_01.png",
+    "sha256": "e283d3275691f985671bec581916855b8d399b3868e8d8bdbcd82b8cdcb3a582",
+    "pixel_sha256": "f84417c3c3e385e3107c051cd39cb73b128c0e9c4ddb0c2dfe77e9b836c94c66",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M031/page_01.png"
+  },
+  {
+    "id": "G06:M032",
+    "run": "verified_G06_M032",
+    "image": "page_01.png",
+    "sha256": "b228d304772e3726073589746f7eca368f0d613fd084192b7d362f761db3d23a",
+    "pixel_sha256": "2250186054f8e2b57a5bc3402f80cb9b2533547ebcdb1d95688be778013d2e61",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M032/page_01.png"
+  },
+  {
+    "id": "G06:M032",
+    "run": "verified_G06_M032",
+    "image": "page_02.png",
+    "sha256": "b83e0e5cca536efa9b5f26afdfb14d480e2693362cfb690987b11bc9b8eb3f2d",
+    "pixel_sha256": "351eba471175e727c6870489d0ddbe5f0ed48bc73de1e9913b037991ad1388a1",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M032/page_02.png"
+  },
+  {
+    "id": "G06:M032",
+    "run": "verified_G06_M032",
+    "image": "page_03.png",
+    "sha256": "0e1559c008fb7ffb39d0c47392fad1c1e6ddf9daa227293873efc4a039f086ec",
+    "pixel_sha256": "30016a2a968b20112f614c81378ffcc00a98ae97b6e46c5b68de3729b18fa24e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M032/page_03.png"
+  },
+  {
+    "id": "G06:M033",
+    "run": "verified_G06_M033",
+    "image": "page_01.png",
+    "sha256": "3e04b716beb55402540606639fb166fc3fd2efe17545730b143027c66b928a13",
+    "pixel_sha256": "8be16ef80c340b1348ac23dc311f220b7ec23442461221c9c570c6fda87f66c1",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M033/page_01.png"
+  },
+  {
+    "id": "G06:M033",
+    "run": "verified_G06_M033",
+    "image": "page_02.png",
+    "sha256": "31a4ab7434dbffe93360a671e401ad6c5b88fff0c07e46eaec9476d11c39b812",
+    "pixel_sha256": "076090fbde79ecf3a7097639ed8a8e3ad98721daed54c605ef8529c2d41308a7",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M033/page_02.png"
+  },
+  {
+    "id": "G06:M034",
+    "run": "verified_G06_M034",
+    "image": "page_01.png",
+    "sha256": "a69a86d3970122150c2e753c4ed2cfa9c7afbde8a6fc5b84d61bb0a9d3889e44",
+    "pixel_sha256": "1e883c399ba04b9f4b2751891857ec1f60badda2f5f2429361f76088cf46679f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M034/page_01.png"
+  },
+  {
+    "id": "G06:M035",
+    "run": "verified_G06_M035",
+    "image": "page_01.png",
+    "sha256": "99ca70b1b2f444bb9ab887840d480a6b5c736809363c5d8189cf67ada4eb4103",
+    "pixel_sha256": "4a2057d35926accad586bcdafddbf6c0574fdffd0ead31a966cc559ad4bfc245",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M035/page_01.png"
+  },
+  {
+    "id": "G06:M036",
+    "run": "verified_G06_M036",
+    "image": "page_01.png",
+    "sha256": "8e27d19707b8b852fd86d828f50ef2c485579bc0fe499ab147097b0d7896f7b2",
+    "pixel_sha256": "69d74bf3250de302d8db934bd7a833a964fcba52d1b4fafd429da788862d001f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M036/page_01.png"
+  },
+  {
+    "id": "G06:M036",
+    "run": "verified_G06_M036",
+    "image": "page_02.png",
+    "sha256": "3fff5ac21e0de8b18604c579ad890d7a944b7d790cae7d55cfb70e0602bd6cd5",
+    "pixel_sha256": "4cb86ca0f0e9503660909e3e753c62ed017f7baf9a1dbbe81ed1a8da81df2d0b",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M036/page_02.png"
+  },
+  {
+    "id": "G06:M037",
+    "run": "verified_G06_M037",
+    "image": "page_01.png",
+    "sha256": "9eefdde864f621aaa62924314e0fbc0b9b3e20d9ff6c6717ba8d351e884faf1a",
+    "pixel_sha256": "91ede4c9ae2ee1753de118207960e069be2b6c37907ea9f667dcf7ac18a1c242",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M037/page_01.png"
+  },
+  {
+    "id": "G06:M038",
+    "run": "verified_G06_M038",
+    "image": "page_01.png",
+    "sha256": "cf099154ee6fb569136f1995b0b9c91b4d5617ed704c0d7e15cefabdd234989b",
+    "pixel_sha256": "b09996efa1006daff1f8dd9b6b91f86e24170044a7679f06eb27039c015b8d79",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M038/page_01.png"
+  },
+  {
+    "id": "G06:M039",
+    "run": "verified_G06_M039",
+    "image": "page_01.png",
+    "sha256": "9b99329ca06d69116fd8706de36aba2808d90416c4f9610d0ec0f1e5f6c7fdd6",
+    "pixel_sha256": "0d86d3077a3e79eb8f2e616a1af104612fb006b0a134e925c2b9d8e171bc7e5a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M039/page_01.png"
+  },
+  {
+    "id": "G06:M039",
+    "run": "verified_G06_M039",
+    "image": "page_02.png",
+    "sha256": "fe3b1fafa11483d5c8f054d5acd0b7fe635792a31c71f7c852b11ab01186865d",
+    "pixel_sha256": "88d42bbca0fe1ed4289fd9aafe7ce1b9d973e3e4a3317b54d60b1612f70d75ef",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M039/page_02.png"
+  },
+  {
+    "id": "G06:M040",
+    "run": "verified_G06_M040",
+    "image": "page_01.png",
+    "sha256": "f8f37f5728befdf4d6e8648fcd73788cdf1d4d7fa2e3a9e9eb980354933e04a1",
+    "pixel_sha256": "1615cbd2efce224e11f3ccb21f6048105def88d871edf27b9c2e962d4e5adca6",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M040/page_01.png"
+  },
+  {
+    "id": "G06:M041",
+    "run": "verified_G06_M041",
+    "image": "page_01.png",
+    "sha256": "2d57b3674be23e35eaa4fb788dc7a230cdd09e663670aa1c79b420c248cd7f34",
+    "pixel_sha256": "db4669f3176e9faf66bc8c09b3f1e5ee918c525a0345ed9542a6315009fdc497",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M041/page_01.png"
+  },
+  {
+    "id": "G06:M042",
+    "run": "verified_G06_M042",
+    "image": "page_01.png",
+    "sha256": "6111b3f89968463dc404bcf65a225f16c6869940f7897919ce1b46c26d8d553d",
+    "pixel_sha256": "600a81c1716fd6462ce24380c83939d7c6df037377b1967426cca972f3361c5a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M042/page_01.png"
+  },
+  {
+    "id": "G06:M043",
+    "run": "verified_G06_M043",
+    "image": "page_01.png",
+    "sha256": "40845ddf15b21843ed6511a918636ea4d3ac4230bc1129c83ca52c5b88c0e9d7",
+    "pixel_sha256": "07c4e90da749f559b9c60147d8694ebe5fd14de12f5e8c41b1e437002a148e9c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M043/page_01.png"
+  },
+  {
+    "id": "G06:M043",
+    "run": "verified_G06_M043",
+    "image": "page_02.png",
+    "sha256": "fd43a3465a0e2c51ebaee393442ac02e1a17273ba5897876e3e5abc246739a4c",
+    "pixel_sha256": "c3a0e7849c3d272914d8c14fab2b8d1fdbe72ba0c35d1a108e49e6ee771bb244",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M043/page_02.png"
+  },
+  {
+    "id": "G06:M044",
+    "run": "verified_G06_M044",
+    "image": "page_01.png",
+    "sha256": "196b4a877d9905f62ded3a2b537190c8516ef07c72787406cef1eac9854501d3",
+    "pixel_sha256": "5785fc9258613b7a0ba8bc036563735ae92919555adb7f3bbcedaf9e2ffdb4d2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M044/page_01.png"
+  },
+  {
+    "id": "G06:M044",
+    "run": "verified_G06_M044",
+    "image": "page_02.png",
+    "sha256": "9bbc81bdc056fb5231b369348cc0a7c9d3aa95251b71cecb5e9293171b60f5cc",
+    "pixel_sha256": "7e0780955dc6f2e57f795416a5fb88415eff4b3a2356550cfc870dba57bfd097",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M044/page_02.png"
+  },
+  {
+    "id": "G06:M045",
+    "run": "verified_G06_M045",
+    "image": "page_01.png",
+    "sha256": "7e4fac8c6fe89fa6a1ffcdfaeebe4033fb558a25ac72017a462c23cf904461d7",
+    "pixel_sha256": "658b37ba813f3e0f846c2a8baa9244122cbaf574399020c82cd2e063e3ffc02a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M045/page_01.png"
+  },
+  {
+    "id": "G06:M046",
+    "run": "verified_G06_M046",
+    "image": "page_01.png",
+    "sha256": "4d23816563331705ab6fb7664d697dbd82f58b1c45a515f31f50b8f731137a1a",
+    "pixel_sha256": "6f9c1dcee3db863bafc2acfb258092a92f16f5c40aba1216ff96dcb1e5ef174f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M046/page_01.png"
+  },
+  {
+    "id": "G06:M047",
+    "run": "verified_G06_M047",
+    "image": "page_01.png",
+    "sha256": "adf696ea0f3e1b0b17b1a72f8e397c253e867012b5c8c3d06bbfe45ee25b58eb",
+    "pixel_sha256": "f189f3ca8a165aa0884cff2481ffbbfd350098aee15c855b5693d6cf7039be9b",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M047/page_01.png"
+  },
+  {
+    "id": "G06:M047",
+    "run": "verified_G06_M047",
+    "image": "page_02.png",
+    "sha256": "1b85c93261fd6e8bb25c5edaa2379e23f1eb9a651781739e155d9e041a7e7acd",
+    "pixel_sha256": "0f59ea8cb508f5224cae4b5636b6ab2a28a3da287181b4b7feed74cbd9a8b1c6",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M047/page_02.png"
+  },
+  {
+    "id": "G06:M048",
+    "run": "verified_G06_M048",
+    "image": "page_01.png",
+    "sha256": "18c237f61d236e6cb5833614108c6dff9db8495d949b0eeaa4dc140dc52b46c9",
+    "pixel_sha256": "4e3a321c79b5bcac991035b1001075fa71db387f8c56f2a539d6ada0dfd1e25f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M048/page_01.png"
+  },
+  {
+    "id": "G06:M048",
+    "run": "verified_G06_M048",
+    "image": "page_02.png",
+    "sha256": "e7861acc5aba9c75bf145e27580a964a5e69731b701f350809b933b24efc9d90",
+    "pixel_sha256": "5eca7a6f1bc4e259f3366a6ac0c9a5fea1ec3d323af05160b503fec6f6de01ce",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M048/page_02.png"
+  },
+  {
+    "id": "G06:M049",
+    "run": "verified_G06_M049",
+    "image": "page_01.png",
+    "sha256": "cbd9ae4bb8ea03dfbee8db59df6bc27bcebb48ced30c5f4333fe82aaf5e241d9",
+    "pixel_sha256": "c8a35183f72b0b96e3020c5e2b67187cc43a3cab2e92a8ec39ff334ea9169091",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M049/page_01.png"
+  },
+  {
+    "id": "G06:M050",
+    "run": "verified_G06_M050",
+    "image": "page_01.png",
+    "sha256": "40a647150fd07ac78e2aa2a2e40fe5ece96aba9c665e2d99d14ffaa171afa01f",
+    "pixel_sha256": "37a5616d430b97b5d02aacc95c2a20f7ed74822c2183c95f9e70f4021f5b9b88",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M050/page_01.png"
+  },
+  {
+    "id": "G06:M050",
+    "run": "verified_G06_M050",
+    "image": "page_02.png",
+    "sha256": "c5baf9a07d6d5b2f6e3fa9d51a8c9686dc7f580e147fa4b266e687c5f30e5734",
+    "pixel_sha256": "04047a988e3f0c7000f7cc64c9b538c4910cdf27071dae9a2653d8660ff5228a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M050/page_02.png"
+  },
+  {
+    "id": "G06:M051",
+    "run": "verified_G06_M051",
+    "image": "page_01.png",
+    "sha256": "5b829a1ff3d38420821fdeeb950b10f87350a509a6a4d3f419219a3d79db06f1",
+    "pixel_sha256": "7f4ddd94616d2304d195d962cb18bd088824041d2e6a8b6a6e230223c9892b80",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M051/page_01.png"
+  },
+  {
+    "id": "G06:M052",
+    "run": "verified_G06_M052",
+    "image": "page_01.png",
+    "sha256": "b1007a967b852b652606a9226ace7d9213d6de5e99f8d65806712af78ed5a45c",
+    "pixel_sha256": "b1ffe9fdabd66ea53178c81f911ff6767cbdd363a3587c0b669057b61184eca0",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M052/page_01.png"
+  },
+  {
+    "id": "G06:M053",
+    "run": "verified_G06_M053",
+    "image": "page_01.png",
+    "sha256": "5d864329a2d2f6d17670d69ded8cf94e616c1add91c1a5b402633adfe13de1b5",
+    "pixel_sha256": "892dbef68a8d7b745ef37b7e0ac15fb758ffd93eda65d361907bb25df3a4deae",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M053/page_01.png"
+  },
+  {
+    "id": "G06:M054",
+    "run": "verified_G06_M054",
+    "image": "page_01.png",
+    "sha256": "2a305520cec8bb3dbb7d471b6ff523d34e8c10fdee03beb89379b8c569e85c30",
+    "pixel_sha256": "d4c82a02c7324ac3df2cd353c7e570ffd243cf5cc4fa3920917f4db93b489dfc",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M054/page_01.png"
+  },
+  {
+    "id": "G06:M055",
+    "run": "verified_G06_M055",
+    "image": "page_01.png",
+    "sha256": "5e1550ee7ba642d14e94e1a838685aaba046566893b74f2a5f98fe8cdcffb196",
+    "pixel_sha256": "55cf5fece6ac1b220f1db5ebb8a7a8e608d70f8ae0d41628956c3bd32e3258d2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M055/page_01.png"
+  },
+  {
+    "id": "G06:M056",
+    "run": "verified_G06_M056",
+    "image": "page_01.png",
+    "sha256": "3a32e86e478b5d550c3243cf06986ed54b2604a2872f23ca8c575bd23de65dba",
+    "pixel_sha256": "0031914c6021b6f03a0f176cd898ea42ffde1f6dd3642daf1231ae3dd3ef5d31",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M056/page_01.png"
+  },
+  {
+    "id": "G06:M057",
+    "run": "verified_G06_M057",
+    "image": "page_01.png",
+    "sha256": "58240b094ebfd3313bc47ac726d714f6b13a3440b6779cb77e3e0a8a89193518",
+    "pixel_sha256": "8dcab672d1613fbe91760fddeca93e41318c4cf1d714146581975082816e6989",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M057/page_01.png"
+  },
+  {
+    "id": "G06:M058",
+    "run": "verified_G06_M058",
+    "image": "page_01.png",
+    "sha256": "e3e1bdc4a71920725e509ef6dd0c722ca697e7ea8bdb3727af55224e48d1cfb8",
+    "pixel_sha256": "93ca9e40f5e7114260afe6a526d4fda4b9abdbc11b91a396b667700acd214566",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M058/page_01.png"
+  },
+  {
+    "id": "G06:M058",
+    "run": "verified_G06_M058",
+    "image": "page_02.png",
+    "sha256": "fc7fafb3924d48921edeea3bba39ab81b86081c5ee44fb0ccc220cf019bbbb32",
+    "pixel_sha256": "eeffe8caade0b73cbfa87dfdbc1f5ab4dbcd5bf776c67ce1cfa3707db882c3fa",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M058/page_02.png"
+  },
+  {
+    "id": "G06:M059",
+    "run": "verified_G06_M059",
+    "image": "page_01.png",
+    "sha256": "ff4635eb60c97e8c946081f1f0781b1861bb720ed38d90057194a4619093e615",
+    "pixel_sha256": "303a89dfc9f214c1f0fa89d6740b9a900047763fcbefb590a6da0d4bec336c5e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M059/page_01.png"
+  },
+  {
+    "id": "G06:M059",
+    "run": "verified_G06_M059",
+    "image": "page_02.png",
+    "sha256": "cbd0bbc871406e4a08c959def8f9eff50d4db03f16b8fda2e6e8ed4964aace1f",
+    "pixel_sha256": "d4e4ae0eee1559890dfef8a8d85557e6ca02c9b0ca719a796d6f19a00e012723",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M059/page_02.png"
+  },
+  {
+    "id": "G06:M060",
+    "run": "verified_G06_M060",
+    "image": "page_01.png",
+    "sha256": "a8fef569a111ef03779bf50a45796f536f96de9943bd40ca35bc1ad5d9b6e5e9",
+    "pixel_sha256": "8f5b59e5307e357bca99da8fe78506cc407f6cc24078fb407b305d33a81b316f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M060/page_01.png"
+  },
+  {
+    "id": "G06:M060",
+    "run": "verified_G06_M060",
+    "image": "page_02.png",
+    "sha256": "48e01767aa027b57df23de341f6ecf2c8cb5aa2240626f0eab70dda429a8ea9e",
+    "pixel_sha256": "b3c4777345be8fffa1083057cbb909af67157622b5ae2f796eb48dbee63226b1",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M060/page_02.png"
+  },
+  {
+    "id": "G06:M061",
+    "run": "verified_G06_M061",
+    "image": "page_01.png",
+    "sha256": "dc2234b688c502474bd56e28dfec428dabcdb7ed9bd941e352caa6c185fe0bd4",
+    "pixel_sha256": "d1eafd71937c6d67dd7d28a5577fd5b4cf4f73bb1419fd20a4458cd612c5ea2a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M061/page_01.png"
+  },
+  {
+    "id": "G06:M061",
+    "run": "verified_G06_M061",
+    "image": "page_02.png",
+    "sha256": "3b580d9bd2a600220afaab93aa0106dedcd275698f887974e903fd1cf3ce65f9",
+    "pixel_sha256": "01f45bcc2debb16f72d0eb2260fe85e414521f16415bedfa5a63cadad4192ccd",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M061/page_02.png"
+  },
+  {
+    "id": "G06:M062",
+    "run": "verified_G06_M062",
+    "image": "page_01.png",
+    "sha256": "d4fc5ba80929f547ea8763327f67912270fc58f194eccc3a5b0aba8b13dbe75f",
+    "pixel_sha256": "91274b9ff600652905cfe447e95f187634bec2385355a728f26b5d3987a565b1",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M062/page_01.png"
+  },
+  {
+    "id": "G06:M063",
+    "run": "verified_G06_M063",
+    "image": "page_01.png",
+    "sha256": "02c348fa08469db07d4dfbcc7ddcc3b755e1e67f5cd86a87103945583925f31e",
+    "pixel_sha256": "136b8a81c88bc5ced67e57598091e39599d395ae9f89c3fff4ba9bc6c3190139",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M063/page_01.png"
+  },
+  {
+    "id": "G06:M064",
+    "run": "verified_G06_M064",
+    "image": "page_01.png",
+    "sha256": "d2a682bb03381eea89c6c22288b06cfe393fd4cb90483636577749c24079ac5f",
+    "pixel_sha256": "d9087d83c632881c1c05bfb0ff072b7a7cd0557cacf45198a9430da86ad1d9f2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M064/page_01.png"
+  },
+  {
+    "id": "G06:M064",
+    "run": "verified_G06_M064",
+    "image": "page_02.png",
+    "sha256": "8910ccd022af32cb4f998c08f46c03b4679bc50438e5252db859e98f34ccdde7",
+    "pixel_sha256": "7c9ce8f7d6bd24d560b3960cf42c7697e78c98c3d7926b1b83680f31a90ba1f6",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M064/page_02.png"
+  },
+  {
+    "id": "G06:M065",
+    "run": "verified_G06_M065",
+    "image": "page_01.png",
+    "sha256": "fbe8c6e7f3f62a39585aa704bd5cdcf313f76314432fc9c3f1d422f21c2d6796",
+    "pixel_sha256": "d38f12b72a998e2aac0901569d1eb96c1a3f354bb17298c3840bc314543e44a2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M065/page_01.png"
+  },
+  {
+    "id": "G06:M065",
+    "run": "verified_G06_M065",
+    "image": "page_02.png",
+    "sha256": "f496374e9b048fb5d01360a6c79122deffa6cc89447f6120c642082480518308",
+    "pixel_sha256": "7309972074223d7a1f088ec0f56ab4f6a643289a9f30d618b233eb1a1704d99e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M065/page_02.png"
+  },
+  {
+    "id": "G06:M065",
+    "run": "verified_G06_M065",
+    "image": "page_03.png",
+    "sha256": "9d455eb1472dcaad53da9963678b2383f6f55e8feb8ac6c563a6c014079e6270",
+    "pixel_sha256": "c11f588c05c6544498987a01d5262d6803d32e737f254ec4840fd1631d63245f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M065/page_03.png"
+  },
+  {
+    "id": "G06:M066",
+    "run": "verified_G06_M066",
+    "image": "page_01.png",
+    "sha256": "444147584589083d467e6cf65edf3685ea4b83abb808ab8911d3850dc63d2db2",
+    "pixel_sha256": "995e5fbf2fa5afa55b7c4be073eb1cddc334423bec129989189bbdad996c051f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M066/page_01.png"
+  },
+  {
+    "id": "G06:M066",
+    "run": "verified_G06_M066",
+    "image": "page_02.png",
+    "sha256": "a6e721512a563c8c1c0ceb90051820bead808aa6b5b3b7ed022b40f7b03b64f0",
+    "pixel_sha256": "8c0b6a3681740470f1b9296d750e7ffb160ff5c2e40f38079c5c8f4f4812d78c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M066/page_02.png"
+  },
+  {
+    "id": "G06:M066",
+    "run": "verified_G06_M066",
+    "image": "page_03.png",
+    "sha256": "ead002b50b89aac0b51aff82952b1e3b8f1f8b4017d99f44f01bc1fa33db7586",
+    "pixel_sha256": "e94034ff977a5b83df8691b37870218c08732d71893c82d6f0ecb870feed78a6",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M066/page_03.png"
+  },
+  {
+    "id": "G06:M067",
+    "run": "verified_G06_M067",
+    "image": "page_01.png",
+    "sha256": "6b69b2bbf5037bcb159451abda35ca9176fc3cc81429e7993fb4d970c6d2efa7",
+    "pixel_sha256": "012a75e51ab90a3d6e8d3e3a5c3dd883a2a3ecdf9d710cca8df5bffea6360ebc",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M067/page_01.png"
+  },
+  {
+    "id": "G06:M067",
+    "run": "verified_G06_M067",
+    "image": "page_02.png",
+    "sha256": "a901ee5e5fd6d550f00296da554bc53aebc8f879c43e05e3cec37be9aa9b9d9c",
+    "pixel_sha256": "1ad1b6c4d1b3e5e0bbcd5c2bca5eba719f0803a305496d07fbdfb67089e1ca63",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M067/page_02.png"
+  },
+  {
+    "id": "G06:M068",
+    "run": "verified_G06_M068",
+    "image": "page_01.png",
+    "sha256": "1e2eca97abe75526c6d977e9114e2fbb6345711e7d976b7523a3b656af2a8e23",
+    "pixel_sha256": "15303d7cfaba23a957364d50954f8eec9b971ef36b7c0e42554aa0d5c707e52f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M068/page_01.png"
+  },
+  {
+    "id": "G06:M068",
+    "run": "verified_G06_M068",
+    "image": "page_02.png",
+    "sha256": "c2e145a1a3479b46f67d59120fa1ad367f6bdef76cff84a82c2541877553f35e",
+    "pixel_sha256": "4835ca42ddeca3093c35f434df9e0570e661ee4b363f3c140dcff6a0bb97d65b",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M068/page_02.png"
+  },
+  {
+    "id": "G06:M069",
+    "run": "verified_G06_M069",
+    "image": "page_01.png",
+    "sha256": "efff348939f50964a13633f74364ef1ee826858c80f6a6b0605d06f61e105ba7",
+    "pixel_sha256": "0e1c81c42aeddba936dc77e2174686867dfa5f0f40a8a16c52119efcb039d3bf",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M069/page_01.png"
+  },
+  {
+    "id": "G06:M070",
+    "run": "verified_G06_M070",
+    "image": "page_01.png",
+    "sha256": "b900ad0204abe1b8090195c9ce331e86c244af9eac9ff41fca08bdc93bf03dcb",
+    "pixel_sha256": "91da74a550b012ecef63161b4c30a48be3cc263a365ea615965ea2a9e081ca95",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M070/page_01.png"
+  },
+  {
+    "id": "G06:M070",
+    "run": "verified_G06_M070",
+    "image": "page_02.png",
+    "sha256": "57ac2334a858df4d198310ac5201cc23c245ac6f195b5729c9a6ffc15c3435bd",
+    "pixel_sha256": "bfdff19c0f404ccef00ebe15bd0bb03b07effe0ba6e069ea9c1b0c365d8f4d16",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M070/page_02.png"
+  },
+  {
+    "id": "G06:M071",
+    "run": "verified_G06_M071",
+    "image": "page_01.png",
+    "sha256": "419724295f2940c5ab7db25266e1b76e9cb6eb16ca8b46326da2e72daccef6b2",
+    "pixel_sha256": "295d4851c5067cc8acc064d953733b21f937d73400c303ef9821757c28e6e1db",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M071/page_01.png"
+  },
+  {
+    "id": "G06:M071",
+    "run": "verified_G06_M071",
+    "image": "page_02.png",
+    "sha256": "eb129e52145b8038838cc82a92cf38d7aada89ac50721ba5f70d4adf64ad961a",
+    "pixel_sha256": "34918ebe3111fc8266c390722c4df3a674bbfd602eaa102815a30230c74dcf0b",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M071/page_02.png"
+  },
+  {
+    "id": "G06:M072",
+    "run": "verified_G06_M072",
+    "image": "page_01.png",
+    "sha256": "9195251e7f29bb86fbed1996d1b113ecea04f290a80f1e5a8e497ae0432a2455",
+    "pixel_sha256": "e1c7a4b9372fea68e160a50ae1159c2a4c521f911898b776d6daf46cb77335ae",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M072/page_01.png"
+  },
+  {
+    "id": "G06:M072",
+    "run": "verified_G06_M072",
+    "image": "page_02.png",
+    "sha256": "52341f91b36e3282185f585ea22e41a92ca17bda39f7110212f8840a01e6a751",
+    "pixel_sha256": "8474ac37d9b017d19ae645fb2c6b31c641fb83b21209affaa075c91acaab0790",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M072/page_02.png"
+  },
+  {
+    "id": "G06:M072",
+    "run": "verified_G06_M072",
+    "image": "page_03.png",
+    "sha256": "d8f94724f1e4d419feccf883a13bba5884e94f04adf249d3c5d38e1acae4cc46",
+    "pixel_sha256": "abc18055214e8fe454dc2e7c7031a3fbe4d149815e51d9c578524b9b83de560c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M072/page_03.png"
+  },
+  {
+    "id": "G06:M072",
+    "run": "verified_G06_M072",
+    "image": "page_04.png",
+    "sha256": "2b3c7bd1a6324df1c0b70bd2819ad62e52ff5a21225e6050e2a478f61b9b1f6a",
+    "pixel_sha256": "3bccb4f92444d64bd52e1c371a1c1bebae3b263ee5446d0b9efec023b1fb7856",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M072/page_04.png"
+  },
+  {
+    "id": "G06:M074",
+    "run": "verified_G06_M074",
+    "image": "page_01.png",
+    "sha256": "0e2964e4d373678bcd2f7253a674726e1aa7f43e0c10515c54a2a38e23c06551",
+    "pixel_sha256": "770d1d06bad70da40cc8b389768871a7e73cd04503a955572781e41b50c32a8e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M074/page_01.png"
+  },
+  {
+    "id": "G06:M075",
+    "run": "verified_G06_M075",
+    "image": "page_01.png",
+    "sha256": "c2d6abfbb2ab585ef0441990c1e468cda9804e018ce003f848251c43133c3a4f",
+    "pixel_sha256": "9609475181a028e3d4d1a25c2ae3003951d306ed0936e620297a5e0d0446e179",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M075/page_01.png"
+  },
+  {
+    "id": "G06:M076",
+    "run": "verified_G06_M076",
+    "image": "page_01.png",
+    "sha256": "e5d3ca2d181cabc4198cd9fe8ab2f2965f4037f1cc72cf991b87b5f51485fc01",
+    "pixel_sha256": "8461fa96f519f12a121181abb9afdc0788cf3a8e1f46463b47e707a203137b50",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M076/page_01.png"
+  },
+  {
+    "id": "G06:M077",
+    "run": "verified_G06_M077",
+    "image": "page_01.png",
+    "sha256": "35cc05171d0bde7230a94c16543c5874bda66b784ae661b350f377c6c79fdedb",
+    "pixel_sha256": "6f8c6ecf80eda97edbb76d22c7ba2ddb1d15540bde4f121dd222f3af8ff868e4",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M077/page_01.png"
+  },
+  {
+    "id": "G06:M078",
+    "run": "verified_G06_M078",
+    "image": "page_01.png",
+    "sha256": "f7b990b2c0dc260c385365be389fb0f984149ecf690a4e688270ad3126dc0e01",
+    "pixel_sha256": "459cb06dee25b00e04ea7c7834105a599599baef7b118bca3f844e3830c13458",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M078/page_01.png"
+  },
+  {
+    "id": "G06:M079",
+    "run": "verified_G06_M079",
+    "image": "page_01.png",
+    "sha256": "28428aa0ad84bc6d383e2e48fb9b0554e52b8e6a5b4c74ef8e2eb3e68b59606a",
+    "pixel_sha256": "ac0d575fc86ba342b683b4fa73753479fab5474af5c1c38424843dc13ee662b9",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M079/page_01.png"
+  },
+  {
+    "id": "G06:M080",
+    "run": "verified_G06_M080",
+    "image": "page_01.png",
+    "sha256": "165fc6aa6b054710297240379e944080b3162b2588776a2b513fe3076396d80c",
+    "pixel_sha256": "14e599b247c6566c3c9e3fbcf13363f2cf655f0fa7a62d92849f8103e4233232",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M080/page_01.png"
+  },
+  {
+    "id": "G06:M080",
+    "run": "verified_G06_M080",
+    "image": "page_02.png",
+    "sha256": "788ef7a112c86d40cdfd42843b9dcbd3a5d812e726745460347e8dcaf2fc69f7",
+    "pixel_sha256": "f1d14465cb3266faf11001b21fc2e17f57c63acb7a28467ad1d26dffa607fa9d",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M080/page_02.png"
+  },
+  {
+    "id": "G06:M081",
+    "run": "verified_G06_M081",
+    "image": "page_01.png",
+    "sha256": "f011c9f2f4fa366b1c7245b4c73aaf89fcbf272a2bb9d44c526a70d404a28956",
+    "pixel_sha256": "e4c8b6fdae2c587bf1b6422470657131fc35142e82a63265215c82e314963413",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "pregetter_G06_M081/page_01.png"
+  },
+  {
+    "id": "G06:M082",
+    "run": "verified_G06_M082",
+    "image": "page_01.png",
+    "sha256": "e33fdc150f7bfa4b3567b8830298e6d9470d8bfe057b05fdb6f3c8bf4ceed32a",
+    "pixel_sha256": "f5ab14bd58c56601d1d931396886a172e47c7f93b30236bb9c0b6351c06247b1",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M082/page_01.png"
+  },
+  {
+    "id": "G06:M082",
+    "run": "verified_G06_M082",
+    "image": "page_02.png",
+    "sha256": "8749640aba51ab78c771ac5eb974358419bcaf586281a5a414903f7073a09507",
+    "pixel_sha256": "ee03271e704d986e598d408f7d6de59a9b5f8b1fac99c26ad976059cdedff34f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M082/page_02.png"
+  },
+  {
+    "id": "G06:M083",
+    "run": "verified_G06_M083",
+    "image": "page_01.png",
+    "sha256": "acf7cb239f217126e2730da1c3c4ee3e005facfd18ca34ea483bc851eeb9dff7",
+    "pixel_sha256": "6c9953892a30d20b2ca1c60a6ffd3ed1d6410996cac2eaa6d7772f20b4b2a21f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M083/page_01.png"
+  },
+  {
+    "id": "G06:M084",
+    "run": "verified_G06_M084",
+    "image": "page_01.png",
+    "sha256": "8a11c6e5e7d672e34472f8e21f2f6064215faa8fa922290596e27bba195feced",
+    "pixel_sha256": "2ef673ffb1a5b6c4e360f0ec3e2e504c9d90c756df18af922c90f4c22c75ec5f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M084/page_01.png"
+  },
+  {
+    "id": "G06:M085",
+    "run": "verified_G06_M085",
+    "image": "page_01.png",
+    "sha256": "76d5bbedd171a7f07459312b38c1bb50ddb9485e23e5a5e1a9bb2e75a78f3597",
+    "pixel_sha256": "d3b9838f3523f0f9fb97f7d92a70cbb40b644abd2c8100fda14e8e85509d9dae",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M085/page_01.png"
+  },
+  {
+    "id": "G06:M086",
+    "run": "verified_G06_M086",
+    "image": "page_01.png",
+    "sha256": "ce7514b7637af9e56d9415422af377266e1b343b05a05c12e4fa0c918ed23c16",
+    "pixel_sha256": "9817f66aa286b428dd5f41cb28d927c31f158d0fdd3eab1abb9d5cfe0c43ccef",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M086/page_01.png"
+  },
+  {
+    "id": "G06:M087",
+    "run": "verified_G06_M087",
+    "image": "page_01.png",
+    "sha256": "41aaa3cea005f2f07d963dc43770eccfd06aa89c0effb3afb1b75e53d1f77a84",
+    "pixel_sha256": "4f4b60f3d58ff6426489c7583a8b10d45ca3f3b12ea2d08394ac6faa400c310b",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M087/page_01.png"
+  },
+  {
+    "id": "G06:M088",
+    "run": "verified_G06_M088",
+    "image": "page_01.png",
+    "sha256": "2eff0050e997d9f1f6c6950acee7fc2884ab66b8252cdd9fad198808f26b6503",
+    "pixel_sha256": "cd01c8e41bf4efd5faf576d0ee2fca6efd73395ed613e9d731dec1509f4098ad",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M088/page_01.png"
+  },
+  {
+    "id": "G06:M089",
+    "run": "verified_G06_M089",
+    "image": "page_01.png",
+    "sha256": "8664d2d53b109268633ae0630d24b911add825e690d8c907f9abe7ef6ebc71ea",
+    "pixel_sha256": "3250971808f22144ea3f99381add5887f7582b78ee804c0a3dbf70f12dc35fa5",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M089/page_01.png"
+  },
+  {
+    "id": "G06:M090",
+    "run": "verified_G06_M090",
+    "image": "page_01.png",
+    "sha256": "1c779bb0a93d7d2373e3d71b7a85ee634e6c43bef892e4af64f05d4f9e05c900",
+    "pixel_sha256": "e043372182665aad7472185499bdd1641ac88c28537fe1f80192c09f2c65cddb",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M090/page_01.png"
+  },
+  {
+    "id": "G06:M091",
+    "run": "verified_G06_M091",
+    "image": "page_01.png",
+    "sha256": "8b9ecb6a5543c779aabb3dca2e19d2e022302a5c40b59a54329e8b7096d06ff9",
+    "pixel_sha256": "b9dfa623f450b61204aeea2172e00459fb1e6e5ca96cbf6e79c01789367df5f8",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M091/page_01.png"
+  },
+  {
+    "id": "G06:M092",
+    "run": "verified_G06_M092",
+    "image": "page_01.png",
+    "sha256": "e8f46be8e46371f9db64788703015774252e6afd66645ca64bc67c8918ad4e88",
+    "pixel_sha256": "3041630dd5231fde3a27393e4649edd8c987b23ddd05ff37be99476042e5197f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M092/page_01.png"
+  },
+  {
+    "id": "G06:M092",
+    "run": "verified_G06_M092",
+    "image": "page_02.png",
+    "sha256": "10809fc1536fdd108198adb5a71ed5a38b70eb78e5575ac16d0fd6740e55ffb1",
+    "pixel_sha256": "bce961c30ded14e07e4451694145bf1514642de32af807e3ae4c4a6389c05d38",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G06_M092/page_02.png"
+  },
+  {
+    "id": "G06:M093",
+    "run": "verified_G06_M093",
+    "image": "page_01.png",
+    "sha256": "6ba952d1ff08e5229510cadcde157b329c197fbf14277399a1283e84d9be751e",
+    "pixel_sha256": "bc6daf70c9d2c797947906ca4d09207866bac29cea7985fe8ced8ea3ff1f3d6b",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M093/page_01.png"
+  },
+  {
+    "id": "G06:M094",
+    "run": "verified_G06_M094",
+    "image": "page_01.png",
+    "sha256": "b36217979cbd5f9b69c8b8a0f67beafd50f7574ccb3d36eccb63551badd74da7",
+    "pixel_sha256": "afbb4ed464a1e09c764284301150ad731978ab3e31859c983147dd726ae4e1f3",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M094/page_01.png"
+  },
+  {
+    "id": "G06:M095",
+    "run": "verified_G06_M095",
+    "image": "page_01.png",
+    "sha256": "40d0f48909bede41e99fb507f8560fb2e7e252f2bc039fa6110876343ced7a88",
+    "pixel_sha256": "2979565620a1cc311fce3b6a80ede333fab5ebf65089f6a538b5bc73d7584e0f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M095/page_01.png"
+  },
+  {
+    "id": "G06:M096",
+    "run": "verified_G06_M096",
+    "image": "page_01.png",
+    "sha256": "0c9bdb7cc6e93b63d8fdd4a2bac4dbcd6ae4f7556380adf789f3fa5fac05fe23",
+    "pixel_sha256": "e640fcd90e82529d950152297082a56a56e43fa17e788c8cbf690b78df8e2c3f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "pregetter_G06_M096/page_01.png"
+  },
+  {
+    "id": "G06:M097",
+    "run": "verified_G06_M097",
+    "image": "end_text.png",
+    "sha256": "d5ce002c2115af4482068a6320942730ca7d04988a3ed7a64a2d6037f455c9b2",
+    "pixel_sha256": "a183d04336c7eebc722d126a47f492b449fa987cd3f1c9f2b9b5e28efdc9e1a3",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M097/end_text.png"
+  },
+  {
+    "id": "G06:M098",
+    "run": "verified_G06_M098",
+    "image": "page_01.png",
+    "sha256": "6a6bfe0bc6ee2b5ad1dbe9f118929e48184ed3dbc5967d0fd1747f5462cacae7",
+    "pixel_sha256": "6264d510081c78e246ab8a257ed63c3873762274702dd4d12b81c5eed70b2b2e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M098/page_01.png"
+  },
+  {
+    "id": "G06:M098",
+    "run": "verified_G06_M098",
+    "image": "page_02.png",
+    "sha256": "22a1c823b6dcf8f2d391e760ec066cba9b02ed552cf61e0ae45e7d2c751ad48a",
+    "pixel_sha256": "b147338373159d236b269e9c47d9043074bbb5eee09e275f515c7de54c6051ac",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M098/page_02.png"
+  },
+  {
+    "id": "G06:M100",
+    "run": "verified_G06_M100",
+    "image": "page_01.png",
+    "sha256": "329d28722e03881b97fd8fc343b3d099b6de20e9c304edc1cee41f76d61be811",
+    "pixel_sha256": "511ccffd07a92da5c140b5d54cfa063d2441af377e0c9414dd737cd844c74de3",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M100/page_01.png"
+  },
+  {
+    "id": "G06:M101",
+    "run": "verified_G06_M101",
+    "image": "page_01.png",
+    "sha256": "c845f0a3ab78365f6e925c71ef629d101a80460141ac117626f466944401c09a",
+    "pixel_sha256": "c17659279633fce5378bfc59f527d282146e2676f5059ec33b35ca9c71e73895",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G06_M101/page_01.png"
+  },
+  {
+    "id": "G07:M000",
+    "run": "verified_G07_M000",
+    "image": "page_01.png",
+    "sha256": "3a7458abb9a4736f8c0e9ce62b2fb3310cfe94ef4e8384919228d0eb6f7badd7",
+    "pixel_sha256": "8ce62e7d2edad27361d804c352f4d61b65514fc5c6db8631b51a8900a61b01c7",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G07_M000/page_01.png"
+  },
+  {
+    "id": "G07:M001",
+    "run": "verified_G07_M001",
+    "image": "page_01.png",
+    "sha256": "7e887b6fe81785fdc650a3e22e20b9625cdbadd14baee88c05983fc7b10997d4",
+    "pixel_sha256": "239db8c778b0c9d04af7e667f4b84beb3b8603fe83c996452b5bb69a4580dca2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G07_M001/page_01.png"
+  },
+  {
+    "id": "G07:M002",
+    "run": "verified_G07_M002",
+    "image": "page_01.png",
+    "sha256": "b913d833135ce66b67fc3fa941d57bd8bd748534cad44b281e335ef33ec6d7e1",
+    "pixel_sha256": "23e4af610528bcf908f34a7fd76e416536d4fc5336413f2c8f9f17d9d10ad951",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G07_M002/page_01.png"
+  },
+  {
+    "id": "G07:M003",
+    "run": "verified_G07_M003",
+    "image": "page_01.png",
+    "sha256": "f352f56c685c389188b295f53fe656d95751689739c7ec7d42eb17f49490d796",
+    "pixel_sha256": "7c9534f2f2e174f3b79fb147c727be8ea846a202a8dad468460e353929682240",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G07_M003/page_01.png"
+  },
+  {
+    "id": "G07:M004",
+    "run": "verified_G07_M004",
+    "image": "end_text.png",
+    "sha256": "56149546d65efa01d695b7c14dacc6bcb7c6bc8d697f8f8aa7964bb7200e0159",
+    "pixel_sha256": "cfafad6ccb7c9bcde879c691bd653b0baf5cf86180b273f285428403cc908c84",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G07_M004/end_text.png"
+  },
+  {
+    "id": "G08:M000",
+    "run": "verified_G08_M000",
+    "image": "page_01.png",
+    "sha256": "832a7fecdad3c37d7bab3af728107f78b196fccecac767b38ddb14a2e2a02c0a",
+    "pixel_sha256": "46a9c536f61a006757ed1ddf205c5a1d58541ddc3ee91e99dd6e1c4bacb0ac04",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M000/page_01.png"
+  },
+  {
+    "id": "G08:M001",
+    "run": "verified_G08_M001",
+    "image": "page_01.png",
+    "sha256": "24301d33e5b78e8d55b10e273deb329dbd09f703123697f139fc162f340b2b20",
+    "pixel_sha256": "7678fc83f980d70f7cf59bb45be66983aea9732336b0806801e3da5b7fdc9505",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M001/page_01.png"
+  },
+  {
+    "id": "G08:M002",
+    "run": "verified_G08_M002",
+    "image": "page_01.png",
+    "sha256": "8392a2abbfca74848d5007cef5e25a14a3e3478f2db9e37c52334d99e48a2a01",
+    "pixel_sha256": "e3b24963ac6bc951719d393cac3c027ab2f258782f9a8f1fa9b3a3a414b25831",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M002/page_01.png"
+  },
+  {
+    "id": "G08:M003",
+    "run": "verified_G08_M003",
+    "image": "page_01.png",
+    "sha256": "e09316b860ac619e4f53f7073d7a536fbdc1e8acdff480fb92747ccaf8e5a5af",
+    "pixel_sha256": "35c44dfa1a8a1487840d044691dd850b1665de15c15ab1f6c5c3bd6900ce8e30",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M003/page_01.png"
+  },
+  {
+    "id": "G08:M003",
+    "run": "verified_G08_M003",
+    "image": "page_02.png",
+    "sha256": "2286d69c1164ef086162c0ee49910d2b8fe89a9327ef25bff7529bdc593ea72a",
+    "pixel_sha256": "b90dbf3ab5a8334c4a45484e499aafc79851cca615463372df46fb7c567c67e5",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M003/page_02.png"
+  },
+  {
+    "id": "G08:M004",
+    "run": "verified_G08_M004",
+    "image": "page_01.png",
+    "sha256": "2d6bfec3a6069e8442a6706fb7cfd2ca9e32ed997100b45b3d3a568c538abaa4",
+    "pixel_sha256": "f15a4a7139509a0d817fe35a329aa2e5e3e6834ae8ebc3a72775093fd7b8a741",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M004/page_01.png"
+  },
+  {
+    "id": "G08:M005",
+    "run": "verified_G08_M005",
+    "image": "page_01.png",
+    "sha256": "83640d94188b02f6401123f5679402ba4a6ced3ccd16cdc5fed6ff64eefc0c03",
+    "pixel_sha256": "39c42dd76dc73eee8aabc04136d427ce5f49e501bd816c3197f088605ee7f84e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M005/page_01.png"
+  },
+  {
+    "id": "G08:M006",
+    "run": "verified_G08_M006",
+    "image": "page_01.png",
+    "sha256": "1da101578d515e75c5748f8e8284dd5686eeada8d6fbb97639b64037b07677e2",
+    "pixel_sha256": "7b2e0c6e1fc7feb0ed8c2a6b0a7f47eb2d741cd5625584ef2ba08bdef539b299",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M006/page_01.png"
+  },
+  {
+    "id": "G08:M006",
+    "run": "verified_G08_M006",
+    "image": "page_02.png",
+    "sha256": "50b35af873fda81029466dda728c8efa03f68f3674ef1519f8df9877d434a995",
+    "pixel_sha256": "487bae61f6ab60ff2f142469f1af108bc3427d2d8e9001afa4a0ca2db397c0a3",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M006/page_02.png"
+  },
+  {
+    "id": "G08:M007",
+    "run": "verified_G08_M007",
+    "image": "page_01.png",
+    "sha256": "ab48af10fe78fd2e20800522e34f674c3e6d8dac72f3f572bd4c948cebf58952",
+    "pixel_sha256": "22de5e7439aa8fa8a075e59512c92c2bd959c2ef7f2b9fc14a6378b59d101965",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M007/page_01.png"
+  },
+  {
+    "id": "G08:M008",
+    "run": "verified_G08_M008",
+    "image": "page_01.png",
+    "sha256": "d373def956ba438210a0ce404a17cecb728957780ea40f79b0fc4793c6f6e15a",
+    "pixel_sha256": "f276fd3e8979c352f63bafd270dca82505dcdb6af55828cba9bcd392c889c725",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M008/page_01.png"
+  },
+  {
+    "id": "G08:M008",
+    "run": "verified_G08_M008",
+    "image": "page_02.png",
+    "sha256": "19b2b702802b353cab2af22426209a28eaf5ef878740ffb029b597c1c3b530f8",
+    "pixel_sha256": "70856eb71e308761580d71082ef3c9063f1fa1830e7c4134c92bd7aaec47e621",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M008/page_02.png"
+  },
+  {
+    "id": "G08:M009",
+    "run": "verified_G08_M009",
+    "image": "page_01.png",
+    "sha256": "c7efddec9f1fb1bab37014a7e708c13ca9737c2cc61023f1a737430dcf71a8ed",
+    "pixel_sha256": "c1c9544dd69c97eecf14b12c0dcb81008cc49358df5b73a4263b6f0327b44332",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M009/page_01.png"
+  },
+  {
+    "id": "G08:M010",
+    "run": "verified_G08_M010",
+    "image": "page_01.png",
+    "sha256": "cbfda521660ecac82c0edd6b96c79b959c1e5fa3820c1328b10878354ad70154",
+    "pixel_sha256": "e6b76ce0e386f1b137a89ae5a4049b2b33fe66bc6aac186df1d9dc97440c8d53",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M010/page_01.png"
+  },
+  {
+    "id": "G08:M011",
+    "run": "verified_G08_M011",
+    "image": "page_01.png",
+    "sha256": "80c05ba91c6e5b7498b4adba8616843486beec22e6f8190a699952991c247424",
+    "pixel_sha256": "560c65f4125a233a13d7f29d3517273b86f22cf248d8e11812bdbc86e222cdd1",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M011/page_01.png"
+  },
+  {
+    "id": "G08:M012",
+    "run": "verified_G08_M012",
+    "image": "page_01.png",
+    "sha256": "f865a3bbd2c0ae5d2d8c20f18665601d9f49c63506db76057590a38ff718ad0e",
+    "pixel_sha256": "7caec3b63fe27c2eda5916cb44b1d0acb4c830f73a038a5d2b11823fe96cd4f1",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M012/page_01.png"
+  },
+  {
+    "id": "G08:M012",
+    "run": "verified_G08_M012",
+    "image": "page_02.png",
+    "sha256": "e818f24f03b682ba11fc5e083f609f0b547ce18e610e0f4181ce2db4de00ff40",
+    "pixel_sha256": "d5e65d4bb3b7ce743dded169a636ddf52b7b59bef420d25f2b34045419496f59",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M012/page_02.png"
+  },
+  {
+    "id": "G08:M013",
+    "run": "verified_G08_M013",
+    "image": "page_01.png",
+    "sha256": "c54dda6a48017873b70c925af8d565b927f11bc468f4c8ddce3d277017823800",
+    "pixel_sha256": "7ef6f616c8efce06e9e300d07538754dc44285a2e59da56abf724ce454258cc7",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M013/page_01.png"
+  },
+  {
+    "id": "G08:M014",
+    "run": "verified_G08_M014",
+    "image": "page_01.png",
+    "sha256": "74a3f7568d8963f0a2570f6f84cddd0cd3f2451965500749476c3b7ac1b08e0f",
+    "pixel_sha256": "4e85bd2d141b0bab95237df7416fd9f69b7e2a7b5ecd86bf70db0e2a6a70e03f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M014/page_01.png"
+  },
+  {
+    "id": "G08:M015",
+    "run": "verified_G08_M015",
+    "image": "page_01.png",
+    "sha256": "cb4a9c3c6a7776379eeae20ad0a312cf73db561566fa9af3cd139298cda343c5",
+    "pixel_sha256": "1e786d62bb3b6e0d7e86033b4a64379e77758606699a6ba72c34fd272361322c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M015/page_01.png"
+  },
+  {
+    "id": "G08:M016",
+    "run": "verified_G08_M016",
+    "image": "page_01.png",
+    "sha256": "f67acf272cbf422a910b9bbe8bc26d58496cd162134307e1d4246de1068bab0b",
+    "pixel_sha256": "e78da00f66c7ac4c686cc2759ef1176e0dbf38685a719fd0afbfa60ee1b0ce5b",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M016/page_01.png"
+  },
+  {
+    "id": "G08:M017",
+    "run": "verified_G08_M017",
+    "image": "page_01.png",
+    "sha256": "5f6037119570419c5f1b04b0a9eb736757632afa5b7bc9782773d9269d524132",
+    "pixel_sha256": "97f68f7f7fbb585097df622454bf497a10308c36a04820ed7f711e0634c4a45a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M017/page_01.png"
+  },
+  {
+    "id": "G08:M017",
+    "run": "verified_G08_M017",
+    "image": "page_02.png",
+    "sha256": "4d1ab3f51b5957077e99a79c591c88f3fc0effc33431a2a75f0d2cecc6f19b0c",
+    "pixel_sha256": "477b7a0ea21b83189699f70ebb3f467b3345a90818116984fe78ff0e557f57da",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M017/page_02.png"
+  },
+  {
+    "id": "G08:M018",
+    "run": "verified_G08_M018",
+    "image": "page_01.png",
+    "sha256": "358815b419420a6030c77a84e3bba2eb61a5170aea40c02dd0e39cf3c7751803",
+    "pixel_sha256": "a61722cdcc4b56560548a2430fa7576e3b36b09fef586b83f32d211c09757b38",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M018/page_01.png"
+  },
+  {
+    "id": "G08:M018",
+    "run": "verified_G08_M018",
+    "image": "page_02.png",
+    "sha256": "3fb0736ee520b50342f307558522fad478a387a24f3e422d494f6758608fb3bd",
+    "pixel_sha256": "e0cbafe94166d6bb0300de445d3dd4ff237ebd2444f573f5067365a7fe0dbb78",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M018/page_02.png"
+  },
+  {
+    "id": "G08:M019",
+    "run": "verified_G08_M019",
+    "image": "page_01.png",
+    "sha256": "745fe2acd28d8a98be2212082c0fc7388e3d881eacbef18dee3e289c4fc7cb88",
+    "pixel_sha256": "02b76b23b0319846b228ef933f2150f7afe194bc13712444cf3b18a06eb0049d",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M019/page_01.png"
+  },
+  {
+    "id": "G08:M020",
+    "run": "verified_G08_M020",
+    "image": "page_01.png",
+    "sha256": "7af6b42bc3231313342f5fc88e125aa603e89690294f722e0fba1a2422884b96",
+    "pixel_sha256": "9e0fbbffefa924ea279fb32507762d13a5ba80b7d37209d8aaa2e8880473f2da",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M020/page_01.png"
+  },
+  {
+    "id": "G08:M020",
+    "run": "verified_G08_M020",
+    "image": "page_02.png",
+    "sha256": "1f7106a69d41fc995582d5417246c64c03570c77fd89508c542ed65e6b7c658d",
+    "pixel_sha256": "655baa8cba5a0b9b74a4061744f07744d06b5074272ddbd9f7fe6de991c9205b",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M020/page_02.png"
+  },
+  {
+    "id": "G08:M021",
+    "run": "verified_G08_M021",
+    "image": "page_01.png",
+    "sha256": "f5ada689d9849bd5eb79fde3d3b88ae794ef3d6a8aaf1cb5bc1670b485c2f6c0",
+    "pixel_sha256": "c493e3befe534a4f647c60bb0d3b313fbea204d31130625b633fa2d10fe1d509",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M021/page_01.png"
+  },
+  {
+    "id": "G08:M022",
+    "run": "verified_G08_M022",
+    "image": "page_01.png",
+    "sha256": "a6338406b4a6f5526587e1e1ba301ec4e622591f06f527543f9673865b1590d3",
+    "pixel_sha256": "f72c2791512f360ff299e1d635c8bcefddbe54fdcb2d348a2ea506b3dec2176c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M022/page_01.png"
+  },
+  {
+    "id": "G08:M023",
+    "run": "verified_G08_M023",
+    "image": "page_01.png",
+    "sha256": "4ee5a93c798f5fda700d68acf767e96dbb8a4671b70438b6f2d85af8421b101c",
+    "pixel_sha256": "dacbd1d34e9e248a1831c8689ba7ed39652dd080132941fe2989b935a436827c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M023/page_01.png"
+  },
+  {
+    "id": "G08:M023",
+    "run": "verified_G08_M023",
+    "image": "page_02.png",
+    "sha256": "62fe7fb75eaa3a8187ed4b818c2b6750272bda7669bac73874a4e92b25690606",
+    "pixel_sha256": "7d8946991ef577e13bb2851a7d8882aa29490f573ec59e556a10892ee3a034ee",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M023/page_02.png"
+  },
+  {
+    "id": "G08:M024",
+    "run": "verified_G08_M024",
+    "image": "page_01.png",
+    "sha256": "395212c201e18c45e1be7cbef6b0329033c1ee23e23886bab97c75b886bf8090",
+    "pixel_sha256": "5420df8928b6b995449b1e6d03f534c09a144da4cf35f68fc663fd06d4cf5d0d",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M024/page_01.png"
+  },
+  {
+    "id": "G08:M024",
+    "run": "verified_G08_M024",
+    "image": "page_02.png",
+    "sha256": "19e8b2bdc8b31c021fb46cf2c6dee324c1df8ab5acf200593b9cfcc6b346720d",
+    "pixel_sha256": "4a3db9cd99e732bb37169c205bcbdcc9de5ca650705e78845bbc4fd0acb3d964",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M024/page_02.png"
+  },
+  {
+    "id": "G08:M025",
+    "run": "verified_G08_M025",
+    "image": "page_01.png",
+    "sha256": "ef7a68adf925933455bff694ed129e5b0f92aa4f3ea4dacc9b15413ab79bd77b",
+    "pixel_sha256": "f8f7c1f81debfe6a8e87686dcc905551de3c0b4d71ce06be89001efbe3e3eaff",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M025/page_01.png"
+  },
+  {
+    "id": "G08:M025",
+    "run": "verified_G08_M025",
+    "image": "page_02.png",
+    "sha256": "c9028c51051eaecb4f1ae9a751b108812a19ca700029e219a7959f6ceaec0d38",
+    "pixel_sha256": "5057e62c176347115b4097e928ed52ffcbde76661fd0748ea5e3328f100db7cb",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M025/page_02.png"
+  },
+  {
+    "id": "G08:M026",
+    "run": "verified_G08_M026",
+    "image": "page_01.png",
+    "sha256": "6e49b1c3d9b7efc1decfd6524f92226c7c7128dceef7321de1a3c8932569f432",
+    "pixel_sha256": "d3eeccba31a85a012809c087d73e268cfdd638a4de170a03ab414870143b0983",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "pregetter_G08_M026/page_01.png"
+  },
+  {
+    "id": "G08:M026",
+    "run": "verified_G08_M026",
+    "image": "page_02.png",
+    "sha256": "19698f3cdaabe49c6c0ad76418d22a161dc2e4efcbef06780fffb4fa99cbfcc4",
+    "pixel_sha256": "59d5adeff1032ccd57f51fe2005e83c1de40e6f323175f29d31f8be48528b6bb",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "pregetter_G08_M026/page_02.png"
+  },
+  {
+    "id": "G08:M026",
+    "run": "verified_G08_M026",
+    "image": "page_03.png",
+    "sha256": "7daf0ad2f92af3698f1a8225ad5777702ae8d5af544607782c294ea5d81910e7",
+    "pixel_sha256": "d142f91ee86e673a8acd5d669918a1d241119c2768361de4177c9edfa207c527",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "pregetter_G08_M026/page_03.png"
+  },
+  {
+    "id": "G08:M027",
+    "run": "verified_G08_M027",
+    "image": "page_01.png",
+    "sha256": "61c939cf2f7017606ffa59fb247d361c099cd445458c26a27edf91cc8975c376",
+    "pixel_sha256": "3d80a6f8ccffb1261dc50f24fbf5f1584800bd021112f46cf4ad2a7c42606017",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M027/page_01.png"
+  },
+  {
+    "id": "G08:M027",
+    "run": "verified_G08_M027",
+    "image": "page_02.png",
+    "sha256": "46df34a8676d40571e6e4f7a984a79578544770898705a150eec844e8c918a4a",
+    "pixel_sha256": "d3c12fbccb2f944cca97b7ba9832f07fcb508f823d91d673a6ea99af981116b2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G08_M027/page_02.png"
+  },
+  {
+    "id": "G08:M028",
+    "run": "verified_G08_M028",
+    "image": "page_01.png",
+    "sha256": "90aa9732a6cc32cb8773e25c6d908350a08c983325e006a62bbc7e29a2a91213",
+    "pixel_sha256": "a82db6dc73df5319224c515fdb456ff897799140962ec6dd8044ad17741169d0",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M028/page_01.png"
+  },
+  {
+    "id": "G08:M028",
+    "run": "verified_G08_M028",
+    "image": "page_02.png",
+    "sha256": "512e8d1c30eb831bac1c01c30332b2f5b316f0f77b791a2af5d3fc90a66ac814",
+    "pixel_sha256": "13bebaba9ef5a7107f7ff0c447b2606e6c836d53ba930136ebb718cdaa8caee2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G08_M028/page_02.png"
+  },
+  {
+    "id": "G10:M000",
+    "run": "verified_G10_M000",
+    "image": "page_01.png",
+    "sha256": "9cb18da3856aec383d8637065703a6ff638de6508532c67bba279e64f746fe4b",
+    "pixel_sha256": "1254965e50b75ccdcea62dcc596569c7daf630c5df0dcb281f0d5f170411b4fa",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M000/page_01.png"
+  },
+  {
+    "id": "G10:M001",
+    "run": "verified_G10_M001",
+    "image": "page_01.png",
+    "sha256": "359efeedc7b36de818af430fe4abd6b6e3b0ac5eced2e61762b7210488d66d82",
+    "pixel_sha256": "c6a2f0aaec620d905d7986df36286f32db746808dc24337bc784e97c4893bb32",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M001/page_01.png"
+  },
+  {
+    "id": "G10:M002",
+    "run": "verified_G10_M002",
+    "image": "page_01.png",
+    "sha256": "b61786ce5492e28df01ce22c46cbea6244cd481ed40ee47f592d0649910caa31",
+    "pixel_sha256": "ccc0a108b10e62a720b4219f2081ce4a886fdf449c28e2af5bb84b04f899039f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M002/page_01.png"
+  },
+  {
+    "id": "G10:M002",
+    "run": "verified_G10_M002",
+    "image": "page_02.png",
+    "sha256": "ea5a14870eee29df5a6eb2dd4129e26fb14cf70b1b133c7ffcf49ca5a0aad34a",
+    "pixel_sha256": "8461fdc755d1fcdf33aa78997cba1f922a2aa7c276dc372e6470728219761831",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M002/page_02.png"
+  },
+  {
+    "id": "G10:M003",
+    "run": "verified_G10_M003",
+    "image": "page_01.png",
+    "sha256": "9ae6c18c7c98edd4f6d162f0d7e9f1e645bf74261afd34436c32e97a5ca2e6dc",
+    "pixel_sha256": "1ed9534772981a957f1877e91184a040c8ca02c91068c95f0cacaf80a8ecb7e9",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M003/page_01.png"
+  },
+  {
+    "id": "G10:M004",
+    "run": "verified_G10_M004",
+    "image": "page_01.png",
+    "sha256": "d1b520e797288bbcfbefe994fc791d4943e8c42bf5c1d068da5028465c2ad1cf",
+    "pixel_sha256": "49838b6caa5f22bd410f2999c45c6c7731bc66a9aa8fc72eeab9fd0b39375dcf",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M004/page_01.png"
+  },
+  {
+    "id": "G10:M005",
+    "run": "verified_G10_M005",
+    "image": "page_01.png",
+    "sha256": "4a8615c4f439025c1d8bda44b6ff3ee25cc785e2f48e6afd770c68cbcf23b8dd",
+    "pixel_sha256": "c58bb312b7cff3a380fd8293968922a047194ec2d74919bb38d1eb957c92acd2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M005/page_01.png"
+  },
+  {
+    "id": "G10:M006",
+    "run": "verified_G10_M006",
+    "image": "page_01.png",
+    "sha256": "549bc16407e85d6c192568ed6ab99e59a9fb6e4267d9ddba4de8dcbf7b34c6d4",
+    "pixel_sha256": "fca3aef2d248e3afa3d2fe586684fbe923bfc6911cea6c1f4f1c8b57fa15210a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M006/page_01.png"
+  },
+  {
+    "id": "G10:M006",
+    "run": "verified_G10_M006",
+    "image": "page_02.png",
+    "sha256": "9afe356787ad4c148ea461f84dcfcdb3f8ce64fb1f52b05afd9cb2ed9c9dbb2e",
+    "pixel_sha256": "eec4d08c6cf636af257a44bdb8e8cded1701b02a7fce44c6bee9609ce68f2635",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M006/page_02.png"
+  },
+  {
+    "id": "G10:M007",
+    "run": "verified_G10_M007",
+    "image": "page_01.png",
+    "sha256": "ffa0d18118fe70912a2018a8996c9ab7c5f04e5ba2f1eb1cda4f9c21cdebc8ef",
+    "pixel_sha256": "244536638795aa4a724092020b44634d1969e8a387db2fa6eee90659dd57ae6e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M007/page_01.png"
+  },
+  {
+    "id": "G10:M008",
+    "run": "verified_G10_M008",
+    "image": "page_01.png",
+    "sha256": "f05ce96cb096b18f427a2b19f4253fa9afd43212cdde884d70cfaabdfd8cf6ec",
+    "pixel_sha256": "c853d666653aab17804ab5281bfc3d8ee4a438c3dd7353a6ce6b059ba7ed3355",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M008/page_01.png"
+  },
+  {
+    "id": "G10:M009",
+    "run": "verified_G10_M009",
+    "image": "page_01.png",
+    "sha256": "447c8073874805308ac61eddc0195121a1d448d5532f0d143fcf234f0df4d03f",
+    "pixel_sha256": "45a5780393d4487f81d97580a961178c96cc3cb5b097a4263fd5324cc6504e14",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M009/page_01.png"
+  },
+  {
+    "id": "G10:M009",
+    "run": "verified_G10_M009",
+    "image": "page_02.png",
+    "sha256": "fcb4455d73447c622e4f486322240d44b3ff105109349017fa7c3e19e82bbd74",
+    "pixel_sha256": "ee0b9434eb130e0730ca1c2d659f4c306016b4f1a1701ce2f34466637ac35dae",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M009/page_02.png"
+  },
+  {
+    "id": "G10:M010",
+    "run": "verified_G10_M010",
+    "image": "page_01.png",
+    "sha256": "b8d8b841305fe11d50617a0f4c56c637a4d34bcceed9e2abdca28d0fe935cf8a",
+    "pixel_sha256": "6959f6b5e25a366e94f3559c2e8acdec002930536c09bde703674e30a8940cd2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M010/page_01.png"
+  },
+  {
+    "id": "G10:M011",
+    "run": "verified_G10_M011",
+    "image": "page_01.png",
+    "sha256": "b917a33a07bc4812584beedd98a4dc9f79773bf2bd6edc30a3b3f730fbbfe0d9",
+    "pixel_sha256": "ec4edb79286319c7bde4faab1b03d61f107e84d682f9fcf3e9c789f89f072ee8",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M011/page_01.png"
+  },
+  {
+    "id": "G10:M012",
+    "run": "verified_G10_M012",
+    "image": "page_01.png",
+    "sha256": "2f2e2e1a7b4a71062d4a6eb51361053cacba41c378ebd5dd47f07bb316f2bea1",
+    "pixel_sha256": "1c09cb573288b8a9000c46e5feb52cce361e73e67f6d3774c405b9724a8119c1",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M012/page_01.png"
+  },
+  {
+    "id": "G10:M012",
+    "run": "verified_G10_M012",
+    "image": "page_02.png",
+    "sha256": "ae270267ca4750ec93d542458c435266465ca7519bea0ff9f65043fd8475f2cc",
+    "pixel_sha256": "7652a985913cc57aaefa8cc0cb47aedb3d5e0ace08c531dfd7759ea2d1180aac",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M012/page_02.png"
+  },
+  {
+    "id": "G10:M013",
+    "run": "verified_G10_M013",
+    "image": "page_01.png",
+    "sha256": "2cc2b6081672acf15c4b52e7cee0dc72b921dd10bd287f016f287c7fef8e1b34",
+    "pixel_sha256": "8e78dd6d3e75d95440213c4d53bdd04d1c45678fe6704328943990c283e5cfc0",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M013/page_01.png"
+  },
+  {
+    "id": "G10:M014",
+    "run": "verified_G10_M014",
+    "image": "page_01.png",
+    "sha256": "029ec2c94f7e51becd131a8e967552fc0179f2ff0ff81bb98d342dec33704d88",
+    "pixel_sha256": "9f7f5606bce7ef9c7e680c236d788672c3d1ad5c891759c578b21c9d9de42c61",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M014/page_01.png"
+  },
+  {
+    "id": "G10:M015",
+    "run": "verified_G10_M015",
+    "image": "page_01.png",
+    "sha256": "d1d7b37974ca7c9a92029561ed5d33987492ba501a04162b5d044237dcacd4b4",
+    "pixel_sha256": "78ad95640185127d4120e583167bb103b8bbef487e83512ed97185dc17afdbee",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M015/page_01.png"
+  },
+  {
+    "id": "G10:M016",
+    "run": "verified_G10_M016",
+    "image": "page_01.png",
+    "sha256": "4c93ba39b39ca6bc7b66a692d87a8014c5ccb13587d550dc383c1177e0323e3c",
+    "pixel_sha256": "ae0fff6bbe111d56c23955710d05fba81aa2f5ef8f0f41a3df1a525e5f55dcf2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M016/page_01.png"
+  },
+  {
+    "id": "G10:M017",
+    "run": "verified_G10_M017",
+    "image": "page_01.png",
+    "sha256": "910da26504d00257ce0a0f49cd748c938ef179fe3070c38d04749b959783d26d",
+    "pixel_sha256": "185600c5c0d70cf25ead15acd63a33aa9ef390880b96a6aa9cfccd86e5a4763e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M017/page_01.png"
+  },
+  {
+    "id": "G10:M018",
+    "run": "verified_G10_M018",
+    "image": "page_01.png",
+    "sha256": "eaeaacd2dbdec2c42cf6aabe86eb6224def44e7fc225642cfa792c914f6be425",
+    "pixel_sha256": "df2c33b8200831286d9d98933bd999d5d072af084aea7344734703ce841849bd",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M018/page_01.png"
+  },
+  {
+    "id": "G10:M019",
+    "run": "verified_G10_M019",
+    "image": "page_01.png",
+    "sha256": "a0b0bff159436e2e5b77f2f4e073bbdfef527b87d1be09ff91f86418c83d0697",
+    "pixel_sha256": "bf9bb7dd4c99c7c7a83d5a97e9beac4d9935ac65f86129fd9a212e72de0256f8",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M019/page_01.png"
+  },
+  {
+    "id": "G10:M020",
+    "run": "verified_G10_M020",
+    "image": "page_01.png",
+    "sha256": "b8c50e629813d19f5417012286e357cf96e75512786d17e1002c381dd61f95c5",
+    "pixel_sha256": "a4f898796c4b631847a506b0619b62e3766d28997e697fca3332ecff560ec01d",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M020/page_01.png"
+  },
+  {
+    "id": "G10:M021",
+    "run": "verified_G10_M021",
+    "image": "page_01.png",
+    "sha256": "bae5d8e62c81a2ea222ae1b284242bbf8e7bd6d9f72afbb777ae57acaf380920",
+    "pixel_sha256": "e208e8e5bc333325fe2b7fbb84c9e0d5963a3e7dcd77876fa31761471f832dcf",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M021/page_01.png"
+  },
+  {
+    "id": "G10:M021",
+    "run": "verified_G10_M021",
+    "image": "page_02.png",
+    "sha256": "275d6932b523670dc9d6e462c0cefb01e2e6a9f4a3365d1891b84d35a51ca61b",
+    "pixel_sha256": "9497b23f4a3d6c8867031f5a28cb693b4c234a365d83d4e19a25a6a37b77fff5",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M021/page_02.png"
+  },
+  {
+    "id": "G10:M022",
+    "run": "verified_G10_M022",
+    "image": "page_01.png",
+    "sha256": "a94be1758740b72b7201fc988c1f032b0702c00be837f586b47a91b3e22ccc4a",
+    "pixel_sha256": "e8362a92a17a182d5a3fbd67ac3c977bcc41602c57775d2bfa4ff697e7c2e18f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M022/page_01.png"
+  },
+  {
+    "id": "G10:M022",
+    "run": "verified_G10_M022",
+    "image": "page_02.png",
+    "sha256": "ce36e3ca9bd51aa0b91f29e1726a57d182744c86908edebb809c0a134415092f",
+    "pixel_sha256": "ff952a67139e5ee2de611c25cc0348c5ca3ac315f87b9a87867bb8fa6645936f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M022/page_02.png"
+  },
+  {
+    "id": "G10:M022",
+    "run": "verified_G10_M022",
+    "image": "page_03.png",
+    "sha256": "04ac74fa1d845d6d82532e1dd83f5f277f75669aceac4cff0fee565beb282ff8",
+    "pixel_sha256": "658a3e0fc3105c729cc37482502fd1faf2069eef0b72af67103aea6a763c7143",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M022/page_03.png"
+  },
+  {
+    "id": "G10:M023",
+    "run": "verified_G10_M023",
+    "image": "page_01.png",
+    "sha256": "55e087a84edb6ba3b33feaabb33e6db3b9465b6ada8e3419cb62fff495fd4e88",
+    "pixel_sha256": "6569945ce27a0ce3c01001b7eade1ead6e5daf0880b5ae07b2de1ecd69794e90",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M023/page_01.png"
+  },
+  {
+    "id": "G10:M023",
+    "run": "verified_G10_M023",
+    "image": "page_02.png",
+    "sha256": "b1fe6b8da8ed85ad9957d2c0085dd87e4d69e6a3af099ff878a68a7af705c4a0",
+    "pixel_sha256": "9bc571d5874e1e294f2af61fdd0712296717403298566ccb7a4df3b826435cf3",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M023/page_02.png"
+  },
+  {
+    "id": "G10:M023",
+    "run": "verified_G10_M023",
+    "image": "page_03.png",
+    "sha256": "c95ca04eedf5c86efb6b4dfae16e3361e9a110ad4636f4283ded2fadc69ab8b1",
+    "pixel_sha256": "e98214f85591323476da1ec46579a9dfe11b743808bad21b96637aacba19acac",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M023/page_03.png"
+  },
+  {
+    "id": "G10:M024",
+    "run": "verified_G10_M024",
+    "image": "page_01.png",
+    "sha256": "efc541d9a1fb32b66b00811ab124cac1eac84c1b75335b09b08467e9d3a6ea28",
+    "pixel_sha256": "115fd04488a294131fc778fe7c21a37b58270613d20d3643889bb79cbd7a2398",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M024/page_01.png"
+  },
+  {
+    "id": "G10:M025",
+    "run": "verified_G10_M025",
+    "image": "page_01.png",
+    "sha256": "00c9257ee8bc456b2bd822698b5e3f359d06820468d981b569b08e3f9b1cbe07",
+    "pixel_sha256": "e17031ed150335319f283e7cf68aeee9fe3f7814e93751cbbd81506accab5e6e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M025/page_01.png"
+  },
+  {
+    "id": "G10:M026",
+    "run": "verified_G10_M026",
+    "image": "page_01.png",
+    "sha256": "732f079277d390a74a5f65011f9abe7575250b9d2afc53a794f469369c26e6db",
+    "pixel_sha256": "dedcac2373613ce63beba4940772039987f6aa559f670b1d943ff15c105430c4",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M026/page_01.png"
+  },
+  {
+    "id": "G10:M027",
+    "run": "verified_G10_M027",
+    "image": "page_01.png",
+    "sha256": "5b69a62a3e0b6a10264ffd70d727e1eb9dc2bf3d3623105f32544ef9f7acd0eb",
+    "pixel_sha256": "6de836b4bf62c8a6de5281e1e8eb326fb6c39c786fe1bdd36c1577b40a6bfefe",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M027/page_01.png"
+  },
+  {
+    "id": "G10:M027",
+    "run": "verified_G10_M027",
+    "image": "page_02.png",
+    "sha256": "498efe15de4599f80723c61cd5179310443b7bdba2e33824744d121544de1cec",
+    "pixel_sha256": "092149aad29e7b43926db2dbdc3a604c81a38c296b2c74429fa060875b8cb5b9",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M027/page_02.png"
+  },
+  {
+    "id": "G10:M028",
+    "run": "verified_G10_M028",
+    "image": "page_01.png",
+    "sha256": "45fe24d7f2766f7a0000f478eb2617e9088f4f6c3cdd3c874b52568dfa1b3e23",
+    "pixel_sha256": "13af9bdd710b279c53739eba9683eb9c6fd2747b78c7f7439ede666050c2eea9",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M028/page_01.png"
+  },
+  {
+    "id": "G10:M029",
+    "run": "verified_G10_M029",
+    "image": "page_01.png",
+    "sha256": "b6733b92dbc46eb49a951bf004483660ceae1c8c1ef3adc343217868e0a77d93",
+    "pixel_sha256": "c05fdfe9b866c6bda19fa9ab3ae1db0a7a4777507625a26eb36a5d9cf12ee722",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M029/page_01.png"
+  },
+  {
+    "id": "G10:M029",
+    "run": "verified_G10_M029",
+    "image": "page_02.png",
+    "sha256": "c45e01e5efde843dbc2c29ad70cb152188a336f02a0d4a0772465dd807451ec7",
+    "pixel_sha256": "6ac1dfe2af9be2eb5c973ec956ee8c0658ca4e5be553130422306f4968841451",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G10_M029/page_02.png"
+  },
+  {
+    "id": "G10:M030",
+    "run": "verified_G10_M030",
+    "image": "page_01.png",
+    "sha256": "20e91b0310155157fd63827e43607ae95c8b6ff3c6f79f05cbeab329690a3ccd",
+    "pixel_sha256": "8aab9c4ca5b8a91ee54f8fe47a13cc65c9fc76d8da566a4651d0613b74a7b8bf",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M030/page_01.png"
+  },
+  {
+    "id": "G10:M031",
+    "run": "verified_G10_M031",
+    "image": "page_01.png",
+    "sha256": "9d525781d980ff574f442e38fd5ed21337db96b28486928280443983f25e858e",
+    "pixel_sha256": "c5b3e4c587a3b50c52dffbecb6da02c46f782919305c9d2562165d2f66d9245a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M031/page_01.png"
+  },
+  {
+    "id": "G10:M031",
+    "run": "verified_G10_M031",
+    "image": "page_02.png",
+    "sha256": "9c2b07a04ff1e25b3e64553a8dc011c84d485f615cb9f73d58dea1df1c5d6dab",
+    "pixel_sha256": "be7c2c569a040e24a29d303abc72c3b58492740ef8ddad1f5da9a2fa935e6e2e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M031/page_02.png"
+  },
+  {
+    "id": "G10:M032",
+    "run": "verified_G10_M032",
+    "image": "page_01.png",
+    "sha256": "e9c40890f4ebc83f6dfb4e5983a4c305c877101e5f8d2fed73d79c302cea58e5",
+    "pixel_sha256": "36376d4245669bb2a2bec70e87b986a9397fae385554374cbd5208bf7a475f49",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M032/page_01.png"
+  },
+  {
+    "id": "G10:M032",
+    "run": "verified_G10_M032",
+    "image": "page_02.png",
+    "sha256": "3da8a3e39eafacb49514fee47cfdb8bd56713e339916cf8a00ff6296db7e5c3d",
+    "pixel_sha256": "8885015e546761205351fb5ea9fd29cc99bb1b6fa91ed43a3a1faebca036c7df",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M032/page_02.png"
+  },
+  {
+    "id": "G10:M032",
+    "run": "verified_G10_M032",
+    "image": "page_03.png",
+    "sha256": "d935e36df3d041bcea5204635f25cf3073ef858230bbb9fbf0ac3e8153256122",
+    "pixel_sha256": "abb56ad08df15936984fc7b69082a0ea55cf8142dd75e9463b51f0f21f56a56c",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G10_M032/page_03.png"
+  },
+  {
+    "id": "G11:M000",
+    "run": "verified_G11_M000",
+    "image": "page_01.png",
+    "sha256": "4c710880b8d8094e1c5cf3bc41b32636ed876586b234a01a70bf51d1ca42f003",
+    "pixel_sha256": "038502f42ace8ab2da432e7e2b21ed2f6f3a48492edae82bb51c47e39f74461e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M000/page_01.png"
+  },
+  {
+    "id": "G11:M001",
+    "run": "verified_G11_M001",
+    "image": "page_01.png",
+    "sha256": "832ec0a3b3313f97f2ac106bb2159b1264214557396329cde992c964aeb8da51",
+    "pixel_sha256": "eeeecc06c60023e64ca9e6bb059ff32e670096c234d860fd0a64b035afedc7fc",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M001/page_01.png"
+  },
+  {
+    "id": "G11:M002",
+    "run": "verified_G11_M002",
+    "image": "page_01.png",
+    "sha256": "e7eda4b5dfb64a38922265f20ea869e1ab55423b48b8c8bc3cbef188af61824c",
+    "pixel_sha256": "cceb9f17dfb68bfd3e84265e9a6719a04d54b04dbed4b7b27a90fd15e11e7592",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M002/page_01.png"
+  },
+  {
+    "id": "G11:M003",
+    "run": "verified_G11_M003",
+    "image": "page_01.png",
+    "sha256": "b62522728fa7bc83a9cc4f867c3a781f8843d35078a4d78adae1cfbb64451ec7",
+    "pixel_sha256": "40fbc3337fa5330eb36dd12a48b0e5e97ab08f250dcb52572f6cffdbb66a176f",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M003/page_01.png"
+  },
+  {
+    "id": "G11:M004",
+    "run": "verified_G11_M004",
+    "image": "page_01.png",
+    "sha256": "313be9070f7b3e89cc5640ed98c0272024d09d1d4861c9bfdfd71682abd09e03",
+    "pixel_sha256": "e38c8d43184e88895497482cf7ecaba3d6b71e1d249872865e929ae711b8c111",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G11_M004/page_01.png"
+  },
+  {
+    "id": "G11:M005",
+    "run": "verified_G11_M005",
+    "image": "page_01.png",
+    "sha256": "a2f39fc93ac4f868729a55ee7495574ff9af573a3f4781ac3ee32880b5c12df6",
+    "pixel_sha256": "454346afae53816d67c30ac54bea54ed85c3f4d6def637c3aaf898da9076e642",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M005/page_01.png"
+  },
+  {
+    "id": "G11:M006",
+    "run": "verified_G11_M006",
+    "image": "page_01.png",
+    "sha256": "e9355c929bc0024e1627045033181977fa6db8d1792906dd8ed2d92f6e870b00",
+    "pixel_sha256": "7f8b0e05645ce11b485623d397ff5f2336dbf4db83b0e0055cabe295b0b4e4db",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M006/page_01.png"
+  },
+  {
+    "id": "G11:M007",
+    "run": "verified_G11_M007",
+    "image": "page_01.png",
+    "sha256": "b42d8f6777c3fa3c558fcc4c1af49a606076aa023f0c429c18148ca0c09d60f5",
+    "pixel_sha256": "3fe086aa9e9f8d63a40d5495206bb4eea6ff1ba26296caef64382b1d2f29b99e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M007/page_01.png"
+  },
+  {
+    "id": "G11:M008",
+    "run": "verified_G11_M008",
+    "image": "page_01.png",
+    "sha256": "cf6151bbb3b03bee3a76a503cd84fb4c2f21067dd8cde5353ef413020e9206d4",
+    "pixel_sha256": "61d1770c8985c660dfe6dfe60e4e1afa37055dae13f4115bc47471720ff0886b",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M008/page_01.png"
+  },
+  {
+    "id": "G11:M009",
+    "run": "verified_G11_M009",
+    "image": "page_01.png",
+    "sha256": "477bbae183e054ab6c7eab51fad58941c0c80243241695c46e0d7c39428f89aa",
+    "pixel_sha256": "7a251095508bbc6d35886811b3642f025c7b85ada7cbeffd26ba97cb959d428e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M009/page_01.png"
+  },
+  {
+    "id": "G11:M010",
+    "run": "verified_G11_M010",
+    "image": "page_01.png",
+    "sha256": "04417aa17a3718ed4da2029591f6801c974b73c46cad71e84475b3145909faaa",
+    "pixel_sha256": "84a08fb5510569666324ae1d274d5aa002de56191c444843ebfb2ec96638128d",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M010/page_01.png"
+  },
+  {
+    "id": "G11:M011",
+    "run": "verified_G11_M011",
+    "image": "end_text.png",
+    "sha256": "3605a33f80fe8fb38be6fc9b2a3f7d497b5d1298f536f0c021f554de36b87a2e",
+    "pixel_sha256": "fd4971a84b30876b9a7a213cd3d5d8502ed526aac72f7106579bd620b66f0001",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M011/end_text.png"
+  },
+  {
+    "id": "G11:M012",
+    "run": "verified_G11_M012",
+    "image": "page_01.png",
+    "sha256": "c8f49a6827b1460f651fab2c31f05ea69be201a1fbbc1245d6a12d171f346588",
+    "pixel_sha256": "934a66d13034395f21d4001cc0ddee6e13f5fc7b23d6bb12b17624668d4fafe2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M012/page_01.png"
+  },
+  {
+    "id": "G11:M013",
+    "run": "verified_G11_M013",
+    "image": "page_01.png",
+    "sha256": "ebe455daec35bfff1756bd32fb04c7e7b898a94d83c925b8b04d792cd8cb2b1f",
+    "pixel_sha256": "99e5823cdbb3d7f9efa3aeb54e9f9aba6501f4266b349ec21d40ddf948cf73c5",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M013/page_01.png"
+  },
+  {
+    "id": "G11:M013",
+    "run": "verified_G11_M013",
+    "image": "page_02.png",
+    "sha256": "4db9be14f575e9d00a9f80965f838358a9714329ec084b508481c84717ba12e2",
+    "pixel_sha256": "db6f75fb5e6d893c1e86c3cdd29a4c7ec7a10d29e1d156a11dcc78926c4e2d38",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M013/page_02.png"
+  },
+  {
+    "id": "G11:M014",
+    "run": "verified_G11_M014",
+    "image": "page_01.png",
+    "sha256": "40d19d458ad536d3ce4be39a8d11201d0cccc304053a05d054f10e1457354d78",
+    "pixel_sha256": "60dfc278f449a4976fdd9a899427c4dbb6a4a65dfc616e86e09ebb98b148924d",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M014/page_01.png"
+  },
+  {
+    "id": "G11:M014",
+    "run": "verified_G11_M014",
+    "image": "page_02.png",
+    "sha256": "e61b0195ae920ff5d2ddc90d0fa0a4fd690ce28eaa2f598366a85c505740a730",
+    "pixel_sha256": "884bfeccf61374eea4d4e659205ef8e0ade3c265cd95e9d5f746742364c8a9c0",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M014/page_02.png"
+  },
+  {
+    "id": "G11:M014",
+    "run": "verified_G11_M014",
+    "image": "page_03.png",
+    "sha256": "3522db31baba9240b61c08a024705e909a03841a0fe50addec14b649099fdc79",
+    "pixel_sha256": "8fae4a06411498899e7550f7517d87768741bc8435bb6707563ffc03284d0e2e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M014/page_03.png"
+  },
+  {
+    "id": "G11:M015",
+    "run": "verified_G11_M015",
+    "image": "page_01.png",
+    "sha256": "ab954f73e638902466d63abd0c88fb154d084ba4c342d995c666e59283a9a143",
+    "pixel_sha256": "fcbe8fa47e56d8eb6b85d950a49c0e8783b946891a4cab3c87dbc60bac2a079a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M015/page_01.png"
+  },
+  {
+    "id": "G11:M015",
+    "run": "verified_G11_M015",
+    "image": "page_02.png",
+    "sha256": "a2c7378b672d1ca0bd09de63e8bfc64981a8f61fb9b392af42d4155690f08719",
+    "pixel_sha256": "421cf159ac372e881bb35b0fc44f78ccd4166e20544b4a30a4be01bf7191c118",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M015/page_02.png"
+  },
+  {
+    "id": "G11:M016",
+    "run": "verified_G11_M016",
+    "image": "page_01.png",
+    "sha256": "78062fb60ac046b70467db0182fb01053f43e09d1f1ba0e625ef80fec5ffd881",
+    "pixel_sha256": "496780bf009237a272c51f4e6f180f804de26b3c605e1b61e0e954b9de9f2572",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M016/page_01.png"
+  },
+  {
+    "id": "G11:M017",
+    "run": "verified_G11_M017",
+    "image": "page_01.png",
+    "sha256": "ad4fab027d609b2ef49b788179cfc9e8810d7e8bb4eae6f9cd34eef64f190fb0",
+    "pixel_sha256": "fa07ce26ff74c4b7302346416bbb5d55630982562c355c660bd5f5697a03e951",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M017/page_01.png"
+  },
+  {
+    "id": "G11:M018",
+    "run": "verified_G11_M018",
+    "image": "page_01.png",
+    "sha256": "cbfe98b81d34a1e8ef9db09108e9eb076aeeaf3030039b5afe8ee0d5be145493",
+    "pixel_sha256": "e9135c70b7b794e08cf5d1610e67da995f8117a135b40970c8af333c036e4587",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M018/page_01.png"
+  },
+  {
+    "id": "G11:M019",
+    "run": "verified_G11_M019",
+    "image": "page_01.png",
+    "sha256": "c8f3482b512096a530ea78ba17a2db4fed731cbc08316763e54a80c2c8ae0f69",
+    "pixel_sha256": "91586d085b4db154f6dfd5cb66a4ca8385849e0b5f5114f54765069c7532233d",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M019/page_01.png"
+  },
+  {
+    "id": "G11:M020",
+    "run": "verified_G11_M020",
+    "image": "page_01.png",
+    "sha256": "3719468e7424535043e1a301d9d78d5824187dc18b80fc4ca5407928c1133ae2",
+    "pixel_sha256": "a283b658e289703668fbf1ee902105d35a7f32e95cd8ff699a97d01c69565e41",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M020/page_01.png"
+  },
+  {
+    "id": "G11:M021",
+    "run": "verified_G11_M021",
+    "image": "page_01.png",
+    "sha256": "9e46f5182e1dc9061e860a913f0495c6bc6f5486f64506caa98ff4910c7e6146",
+    "pixel_sha256": "c87f233c35c03a545dbbbcc68ca0b6ef4c7a72911ba4fc1ec6cc8318e738eda2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M021/page_01.png"
+  },
+  {
+    "id": "G11:M022",
+    "run": "verified_G11_M022",
+    "image": "page_01.png",
+    "sha256": "18f141c45feef9e7884715a15bfa9069075dded7dd06ee926605b33a241e6838",
+    "pixel_sha256": "b0bf7eb3393d78fa61bf50a61d22b6ddf5874b35ac542ef8ed36afc87234d2f8",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M022/page_01.png"
+  },
+  {
+    "id": "G11:M023",
+    "run": "verified_G11_M023",
+    "image": "page_01.png",
+    "sha256": "5405438e07b71b9c192b078b271a584b36e2ba10eebb71ff8ecbc4838f24a1c6",
+    "pixel_sha256": "5a6b6d42ace9ceefd3f6611eb3e7d5425aea1c0cf109917b0b2e5c9a9d75a723",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M023/page_01.png"
+  },
+  {
+    "id": "G11:M023",
+    "run": "verified_G11_M023",
+    "image": "page_02.png",
+    "sha256": "a4d288624a51fe7561ccf91b9b14200fc582a212cebef1ef055664d1ed3e9e3d",
+    "pixel_sha256": "0db6ac9df77c697e2b78b9d455acbba8ad9d4647a060fec470fd1d784da9ef79",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M023/page_02.png"
+  },
+  {
+    "id": "G11:M024",
+    "run": "verified_G11_M024",
+    "image": "page_01.png",
+    "sha256": "3330c3ac3758f4fb1fe4d9bc8eb24f4ab0cfae7d5fa1d0f34c95abceb2b11df5",
+    "pixel_sha256": "a2280466e4448a0d3266565456dbaa060616d28d2a1cb7c7b135725318d94047",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M024/page_01.png"
+  },
+  {
+    "id": "G11:M024",
+    "run": "verified_G11_M024",
+    "image": "page_02.png",
+    "sha256": "3594c9291d563ec68ff174749c15ff29912b72adaaa7a2f507c4848ed41a7e39",
+    "pixel_sha256": "be30f4c001c8c10c7503456d4b2b02deaa558cc7ae8c486e768de2f7bd04a7e6",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M024/page_02.png"
+  },
+  {
+    "id": "G11:M025",
+    "run": "verified_G11_M025",
+    "image": "page_01.png",
+    "sha256": "b3322fff658a3bacbc343b3e1d6ddd05d20fd0d29794cf1f8ba3f07ba93b1458",
+    "pixel_sha256": "6aef6495e9640b98a0993781cdbf573eb65c867594e92ddb7790f481cffbd01a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M025/page_01.png"
+  },
+  {
+    "id": "G11:M026",
+    "run": "verified_G11_M026",
+    "image": "page_01.png",
+    "sha256": "0b48195326a1d59d36c619a59ad05edca7941155c447d505806faedeca586645",
+    "pixel_sha256": "3dd3e8bd25201ae474f8617f2cc9b68e9b82e03588b22d70090631cef4215a2a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M026/page_01.png"
+  },
+  {
+    "id": "G11:M027",
+    "run": "verified_G11_M027",
+    "image": "page_01.png",
+    "sha256": "6715160ba5907fe09f71c6169d6a1999b84e3d677275dc3dd73393d59d2b34d4",
+    "pixel_sha256": "1cce6fb305ba793ce98cad713188f8f87638717a6f704ad82579e96cabff1bc9",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M027/page_01.png"
+  },
+  {
+    "id": "G11:M028",
+    "run": "verified_G11_M028",
+    "image": "page_01.png",
+    "sha256": "a1d6c1e0018e5eaf72923edde7d13ec2a33ec95cdb574410cd29acd7bdb70c9a",
+    "pixel_sha256": "178627df2e51f8b15556fa87f89d441d382cb46d8011f871ad792d9b3e8211cd",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M028/page_01.png"
+  },
+  {
+    "id": "G11:M029",
+    "run": "verified_G11_M029",
+    "image": "page_01.png",
+    "sha256": "03493d1fe1c6473a385135c778fd942b37178949ceeea611e2323f2feb8533d0",
+    "pixel_sha256": "ff9d990cbe069f8707fb4a2cc5d947a42776f7fc19c775f35ec81f47135d64ea",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M029/page_01.png"
+  },
+  {
+    "id": "G11:M030",
+    "run": "verified_G11_M030",
+    "image": "page_01.png",
+    "sha256": "b8de353b549ad00ea212a3f19b1eb46a79dde39b7f1fbae53280a226c64499bd",
+    "pixel_sha256": "13ecb8b284444caf899ca139092dd4a06f36084fdf96300bb28dd88b05f108e2",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M030/page_01.png"
+  },
+  {
+    "id": "G11:M031",
+    "run": "verified_G11_M031",
+    "image": "page_01.png",
+    "sha256": "0d82fefc535e7243f1b352f09f327f398035ee29073a0cf1b8ec8054840627d4",
+    "pixel_sha256": "a2918d051997791ae98c7381e457830621806e5687958e7f96b415ed8ff6538d",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M031/page_01.png"
+  },
+  {
+    "id": "G11:M032",
+    "run": "verified_G11_M032",
+    "image": "page_01.png",
+    "sha256": "6dfdb3106375e8c954c2d7d0ea7779f14d3bb60795d9145c4e448ea844e03406",
+    "pixel_sha256": "86afee6fb6783c04248bf0ffbb8ee79de72962c82f6084d33cbee7b6b29ded4d",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M032/page_01.png"
+  },
+  {
+    "id": "G11:M033",
+    "run": "verified_G11_M033",
+    "image": "page_01.png",
+    "sha256": "784b72964fe31b716020f1271976dd9aa5f487f3c49590df28e4ee3b37bdd9f1",
+    "pixel_sha256": "0e49ea0efd78bdd47290c43749deb13ad168f79d96fd6c2c74de14a90cb40097",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M033/page_01.png"
+  },
+  {
+    "id": "G11:M034",
+    "run": "verified_G11_M034",
+    "image": "page_01.png",
+    "sha256": "0b9aca867c0ee1183f66f54e82bb35610c53c0f3f2328860bc60c2c446e80f70",
+    "pixel_sha256": "3600c458f3bc07b777bb0323be484a896fd7e0c8922d9bbd32146d7a6540767a",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G11_M034/page_01.png"
+  },
+  {
+    "id": "G11:M035",
+    "run": "verified_G11_M035",
+    "image": "page_01.png",
+    "sha256": "b1bab9f869b7418e9c185397800dabaa82d4412bd383844bd46c275bd3f0d5ff",
+    "pixel_sha256": "ecb65da6657287ee583968dcff712b88deeec6bbdccee8ffc006fb7da4f72b22",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G11_M035/page_01.png"
+  },
+  {
+    "id": "G11:M036",
+    "run": "verified_G11_M036",
+    "image": "page_01.png",
+    "sha256": "39c71e6a201d3a6c31b32c9536d4d1be1bf3f70cd4db178c7906e0e9b1eba98b",
+    "pixel_sha256": "58b32374583e3c754891119e7069fcbef0845fbfd4bfedddff7baa18b0a2e391",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M036/page_01.png"
+  },
+  {
+    "id": "G11:M037",
+    "run": "verified_G11_M037",
+    "image": "page_01.png",
+    "sha256": "62acd89f36046c4911184cd2838e77fafec17489671519744dae3f159c4c27c8",
+    "pixel_sha256": "0f93a5d5b59cfe6bcba40ab6caa4f8ae8b5f1ffa83d1e61b623b0d7df6cafb65",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M037/page_01.png"
+  },
+  {
+    "id": "G11:M037",
+    "run": "verified_G11_M037",
+    "image": "page_02.png",
+    "sha256": "6bfbe7170806db4adda7dcc6582e8a6268d3c7a6dd56c6630918aa43a232830d",
+    "pixel_sha256": "0f053da9fdc95730a5afc358df053f6d0f86f4892f19f5a536d75dd242f62bd0",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M037/page_02.png"
+  },
+  {
+    "id": "G11:M038",
+    "run": "verified_G11_M038",
+    "image": "page_01.png",
+    "sha256": "d258293056ec0c13ad99b00791deeda546c83035694a0d4a3d6d9217cb81eced",
+    "pixel_sha256": "2bd4e6381ffdf04b83200c92bc3aed0a73467ae4e793ee03c40c139a55287950",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G11_M038/page_01.png"
+  },
+  {
+    "id": "G11:M038",
+    "run": "verified_G11_M038",
+    "image": "page_02.png",
+    "sha256": "dac6ca838b6b6a58e953bee7c8bcb313646f69b81f61c73a8995da7627e5a1be",
+    "pixel_sha256": "b0ba0645577372cd0a7d5eb414ba8d6f11c137d01afbaedf78c7190bc57d19a7",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "final_G11_M038/page_02.png"
+  },
+  {
+    "id": "G11:M039",
+    "run": "verified_G11_M039",
+    "image": "page_01.png",
+    "sha256": "a160af4ae0f93bb6f9d077870cd658b03bcfdce1686b9bb12a3b6568a5f08e47",
+    "pixel_sha256": "621bd14a1d3395abaf30735bab52a5d66ab6ff1b4d27a328aacc4cbf38206e5e",
+    "method": "PIXEL_IDENTICAL_TO_DIRECT_NATIVE_READING",
+    "read_image": "baseline_G11_M039/page_01.png"
+  }
+]

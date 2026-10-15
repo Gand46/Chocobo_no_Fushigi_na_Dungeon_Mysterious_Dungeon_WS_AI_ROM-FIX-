@@ -1,0 +1,7 @@
+{
+  "command": "python3 -m unittest discover -s tests -v",
+  "cwd": "project root",
+  "tests": 11,
+  "status": "PASS",
+  "observed_output": "Ran 11 tests in 0.015s; OK"
+}

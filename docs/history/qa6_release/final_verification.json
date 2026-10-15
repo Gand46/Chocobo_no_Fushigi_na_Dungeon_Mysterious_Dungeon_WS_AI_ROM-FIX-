@@ -1,0 +1,17 @@
+{
+  "unit_tests": 11,
+  "independent_bps": "PASS",
+  "resource_words": {
+    "JP": 72,
+    "EN_v1.1": 196,
+    "HF1_TEST": 77,
+    "HF2_TEST": 77,
+    "HF3_TEST": 77
+  },
+  "generator_matches_all_four_edits": true,
+  "equipment_cases": 30,
+  "resource_cases": 10,
+  "guard_hits": 0,
+  "cold_save_captured_before_new_process": true,
+  "rom_in_archive": false
+}

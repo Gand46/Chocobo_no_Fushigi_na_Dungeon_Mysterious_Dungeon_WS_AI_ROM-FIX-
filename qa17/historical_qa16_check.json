@@ -1,0 +1,20 @@
+{
+  "status": "PASS_SCOPED_EVIDENCE_BUILD_AND_TRANSACTION_CHECKS",
+  "checks": 343,
+  "approved_synthetic_runs": 16,
+  "recorded_runs": 36,
+  "approved_runs_with_store_monitor": 13,
+  "distinct_common_store_events_in_those_runs": 1154,
+  "common_store_window_crossings_in_approved_runs": 0,
+  "candidate_forced_storage_crossings": 5,
+  "rom_changes": 0,
+  "target_sha256": "83de8ad93ddfab014670c9ddeea0e71656da55a0f429512e4182e3c280d759bf",
+  "bps_sha256": "87a48858a65e66f4f11b3865869f1c0df499317b56fbeae19f2335fcfff9e183",
+  "independent_bps": "PASS_EXACT_BYTES",
+  "build": {
+    "scope": "HISTORICAL_HF11_FROM_PRESERVED_BPS"
+  },
+  "visual_review": "SEPARATE_RECORDED_IN_qa16/visual_readings.json",
+  "global_layout_approved": false,
+  "global_linguistic_approved": false
+}

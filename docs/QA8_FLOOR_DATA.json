@@ -1,0 +1,130 @@
+[
+  {
+    "run": "q8_D3_post_ending_to_30",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 30,
+    "script": "E1:5817"
+  },
+  {
+    "run": "q8_D3_post_ending_to_98",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 98,
+    "script": "E1:5817"
+  },
+  {
+    "run": "q8_D3_post_ending_to_99",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 99,
+    "script": "E1:5AEF"
+  },
+  {
+    "run": "q8_D3_to_100",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 100,
+    "script": "E1:5AEF"
+  },
+  {
+    "run": "q8_D3_to_11",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 11,
+    "script": "E1:5817"
+  },
+  {
+    "run": "q8_D3_to_22",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 22,
+    "script": "E1:5AEF"
+  },
+  {
+    "run": "q8_D3_to_30",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 0,
+    "final_floor": 1,
+    "script": "E1:367E"
+  },
+  {
+    "run": "q8_D3_to_33",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 33,
+    "script": "E1:5817"
+  },
+  {
+    "run": "q8_D3_to_44",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 44,
+    "script": "E1:5817"
+  },
+  {
+    "run": "q8_D3_to_55",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 55,
+    "script": "E1:5817"
+  },
+  {
+    "run": "q8_D3_to_66",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 66,
+    "script": "E1:5AEF"
+  },
+  {
+    "run": "q8_D3_to_77",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 77,
+    "script": "E1:5817"
+  },
+  {
+    "run": "q8_D3_to_88",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 88,
+    "script": "E1:5AEF"
+  },
+  {
+    "run": "q8_D3_to_98",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 0,
+    "final_floor": 1,
+    "script": "E1:367E"
+  },
+  {
+    "run": "q8_D3_to_99",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 99,
+    "script": "E1:5AEF"
+  },
+  {
+    "run": "q8_JP_D3_to_99",
+    "copies": 2,
+    "payload_exact": true,
+    "final_dungeon": 3,
+    "final_floor": 99,
+    "script": "E1:5AEF"
+  }
+]

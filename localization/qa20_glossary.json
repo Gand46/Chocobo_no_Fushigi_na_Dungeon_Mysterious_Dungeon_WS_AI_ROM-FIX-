@@ -1,0 +1,75 @@
+{
+  "scope": "Terminology maintained through QA24; not a global terminology approval",
+  "entries": [
+    {
+      "source": "鉢",
+      "english": "pot",
+      "refs": [
+        "G00:M040",
+        "G00:M044",
+        "G00:M045"
+      ],
+      "note": "La maceta, no la planta."
+    },
+    {
+      "source": "カミラパパ",
+      "english": "Camilla's Dad",
+      "refs": [
+        "G01:M021",
+        "G04:M031"
+      ],
+      "note": "Un referente: el padre de Camilla."
+    },
+    {
+      "source": "クワ",
+      "english": "hoe / hoes",
+      "refs": [
+        "G04:M017"
+      ],
+      "note": "Conservar la broma antes de la explicación con Talons."
+    },
+    {
+      "english": "Talons",
+      "refs": [
+        "G04:M020"
+      ],
+      "note": "Término existente para garras/equipo; no sustituir por hoe en la aclaración."
+    },
+    {
+      "source": "ウィザーヒット",
+      "english": "Wither Hit",
+      "refs": [
+        "G14:M007",
+        "F17:I007"
+      ],
+      "note": "Long vowel confirmed; bestiary Treant32/Mamon53; effect mechanics not asserted."
+    },
+    {
+      "source": "破動砲",
+      "english": "Ruin Cannon",
+      "refs": [
+        "G14:M067",
+        "F17:I067"
+      ],
+      "note": "Retains破 distinction; not an official English name or proof of distinct mechanics."
+    },
+    {
+      "source": "波動砲",
+      "english": "Wave Cannon",
+      "refs": [
+        "G14:M152",
+        "F17:I152"
+      ],
+      "note": "Omega63 bestiary label; replaces inherited Aura getter."
+    },
+    {
+      "source": "階くらいあとで",
+      "english": "floors or so later",
+      "refs": [
+        "G11:M011",
+        "G16:M073"
+      ],
+      "note": "Suffix; approximation and temporal direction retained. Natural host/number range pending."
+    }
+  ]
+}

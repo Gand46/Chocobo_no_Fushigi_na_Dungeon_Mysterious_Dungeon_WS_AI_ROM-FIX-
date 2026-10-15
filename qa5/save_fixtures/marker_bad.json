@@ -1,0 +1,8 @@
+{
+  "method": "SYNTHETIC_SAVE_MUTATION",
+  "source_sha256": "1256b32a835c03cc4a977db10ed9940f29c5a46054fe82d9fa844f533d5bdb43",
+  "sha256": "b7707332e041e4aedc6bf9df237d3ccd1237dc81d050c2aa0e768ec4c843eed6",
+  "changed_offsets": [
+    "0x75b0"
+  ]
+}

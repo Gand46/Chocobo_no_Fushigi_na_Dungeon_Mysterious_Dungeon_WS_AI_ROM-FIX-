@@ -1,0 +1,11 @@
+{
+  "source": "visual_A.png",
+  "stage": "native full screenshot before intended asset text inspection",
+  "visible": [
+    "Chocobo's",
+    "Mystery Dungeon",
+    "for WonderSwan",
+    "PUSH BUTTON"
+  ],
+  "observations": "Direct pixel reading; smaller text is outlined. Individual glyph isolation to follow; not yet a global legibility pass."
+}

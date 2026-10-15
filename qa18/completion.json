@@ -1,0 +1,10 @@
+{
+  "completed_utc": "2026-10-14T22:26:16.657676+00:00",
+  "started_utc": "2026-10-14T22:09:02.535735+00:00",
+  "iteration": "M4_OF_4",
+  "status": "EXECUTED_PASS_SYNTHETIC_SCOPED",
+  "output": "HF13_TEST",
+  "global_layout_approved": false,
+  "global_linguistic_approved": false,
+  "remaining_base_iterations": 0
+}

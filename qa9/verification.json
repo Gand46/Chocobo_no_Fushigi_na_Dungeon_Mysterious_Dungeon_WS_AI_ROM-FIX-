@@ -1,0 +1,138 @@
+{
+  "scope": "SYNTHETIC_STALE_CACHE_FIX; not full elevator/game approval",
+  "changed_bytes": 53,
+  "changed_offsets": [
+    "14D398",
+    "14D399",
+    "14D39A",
+    "14FDA8",
+    "14FDA9",
+    "14FDAA",
+    "14FDAB",
+    "14FDAC",
+    "14FDAD",
+    "14FDAE",
+    "14FDAF",
+    "14FDB0",
+    "14FDB1",
+    "14FDB2",
+    "14FDB3",
+    "14FDB4",
+    "14FDB5",
+    "14FDB6",
+    "14FDB7",
+    "14FDB8",
+    "14FDB9",
+    "14FDBA",
+    "14FDBB",
+    "14FDBC",
+    "14FDBD",
+    "14FDBE",
+    "14FDBF",
+    "14FDC0",
+    "14FDC1",
+    "14FDC2",
+    "14FDC3",
+    "14FDC5",
+    "14FDC6",
+    "14FDC7",
+    "14FDC8",
+    "14FDC9",
+    "14FDCB",
+    "14FDCC",
+    "14FDCD",
+    "14FDCE",
+    "14FDCF",
+    "14FDD0",
+    "14FDD1",
+    "14FDD2",
+    "14FDD3",
+    "14FDD4",
+    "14FDD5",
+    "14FDD6",
+    "14FDD7",
+    "14FDD8",
+    "14FDD9",
+    "1FFFFE",
+    "1FFFFF"
+  ],
+  "floor_matrix": [
+    {
+      "run": "q9_final11",
+      "floor": 11,
+      "event": "000E",
+      "native_copies_exact": 2
+    },
+    {
+      "run": "q9_final22",
+      "floor": 22,
+      "event": "620F",
+      "native_copies_exact": 2
+    },
+    {
+      "run": "q9_final33",
+      "floor": 33,
+      "event": "0010",
+      "native_copies_exact": 2
+    },
+    {
+      "run": "q9_final44",
+      "floor": 44,
+      "event": "0011",
+      "native_copies_exact": 2
+    },
+    {
+      "run": "q9_final55",
+      "floor": 55,
+      "event": "0012",
+      "native_copies_exact": 2
+    },
+    {
+      "run": "q9_final66",
+      "floor": 66,
+      "event": "A213",
+      "native_copies_exact": 2
+    },
+    {
+      "run": "q9_final77",
+      "floor": 77,
+      "event": "0000",
+      "native_copies_exact": 2
+    },
+    {
+      "run": "q9_final88",
+      "floor": 88,
+      "event": "2015",
+      "native_copies_exact": 2
+    },
+    {
+      "run": "q9_final98",
+      "floor": 98,
+      "event": "0000",
+      "native_copies_exact": 2
+    },
+    {
+      "run": "q9_final100",
+      "floor": 100,
+      "event": "A217",
+      "native_copies_exact": 2
+    },
+    {
+      "run": "q9_final30",
+      "floor": 30,
+      "event": "0000",
+      "native_copies_exact": 2
+    },
+    {
+      "run": "q9_scoped99",
+      "floor": 99,
+      "event": "A216",
+      "native_copies_exact": 2
+    }
+  ],
+  "telep_reentry30_map_before": "A217",
+  "telep_reentry30_map_after": "0000",
+  "telep_reentry_method": "native Telep99, synthetic SRAM reentry, native cold loader",
+  "fountain_variants": "coherent minimum15Geyser+5Frog and full45Geyser+15Frog complete E0:ABE2",
+  "native_coherent_save98_load99": "PASS both HF5 and HF6; not evidence of native save corruption"
+}

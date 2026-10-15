@@ -1,0 +1,21 @@
+{
+  "story_references": 3488,
+  "story_unique_pointers": 3472,
+  "story_nonempty": 3307,
+  "story_literal_references": 886,
+  "story_control_only_nonempty": 2421,
+  "story_dynamic_references": 9,
+  "story_unterminated": 0,
+  "horizontal_candidates": [
+    "G01:M031",
+    "G06:M022",
+    "G09:M063"
+  ],
+  "vertical_candidates": [],
+  "getter_entries": 2333,
+  "getter_nonempty": 1972,
+  "getter_unterminated": 0,
+  "window_presets": 141,
+  "unique_geometries": 79,
+  "status": "STATIC_ONLY_NOT_GLOBAL_VISUAL_APPROVAL"
+}

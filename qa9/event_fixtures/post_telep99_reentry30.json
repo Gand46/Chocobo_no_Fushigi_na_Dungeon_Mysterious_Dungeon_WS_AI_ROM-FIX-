@@ -1,0 +1,8 @@
+{
+  "source": "runs/q9_telep99/sram.bin",
+  "source_sha256": "f35b519101efdbe92ebfc7ab23056f3aaf5c04a7e61c78d9ab1be64501f9d3c1",
+  "sha256": "a7d30ea4fe6032c55dba0be0a07444e51a4c65072791f6cb88c9707e5d95ffd7",
+  "access": "SYNTHETIC_REENTRY_SRAM_AFTER_NATIVE_TELEP",
+  "changes": "copy actual live town payload after native Telep99 into legacy cold-load container; setD3/current=maximum29; preserve native stale decimal cache99, progress and eventflags",
+  "limitations": "NOT the continuous elevator UI route; compare data-state reconstruction in native cold loader"
+}

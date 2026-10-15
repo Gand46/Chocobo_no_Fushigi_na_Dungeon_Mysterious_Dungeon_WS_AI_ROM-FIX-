@@ -1,0 +1,10 @@
+JP quantity_unknown True
+JP unknown_names_long True
+JP status_equipped_plus True
+JP status_equipped_minus True
+JP fused True
+HF16 quantity_unknown True
+HF16 unknown_names_long True
+HF16 status_equipped_plus True
+HF16 status_equipped_minus True
+HF16 fused True

@@ -1,0 +1,26 @@
+{
+  "190333..190401": {
+    "identical": true,
+    "sha256": {
+      "jp": "f965b7dd8bd6af32fdae30e234e605d85861516e0c0329542e99113f0ce35c5a",
+      "en": "f965b7dd8bd6af32fdae30e234e605d85861516e0c0329542e99113f0ce35c5a",
+      "hf3": "f965b7dd8bd6af32fdae30e234e605d85861516e0c0329542e99113f0ce35c5a"
+    }
+  },
+  "18C88E..18C8CA": {
+    "identical": true,
+    "sha256": {
+      "jp": "2928cdec3b030438ec92722f0c29ac39f34b4c26d130c2ae4934888e599c40a3",
+      "en": "2928cdec3b030438ec92722f0c29ac39f34b4c26d130c2ae4934888e599c40a3",
+      "hf3": "2928cdec3b030438ec92722f0c29ac39f34b4c26d130c2ae4934888e599c40a3"
+    }
+  },
+  "0158E2..015906": {
+    "identical": true,
+    "sha256": {
+      "jp": "1c6027dc550762ae4ea59353f8bf95d7bff5e2bd22d2376b4ec77c4e7a19d61f",
+      "en": "1c6027dc550762ae4ea59353f8bf95d7bff5e2bd22d2376b4ec77c4e7a19d61f",
+      "hf3": "1c6027dc550762ae4ea59353f8bf95d7bff5e2bd22d2376b4ec77c4e7a19d61f"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "G16:M064",
+    "offset": "0x06D336",
+    "before": "a400d100a6017802ce000002eb01000000000000000000000000a400a300a300c5007a000000c300fb021801de010203e6005c030b02ce000002eb01",
+    "after": "a400d100a6017802ce000002eb01f2fffdffa400a300a300c5007a00f2fffdffc300fb021801de010203d100a6017802ce000002eb017702f2ffffff",
+    "reason": "Three input-paced pages in native one-line exchange script E0:59B5. Preserve rate 1 Slot Point / 100 Gil. Repair inherited fo lot glyph sequence to Slot using the same resource's verified S, lo, t-space glyphs; question reads Exchange Slot Points?.",
+    "old_words": 42,
+    "new_words": 30,
+    "lines": [
+      7,
+      5,
+      12
+    ]
+  },
+  {
+    "id": "G00:M015",
+    "offset": "0x1B2203",
+    "before": "cd003301f5ff630309025102b700feffbf00eb00930069030c02b9000e0002030d009701feff80024a0167031a00b7000000f2ffffff",
+    "after": "cd003301f5ff630309025102b700f2fffdffbf00eb00930069030c02b9000e0002030d009701feff80024a0167031a00b700f2ffffff",
+    "reason": "Pause after apology, then show the complete two-line sentence. Remove one trailing padding cell to stay within slot.",
+    "old_words": 27,
+    "new_words": 27,
+    "lines": [
+      6,
+      10,
+      5
+    ]
+  },
+  {
+    "id": "G06:M012",
+    "offset": "0x065AD0",
+    "before": "b700b700b700c70063038600b700feffd100f701faff0600c1000e007a0098017502c2000500faff000067031400fcfffeff79027c01d7013a006303040295002001de01feff0f0061001801610001007600de019000d701feff36007a007802a60266003802800202034501f20100000000f2ffffff",
+    "after": "b700b700b700c70063038600b700feffd100f701faff0600c1000e007a00980175020000c2000500faff000067031400fcfffdff79027c01d7013a006303040295002001de01feff0f0061001801610001007600de019000d701f2fffdff36007a007802a60266003802800202034501f201f2ffffff",
+    "reason": "Clear after existing timed wait; add input pause/clear before third line of long paragraph. Separate Camilla's and Dad; preserve colored name, palette arguments and all nonblank glyphs.",
+    "old_words": 59,
+    "new_words": 59,
+    "lines": [
+      7,
+      12,
+      9,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "G06:M073",
+    "offset": "0x0667AA",
+    "before": "d2000c0249004501f7008002020322004c00feffe102a30162039700930078022703aa025c0397008d00feff8702fcfffeffd7000c02b9000f005e030b026503db0112020000f2ffffff",
+    "after": "d2000c0249004501f7008002020322004c00feffe102a30162039700930078022703aa025c0397008d0000008702fcfffdffd7000c02b9000f005e030b026503db0112020000f2ffffff",
+    "reason": "Join isolated to with preceding line, adding a word separator (13 cells total); clear after existing wait so final sentence uses its own page. All original glyphs retained; inherited translation semantics not approved.",
+    "old_words": 37,
+    "new_words": 37,
+    "lines": [
+      9,
+      13,
+      10
+    ]
+  },
+  {
+    "id": "G09:M191",
+    "offset": "0x06A9A8",
+    "before": "c600b701f5ffb700f5ffb700fcffb700feffd200f7012c0278024b01feffc6013d02b800ac01eb01b001b700b700b700f2ffffff",
+    "after": "c600b701f5ffb700f5ffb700b700fcfffdffd200f7012c0278024b01feffc6013d02b800ac01eb01b001b700b700b700f2ffffff",
+    "reason": "Complete three-dot ellipsis before timed wait, then clear before two-line To put it / more bluntly... sentence. Preserve glyph sequence and FFF5 pauses.",
+    "old_words": 26,
+    "new_words": 26,
+    "lines": [
+      5,
+      5,
+      9
+    ]
+  }
+]

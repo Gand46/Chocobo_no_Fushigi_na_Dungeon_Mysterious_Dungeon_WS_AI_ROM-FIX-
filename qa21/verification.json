@@ -1,0 +1,57 @@
+{
+  "status": "V3_EXECUTED_SCOPED_WITH_TWO_CONTEXT_RESERVES",
+  "checks": 3365,
+  "references_reviewed": 207,
+  "references_changed": 64,
+  "getter_references_changed": 2,
+  "scoped_pass": 205,
+  "context_pending": [
+    "G06:M100",
+    "G11:M011"
+  ],
+  "native_sessions_final": 207,
+  "story_terminators_reached": 207,
+  "incomplete_excluded_diagnostics": [],
+  "native_frames": 60714,
+  "visual_readings": 284,
+  "approved_nonblank_dropped_glyphs": 0,
+  "blank_padding_drops": 1,
+  "excluded_diagnostics": [],
+  "changed_bytes_vs_hf15": 4258,
+  "independent_bps": "PASS_EXACT_BYTES",
+  "global_visual_approved": false,
+  "global_linguistic_approved": false,
+  "natural_reachability": "NOT_VALIDATED",
+  "static": {
+    "story_references": 3488,
+    "story_unique_pointers": 3472,
+    "story_nonempty": 3307,
+    "story_literal_references": 886,
+    "story_control_only_nonempty": 2421,
+    "story_dynamic_references": 9,
+    "story_unterminated": 0,
+    "horizontal_candidates": [
+      "G01:M031",
+      "G06:M022",
+      "G09:M063"
+    ],
+    "vertical_candidates": [],
+    "getter_entries": 2333,
+    "getter_nonempty": 1972,
+    "getter_unterminated": 0,
+    "window_presets": 141,
+    "unique_geometries": 79,
+    "status": "STATIC_ONLY_NOT_GLOBAL_VISUAL_APPROVAL"
+  },
+  "build": {
+    "source_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+    "legacy_sha256": "84983bea3e2452d0be35173d0f8cd3fa45568ea6e2fbacb25373bccb7a3d312b",
+    "target_sha256": "14abf199753631e907e80092ce50f4e48d7eb139f31964cdc8897b9d6bf51c00",
+    "bps_sha256": "5f1c59ee00a6e564ff007518aa86e46b40eb9f94dc0f410fd702df0db8a6e78a",
+    "changed_bytes_vs_legacy": 14537,
+    "unexpected_changed_offsets": 0,
+    "checksum": "6555",
+    "roundtrip": "PASS",
+    "release_hash_verified": true
+  }
+}

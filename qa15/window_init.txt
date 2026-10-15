@@ -1,0 +1,171 @@
+
+qa15/window_init.bin:     file format binary
+
+
+Disassembly of section .data:
+
+00004360 <.data>:
+    4360:	c2 51 cf             	ret    0xcf51
+    4363:	51                   	push   cx
+    4364:	ef                   	out    dx,ax
+    4365:	51                   	push   cx
+    4366:	0f 52 1c             	rsqrtps xmm3,XMMWORD PTR [si]
+    4369:	52                   	push   dx
+    436a:	25 52 47             	and    ax,0x4752
+    436d:	52                   	push   dx
+    436e:	4d                   	dec    bp
+    436f:	52                   	push   dx
+    4370:	58                   	pop    ax
+    4371:	52                   	push   dx
+    4372:	5e                   	pop    si
+    4373:	52                   	push   dx
+    4374:	64 52                	fs push dx
+    4376:	e8 50 96             	call   0xd9c9
+    4379:	44                   	inc    sp
+    437a:	96                   	xchg   si,ax
+    437b:	44                   	inc    sp
+    437c:	96                   	xchg   si,ax
+    437d:	44                   	inc    sp
+    437e:	e9 60 07             	jmp    0x4ae1
+    4381:	61                   	popa
+    4382:	27                   	daa
+    4383:	61                   	popa
+    4384:	47                   	inc    di
+    4385:	61                   	popa
+    4386:	47                   	inc    di
+    4387:	61                   	popa
+    4388:	47                   	inc    di
+    4389:	61                   	popa
+    438a:	47                   	inc    di
+    438b:	61                   	popa
+    438c:	47                   	inc    di
+    438d:	61                   	popa
+    438e:	47                   	inc    di
+    438f:	61                   	popa
+    4390:	47                   	inc    di
+    4391:	61                   	popa
+    4392:	47                   	inc    di
+    4393:	61                   	popa
+    4394:	47                   	inc    di
+    4395:	61                   	popa
+    4396:	47                   	inc    di
+    4397:	61                   	popa
+    4398:	68 60 bb             	push   0xbb60
+    439b:	5e                   	pop    si
+    439c:	6b 61 96 44          	imul   sp,WORD PTR [bx+di-0x6a],0x44
+    43a0:	96                   	xchg   si,ax
+    43a1:	44                   	inc    sp
+    43a2:	77 4a                	ja     0x43ee
+    43a4:	4a                   	dec    dx
+    43a5:	67 ab                	stos   WORD PTR es:[edi],ax
+    43a7:	67 fb                	addr32 sti
+    43a9:	67 31 68 96          	xor    WORD PTR [eax-0x6a],bp
+    43ad:	44                   	inc    sp
+    43ae:	78 61                	js     0x4411
+    43b0:	79 61                	jns    0x4413
+    43b2:	9b                   	fwait
+    43b3:	61                   	popa
+    43b4:	a2 61 28             	mov    ds:0x2861,al
+    43b7:	62 35                	bound  si,DWORD PTR [di]
+    43b9:	62 55 62             	bound  dx,DWORD PTR [di+0x62]
+    43bc:	5b                   	pop    bx
+    43bd:	62 61 62             	bound  sp,DWORD PTR [bx+di+0x62]
+    43c0:	68 62 e5             	push   0xe562
+    43c3:	62 fe 62             	(bad)  {k6},{rz-bad}
+    43c6:	7e 64                	jle    0x442c
+    43c8:	96                   	xchg   si,ax
+    43c9:	44                   	inc    sp
+    43ca:	84 64 96             	test   BYTE PTR [si-0x6a],ah
+    43cd:	44                   	inc    sp
+    43ce:	96                   	xchg   si,ax
+    43cf:	44                   	inc    sp
+    43d0:	96                   	xchg   si,ax
+    43d1:	44                   	inc    sp
+    43d2:	b9 64 96             	mov    cx,0x9664
+    43d5:	44                   	inc    sp
+    43d6:	96                   	xchg   si,ax
+    43d7:	44                   	inc    sp
+    43d8:	96                   	xchg   si,ax
+    43d9:	44                   	inc    sp
+    43da:	96                   	xchg   si,ax
+    43db:	44                   	inc    sp
+    43dc:	3f                   	aas
+    43dd:	68 96 44             	push   0x4496
+    43e0:	96                   	xchg   si,ax
+    43e1:	44                   	inc    sp
+    43e2:	96                   	xchg   si,ax
+    43e3:	44                   	inc    sp
+    43e4:	96                   	xchg   si,ax
+    43e5:	44                   	inc    sp
+    43e6:	96                   	xchg   si,ax
+    43e7:	44                   	inc    sp
+    43e8:	9b                   	fwait
+    43e9:	5e                   	pop    si
+    43ea:	a0 1a 64             	mov    al,ds:0x641a
+    43ed:	bf 70 3f             	mov    di,0x3f70
+    43f0:	b4 00                	mov    ah,0x0
+    43f2:	d1 e0                	shl    ax,1
+    43f4:	8b d0                	mov    dx,ax
+    43f6:	d1 e0                	shl    ax,1
+    43f8:	03 c2                	add    ax,dx
+    43fa:	03 f8                	add    di,ax
+    43fc:	2e 8a 05             	mov    al,BYTE PTR cs:[di]
+    43ff:	a2 36 64             	mov    ds:0x6436,al
+    4402:	2e 8a 45 01          	mov    al,BYTE PTR cs:[di+0x1]
+    4406:	a2 37 64             	mov    ds:0x6437,al
+    4409:	2e 8a 45 02          	mov    al,BYTE PTR cs:[di+0x2]
+    440d:	a2 38 64             	mov    ds:0x6438,al
+    4410:	2e 8a 45 03          	mov    al,BYTE PTR cs:[di+0x3]
+    4414:	a2 39 64             	mov    ds:0x6439,al
+    4417:	2e 8a 45 04          	mov    al,BYTE PTR cs:[di+0x4]
+    441b:	a2 3a 64             	mov    ds:0x643a,al
+    441e:	2e 8a 45 05          	mov    al,BYTE PTR cs:[di+0x5]
+    4422:	a2 3b 64             	mov    ds:0x643b,al
+    4425:	8a 16 3b 64          	mov    dl,BYTE PTR ds:0x643b
+    4429:	8a 36 38 64          	mov    dh,BYTE PTR ds:0x6438
+    442d:	80 ea 02             	sub    dl,0x2
+    4430:	d0 ea                	shr    dl,1
+    4432:	88 16 25 64          	mov    BYTE PTR ds:0x6425,dl
+    4436:	80 ee 02             	sub    dh,0x2
+    4439:	88 36 26 64          	mov    BYTE PTR ds:0x6426,dh
+    443d:	80 3e 1a 64 19       	cmp    BYTE PTR ds:0x641a,0x19
+    4442:	74 07                	je     0x444b
+    4444:	80 3e 1a 64 1b       	cmp    BYTE PTR ds:0x641a,0x1b
+    4449:	75 07                	jne    0x4452
+    444b:	c6 06 25 64 08       	mov    BYTE PTR ds:0x6425,0x8
+    4450:	eb 0c                	jmp    0x445e
+    4452:	80 3e 1a 64 0d       	cmp    BYTE PTR ds:0x641a,0xd
+    4457:	75 05                	jne    0x445e
+    4459:	c6 06 25 64 06       	mov    BYTE PTR ds:0x6425,0x6
+    445e:	c3                   	ret
+    445f:	a2 21 64             	mov    ds:0x6421,al
+    4462:	be 00 00             	mov    si,0x0
+    4465:	c7 84 9a 62 00 00    	mov    WORD PTR [si+0x629a],0x0
+    446b:	83 c6 02             	add    si,0x2
+    446e:	fe c8                	dec    al
+    4470:	75 f3                	jne    0x4465
+    4472:	c3                   	ret
+    4473:	a2 21 64             	mov    ds:0x6421,al
+    4476:	be 9a 62             	mov    si,0x629a
+    4479:	2e 8a 25             	mov    ah,BYTE PTR cs:[di]
+    447c:	88 24                	mov    BYTE PTR [si],ah
+    447e:	47                   	inc    di
+    447f:	46                   	inc    si
+    4480:	fe c8                	dec    al
+    4482:	75 f5                	jne    0x4479
+    4484:	c3                   	ret
+    4485:	be 00 00             	mov    si,0x0
+    4488:	c7 84 0a 04 00 00    	mov    WORD PTR [si+0x40a],0x0
+    448e:	83 c6 02             	add    si,0x2
+    4491:	fe c8                	dec    al
+    4493:	75 f3                	jne    0x4488
+    4495:	c3                   	ret
+    4496:	c3                   	ret
+    4497:	c6 06 95 64 01       	mov    BYTE PTR ds:0x6495,0x1
+    449c:	c6 06 96 64 01       	mov    BYTE PTR ds:0x6496,0x1
+    44a1:	c3                   	ret
+    44a2:	c6 06 95 64 02       	mov    BYTE PTR ds:0x6495,0x2
+    44a7:	c6 06 96 64 00       	mov    BYTE PTR ds:0x6496,0x0
+    44ac:	c3                   	ret
+    44ad:	b1 06                	mov    cl,0x6
+    44af:	88                   	.byte 0x88

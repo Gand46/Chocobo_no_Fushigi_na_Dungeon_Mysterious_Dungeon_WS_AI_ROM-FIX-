@@ -1,0 +1,21 @@
+{
+  "exit": 0,
+  "elapsed": 0.8687327600000572,
+  "command": [
+    "/workspace/scratch/c927ea6e6f03/emulator/Mesen",
+    "--testRunner",
+    "--timeout=15",
+    "--enableStdout",
+    "--doNotSaveSettings",
+    "--debug.scriptWindow.allowIoOsAccess=true",
+    "/workspace/scratch/c927ea6e6f03/hf18_recovered/qa21/driver.lua",
+    "/workspace/scratch/c927ea6e6f03/hf18_recovered/build/Chocobo_EN_v1.1_HF19_TEST.ws"
+  ],
+  "rom_sha256": "f27e69f65e134b161c1f3ce263c3ed78a8ae247997c95d7383c43c4a78c8962f",
+  "state_sha256": "6c5bcdf413ba34adf9bcb4bf3268469e1b2b6da48f623d4c270b210bc83ad92f",
+  "plan_sha256": "dc50f428c17725ff767210d4fafb9969cdbc1c78c5145ce7f68099ea46c568bf",
+  "script_sha256": "07db7d1416e87199262286cc39cf6e01335f6499e4b20117a7273091433caf67",
+  "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+  "completed": true,
+  "native_save_after_sha256": "bf92eb8570b6f99bbde9924b2f8c13e2d967e342b77331e95aa4e1a97d15f84f"
+}

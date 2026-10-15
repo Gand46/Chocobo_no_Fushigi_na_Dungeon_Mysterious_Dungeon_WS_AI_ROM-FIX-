@@ -1,0 +1,11 @@
+{
+  "rom_changed": false,
+  "bps_sha256": "c2599e33c45d8e5430cc1d6f85eae06bc42dc7d7e5639e6a761f706e214ecef1",
+  "save_code_jp_en_identical": true,
+  "forum_english_crc_reconstructed": "AC2E344C",
+  "marker_test_one_byte_only": true,
+  "payload_test_one_byte_only": true,
+  "existing_save_survives_lafoss_jp_en_hf3": true,
+  "exact_forum_save_loss_cause": "NOT_DETERMINED",
+  "chat_full_read": false
+}

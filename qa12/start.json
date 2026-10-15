@@ -1,0 +1,6 @@
+{
+  "started_utc": "2026-10-14T14:40:55+00:00",
+  "base": "HF8",
+  "base_sha256": "831d5778ba5887941235365a4065d8cc090c1a871fbdfc00f398c2b5c0ebc89c",
+  "safety_cap_minutes": 40
+}

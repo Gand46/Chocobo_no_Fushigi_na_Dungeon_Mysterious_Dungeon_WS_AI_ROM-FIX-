@@ -1,0 +1,73 @@
+
+qa18/private/code14e5d0.bin:     file format binary
+
+
+Disassembly of section .data:
+
+0000e5d0 <.data>:
+    e5d0:	02 26 fd 4a          	add    ah,BYTE PTR ds:0x4afd
+    e5d4:	e7 12                	out    0x12,ax
+    e5d6:	a0 e4 4a             	mov    al,ds:0x4ae4
+    e5d9:	a2 e5 4a             	mov    ds:0x4ae5,al
+    e5dc:	a0 e6 4a             	mov    al,ds:0x4ae6
+    e5df:	a2 e7 4a             	mov    ds:0x4ae7,al
+    e5e2:	c3                   	ret
+    e5e3:	90                   	nop
+    e5e4:	a1 b9 64             	mov    ax,ds:0x64b9
+    e5e7:	a3 bb 64             	mov    ds:0x64bb,ax
+    e5ea:	c7 06 b9 64 00 00    	mov    WORD PTR ds:0x64b9,0x0
+    e5f0:	b0 10                	mov    al,0x10
+    e5f2:	e6 b5                	out    0xb5,al
+    e5f4:	90                   	nop
+    e5f5:	90                   	nop
+    e5f6:	90                   	nop
+    e5f7:	90                   	nop
+    e5f8:	90                   	nop
+    e5f9:	90                   	nop
+    e5fa:	90                   	nop
+    e5fb:	90                   	nop
+    e5fc:	90                   	nop
+    e5fd:	90                   	nop
+    e5fe:	e4 b5                	in     al,0xb5
+    e600:	25 0f 00             	and    ax,0xf
+    e603:	c1 e0 08             	shl    ax,0x8
+    e606:	09 06 b9 64          	or     WORD PTR ds:0x64b9,ax
+    e60a:	b0 20                	mov    al,0x20
+    e60c:	e6 b5                	out    0xb5,al
+    e60e:	90                   	nop
+    e60f:	90                   	nop
+    e610:	90                   	nop
+    e611:	90                   	nop
+    e612:	90                   	nop
+    e613:	90                   	nop
+    e614:	90                   	nop
+    e615:	90                   	nop
+    e616:	90                   	nop
+    e617:	90                   	nop
+    e618:	e4 b5                	in     al,0xb5
+    e61a:	25 0f 00             	and    ax,0xf
+    e61d:	c1 e0 04             	shl    ax,0x4
+    e620:	09 06 b9 64          	or     WORD PTR ds:0x64b9,ax
+    e624:	b0 40                	mov    al,0x40
+    e626:	e6 b5                	out    0xb5,al
+    e628:	90                   	nop
+    e629:	90                   	nop
+    e62a:	90                   	nop
+    e62b:	90                   	nop
+    e62c:	90                   	nop
+    e62d:	90                   	nop
+    e62e:	90                   	nop
+    e62f:	90                   	nop
+    e630:	90                   	nop
+    e631:	90                   	nop
+    e632:	e4 b5                	in     al,0xb5
+    e634:	25 0f 00             	and    ax,0xf
+    e637:	09 06 b9 64          	or     WORD PTR ds:0x64b9,ax
+    e63b:	a1 b9 64             	mov    ax,ds:0x64b9
+    e63e:	33 06 bb 64          	xor    ax,WORD PTR ds:0x64bb
+    e642:	23 06 b9 64          	and    ax,WORD PTR ds:0x64b9
+    e646:	a3 b7 64             	mov    ds:0x64b7,ax
+    e649:	c3                   	ret
+    e64a:	8b 0e 2d 20          	mov    cx,WORD PTR ds:0x202d
+    e64e:	81                   	.byte 0x81
+    e64f:	e9                   	.byte 0xe9

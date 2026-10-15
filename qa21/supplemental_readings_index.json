@@ -1,0 +1,402 @@
+[
+  {
+    "path": "ui_JP_quantity_unknown/f00420.png",
+    "caption": "JP quantity_unknown 420"
+  },
+  {
+    "path": "ui_HF16V3_quantity_unknown/f00420.png",
+    "caption": "HF16V3 quantity_unknown 420"
+  },
+  {
+    "path": "ui_JP_quantity_unknown/f00600.png",
+    "caption": "JP quantity_unknown 600"
+  },
+  {
+    "path": "ui_HF16V3_quantity_unknown/f00600.png",
+    "caption": "HF16V3 quantity_unknown 600"
+  },
+  {
+    "path": "ui_JP_quantity_unknown/f00720.png",
+    "caption": "JP quantity_unknown 720"
+  },
+  {
+    "path": "ui_HF16V3_quantity_unknown/f00720.png",
+    "caption": "HF16V3 quantity_unknown 720"
+  },
+  {
+    "path": "ui_JP_quantity_unknown/f00840.png",
+    "caption": "JP quantity_unknown 840"
+  },
+  {
+    "path": "ui_HF16V3_quantity_unknown/f00840.png",
+    "caption": "HF16V3 quantity_unknown 840"
+  },
+  {
+    "path": "ui_JP_quantity_unknown/f00960.png",
+    "caption": "JP quantity_unknown 960"
+  },
+  {
+    "path": "ui_HF16V3_quantity_unknown/f00960.png",
+    "caption": "HF16V3 quantity_unknown 960"
+  },
+  {
+    "path": "ui_JP_quantity_unknown/f01080.png",
+    "caption": "JP quantity_unknown 1080"
+  },
+  {
+    "path": "ui_HF16V3_quantity_unknown/f01080.png",
+    "caption": "HF16V3 quantity_unknown 1080"
+  },
+  {
+    "path": "ui_JP_quantity_unknown/f01200.png",
+    "caption": "JP quantity_unknown 1200"
+  },
+  {
+    "path": "ui_HF16V3_quantity_unknown/f01200.png",
+    "caption": "HF16V3 quantity_unknown 1200"
+  },
+  {
+    "path": "ui_JP_quantity_unknown/f01800.png",
+    "caption": "JP quantity_unknown 1800"
+  },
+  {
+    "path": "ui_HF16V3_quantity_unknown/f01800.png",
+    "caption": "HF16V3 quantity_unknown 1800"
+  },
+  {
+    "path": "ui_JP_unknown_names_long/f00420.png",
+    "caption": "JP unknown_names_long 420"
+  },
+  {
+    "path": "ui_HF16V3_unknown_names_long/f00420.png",
+    "caption": "HF16V3 unknown_names_long 420"
+  },
+  {
+    "path": "ui_JP_unknown_names_long/f00600.png",
+    "caption": "JP unknown_names_long 600"
+  },
+  {
+    "path": "ui_HF16V3_unknown_names_long/f00600.png",
+    "caption": "HF16V3 unknown_names_long 600"
+  },
+  {
+    "path": "ui_JP_unknown_names_long/f00720.png",
+    "caption": "JP unknown_names_long 720"
+  },
+  {
+    "path": "ui_HF16V3_unknown_names_long/f00720.png",
+    "caption": "HF16V3 unknown_names_long 720"
+  },
+  {
+    "path": "ui_JP_unknown_names_long/f00840.png",
+    "caption": "JP unknown_names_long 840"
+  },
+  {
+    "path": "ui_HF16V3_unknown_names_long/f00840.png",
+    "caption": "HF16V3 unknown_names_long 840"
+  },
+  {
+    "path": "ui_JP_unknown_names_long/f00960.png",
+    "caption": "JP unknown_names_long 960"
+  },
+  {
+    "path": "ui_HF16V3_unknown_names_long/f00960.png",
+    "caption": "HF16V3 unknown_names_long 960"
+  },
+  {
+    "path": "ui_JP_unknown_names_long/f01080.png",
+    "caption": "JP unknown_names_long 1080"
+  },
+  {
+    "path": "ui_HF16V3_unknown_names_long/f01080.png",
+    "caption": "HF16V3 unknown_names_long 1080"
+  },
+  {
+    "path": "ui_JP_unknown_names_long/f01200.png",
+    "caption": "JP unknown_names_long 1200"
+  },
+  {
+    "path": "ui_HF16V3_unknown_names_long/f01200.png",
+    "caption": "HF16V3 unknown_names_long 1200"
+  },
+  {
+    "path": "ui_JP_unknown_names_long/f01800.png",
+    "caption": "JP unknown_names_long 1800"
+  },
+  {
+    "path": "ui_HF16V3_unknown_names_long/f01800.png",
+    "caption": "HF16V3 unknown_names_long 1800"
+  },
+  {
+    "path": "ui_JP_status_equipped_plus/f00420.png",
+    "caption": "JP status_equipped_plus 420"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_plus/f00420.png",
+    "caption": "HF16V3 status_equipped_plus 420"
+  },
+  {
+    "path": "ui_JP_status_equipped_plus/f00600.png",
+    "caption": "JP status_equipped_plus 600"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_plus/f00600.png",
+    "caption": "HF16V3 status_equipped_plus 600"
+  },
+  {
+    "path": "ui_JP_status_equipped_plus/f00720.png",
+    "caption": "JP status_equipped_plus 720"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_plus/f00720.png",
+    "caption": "HF16V3 status_equipped_plus 720"
+  },
+  {
+    "path": "ui_JP_status_equipped_plus/f00840.png",
+    "caption": "JP status_equipped_plus 840"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_plus/f00840.png",
+    "caption": "HF16V3 status_equipped_plus 840"
+  },
+  {
+    "path": "ui_JP_status_equipped_plus/f00960.png",
+    "caption": "JP status_equipped_plus 960"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_plus/f00960.png",
+    "caption": "HF16V3 status_equipped_plus 960"
+  },
+  {
+    "path": "ui_JP_status_equipped_plus/f01080.png",
+    "caption": "JP status_equipped_plus 1080"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_plus/f01080.png",
+    "caption": "HF16V3 status_equipped_plus 1080"
+  },
+  {
+    "path": "ui_JP_status_equipped_plus/f01200.png",
+    "caption": "JP status_equipped_plus 1200"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_plus/f01200.png",
+    "caption": "HF16V3 status_equipped_plus 1200"
+  },
+  {
+    "path": "ui_JP_status_equipped_plus/f01800.png",
+    "caption": "JP status_equipped_plus 1800"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_plus/f01800.png",
+    "caption": "HF16V3 status_equipped_plus 1800"
+  },
+  {
+    "path": "ui_JP_status_equipped_minus/f00420.png",
+    "caption": "JP status_equipped_minus 420"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_minus/f00420.png",
+    "caption": "HF16V3 status_equipped_minus 420"
+  },
+  {
+    "path": "ui_JP_status_equipped_minus/f00600.png",
+    "caption": "JP status_equipped_minus 600"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_minus/f00600.png",
+    "caption": "HF16V3 status_equipped_minus 600"
+  },
+  {
+    "path": "ui_JP_status_equipped_minus/f00720.png",
+    "caption": "JP status_equipped_minus 720"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_minus/f00720.png",
+    "caption": "HF16V3 status_equipped_minus 720"
+  },
+  {
+    "path": "ui_JP_status_equipped_minus/f00840.png",
+    "caption": "JP status_equipped_minus 840"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_minus/f00840.png",
+    "caption": "HF16V3 status_equipped_minus 840"
+  },
+  {
+    "path": "ui_JP_status_equipped_minus/f00960.png",
+    "caption": "JP status_equipped_minus 960"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_minus/f00960.png",
+    "caption": "HF16V3 status_equipped_minus 960"
+  },
+  {
+    "path": "ui_JP_status_equipped_minus/f01080.png",
+    "caption": "JP status_equipped_minus 1080"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_minus/f01080.png",
+    "caption": "HF16V3 status_equipped_minus 1080"
+  },
+  {
+    "path": "ui_JP_status_equipped_minus/f01200.png",
+    "caption": "JP status_equipped_minus 1200"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_minus/f01200.png",
+    "caption": "HF16V3 status_equipped_minus 1200"
+  },
+  {
+    "path": "ui_JP_status_equipped_minus/f01800.png",
+    "caption": "JP status_equipped_minus 1800"
+  },
+  {
+    "path": "ui_HF16V3_status_equipped_minus/f01800.png",
+    "caption": "HF16V3 status_equipped_minus 1800"
+  },
+  {
+    "path": "fused_JP/fused_65_13_16_f420.png",
+    "caption": "JP fused_65_13_16_f420"
+  },
+  {
+    "path": "fused_HF16V3/fused_65_13_16_f420.png",
+    "caption": "HF16V3 fused_65_13_16_f420"
+  },
+  {
+    "path": "fused_JP/fused_65_13_16_f720.png",
+    "caption": "JP fused_65_13_16_f720"
+  },
+  {
+    "path": "fused_HF16V3/fused_65_13_16_f720.png",
+    "caption": "HF16V3 fused_65_13_16_f720"
+  },
+  {
+    "path": "fused_JP/fused_65_13_16_f940.png",
+    "caption": "JP fused_65_13_16_f940"
+  },
+  {
+    "path": "fused_HF16V3/fused_65_13_16_f940.png",
+    "caption": "HF16V3 fused_65_13_16_f940"
+  },
+  {
+    "path": "fused_JP/fused_65_32_37_f420.png",
+    "caption": "JP fused_65_32_37_f420"
+  },
+  {
+    "path": "fused_HF16V3/fused_65_32_37_f420.png",
+    "caption": "HF16V3 fused_65_32_37_f420"
+  },
+  {
+    "path": "fused_JP/fused_65_32_37_f720.png",
+    "caption": "JP fused_65_32_37_f720"
+  },
+  {
+    "path": "fused_HF16V3/fused_65_32_37_f720.png",
+    "caption": "HF16V3 fused_65_32_37_f720"
+  },
+  {
+    "path": "fused_JP/fused_65_32_37_f940.png",
+    "caption": "JP fused_65_32_37_f940"
+  },
+  {
+    "path": "fused_HF16V3/fused_65_32_37_f940.png",
+    "caption": "HF16V3 fused_65_32_37_f940"
+  },
+  {
+    "path": "fused_JP/fused_6C_32_37_f420.png",
+    "caption": "JP fused_6C_32_37_f420"
+  },
+  {
+    "path": "fused_HF16V3/fused_6C_32_37_f420.png",
+    "caption": "HF16V3 fused_6C_32_37_f420"
+  },
+  {
+    "path": "fused_JP/fused_6C_32_37_f720.png",
+    "caption": "JP fused_6C_32_37_f720"
+  },
+  {
+    "path": "fused_HF16V3/fused_6C_32_37_f720.png",
+    "caption": "HF16V3 fused_6C_32_37_f720"
+  },
+  {
+    "path": "fused_JP/fused_6C_32_37_f940.png",
+    "caption": "JP fused_6C_32_37_f940"
+  },
+  {
+    "path": "fused_HF16V3/fused_6C_32_37_f940.png",
+    "caption": "HF16V3 fused_6C_32_37_f940"
+  },
+  {
+    "path": "fused_JP/fused_9D_17_19_f420.png",
+    "caption": "JP fused_9D_17_19_f420"
+  },
+  {
+    "path": "fused_HF16V3/fused_9D_17_19_f420.png",
+    "caption": "HF16V3 fused_9D_17_19_f420"
+  },
+  {
+    "path": "fused_JP/fused_9D_17_19_f720.png",
+    "caption": "JP fused_9D_17_19_f720"
+  },
+  {
+    "path": "fused_HF16V3/fused_9D_17_19_f720.png",
+    "caption": "HF16V3 fused_9D_17_19_f720"
+  },
+  {
+    "path": "fused_JP/fused_9D_17_19_f940.png",
+    "caption": "JP fused_9D_17_19_f940"
+  },
+  {
+    "path": "fused_HF16V3/fused_9D_17_19_f940.png",
+    "caption": "HF16V3 fused_9D_17_19_f940"
+  },
+  {
+    "path": "fused_JP/fused_9D_1E_26_f420.png",
+    "caption": "JP fused_9D_1E_26_f420"
+  },
+  {
+    "path": "fused_HF16V3/fused_9D_1E_26_f420.png",
+    "caption": "HF16V3 fused_9D_1E_26_f420"
+  },
+  {
+    "path": "fused_JP/fused_9D_1E_26_f720.png",
+    "caption": "JP fused_9D_1E_26_f720"
+  },
+  {
+    "path": "fused_HF16V3/fused_9D_1E_26_f720.png",
+    "caption": "HF16V3 fused_9D_1E_26_f720"
+  },
+  {
+    "path": "fused_JP/fused_9D_1E_26_f940.png",
+    "caption": "JP fused_9D_1E_26_f940"
+  },
+  {
+    "path": "fused_HF16V3/fused_9D_1E_26_f940.png",
+    "caption": "HF16V3 fused_9D_1E_26_f940"
+  },
+  {
+    "path": "fused_JP/fused_C0_1E_26_f420.png",
+    "caption": "JP fused_C0_1E_26_f420"
+  },
+  {
+    "path": "fused_HF16V3/fused_C0_1E_26_f420.png",
+    "caption": "HF16V3 fused_C0_1E_26_f420"
+  },
+  {
+    "path": "fused_JP/fused_C0_1E_26_f720.png",
+    "caption": "JP fused_C0_1E_26_f720"
+  },
+  {
+    "path": "fused_HF16V3/fused_C0_1E_26_f720.png",
+    "caption": "HF16V3 fused_C0_1E_26_f720"
+  },
+  {
+    "path": "fused_JP/fused_C0_1E_26_f940.png",
+    "caption": "JP fused_C0_1E_26_f940"
+  },
+  {
+    "path": "fused_HF16V3/fused_C0_1E_26_f940.png",
+    "caption": "HF16V3 fused_C0_1E_26_f940"
+  }
+]

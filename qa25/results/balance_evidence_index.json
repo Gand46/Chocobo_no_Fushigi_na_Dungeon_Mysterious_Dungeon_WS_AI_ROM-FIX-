@@ -1,0 +1,2015 @@
+[
+  {
+    "id": "G06:M079",
+    "visible_segments": [
+      [
+        2,
+        13
+      ]
+    ],
+    "imbalance_cells": 11,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M079/page_01.png",
+        "sha256": "28428aa0ad84bc6d383e2e48fb9b0554e52b8e6a5b4c74ef8e2eb3e68b59606a"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M053",
+    "visible_segments": [
+      [
+        13,
+        2
+      ]
+    ],
+    "imbalance_cells": 11,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M053/page_01.png",
+        "sha256": "34c042a2604ded5a5ab0c7d35a640efee7e62cda9903848a4ed408b35fe24607"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M025",
+    "visible_segments": [
+      [
+        10,
+        11
+      ],
+      [
+        13,
+        3
+      ]
+    ],
+    "imbalance_cells": 10,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G00_M025/page_01.png",
+        "sha256": "17afcd58ff08892ccb63da3321a0e74c218e2da88f08ce05112e07558c7fb80e"
+      },
+      {
+        "path": "evidence/qa20_runs/final_G00_M025/page_02.png",
+        "sha256": "949e566bfb354d6001d2f70d016d35b82a1a08542100bfb586314d82a0c94dc0"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M044",
+    "visible_segments": [
+      [
+        13,
+        3
+      ]
+    ],
+    "imbalance_cells": 10,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G00_M044/page_01.png",
+        "sha256": "40cfdf68f373b8a733687c6e26382759c7974d56772117be5742a9b1f439090e"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M065",
+    "visible_segments": [
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        3
+      ]
+    ],
+    "imbalance_cells": 10,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G00_M065/page_01.png",
+        "sha256": "ee789f28b278e5f7e74f60e16e51c888743f08f165fb7c577f8600672da59a0c"
+      },
+      {
+        "path": "evidence/qa20_runs/final_G00_M065/page_02.png",
+        "sha256": "24d02b06c2577795fbf4bd0fffecf84d0d632976f3c784fd4210e98adcf4ef72"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G02:M009",
+    "visible_segments": [
+      [
+        13,
+        3
+      ]
+    ],
+    "imbalance_cells": 10,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G02_M009/page_01.png",
+        "sha256": "d6eef85dc8e3ecf6bfe365b7c7af345cc9c973d5bc4bff4bab04f45df3a7ed5d"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M034",
+    "visible_segments": [
+      [
+        2,
+        12
+      ]
+    ],
+    "imbalance_cells": 10,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M034/page_01.png",
+        "sha256": "a69a86d3970122150c2e753c4ed2cfa9c7afbde8a6fc5b84d61bb0a9d3889e44"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M063",
+    "visible_segments": [
+      [
+        13,
+        3
+      ]
+    ],
+    "imbalance_cells": 10,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M063/page_01.png",
+        "sha256": "02c348fa08469db07d4dfbcc7ddcc3b755e1e67f5cd86a87103945583925f31e"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M085",
+    "visible_segments": [
+      [
+        2,
+        12
+      ]
+    ],
+    "imbalance_cells": 10,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M085/page_01.png",
+        "sha256": "76d5bbedd171a7f07459312b38c1bb50ddb9485e23e5a5e1a9bb2e75a78f3597"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M141",
+    "visible_segments": [
+      [
+        13,
+        3
+      ]
+    ],
+    "imbalance_cells": 10,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M141/page_01.png",
+        "sha256": "3ba10ee58d65a3f3bd7e58798eb5e8e0feb918eb1f4002ac2210709c2de0472f"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M147",
+    "visible_segments": [
+      [
+        3,
+        13
+      ]
+    ],
+    "imbalance_cells": 10,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M147/page_01.png",
+        "sha256": "a212232b078a5694fa569cd8dc4c2fd9b471d53dfeaf73b6daedb26c8e2075b1"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M019",
+    "visible_segments": [
+      [
+        2,
+        11
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M019/page_01.png",
+        "sha256": "a6def0e222a887aedb6b3d6c07724d26225a55bdda8cdd4d632abd44f9beaa69"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G04:M016",
+    "visible_segments": [
+      [
+        13,
+        4
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G04_M016/page_01.png",
+        "sha256": "d10a2d8fbd2b87aabb324b52563aea3c94bc8892bb42bad95ab79377560ee984"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G04:M020",
+    "visible_segments": [
+      [
+        10,
+        13
+      ],
+      [
+        12,
+        3
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G04_M020/page_01.png",
+        "sha256": "2187d65ebb9c26589e2e9166b495509b308f22387a11e7390bcfd1682ade005d"
+      },
+      {
+        "path": "evidence/qa20_runs/final_G04_M020/page_02.png",
+        "sha256": "fa440a5fba34b2e487556c0ed1582c9511e3da9c2fab408277a960cd38e1e42a"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M008",
+    "visible_segments": [
+      [
+        12,
+        3
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M008/page_01.png",
+        "sha256": "bc877680f4ae1caf959f408e3f95ff3d09c761ebc56191b8d1e631caf688b315"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G07:M003",
+    "visible_segments": [
+      [
+        13,
+        4
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G07_M003/page_01.png",
+        "sha256": "f352f56c685c389188b295f53fe656d95751689739c7ec7d42eb17f49490d796"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G08:M004",
+    "visible_segments": [
+      [
+        13,
+        4
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G08_M004/page_01.png",
+        "sha256": "2d6bfec3a6069e8442a6706fb7cfd2ca9e32ed997100b45b3d3a568c538abaa4"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G08:M006",
+    "visible_segments": [
+      [
+        4,
+        13
+      ],
+      [
+        9,
+        3
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G08_M006/page_01.png",
+        "sha256": "1da101578d515e75c5748f8e8284dd5686eeada8d6fbb97639b64037b07677e2"
+      },
+      {
+        "path": "evidence/qa21_runs/final_G08_M006/page_02.png",
+        "sha256": "50b35af873fda81029466dda728c8efa03f68f3674ef1519f8df9877d434a995"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M005",
+    "visible_segments": [
+      [
+        6
+      ],
+      [
+        0,
+        12,
+        3
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M005/page_01.png",
+        "sha256": "c0512afb3e38be937db02dc44b2f6155c8117c0cd696b842a8c37aa8d5109c37"
+      },
+      {
+        "path": "evidence/qa22_runs/verified_G09_M005/page_02.png",
+        "sha256": "71e21716da1fac98ff44371c2beba5d790f6eea2fedfbf31f4c44d9578d818e6"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M027",
+    "visible_segments": [
+      [
+        2,
+        11
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M027/page_01.png",
+        "sha256": "23284d8dedaac84a7a769f5b2bffff8a6aef043349f2b3792d128f690808d2ed"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M044",
+    "visible_segments": [
+      [
+        13,
+        4
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M044/page_01.png",
+        "sha256": "b6f4a5fea173d4a087972237b9d7e6a8c63199685e4eaaf94b67d97d6ee7bc05"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M097",
+    "visible_segments": [
+      [
+        13,
+        4
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M097/page_01.png",
+        "sha256": "96e9f37a4509f418832e5210f0777c67832eb3481d5b42e49e8ee7764a3b116f"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M122",
+    "visible_segments": [
+      [
+        3,
+        12
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M122/page_01.png",
+        "sha256": "6d75f068abafc6c82924adb8907e4ed80d7d3774ce887ad72c94f73c5eceb16d"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M135",
+    "visible_segments": [
+      [
+        12,
+        3
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M135/page_01.png",
+        "sha256": "5b8c19c5f89505af1dc79d0d6bf003f061521f83cf8e7531b27121e346c69604"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M151",
+    "visible_segments": [
+      [
+        12,
+        3
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M151/page_01.png",
+        "sha256": "987f8a12cd3f0fd647ddbc08d583fe196d278eadf2d9e11597fc13dff10cccff"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G10:M032",
+    "visible_segments": [
+      [
+        11,
+        8
+      ],
+      [
+        12,
+        12
+      ],
+      [
+        12,
+        3
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G10_M032/page_01.png",
+        "sha256": "e9c40890f4ebc83f6dfb4e5983a4c305c877101e5f8d2fed73d79c302cea58e5"
+      },
+      {
+        "path": "evidence/qa21_runs/final_G10_M032/page_02.png",
+        "sha256": "3da8a3e39eafacb49514fee47cfdb8bd56713e339916cf8a00ff6296db7e5c3d"
+      },
+      {
+        "path": "evidence/qa21_runs/final_G10_M032/page_03.png",
+        "sha256": "d935e36df3d041bcea5204635f25cf3073ef858230bbb9fbf0ac3e8153256122"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G11:M034",
+    "visible_segments": [
+      [
+        12,
+        3
+      ]
+    ],
+    "imbalance_cells": 9,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G11_M034/page_01.png",
+        "sha256": "0b9aca867c0ee1183f66f54e82bb35610c53c0f3f2328860bc60c2c446e80f70"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M024",
+    "visible_segments": [
+      [
+        11,
+        3
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M024/page_01.png",
+        "sha256": "56d03d515246fb913a42fd044db348daf6771ee89e01595c2af17513200c0494"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M069",
+    "visible_segments": [
+      [
+        9
+      ],
+      [
+        0,
+        11,
+        3
+      ],
+      [
+        8,
+        5
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M069/page_01.png",
+        "sha256": "857556c2957d7eedfd77d48ea0319274e17cbe27ca1a1bf7f3a1a550845f1893"
+      },
+      {
+        "path": "evidence/qa20_runs/release_G00_M069/page_02.png",
+        "sha256": "dbfd181bc29dd89b096635180573c56de3b1ed1ea0305ea759641fda4496a42a"
+      },
+      {
+        "path": "evidence/qa20_runs/release_G00_M069/page_03.png",
+        "sha256": "f085cd1248cc1c883021674a8884ee48183345090169d7a7ba5b3435c4a75805"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G04:M061",
+    "visible_segments": [
+      [
+        11,
+        3
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G04_M061/page_01.png",
+        "sha256": "d25c3126839cb0d38e697b1e4c656066b9d0bb6e95a15af1931e1379fefa2b14"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M018",
+    "visible_segments": [
+      [
+        12,
+        4
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M018/page_01.png",
+        "sha256": "38ce145cba93fe276fec064e359f3a652d5eedb685475702a9e3771a5a60cb3b"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M021",
+    "visible_segments": [
+      [
+        2,
+        10
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M021/page_01.png",
+        "sha256": "d1dca536cfa9bbd87ca3854552ff649e38dc70867902a2558922940a919b505b"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M031",
+    "visible_segments": [
+      [
+        11,
+        3
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M031/page_01.png",
+        "sha256": "e283d3275691f985671bec581916855b8d399b3868e8d8bdbcd82b8cdcb3a582"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M061",
+    "visible_segments": [
+      [
+        9,
+        12
+      ],
+      [
+        12,
+        4
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M061/page_01.png",
+        "sha256": "dc2234b688c502474bd56e28dfec428dabcdb7ed9bd941e352caa6c185fe0bd4"
+      },
+      {
+        "path": "evidence/qa21_runs/final_G06_M061/page_02.png",
+        "sha256": "3b580d9bd2a600220afaab93aa0106dedcd275698f887974e903fd1cf3ce65f9"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M098",
+    "visible_segments": [
+      [
+        6
+      ],
+      [
+        0,
+        13,
+        5
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M098/page_01.png",
+        "sha256": "6a6bfe0bc6ee2b5ad1dbe9f118929e48184ed3dbc5967d0fd1747f5462cacae7"
+      },
+      {
+        "path": "evidence/qa21_runs/final_G06_M098/page_02.png",
+        "sha256": "22a1c823b6dcf8f2d391e760ec066cba9b02ed552cf61e0ae45e7d2c751ad48a"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M015",
+    "visible_segments": [
+      [
+        11,
+        3
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M015/page_01.png",
+        "sha256": "46c5452eb8664e96c9cf5f1dcf1a2ada18fc1766313e8522640dee26b536fcf4"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M018",
+    "visible_segments": [
+      [
+        2,
+        10
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M018/page_01.png",
+        "sha256": "f62b5711b5121b8eeda5e945622996b2d4f56148510aa279764f4268a1aa2901"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M039",
+    "visible_segments": [
+      [
+        13,
+        5
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M039/page_01.png",
+        "sha256": "812edfbecc0288e63dd945f679792ab0d6ec96694eace4e4214c71611a6bee96"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M059",
+    "visible_segments": [
+      [
+        11,
+        3
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M059/page_01.png",
+        "sha256": "2168d3e0e446e9a15d067b1ce00f0aa20009142529f45e1e908d1f842f175111"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M065",
+    "visible_segments": [
+      [
+        2,
+        10
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M065/page_01.png",
+        "sha256": "35239478907017b77a81ef6299dcb5aeb6d66973921ef044a8d2286980bac3b1"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M173",
+    "visible_segments": [
+      [
+        10,
+        2
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M173/page_01.png",
+        "sha256": "ee68801e7fd810cb84ae61892ca07ac6ba4829b89f785be7be85456702a6e04b"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M186",
+    "visible_segments": [
+      [
+        11,
+        12
+      ],
+      [
+        13,
+        5
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M186/page_01.png",
+        "sha256": "dd2e1f3307555fd9b81f4eb13c1df3ff10640c5b70bb2f3d4d7206c8a60c6a36"
+      },
+      {
+        "path": "evidence/qa22_runs/verified_G09_M186/page_02.png",
+        "sha256": "d9250359fbb61ea308324c59f526d86fdb0d15d5524c356c5e44697c3623188a"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G11:M022",
+    "visible_segments": [
+      [
+        4,
+        12
+      ]
+    ],
+    "imbalance_cells": 8,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G11_M022/page_01.png",
+        "sha256": "18f141c45feef9e7884715a15bfa9069075dded7dd06ee926605b33a241e6838"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M013",
+    "visible_segments": [
+      [
+        11,
+        4
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M013/page_01.png",
+        "sha256": "c8653f8c932948fc369cfcc1f5508f0840dbf49bbf83a35aeef066e04ca6f544"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M060",
+    "visible_segments": [
+      [
+        13,
+        6
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G00_M060/page_01.png",
+        "sha256": "af1a6fc90866f2e1f7bf47c8d14dc928e0d20d378a6fb54ac84db5171056e676"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M062",
+    "visible_segments": [
+      [
+        8
+      ],
+      [
+        0,
+        13,
+        6
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M062/page_01.png",
+        "sha256": "64fc0e4a1c5a3438364316af697929ce7c3c99b512107a71a5db1282a25b4911"
+      },
+      {
+        "path": "evidence/qa20_runs/release_G00_M062/page_02.png",
+        "sha256": "48ddf336c2d487fd14ce98ce1f832daba2b0ae77d136c3802b3265acc365831e"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M070",
+    "visible_segments": [
+      [
+        12,
+        5
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M070/page_01.png",
+        "sha256": "38665721d8164b525dddc5e2df9f45f21e521057035e3ea1de62b1bd3b6dee7d"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M071",
+    "visible_segments": [
+      [
+        11,
+        4
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M071/page_01.png",
+        "sha256": "6b7c2e3a95163b5e1b5ed999e3092350ad58df8854943552891681a274faa91e"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M075",
+    "visible_segments": [
+      [
+        13,
+        6
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M075/page_01.png",
+        "sha256": "6b9bceb66319780c55d4e88bdc3f366c337d2e73fee11fbc8ee6aeb15c8138b7"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G01:M048",
+    "visible_segments": [
+      [
+        11,
+        4
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G01_M048/page_01.png",
+        "sha256": "46c6cde79b277b96cc7947afdf5529a7f16f7c3f7e926fe55e314052bb8606a7"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G01:M056",
+    "visible_segments": [
+      [
+        10,
+        3
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G01_M056/page_01.png",
+        "sha256": "748eefe9ca75c0c7bc8aa933cf355cc09d1fd9d8fae28f5da19bef8e59686356"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G03:M010",
+    "visible_segments": [
+      [
+        12,
+        13
+      ],
+      [
+        10,
+        3
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G03_M010/page_01.png",
+        "sha256": "3214956a0689aaebdea5d4cc7a96490f7d3ab7b047bf9a507c7e560542f19642"
+      },
+      {
+        "path": "evidence/qa20_runs/final_G03_M010/page_02.png",
+        "sha256": "c00807ce297a8bb9a3503348db21dfaf63b198c2f9b9a62a50af5eefa3270b51"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G04:M038",
+    "visible_segments": [
+      [
+        13,
+        6
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G04_M038/page_01.png",
+        "sha256": "c9dc2177c484d3c81d5e2491947bf9983f9518df51b3ab60ca57feb0a1c49402"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G04:M042",
+    "visible_segments": [
+      [
+        2,
+        9
+      ],
+      [
+        0,
+        7
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G04_M042/page_01.png",
+        "sha256": "bb8aee2fab83e45cade7ff04349751f9815c24235d99d9989a498bcb16695f96"
+      },
+      {
+        "path": "evidence/qa20_runs/release_G04_M042/page_02.png",
+        "sha256": "6cdf9c253b9fc1657103a32c9ee78b707dbd2a222231e8201b3e43827e313f71"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G04:M045",
+    "visible_segments": [
+      [
+        10,
+        3
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G04_M045/page_01.png",
+        "sha256": "b569a6044364f58b330e46bc275d45bf2a5686fad7d20cabbd554f676967363f"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G04:M050",
+    "visible_segments": [
+      [
+        13,
+        6
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G04_M050/page_01.png",
+        "sha256": "759c48d03ef5513c97d2e68846aa158393c7827b8ab1ecb9241e795f7cf79140"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M003",
+    "visible_segments": [
+      [
+        11,
+        12
+      ],
+      [
+        13,
+        6
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M003/page_01.png",
+        "sha256": "123f11de55b532eec3e3b4d5593e470241a385d5821291517f02777da2ef12ff"
+      },
+      {
+        "path": "evidence/qa21_runs/final_G06_M003/page_02.png",
+        "sha256": "85265d2a564815a324a59d1467822cf3f68be1ebf01a9e838f186e2c82fc2f2d"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M028",
+    "visible_segments": [
+      [
+        10,
+        3
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M028/page_01.png",
+        "sha256": "ce3daac083b1933831d2e30a8cbcdb3bbacbbfe6884e7606c38a66c6922aa474"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M077",
+    "visible_segments": [
+      [
+        10,
+        3
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M077/page_01.png",
+        "sha256": "35cc05171d0bde7230a94c16543c5874bda66b784ae661b350f377c6c79fdedb"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G08:M009",
+    "visible_segments": [
+      [
+        11,
+        4
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G08_M009/page_01.png",
+        "sha256": "c7efddec9f1fb1bab37014a7e708c13ca9737c2cc61023f1a737430dcf71a8ed"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G08:M022",
+    "visible_segments": [
+      [
+        11,
+        4
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G08_M022/page_01.png",
+        "sha256": "a6338406b4a6f5526587e1e1ba301ec4e622591f06f527543f9673865b1590d3"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M061",
+    "visible_segments": [
+      [
+        10,
+        3
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M061/page_01.png",
+        "sha256": "051a32c7643eecf88cf7731cbec189c7c3c89f3a407fe7bbdf29363a6250890a"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M123",
+    "visible_segments": [
+      [
+        6
+      ],
+      [
+        5,
+        12
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M123/page_01.png",
+        "sha256": "1ac9642e13040f514a3698a6248634e2e54fc8e4c1d23f478f826690643deb23"
+      },
+      {
+        "path": "evidence/qa22_runs/verified_G09_M123/page_02.png",
+        "sha256": "8bd5d13ab986a8be7f4f141900931df8e59f5016a6d49ec9edf30cc3d995823d"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G10:M026",
+    "visible_segments": [
+      [
+        13,
+        6
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G10_M026/page_01.png",
+        "sha256": "732f079277d390a74a5f65011f9abe7575250b9d2afc53a794f469369c26e6db"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G11:M013",
+    "visible_segments": [
+      [
+        6
+      ],
+      [
+        0,
+        10,
+        3
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G11_M013/page_01.png",
+        "sha256": "ebe455daec35bfff1756bd32fb04c7e7b898a94d83c925b8b04d792cd8cb2b1f"
+      },
+      {
+        "path": "evidence/qa21_runs/final_G11_M013/page_02.png",
+        "sha256": "4db9be14f575e9d00a9f80965f838358a9714329ec084b508481c84717ba12e2"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G11:M016",
+    "visible_segments": [
+      [
+        3,
+        10
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G11_M016/page_01.png",
+        "sha256": "78062fb60ac046b70467db0182fb01053f43e09d1f1ba0e625ef80fec5ffd881"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G11:M039",
+    "visible_segments": [
+      [
+        12,
+        5
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G11_M039/page_01.png",
+        "sha256": "a160af4ae0f93bb6f9d077870cd658b03bcfdce1686b9bb12a3b6568a5f08e47"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G16:M017",
+    "visible_segments": [
+      [
+        10,
+        3
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 19,
+    "images": [
+      {
+        "path": "evidence/qa19_runs/final_G16_M017/page_01.png",
+        "sha256": "fb5e7a3a1df2e9244079c8357945e67973fdd7003ece7d533a2284cfc740032f"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G16:M018",
+    "visible_segments": [
+      [
+        10,
+        3
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 19,
+    "images": [
+      {
+        "path": "evidence/qa19_runs/final_G16_M018/page_01.png",
+        "sha256": "fb5e7a3a1df2e9244079c8357945e67973fdd7003ece7d533a2284cfc740032f"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G16:M019",
+    "visible_segments": [
+      [
+        10,
+        3
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 19,
+    "images": [
+      {
+        "path": "evidence/qa19_runs/final_G16_M019/page_01.png",
+        "sha256": "fb5e7a3a1df2e9244079c8357945e67973fdd7003ece7d533a2284cfc740032f"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G16:M071",
+    "visible_segments": [
+      [
+        5,
+        12
+      ],
+      [
+        12,
+        10
+      ],
+      [
+        9,
+        12
+      ],
+      [
+        12,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "imbalance_cells": 7,
+    "evidence_phase": 19,
+    "images": [
+      {
+        "path": "evidence/qa19_runs/final_G16_M071/page_01.png",
+        "sha256": "2f09a4001ead1d215c86de75a945a0e0e73d13ba5046cd2e62f1dc80243ddef1"
+      },
+      {
+        "path": "evidence/qa19_runs/final_G16_M071/page_02.png",
+        "sha256": "c595b3746bf496fc097cf9ec6bd55b84907bce4e677aa1e3fc82ce582f874948"
+      },
+      {
+        "path": "evidence/qa19_runs/final_G16_M071/page_03.png",
+        "sha256": "6368a14db4289c8a2058ee5d952e768eb73b7f48b804e1deb2a1bbcf1df041a0"
+      },
+      {
+        "path": "evidence/qa19_runs/final_G16_M071/page_04.png",
+        "sha256": "11969c210972734bd5832579fa6ca6a59c9b0d5cdff980f2b0999cdb7d8c9ef9"
+      },
+      {
+        "path": "evidence/qa19_runs/final_G16_M071/page_05.png",
+        "sha256": "0dca13e0d2cc7d8653754a6c907810d2688ab90e45c7f7f314f47f98f183c9e0"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M002",
+    "visible_segments": [
+      [
+        3,
+        9
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M002/page_01.png",
+        "sha256": "239f277001fad500003562d98fd74bfb8f7e50fe68aa07e58a4ae4446cf13c5a"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M034",
+    "visible_segments": [
+      [
+        4,
+        10
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M034/page_01.png",
+        "sha256": "5403261acc3c15aeccfd3f605bab7207b9406110c50ec0fe599c575c2b5bc06d"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M039",
+    "visible_segments": [
+      [
+        10,
+        4
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M039/page_01.png",
+        "sha256": "cecb395d47fbccc5e999827bc8f34b81ac9c3ec647b247b435c9922ab4e8d3ee"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M052",
+    "visible_segments": [
+      [
+        9,
+        3
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M052/page_01.png",
+        "sha256": "1e9ab76a6500d88fed8c8ef9a528e0105de9ec87fb5b3fd6e8e0f36babafa1d8"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G00:M073",
+    "visible_segments": [
+      [
+        13,
+        7
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G00_M073/page_01.png",
+        "sha256": "e91c3ac8851191d1bae7687a7abe36682bd773fb931b6399186e85c5a17176dc"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G01:M025",
+    "visible_segments": [
+      [
+        10,
+        11
+      ],
+      [
+        13,
+        7
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G01_M025/page_01.png",
+        "sha256": "cd0215275493f626e0b56a73eeb8502f3538989df5239568781b02ece5125d60"
+      },
+      {
+        "path": "evidence/qa20_runs/final_G01_M025/page_02.png",
+        "sha256": "bdd73a8df27363ef52472f1efd622a2bf9421a19e1479773a4e3ed3d86fa8f86"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G04:M007",
+    "visible_segments": [
+      [
+        13,
+        7
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/final_G04_M007/page_01.png",
+        "sha256": "8c20fb8741e548efecad3014d543d9047adac582bad786176ff68bd48a5f37e5"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G04:M018",
+    "visible_segments": [
+      [
+        2,
+        8
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G04_M018/page_01.png",
+        "sha256": "bbd7b29aab0439264c3cd2cf62c157f91ea1001380c7525deda511b2d668c7ab"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G04:M048",
+    "visible_segments": [
+      [
+        6,
+        12
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 20,
+    "images": [
+      {
+        "path": "evidence/qa20_runs/release_G04_M048/page_01.png",
+        "sha256": "48371e920d9df3e9f954b69be372e02dd69809374d31d12c34f28a6acbe91713"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M054",
+    "visible_segments": [
+      [
+        13,
+        7
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M054/page_01.png",
+        "sha256": "2a305520cec8bb3dbb7d471b6ff523d34e8c10fdee03beb89379b8c569e85c30"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M058",
+    "visible_segments": [
+      [
+        11,
+        5
+      ],
+      [
+        0,
+        8
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M058/page_01.png",
+        "sha256": "e3e1bdc4a71920725e509ef6dd0c722ca697e7ea8bdb3727af55224e48d1cfb8"
+      },
+      {
+        "path": "evidence/qa21_runs/final_G06_M058/page_02.png",
+        "sha256": "fc7fafb3924d48921edeea3bba39ab81b86081c5ee44fb0ccc220cf019bbbb32"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M086",
+    "visible_segments": [
+      [
+        12,
+        6
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M086/page_01.png",
+        "sha256": "ce7514b7637af9e56d9415422af377266e1b343b05a05c12e4fa0c918ed23c16"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G06:M095",
+    "visible_segments": [
+      [
+        12,
+        6
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G06_M095/page_01.png",
+        "sha256": "40d0f48909bede41e99fb507f8560fb2e7e252f2bc039fa6110876343ced7a88"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G08:M026",
+    "visible_segments": [
+      [
+        13,
+        11
+      ],
+      [
+        13,
+        8
+      ],
+      [
+        11,
+        5
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G08_M026/page_01.png",
+        "sha256": "4bb9358cda713eb0a729f4cb7c2ac123e65b9b363bee5de22c2e3817afc638eb"
+      },
+      {
+        "path": "evidence/qa21_runs/final_G08_M026/page_02.png",
+        "sha256": "737b9c80e4c2fdc60b7f7a4c5783876e8e2144afe2a7786a7b3594083fbdb94d"
+      },
+      {
+        "path": "evidence/qa21_runs/final_G08_M026/page_03.png",
+        "sha256": "b02bac2aeb5e498501edbdf9fa15710d60bc961dba78c67870439722fe7e6647"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G08:M027",
+    "visible_segments": [
+      [
+        13,
+        7
+      ],
+      [
+        0,
+        12
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G08_M027/page_01.png",
+        "sha256": "61c939cf2f7017606ffa59fb247d361c099cd445458c26a27edf91cc8975c376"
+      },
+      {
+        "path": "evidence/qa21_runs/final_G08_M027/page_02.png",
+        "sha256": "46df34a8676d40571e6e4f7a984a79578544770898705a150eec844e8c918a4a"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M010",
+    "visible_segments": [
+      [
+        11,
+        10
+      ],
+      [
+        10,
+        4
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M010/page_01.png",
+        "sha256": "a9b502baa15df31f078d3d937acd7c8b90c6e03ad668e00b04d526c8f54b5a56"
+      },
+      {
+        "path": "evidence/qa22_runs/verified_G09_M010/page_02.png",
+        "sha256": "2f90fbcb68e87e92961ff8a42bc7807ecb8752b3709a8549dee02da871837cd6"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M045",
+    "visible_segments": [
+      [
+        2,
+        8
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M045/page_01.png",
+        "sha256": "f8894c620a23058a18e1f7ae8bf12c689ef3da31062cb54e6ffe48092004490c"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M069",
+    "visible_segments": [
+      [
+        11,
+        5
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M069/page_01.png",
+        "sha256": "11ea3a85e4f5e689c97de19f99849953a69a56e387094553ed0a16bd7b00d9e1"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M073",
+    "visible_segments": [
+      [
+        2,
+        8
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M073/page_01.png",
+        "sha256": "b65215bfdfa85f9584054115288b185f433b9a76fd1dcd7ca7a0d286ac796476"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M077",
+    "visible_segments": [
+      [
+        6
+      ],
+      [
+        0,
+        12,
+        6
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M077/page_01.png",
+        "sha256": "414c59530d8449fb27267dedf4d26d1c8154ee25e7080690fc7c864457bc4ad0"
+      },
+      {
+        "path": "evidence/qa22_runs/verified_G09_M077/page_02.png",
+        "sha256": "e838d2f611f8ca7303cd39ca7fc6e55903ebc1f4027652ff0eb95b86b5f15c10"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M091",
+    "visible_segments": [
+      [
+        10,
+        4
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M091/page_01.png",
+        "sha256": "c58b80e9a8c554bd0f3a1078320264f9734c692f558121dc8706fb5925ccb854"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M108",
+    "visible_segments": [
+      [
+        13,
+        7
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M108/page_01.png",
+        "sha256": "2125badc2262d69bf7a0297fbfbd61bbe4e8227df734b792d2430e0bac653e92"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M124",
+    "visible_segments": [
+      [
+        2,
+        8
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M124/page_01.png",
+        "sha256": "5480a0fab8bfb2bf0f335e79ee0accb17b7c7017edcdb6037c83cc5b4ec3e8ca"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G09:M169",
+    "visible_segments": [
+      [
+        7,
+        13
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 22,
+    "images": [
+      {
+        "path": "evidence/qa22_runs/verified_G09_M169/page_01.png",
+        "sha256": "aa4ce0ae8ab211f78b886ac4bb82fd1d3f392177c056435d19cc1a3a1684d30a"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G10:M015",
+    "visible_segments": [
+      [
+        7,
+        13
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 21,
+    "images": [
+      {
+        "path": "evidence/qa21_runs/final_G10_M015/page_01.png",
+        "sha256": "d1d7b37974ca7c9a92029561ed5d33987492ba501a04162b5d044237dcacd4b4"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G16:M008",
+    "visible_segments": [
+      [
+        12,
+        6
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 19,
+    "images": [
+      {
+        "path": "evidence/qa19_runs/final_G16_M008/page_01.png",
+        "sha256": "f4bf9a3ae36905e7a092424d2375ee90743bd7a93e765129f2731772b14d7815"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G16:M009",
+    "visible_segments": [
+      [
+        12,
+        6
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 19,
+    "images": [
+      {
+        "path": "evidence/qa19_runs/final_G16_M009/page_01.png",
+        "sha256": "f4bf9a3ae36905e7a092424d2375ee90743bd7a93e765129f2731772b14d7815"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  },
+  {
+    "id": "G16:M010",
+    "visible_segments": [
+      [
+        12,
+        6
+      ]
+    ],
+    "imbalance_cells": 6,
+    "evidence_phase": 19,
+    "images": [
+      {
+        "path": "evidence/qa19_runs/final_G16_M010/page_01.png",
+        "sha256": "f4bf9a3ae36905e7a092424d2375ee90743bd7a93e765129f2731772b14d7815"
+      }
+    ],
+    "scope": "HISTORICAL_NATIVE_SCREENSHOT"
+  }
+]

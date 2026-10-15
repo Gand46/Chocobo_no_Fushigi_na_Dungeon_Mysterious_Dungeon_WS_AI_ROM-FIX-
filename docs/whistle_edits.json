@@ -1,0 +1,30 @@
+[
+  {
+    "id": "WHISTLE_TILES_PTR",
+    "offset": "0x100078",
+    "before": "765b",
+    "after": "00c8",
+    "reason": "Complete the Whistle tile resource and bake solid-color palette aliases into valid tiles; same-bank resource relocation; original tiles 0..36 unchanged."
+  },
+  {
+    "id": "WHISTLE_MAP_PTR",
+    "offset": "0x130040",
+    "before": "480c",
+    "after": "60fc",
+    "reason": "Complete the Whistle tile resource and bake solid-color palette aliases into valid tiles; same-bank resource relocation; original tiles 0..36 unchanged."
+  },
+  {
+    "id": "WHISTLE_COMPLETE_TILES",
+    "offset": "0x10c800",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "8002f9001f001200020205052af72a5555c200001500aaffa05540aba05f5000ef005500aa42007f00ffec2000170001019002050000ff05050a0a5555aaaaff5555afaf5f5faaaa7f5757afaf7f7fff1400bfbfb0fff0fff82600fcf4d503c2030a420055008b00ff5700af005f00bf00bf7fbfbf7fff3f20001f7bff0f200007fffffc240039fe2300000315002b00034000ff802f401f07ff03ffa1012000d209200017007f20003fe1ff40031b009502210080ff80f8b308f3084100b00f5807bee3017fb108030fb5027fe01f2ff00ff807a70903a2074104722000c02500330d05000b700a824100feb7090605c504c201a60a1f74a2054004e02600f0fff0830424170085040f0c0121001f800cca05c2200007a60a8307410527197ff8271f00038a2041033f4801c504f77f000702013ffc3ffcfd1f20008f7ce71e770e031b061a08f10c1e011b00",
+    "reason": "Complete the Whistle tile resource and bake solid-color palette aliases into valid tiles; same-bank resource relocation; original tiles 0..36 unchanged."
+  },
+  {
+    "id": "WHISTLE_NORMALIZED_MAP",
+    "offset": "0x13fc60",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "000801001f001f001f001f001f001f001f00fe1f00000100020003007f034002400140002500f81f001f0010000400050006ff00070026002640073f4006400540040f041f00fe1400080009000a0027fb000b02040b4027400a8f400940080f041f0012000cff0025000d000e000fff00100010400f400e3f400d4025400c0f041f00be10001100120013200414ae2008150015e00714e00313cf401240110f041f000016ee600b170018200419001aef001a4019e003184017cf402640160f041f00001bef001c001d40041e001fff00200020401f401e3ec0031d401c401b0f041f00fe140021002200230024ff0024402340224021000f1c1f001f001f001f001f001f001f00001f001f001f001f001f001f001f001f00001f001f001f001f001f001f001f001f00001f001f001f001f001f001f001f001f00001f001f001f001f001f001f001f001f00001f001f001f001f001f001f001f001f00001f001f001f001f001f001f001f001f00001f001f001f001f001f001f001f001f00001f001f001f001f001f001f001f001f00001f001f001f001f001f001f001f001f000100",
+    "reason": "Complete the Whistle tile resource and bake solid-color palette aliases into valid tiles; same-bank resource relocation; original tiles 0..36 unchanged."
+  }
+]

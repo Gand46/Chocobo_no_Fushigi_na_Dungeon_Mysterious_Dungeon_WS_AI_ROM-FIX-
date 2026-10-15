@@ -1,0 +1,30 @@
+[
+  {
+    "id": "F17:I067_getter_payload",
+    "offset": "0x19ff00",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "d000a102d701c1000f00e601d701ffff",
+    "reason": "Same Japanese \u7834\u52d5\u7832 glyph stream as G14:M067; reconcile the native getter sibling with the HF18 story label."
+  },
+  {
+    "id": "F17:I067_getter_pointer",
+    "offset": "0x19c04a",
+    "before": "bac3",
+    "after": "00ff",
+    "reason": "Same Japanese \u7834\u52d5\u7832 glyph stream as G14:M067; reconcile the native getter sibling with the HF18 story label."
+  },
+  {
+    "id": "F17:I152_getter_payload",
+    "offset": "0x19ff10",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "d50017000203c1000f00e601d701ffff",
+    "reason": "Same Japanese \u6ce2\u52d5\u7832 glyph stream as G14:M152; reconcile the native getter sibling with the HF18 story label."
+  },
+  {
+    "id": "F17:I152_getter_pointer",
+    "offset": "0x19c0f4",
+    "before": "b4c7",
+    "after": "10ff",
+    "reason": "Same Japanese \u6ce2\u52d5\u7832 glyph stream as G14:M152; reconcile the native getter sibling with the HF18 story label."
+  }
+]

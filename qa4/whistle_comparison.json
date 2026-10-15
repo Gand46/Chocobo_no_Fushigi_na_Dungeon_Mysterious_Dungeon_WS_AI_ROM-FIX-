@@ -1,0 +1,2211 @@
+{
+  "frames": 2399,
+  "excluded_first_frame": "emulator returned invalid PNG before first render",
+  "identical_frames": 2204,
+  "different_frames": 195,
+  "frames_with_changes_outside_repaired_cells": [
+    {
+      "frame": 638,
+      "pixels": 80,
+      "outside_repaired_cells": 80,
+      "bbox": [
+        64,
+        141,
+        223,
+        142
+      ]
+    },
+    {
+      "frame": 639,
+      "pixels": 905,
+      "outside_repaired_cells": 764,
+      "bbox": [
+        48,
+        24,
+        223,
+        142
+      ]
+    },
+    {
+      "frame": 640,
+      "pixels": 1669,
+      "outside_repaired_cells": 684,
+      "bbox": [
+        48,
+        24,
+        159,
+        71
+      ]
+    }
+  ],
+  "all_differences": [
+    {
+      "frame": 638,
+      "pixels": 80,
+      "outside_repaired_cells": 80,
+      "bbox": [
+        64,
+        141,
+        223,
+        142
+      ]
+    },
+    {
+      "frame": 639,
+      "pixels": 905,
+      "outside_repaired_cells": 764,
+      "bbox": [
+        48,
+        24,
+        223,
+        142
+      ]
+    },
+    {
+      "frame": 640,
+      "pixels": 1669,
+      "outside_repaired_cells": 684,
+      "bbox": [
+        48,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 641,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 642,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 643,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 644,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 645,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 646,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 647,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 648,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 649,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 650,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 651,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 652,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 653,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 654,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 655,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 656,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 657,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 658,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 659,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 660,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 661,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 662,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 663,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 664,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 665,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 666,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 667,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 668,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 669,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 670,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 671,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 672,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 673,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 674,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 675,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 676,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 677,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 678,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 679,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 680,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 681,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 682,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 683,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 684,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 685,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 686,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 687,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 688,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 689,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 690,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 691,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 692,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 693,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 694,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 695,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 696,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 697,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 698,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 699,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 700,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 701,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 702,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 703,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 704,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 705,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 706,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 707,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 708,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 709,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 710,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 711,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 712,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 713,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 714,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 715,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 716,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 717,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 718,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 719,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 720,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 721,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 722,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 723,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 724,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 725,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 726,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 727,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 728,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 729,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 730,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 731,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 732,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 733,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 734,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 735,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 736,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 737,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 738,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 739,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 740,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 741,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 742,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 743,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 744,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 745,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 746,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 747,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 748,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 749,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 750,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 751,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 752,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 753,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 754,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 755,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 756,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 757,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 758,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 759,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 760,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 761,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 762,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 763,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 764,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 765,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 766,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 767,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 768,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 769,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 770,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 771,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 772,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 773,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 774,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 775,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 776,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 777,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 778,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 779,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 780,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 781,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 782,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 783,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 784,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 785,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 786,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 787,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 788,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 789,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 790,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 791,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 792,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 793,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 794,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 795,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 796,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 797,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 798,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 799,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 800,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 801,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 802,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 803,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 804,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 805,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 806,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 807,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 808,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 809,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 810,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 811,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 812,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 813,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 814,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 815,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 816,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 817,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 818,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 819,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 820,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 821,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 822,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 823,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 824,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 825,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 826,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 827,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 828,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 829,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 830,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 831,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    },
+    {
+      "frame": 832,
+      "pixels": 870,
+      "outside_repaired_cells": 0,
+      "bbox": [
+        64,
+        24,
+        159,
+        71
+      ]
+    }
+  ],
+  "original_37_tiles_identical": true,
+  "new_three_solid_tiles_verified": true,
+  "changed_map_bytes_restricted_to_18_cells": true,
+  "map_cells": [
+    "0x18d6",
+    "0x18d8",
+    "0x1912",
+    "0x1916",
+    "0x1918",
+    "0x191c",
+    "0x194e",
+    "0x1960",
+    "0x1990",
+    "0x1994",
+    "0x199a",
+    "0x199e",
+    "0x19cc",
+    "0x19d2",
+    "0x19dc",
+    "0x19e2",
+    "0x1a10",
+    "0x1a1e"
+  ]
+}

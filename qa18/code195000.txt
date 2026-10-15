@@ -1,0 +1,126 @@
+
+qa18/private/code195000.bin:     file format binary
+
+
+Disassembly of section .data:
+
+00005000 <.data>:
+    5000:	fe 0e 4b 73          	dec    BYTE PTR ds:0x734b
+    5004:	80 3e 4b 73 02       	cmp    BYTE PTR ds:0x734b,0x2
+    5009:	75 09                	jne    0x5014
+    500b:	b0 1d                	mov    al,0x1d
+    500d:	9a fe 8e 00 50       	call   0x5000:0x8efe
+    5012:	eb 0e                	jmp    0x5022
+    5014:	80 3e 4b 73 01       	cmp    BYTE PTR ds:0x734b,0x1
+    5019:	75 07                	jne    0x5022
+    501b:	b0 1c                	mov    al,0x1c
+    501d:	9a fe 8e 00 50       	call   0x5000:0x8efe
+    5022:	c6 06 9c 64 00       	mov    BYTE PTR ds:0x649c,0x0
+    5027:	c3                   	ret
+    5028:	83 3e 1a 75 ff       	cmp    WORD PTR ds:0x751a,0xffff
+    502d:	74 04                	je     0x5033
+    502f:	ff 06 1a 75          	inc    WORD PTR ds:0x751a
+    5033:	83 3e 1a 75 14       	cmp    WORD PTR ds:0x751a,0x14
+    5038:	72 07                	jb     0x5041
+    503a:	b0 40                	mov    al,0x40
+    503c:	9a fe 8e 00 50       	call   0x5000:0x8efe
+    5041:	8b 1e 18 75          	mov    bx,WORD PTR ds:0x7518
+    5045:	03 1e 1a 75          	add    bx,WORD PTR ds:0x751a
+    5049:	81 fb 2c 01          	cmp    bx,0x12c
+    504d:	72 09                	jb     0x5058
+    504f:	b0 3f                	mov    al,0x3f
+    5051:	9a fe 8e 00 50       	call   0x5000:0x8efe
+    5056:	eb 39                	jmp    0x5091
+    5058:	81 fb fa 00          	cmp    bx,0xfa
+    505c:	72 09                	jb     0x5067
+    505e:	b0 3e                	mov    al,0x3e
+    5060:	9a fe 8e 00 50       	call   0x5000:0x8efe
+    5065:	eb 2a                	jmp    0x5091
+    5067:	81 fb c8 00          	cmp    bx,0xc8
+    506b:	72 09                	jb     0x5076
+    506d:	b0 3d                	mov    al,0x3d
+    506f:	9a fe 8e 00 50       	call   0x5000:0x8efe
+    5074:	eb 1b                	jmp    0x5091
+    5076:	81 fb 96 00          	cmp    bx,0x96
+    507a:	72 09                	jb     0x5085
+    507c:	b0 3c                	mov    al,0x3c
+    507e:	9a fe 8e 00 50       	call   0x5000:0x8efe
+    5083:	eb 0c                	jmp    0x5091
+    5085:	83 fb 64             	cmp    bx,0x64
+    5088:	72 07                	jb     0x5091
+    508a:	b0 3b                	mov    al,0x3b
+    508c:	9a fe 8e 00 50       	call   0x5000:0x8efe
+    5091:	c6 06 9c 64 00       	mov    BYTE PTR ds:0x649c,0x0
+    5096:	c3                   	ret
+    5097:	c6 06 eb 05 dc       	mov    BYTE PTR ds:0x5eb,0xdc
+    509c:	c6 06 9c 64 00       	mov    BYTE PTR ds:0x649c,0x0
+    50a1:	c3                   	ret
+    50a2:	c6 06 d3 1f 01       	mov    BYTE PTR ds:0x1fd3,0x1
+    50a7:	a0 eb 05             	mov    al,ds:0x5eb
+    50aa:	9a 36 ac 00 40       	call   0x4000:0xac36
+    50af:	c6 06 9c 64 00       	mov    BYTE PTR ds:0x649c,0x0
+    50b4:	c3                   	ret
+    50b5:	be 9f 6c             	mov    si,0x6c9f
+    50b8:	8b 1e 4c 05          	mov    bx,WORD PTR ds:0x54c
+    50bc:	03 f3                	add    si,bx
+    50be:	c6 04 00             	mov    BYTE PTR [si],0x0
+    50c1:	8b fe                	mov    di,si
+    50c3:	83 c7 05             	add    di,0x5
+    50c6:	8b c3                	mov    ax,bx
+    50c8:	b2 05                	mov    dl,0x5
+    50ca:	f6 f2                	div    dl
+    50cc:	8a c8                	mov    cl,al
+    50ce:	f6 44 04 10          	test   BYTE PTR [si+0x4],0x10
+    50d2:	74 15                	je     0x50e9
+    50d4:	57                   	push   di
+    50d5:	8a d1                	mov    dl,cl
+    50d7:	9a 2d b6 00 90       	call   0x9000:0xb62d
+    50dc:	50                   	push   ax
+    50dd:	b8 d1 71             	mov    ax,0x71d1
+    50e0:	3b f8                	cmp    di,ax
+    50e2:	73 03                	jae    0x50e7
+    50e4:	c6 05 ff             	mov    BYTE PTR [di],0xff
+    50e7:	58                   	pop    ax
+    50e8:	5f                   	pop    di
+    50e9:	fe c1                	inc    cl
+    50eb:	51                   	push   cx
+    50ec:	8b c1                	mov    ax,cx
+    50ee:	b9 75 00             	mov    cx,0x75
+    50f1:	bb 00 00             	mov    bx,0x0
+    50f4:	8a 97 3f 6d          	mov    dl,BYTE PTR [bx+0x6d3f]
+    50f8:	3a d0                	cmp    dl,al
+    50fa:	72 09                	jb     0x5105
+    50fc:	80 fa 20             	cmp    dl,0x20
+    50ff:	73 04                	jae    0x5105
+    5101:	fe 8f 3f 6d          	dec    BYTE PTR [bx+0x6d3f]
+    5105:	83 c3 0a             	add    bx,0xa
+    5108:	e2 ea                	loop   0x50f4
+    510a:	59                   	pop    cx
+    510b:	eb 24                	jmp    0x5131
+    510d:	8a 05                	mov    al,BYTE PTR [di]
+    510f:	88 04                	mov    BYTE PTR [si],al
+    5111:	8a 45 01             	mov    al,BYTE PTR [di+0x1]
+    5114:	88 44 01             	mov    BYTE PTR [si+0x1],al
+    5117:	8a 45 02             	mov    al,BYTE PTR [di+0x2]
+    511a:	88 44 02             	mov    BYTE PTR [si+0x2],al
+    511d:	8a 45 03             	mov    al,BYTE PTR [di+0x3]
+    5120:	88 44 03             	mov    BYTE PTR [si+0x3],al
+    5123:	8a 45 04             	mov    al,BYTE PTR [di+0x4]
+    5126:	88 44 04             	mov    BYTE PTR [si+0x4],al
+    5129:	83 c6 05             	add    si,0x5
+    512c:	83 c7 05             	add    di,0x5
+    512f:	fe c1                	inc    cl
+    5131:	3a 0e 9e 6c          	cmp    cl,BYTE PTR ds:0x6c9e
+    5135:	72 d6                	jb     0x510d
+    5137:	c6 04 00             	mov    BYTE PTR [si],0x0
+    513a:	c6 44 01 00          	mov    BYTE PTR [si+0x1],0x0
+    513e:	c6 44 02 00          	mov    BYTE PTR [si+0x2],0x0
+    5142:	c6 44 03 00          	mov    BYTE PTR [si+0x3],0x0
+    5146:	c6 44 04 00          	mov    BYTE PTR [si+0x4],0x0
+    514a:	c6 06 9c 64 00       	mov    BYTE PTR ds:0x649c,0x0
+    514f:	c3                   	ret
+    5150:	8b 3e 08 67          	mov    di,WORD PTR ds:0x6708
+    5154:	fe 85 0a 67          	inc    BYTE PTR [di+0x670a]
+    5158:	80 bd 0a 67 01       	cmp    BYTE PTR [di+0x670a],0x1
+    515d:	75 4c                	jne    0x51ab
+    515f:	a0                   	.byte 0xa0

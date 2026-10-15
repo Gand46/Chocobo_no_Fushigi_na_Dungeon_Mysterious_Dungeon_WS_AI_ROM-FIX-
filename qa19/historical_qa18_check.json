@@ -1,0 +1,46 @@
+{
+  "status": "PASS_SYNTHETIC_SCOPED",
+  "iteration": "M4_OF_4_EXECUTED",
+  "checks": 259,
+  "approved_runs": 7,
+  "diagnostic_runs": 23,
+  "approved_native_frames": 7500,
+  "visual_readings": 14,
+  "unique_resources_corrected": 5,
+  "content_changed_bytes": 147,
+  "checksum_changed_bytes": 2,
+  "nonblank_dropped_glyphs_approved": 0,
+  "blank_padding_drops_approved": 0,
+  "independent_bps": "PASS_EXACT_BYTES",
+  "layout_static": {
+    "story_references": 3488,
+    "story_unique_pointers": 3472,
+    "story_nonempty": 3307,
+    "story_literal_references": 886,
+    "story_control_only_nonempty": 2421,
+    "story_dynamic_references": 9,
+    "story_unterminated": 0,
+    "horizontal_candidates": [
+      "G01:M031",
+      "G06:M022",
+      "G09:M063"
+    ],
+    "vertical_candidates": [],
+    "getter_entries": 2333,
+    "getter_nonempty": 1972,
+    "getter_unterminated": 0,
+    "window_presets": 141,
+    "unique_geometries": 79,
+    "status": "STATIC_ONLY_NOT_GLOBAL_VISUAL_APPROVAL"
+  },
+  "global_layout_approved": false,
+  "global_linguistic_approved": false,
+  "natural_scene_reachability": "NOT_VALIDATED",
+  "remaining_base_iterations": 0,
+  "unconfirmed_layout_candidates": [
+    "TR-01-M2-C01 preset32/F00:I053"
+  ],
+  "build": {
+    "scope": "HISTORICAL_HF13_FROM_PRESERVED_BPS"
+  }
+}

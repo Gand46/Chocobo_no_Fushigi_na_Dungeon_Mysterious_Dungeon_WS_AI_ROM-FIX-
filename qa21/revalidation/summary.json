@@ -1,0 +1,16 @@
+{
+  "status": "PASS_HF16_V3_SCOPED_REVALIDATION",
+  "japanese_sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+  "hf16_sha256": "14abf199753631e907e80092ce50f4e48d7eb139f31964cdc8897b9d6bf51c00",
+  "bps_sha256": "5f1c59ee00a6e564ff007518aa86e46b40eb9f94dc0f410fd702df0db8a6e78a",
+  "scope_checks": 3365,
+  "supplemental_revalidation_checks": 952,
+  "references_reviewed": 207,
+  "scoped_pass": 205,
+  "context_pending": [
+    "G06:M100",
+    "G11:M011"
+  ],
+  "global_visual_approved": false,
+  "global_linguistic_approved": false
+}

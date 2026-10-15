@@ -1,0 +1,17 @@
+{
+  "q5_jp_lafoss_saved": {
+    "native_save_block_identical": true,
+    "block_sha256": "b837517c19e9f99ee6c5149e5c40f0c1eba7e603f4299d7db1821cf8304988f8",
+    "fixture_sha256": "1256b32a835c03cc4a977db10ed9940f29c5a46054fe82d9fa844f533d5bdb43"
+  },
+  "q5_en_lafoss_saved": {
+    "native_save_block_identical": true,
+    "block_sha256": "b837517c19e9f99ee6c5149e5c40f0c1eba7e603f4299d7db1821cf8304988f8",
+    "fixture_sha256": "1256b32a835c03cc4a977db10ed9940f29c5a46054fe82d9fa844f533d5bdb43"
+  },
+  "q5_hf3_lafoss_saved": {
+    "native_save_block_identical": true,
+    "block_sha256": "b837517c19e9f99ee6c5149e5c40f0c1eba7e603f4299d7db1821cf8304988f8",
+    "fixture_sha256": "1256b32a835c03cc4a977db10ed9940f29c5a46054fe82d9fa844f533d5bdb43"
+  }
+}

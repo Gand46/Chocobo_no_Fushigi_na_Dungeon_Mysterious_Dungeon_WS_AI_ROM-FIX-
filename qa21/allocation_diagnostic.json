@@ -1,0 +1,6 @@
+{
+  "rejected_start": "06E586",
+  "reason": "FF bytes were a live FFFF terminator of inherited G06:M099; canonical overlap gate rejected build.",
+  "correct_start": "06E588",
+  "status": "REJECTED_NOT_DELIVERED"
+}

@@ -1,0 +1,16 @@
+from pathlib import Path
+import hashlib,json,zlib,shutil
+w=Path.cwd();root=w/'delivery/Chocobo_EN_v1.1_HF9_TEST_Fuentes_QA12_20261014'
+b=(w/'private_roms/hf9_final_candidate/Chocobo_EN_v1.1_HF9_TEST.ws').read_bytes();old=(w/'private_roms/hf8_release/Chocobo_EN_v1.1_HF8_TEST.ws').read_bytes();en=(w/'private_roms/EN.ws').read_bytes();jp=(w/'private_roms/JP.ws').read_bytes()
+m=json.loads((root/'manifest.json').read_text());m['previous_hf8']=m['target'];m['target']={'bytes':len(b),'sha256':hashlib.sha256(b).hexdigest(),'crc32':f'{zlib.crc32(b):08X}','ws_checksum':f'{sum(b[:-2])&65535:04X}'}
+m.update(version='1.1-HF9-TEST',date='2026-10-14',date_timezone='Etc/UTC',audit_revision='QA12_FUSED_EQUIPMENT_PROPERTIES_AND_ITEM_TEXT',changed_bytes_vs_hf8=sum(a!=c for a,c in zip(old,b)),changed_bytes_vs_english=sum(a!=c for a,c in zip(en,b)),changed_bytes_vs_japanese=sum(a!=c for a,c in zip(jp,b)),rom_changes_in_QA12=sum(a!=c for a,c in zip(old,b)),corrected_resources=16,qa12_new_text_repairs=4,equipment_freeze='NOT_REPRODUCED_VALID_PROPERTY_FIXTURES_96_DESCRIPTORS_49_PAIRS_PLUS_TARGETED_CHECKS',qa12_layout='163_OTHER_ITEM_IDS_ON_HF8_BASELINE;96_NONZERO_PROPERTIES_AND_FOUR_REPAIRS_CHECKED_ON_FINAL_HF9',global_layout_approved=False)
+m['bps_sha256']=hashlib.sha256((w/'private_roms/hf9_final_candidate/Chocobo_EN_v1.1_HF9_TEST_JP_CCAA4853.bps').read_bytes()).hexdigest()
+(root/'manifest.json').write_text(json.dumps(m,indent=2)+'\n')
+p=root/'tests/test_project.py';p.write_text(p.read_text().replace("m['changed_bytes_vs_english'],4298","m['changed_bytes_vs_english'],4315"))
+fixes=[
+ {'id':'PROPERTY_UNDEAD_TEXT','family':6,'index':19,'offset':'0x15CAEE','slot_end_exclusive':'0x15CB0A','before_visible':'Skill Strong on dead o,af','after_visible':'Skill Strong to Undead!','japanese_source':'死者タイプ用 有効能力付き','meaning':'Effective against undead enemies','glyph_provenance':'Skill prefix retained; Strong to Undead! copied from family2 item0x74 at15B874','native_control':'q12_jp_controls/undead_first_f720.png'},
+ {'id':'PROPERTY_THREE_WAY_END','family':6,'index':25,'offset':'0x15CBA6','before_visible':'Skill3pronged hit o,af','after_visible':'Skill3pronged hit','japanese_source':'前方３方向の攻撃 有効能力付き','meaning':'Attack in three forward directions','glyph_provenance':'Existing wording preserved; FFFF terminator moved before stray suffix','native_control':'q12_jp_controls/threeway_first_f720.png'},
+ {'id':'PROPERTY_FIRE_SADDLE_TAIL','family':7,'index':1,'offset':'0x15CFB0','before_visible':'Fire typeaf','after_visible':'Fire type','japanese_source':'火の属性を持つ','meaning':'Fire element','glyph_provenance':'Final blank now matches family6 index1 at15C98E','native_control':'q12_jp_controls/fire_first_f720.png'},
+ {'id':'ITEM_SLEEP_CARD_NAME','family':3,'index':3,'offset':'0x16EA1C','slot_end_exclusive':'0x16EA2C','before_visible':'Sleepel Card','after_visible':'Sleep Card','japanese_source':'スリプルカード','meaning':'Sleep Card','glyph_provenance':'Remove surplus 008D; Sleep glyphs match family6 index49; Card suffix retained','native_control':'q12_jp_controls/sleep_card_f720.png'}]
+(root/'localization/hf9_text_repairs.json').write_text(json.dumps(fixes,indent=2,ensure_ascii=False)+'\n')
+print(json.dumps({'target':m['target'],'bps_sha256':m['bps_sha256'],'delta':m['changed_bytes_vs_hf8']},indent=2))

@@ -1,0 +1,21 @@
+{
+  "exit": 0,
+  "elapsed": 0.8663400420009566,
+  "command": [
+    "/workspace/scratch/c927ea6e6f03/emulator/Mesen",
+    "--testRunner",
+    "--timeout=15",
+    "--enableStdout",
+    "--doNotSaveSettings",
+    "--debug.scriptWindow.allowIoOsAccess=true",
+    "/workspace/scratch/c927ea6e6f03/hf18_recovered/qa21/driver.lua",
+    "/workspace/scratch/c927ea6e6f03/hf18_recovered/build/qa26/candidate.ws"
+  ],
+  "rom_sha256": "030de69bc2c6e8870fa2650fe879d7f6003c4c5580c5b22def48f08f875b8c49",
+  "state_sha256": "6c5bcdf413ba34adf9bcb4bf3268469e1b2b6da48f623d4c270b210bc83ad92f",
+  "plan_sha256": "2fb68d080a234e43504e0f17404b5f8bdaefba51b7a05aa02ae87c9a32c13eb0",
+  "script_sha256": "07db7d1416e87199262286cc39cf6e01335f6499e4b20117a7273091433caf67",
+  "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+  "completed": true,
+  "native_save_after_sha256": "0aa634e52682f122400ba0bda33ee64e8615ec8fdb2379563ef1a9c6a8caa509"
+}

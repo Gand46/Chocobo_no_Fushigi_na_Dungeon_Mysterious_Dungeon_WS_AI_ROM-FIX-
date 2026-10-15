@@ -1,0 +1,88 @@
+{
+  "schema": "chocobo-ws-save-data-v1",
+  "read_only": true,
+  "raw_bytes": 32768,
+  "raw_sha256": "2e66d3340606e0ec7494df29fbb29e865c79dee3a4d7d637e43e2fc474735ca3",
+  "marker_check": {
+    "normal": true,
+    "alternate": false,
+    "recognized_by_observed_marker_rule": true,
+    "raw_hex": "000000006e5f6331"
+  },
+  "payload": {
+    "start": "75B6",
+    "end_inclusive": "7F89",
+    "bytes": 2516,
+    "sha256": "4a1fc825986f917422c2aeafaaf2c9b3c7f215aaf00869fc24a0d6be066a68ba"
+  },
+  "saved_fields_observed": {
+    "level": 2,
+    "hp": 29,
+    "max_hp": 30,
+    "inventory_capacity_observed": 18,
+    "dungeon": 0,
+    "current_floor": 3,
+    "resume_destination": 0,
+    "story_flags_730A": "0000",
+    "story_flags_730C": "0780",
+    "captured_counter_7530": 18
+  },
+  "semantic_warnings": [],
+  "integrity_without_reference": "NOT_VALIDATED",
+  "event_and_gameplay_coherence": "NOT_VALIDATED",
+  "notes": [
+    "Known markers are not a checksum or a backup.",
+    "Two marker locations refer to one shared payload.",
+    "Fields are decoded from observed code/runtime. No complete legal-value schema is claimed.",
+    "Current floor and resume destination may legitimately differ or change during load."
+  ],
+  "reference_sha256": "495fed64c5f595ad7252b7ff77a13e6c0fdbc1f3d95e142cf2eae40b28315892",
+  "reference_comparison": {
+    "scope": "Markers and stored payload of the same save generation",
+    "status": "FAIL",
+    "markers_equal": true,
+    "payload_equal": false,
+    "payload_changed_bytes": 2,
+    "payload_changed_ranges": [
+      {
+        "start": "765B",
+        "end": "765C",
+        "bytes": 2
+      }
+    ],
+    "marker_changed_ranges": [],
+    "whole_sram_equal": false,
+    "excluded": "Live/work SRAM and 75B4..75B5: runtime validity cache/padding, not the stored payload",
+    "interpretation": "A difference is not by itself proof of accidental corruption; verify generation provenance"
+  },
+  "next_reference_sha256": "7e22679e7636b7ef9273172b090008c8ed07bc3ba172273e34b070b0f7005586",
+  "generation_comparison": {
+    "status": "CONSISTENT_WITH_INTERRUPTED_PREFIX_COPY",
+    "mixed": true,
+    "possible_copied_byte_count": [
+      167,
+      2392
+    ],
+    "interpretation": "New prefix and old suffix; causal proof requires a native write trace"
+  },
+  "native_load_copy": {
+    "scope": "Snapshot at 9000:033F, immediately after native copy; before post-load changes",
+    "status": "PASS",
+    "expected_bytes": 2516,
+    "equal_bytes": 2516,
+    "changed_ranges_live": [],
+    "live_fields": {
+      "level": 2,
+      "hp": 29,
+      "max_hp": 30,
+      "inventory_capacity_observed": 18,
+      "dungeon": 0,
+      "current_floor": 3,
+      "resume_destination": 0,
+      "story_flags_730A": "0000",
+      "story_flags_730C": "0780",
+      "captured_counter_7530": 18
+    }
+  },
+  "file": "cut_0200.sav"
+}

@@ -1,0 +1,759 @@
+{
+  "final_rom_sha256": "116cd3df2828e97c890049619f6f43bf10102490f0c709a3dc836ec54a6a065a",
+  "inherited_event_evidence": "Final changes from Atla-tested candidate affect title assets and ROM checksum only. Event scripts and gameplay bytes are identical; inherited evidence is not a new final-hash run.",
+  "runs": [
+    {
+      "run": "q10_atla_rescue",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 85,
+      "run.json": {
+        "exit": 255,
+        "elapsed": 20.223060703996453,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "rom_sha256": "53f7309816536ac970f5fe5e02b6e2e2e9d358e5367ce9786450a7d3701d5f78",
+        "state_sha256": "6d67f049fe57904e6b2de8578de2e651d9f50fba2eb485fc098c2a37adde7ed0",
+        "plan_sha256": "abb06b8dbd76f7982fcac976cba6a131b7a7f81f02397b4f1eb2b1d78c7b7733",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": false,
+        "native_save_after_sha256": "dc50b3c2cae74f27d1af811e40964f84db9d3ff3d76ddffc8175f538cd401eb7"
+      },
+      "checkpoint_hashes": {}
+    },
+    {
+      "run": "q10_atla_rescue2",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 147,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 5.881307743002253,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+          "--testRunner",
+          "--timeout=25",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title_final.ws"
+        ],
+        "rom_sha256": "a068256a432d56a9f908ab668ee9b759eed9fe7ec258f85b9b53a969e382c417",
+        "state_sha256": "6d67f049fe57904e6b2de8578de2e651d9f50fba2eb485fc098c2a37adde7ed0",
+        "plan_sha256": "e9e1079e22f13ff30b2cb698eab03abe91c2381cf9f3f02d0bacdd3806db0a5e",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "963b315e855bf9c90f5170dfff0d42d146582d6614ba0ea4f6cb3027456f9a16"
+      },
+      "completed.txt": "frames=3600",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "a34268d917e9a518eafc80bc9bb0dc511ed1e06ced96518a2f28edf3c8d0b7fe",
+        "event_9A1C.mss": "d6fde00bd384f527c0a87bb9bb77b1a2ad5851089c03dad6bd993d0302e80c2b",
+        "event_9A6F.mss": "20e869718f0381baadf2bfd34e379952f890a1698af1f2eb56107efc34e9abc1",
+        "event_9AE4.mss": "176120e4cca34c943fe7340104de1814c94d66d9ff89694ba43a854eb3c085b3",
+        "event_9B19.mss": "5896ac2f67fa5f824bba349ac19181b3adf66bec6dcf78c4a1018de0caf5be83",
+        "event_9C11.mss": "686925a3a3a5eed5435edcd5463457652ec818f12458bd5f0d82bd0afd88c2d3"
+      }
+    },
+    {
+      "run": "q10_atla_rescue3",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 132,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 6.488373529995442,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+          "--testRunner",
+          "--timeout=25",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title_final.ws"
+        ],
+        "rom_sha256": "a068256a432d56a9f908ab668ee9b759eed9fe7ec258f85b9b53a969e382c417",
+        "state_sha256": "a34268d917e9a518eafc80bc9bb0dc511ed1e06ced96518a2f28edf3c8d0b7fe",
+        "plan_sha256": "e9e1079e22f13ff30b2cb698eab03abe91c2381cf9f3f02d0bacdd3806db0a5e",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "277cd2d7afba1c1bb8b65b1afa9af878b519b4e2046a2ffdcce3598aafa4b97b"
+      },
+      "completed.txt": "frames=3600",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "500641c0b3513a54e511f8610b0051dbd51394425617b0ec588fbfef9773a327"
+      }
+    },
+    {
+      "run": "q10_atla_trace",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 179,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 14.11126493300253,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+          "--testRunner",
+          "--timeout=35",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "rom_sha256": "53f7309816536ac970f5fe5e02b6e2e2e9d358e5367ce9786450a7d3701d5f78",
+        "state_sha256": "19ba053b9b79961eedeace434613a8fea3a027a49960566d8dc0f5b5c1a4d7cf",
+        "plan_sha256": "d3954fee7d76ad2c1276158a230a3d694cc8040ab9d4c6da38ed46ab7ed14c7a",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "ba9ffc685128f3652bd7d62c5c9785a638137befcdea6c5d25d62e59ea10a9fd"
+      },
+      "completed.txt": "frames=10000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "4ed54b1cef65d601a5b3fe00e6d801b25d97ebedb5fb8a22b5c87564d6393add"
+      }
+    },
+    {
+      "run": "q10_equipment_all",
+      "scope": "Prior title candidate: 92 ordinary equipment Check cases; no reproduction of freeze",
+      "files": 286,
+      "run.json": {
+        "method": "SYNTHETIC_SINGLE_BAG_RECORD_NATIVE_MENU",
+        "rom_sha256": "53f7309816536ac970f5fe5e02b6e2e2e9d358e5367ce9786450a7d3701d5f78",
+        "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+        "script_sha256": "e6914f438d5bce254c73505a38a12501a88b41d27c7b57dadb2c513ac51dd90e",
+        "cases_sha256": "83b19eff3d8ca8b1a690723f4236892e09e7cc427377fb1608473548b3edc0ed",
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+          "--testRunner",
+          "--timeout=220",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/equipment_suite/native_suite.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "elapsed_seconds": 126.75022749100026,
+        "timed_out": false,
+        "exit": 0,
+        "completed": true
+      },
+      "completed.txt": "cases=92\nframes=86481\n",
+      "checkpoint_hashes": {}
+    },
+    {
+      "run": "q10_final_atla_boss",
+      "scope": "Inherited event evidence: assisted boss fight",
+      "files": 23,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 7.897239990001253,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+          "--testRunner",
+          "--timeout=25",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/hf7_release/Chocobo_EN_v1.1_HF7_TEST.ws"
+        ],
+        "rom_sha256": "31d1a3ddeccb2aaf58c2e903aadf6390c2a36ccfe81a2f31c37c0d156bd4c681",
+        "state_sha256": "853e58b15ac16b4eef2558d1e4ce163fddce5eb127345ef4d51deeecb00813a9",
+        "plan_sha256": "c3c7fe77f67352f74ed51ec1c99db0b995d8db2232cf1d0a74db7266390cbb53",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "d5117577e48966cd22c6138bf7b9e1fc423872167c20b90786d5999721c0ea32"
+      },
+      "completed.txt": "frames=4800",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "f550d70f29f73d7953664cf77c46e288e95f9aa2c0069ef9be39997359fed886"
+      }
+    },
+    {
+      "run": "q10_final_atla_ending",
+      "scope": "Inherited event evidence: ending and return to village",
+      "files": 23,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 9.596361161005916,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+          "--testRunner",
+          "--timeout=25",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/hf7_release/Chocobo_EN_v1.1_HF7_TEST.ws"
+        ],
+        "rom_sha256": "31d1a3ddeccb2aaf58c2e903aadf6390c2a36ccfe81a2f31c37c0d156bd4c681",
+        "state_sha256": "f550d70f29f73d7953664cf77c46e288e95f9aa2c0069ef9be39997359fed886",
+        "plan_sha256": "bea3e033ba19e3225cee0b90954b3aa2d35ab211421227b23f709f993c2c33e5",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "a76b0662bc1161fc34f2528db31b05c04f862ef9e5f7f5a06bb353eab5840ceb"
+      },
+      "completed.txt": "frames=7200",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "c716278722024deb9fac16315c91987d21bfad3a23293c712acc7dd5b1bfe17b"
+      }
+    },
+    {
+      "run": "q10_final_atla_rescue",
+      "scope": "Previous HF7 title candidate: exact pre-boss D2F60 rescue from synthetic state; no further RAM injection",
+      "files": 173,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 7.48760339099681,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+          "--testRunner",
+          "--timeout=25",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/hf7_release/Chocobo_EN_v1.1_HF7_TEST.ws"
+        ],
+        "rom_sha256": "31d1a3ddeccb2aaf58c2e903aadf6390c2a36ccfe81a2f31c37c0d156bd4c681",
+        "state_sha256": "6d67f049fe57904e6b2de8578de2e651d9f50fba2eb485fc098c2a37adde7ed0",
+        "plan_sha256": "9dfe9635bb99d7973eaad6ee1ad1b2173faed6216013f8621b7b364183cdf05f",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "60e1c406889f3ba028ecdbd92314113fb7d3d765767a0419b14a9c4084cdc863"
+      },
+      "completed.txt": "frames=4200",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "853e58b15ac16b4eef2558d1e4ce163fddce5eb127345ef4d51deeecb00813a9",
+        "event_9A1C.mss": "85d0e0355557fd129ccd624102e4e83be6dfd1b1312c4620ab26210e6d50358e",
+        "event_9A6F.mss": "4838282604fccebdf54039cdbdb058f7914a519fde80a9c98a63177145268ed1",
+        "event_9AE4.mss": "74525256ac57e807a3fa37ab402f10c110864d6d78d909badede6291225cf781",
+        "event_9B19.mss": "1fa31fbbab4d6a35eaa53c324832b0aa4d21afd0f30b879ae196a35fa9314b9e",
+        "event_9C11.mss": "9794058a38b863a4876842dec7767e92c1758fb73164dc51b2790d73998a19d8",
+        "event_9D07.mss": "2e5bd54d70855c65471aa0bd9d3d31619d64ed32978a99e5a8132e217618af56",
+        "event_9E44.mss": "c45928db55926b7098fec9ce5ec773813b93a728f1f914a23642f7b5a55aa722"
+      }
+    },
+    {
+      "run": "q10_final_atla_walk",
+      "scope": "Inherited event evidence: native walking after return",
+      "files": 18,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 1.017282285996771,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_events/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/hf7_release/Chocobo_EN_v1.1_HF7_TEST.ws"
+        ],
+        "rom_sha256": "31d1a3ddeccb2aaf58c2e903aadf6390c2a36ccfe81a2f31c37c0d156bd4c681",
+        "state_sha256": "c716278722024deb9fac16315c91987d21bfad3a23293c712acc7dd5b1bfe17b",
+        "plan_sha256": "f9eb3b194437a0cc23eedeb13ac8a17273ee84c4ee8695263702222d96d8cf7c",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "67cda6244bebc5a0b877622fdafd19fa4a58c784e1b47988349dcfe63c7826fd"
+      },
+      "completed.txt": "frames=480",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "74b5d97e49eb34f79e24e69946533c31a949102afe6b7c3c3474edc6a68bf1cd"
+      }
+    },
+    {
+      "run": "q10_final_items",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 19,
+      "run.json": {
+        "method": "SYNTHETIC_SINGLE_BAG_RECORD_NATIVE_MENU",
+        "rom_sha256": "31d1a3ddeccb2aaf58c2e903aadf6390c2a36ccfe81a2f31c37c0d156bd4c681",
+        "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+        "script_sha256": "e6914f438d5bce254c73505a38a12501a88b41d27c7b57dadb2c513ac51dd90e",
+        "cases_sha256": "935a69b643cdd2a9f987506357201da112075fdae7e26ae0fdc5102e83227f7f",
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+          "--testRunner",
+          "--timeout=25",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/final_suite/native_suite.lua",
+          "/workspace/scratch/191cd4343452/private_roms/hf7_release/Chocobo_EN_v1.1_HF7_TEST.ws"
+        ],
+        "elapsed_seconds": 4.279841087998648,
+        "timed_out": false,
+        "exit": 0,
+        "completed": true
+      },
+      "completed.txt": "cases=3\nframes=2821\n",
+      "checkpoint_hashes": {}
+    },
+    {
+      "run": "q10_final_title",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 30,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 2.8756997210002737,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/hf7_release/Chocobo_EN_v1.1_HF7_TEST.ws"
+        ],
+        "rom_sha256": "31d1a3ddeccb2aaf58c2e903aadf6390c2a36ccfe81a2f31c37c0d156bd4c681",
+        "state_sha256": null,
+        "plan_sha256": "aebf04b819a36bb958f68d041015f7a5ef0640b305b5758a41c4053afd24e47c",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "512a93ad9d434c9ce0b346da8d87cae5aed38218d78ab9ee4572baab70c74cc7"
+      },
+      "completed.txt": "frames=2000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "346da6f6d49a91940eef42d8a1050fce51feb4bcd4565c9c42ef02654c00e4bf"
+      }
+    },
+    {
+      "run": "q10_release_items_verified",
+      "scope": "Final HF7: TitanSaddle, GilTalon and LifeSaddle +99",
+      "files": 19,
+      "run.json": {
+        "method": "SYNTHETIC_SINGLE_BAG_RECORD_NATIVE_MENU",
+        "rom_sha256": "116cd3df2828e97c890049619f6f43bf10102490f0c709a3dc836ec54a6a065a",
+        "state_sha256": "2cb9e29b3749ce0caf9628ff93f8c5b52ebe5eb7212627175290a38d9adb5f82",
+        "script_sha256": "e6914f438d5bce254c73505a38a12501a88b41d27c7b57dadb2c513ac51dd90e",
+        "cases_sha256": "935a69b643cdd2a9f987506357201da112075fdae7e26ae0fdc5102e83227f7f",
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_trace/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/final_suite/native_suite.lua",
+          "/workspace/scratch/191cd4343452/private_roms/hf7_release/Chocobo_EN_v1.1_HF7_TEST.ws"
+        ],
+        "elapsed_seconds": 4.484287708997726,
+        "timed_out": false,
+        "exit": 0,
+        "completed": true
+      },
+      "completed.txt": "cases=3\nframes=2821\n",
+      "checkpoint_hashes": {}
+    },
+    {
+      "run": "q10_release_title",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 30,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 2.8266435400000773,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/hf7_release/Chocobo_EN_v1.1_HF7_TEST.ws"
+        ],
+        "rom_sha256": "31d1a3ddeccb2aaf58c2e903aadf6390c2a36ccfe81a2f31c37c0d156bd4c681",
+        "state_sha256": null,
+        "plan_sha256": "aebf04b819a36bb958f68d041015f7a5ef0640b305b5758a41c4053afd24e47c",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "52c9fe7097ebe3f87c61a3015230cf84a1c1998ee76cb8645f0edaea3a6fec29"
+      },
+      "completed.txt": "frames=2000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "c64cd2ce58317c0908b23ab93d4b4318a01cb01e5824f111626c19542ede489e"
+      }
+    },
+    {
+      "run": "q10_release_title_final",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 30,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 2.5717173400043976,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/hf7_release/Chocobo_EN_v1.1_HF7_TEST.ws"
+        ],
+        "rom_sha256": "31d1a3ddeccb2aaf58c2e903aadf6390c2a36ccfe81a2f31c37c0d156bd4c681",
+        "state_sha256": null,
+        "plan_sha256": "aebf04b819a36bb958f68d041015f7a5ef0640b305b5758a41c4053afd24e47c",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "7929d800f1da8d109e562a34128f80473e943fe28ff9c2376a3a0e263b2d5352"
+      },
+      "completed.txt": "frames=2000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "7c15f4b7ce3cab5df8844a6181b99c3aba1ceb399859dd081a5d45b8fe4bbb1d"
+      }
+    },
+    {
+      "run": "q10_release_title_verified",
+      "scope": "Final HF7: native title and menu",
+      "files": 30,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 2.830985961998522,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/hf7_release/Chocobo_EN_v1.1_HF7_TEST.ws"
+        ],
+        "rom_sha256": "116cd3df2828e97c890049619f6f43bf10102490f0c709a3dc836ec54a6a065a",
+        "state_sha256": null,
+        "plan_sha256": "aebf04b819a36bb958f68d041015f7a5ef0640b305b5758a41c4053afd24e47c",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "74826e428935e12905c35429c76d3bbc49db6c25c78ffac0f53b55852f5f7b66"
+      },
+      "completed.txt": "frames=2000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "c4e4488bbf28cc203201d3cbca367617592234164e8a136be358c70b78d6abe4"
+      }
+    },
+    {
+      "run": "q10_title_candidate",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 16,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 1.5709284780023154,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "rom_sha256": "42b71c8dbba1f93d9963f58a0ec19b1eecd930d55b38b18d8865807bb4008657",
+        "state_sha256": null,
+        "plan_sha256": "029f08ee0fcb4155dc60e67bdb61660bdbd5d655866d32a65bc1c2dc2a1c00dd",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "c1a665d69caaa59c3e15d0a4574d58b6132d13ef3aa68a4f8993222553fdd8c0"
+      },
+      "completed.txt": "frames=1000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "f04569603584e2ad1fefa84a18287c46fe63a56f8cbdb690afac5e3f4484ec36"
+      }
+    },
+    {
+      "run": "q10_title_candidate2",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 16,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 1.571711365999363,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "rom_sha256": "53f7309816536ac970f5fe5e02b6e2e2e9d358e5367ce9786450a7d3701d5f78",
+        "state_sha256": null,
+        "plan_sha256": "029f08ee0fcb4155dc60e67bdb61660bdbd5d655866d32a65bc1c2dc2a1c00dd",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "540f86b8bb0358951261a1915729c0d4cf0cbb4c7ce3e6fe6a1a2887072dee1d"
+      },
+      "completed.txt": "frames=1000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "d1aa2775afc0e7333c4dc6ab54e7248301d8d34abf324cb17b32d05a8b59dff1"
+      }
+    },
+    {
+      "run": "q10_title_candidate3",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 16,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 1.4712670579974656,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "rom_sha256": "a068256a432d56a9f908ab668ee9b759eed9fe7ec258f85b9b53a969e382c417",
+        "state_sha256": null,
+        "plan_sha256": "029f08ee0fcb4155dc60e67bdb61660bdbd5d655866d32a65bc1c2dc2a1c00dd",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "8013782a016b53b552bfa4d6aa40c7c6496d4ac9315041bb8c70701eb6e5b32e"
+      },
+      "completed.txt": "frames=1000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "066fda246381d89c13a87970c32e401231ef74b5d61afa8156f0ce6e311d48ce"
+      }
+    },
+    {
+      "run": "q10_title_glyph_final",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 16,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 1.4719142489993828,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "rom_sha256": "fdfe81769c1cd330a014b071617951edc1d647b4b6d05f78f0000b23bb742751",
+        "state_sha256": null,
+        "plan_sha256": "029f08ee0fcb4155dc60e67bdb61660bdbd5d655866d32a65bc1c2dc2a1c00dd",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "12181e41d8fed2b8195210198403b2ff2c33bcde8edd96d9e644015d08a4b67c"
+      },
+      "completed.txt": "frames=1000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "42c8e434acfa508daffb109dbe8d79a1bba6df2208bbdf1880b24f2578831aa2"
+      }
+    },
+    {
+      "run": "q10_title_menu",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 30,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 3.322638107005332,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "rom_sha256": "53f7309816536ac970f5fe5e02b6e2e2e9d358e5367ce9786450a7d3701d5f78",
+        "state_sha256": null,
+        "plan_sha256": "aebf04b819a36bb958f68d041015f7a5ef0640b305b5758a41c4053afd24e47c",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "80ba9ce753474798f6f4a1d2705b052c1c681bb7b0aafeab6e69fd08cc199366"
+      },
+      "completed.txt": "frames=2000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "9cc6a4ea90a5e53ac3f1e8acc5a5b29f9abc72e6bee68967eadbc759c8120ebf"
+      }
+    },
+    {
+      "run": "q10_title_no_overlap",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 16,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 1.673410925999633,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "rom_sha256": "eaadc5520084274cf06be82e14835cb2d1f2771eece8638e170ec045096e8995",
+        "state_sha256": null,
+        "plan_sha256": "029f08ee0fcb4155dc60e67bdb61660bdbd5d655866d32a65bc1c2dc2a1c00dd",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "91446ea5376e46da6b6c5019af5b329416c6d2258cc175a6e2afb63c3d50539d"
+      },
+      "completed.txt": "frames=1000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "af9d597f4ed165d4348cb8103c94b007160ac048becd4dfe9aaa86af9d0a8232"
+      }
+    },
+    {
+      "run": "q10_title_plain_caption",
+      "scope": "Accepted final title pixels; 36 isolated glyphs reviewed",
+      "files": 16,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 1.6721469659969443,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "rom_sha256": "fb8177d6c148adb6e3f3d83f5870e64b6b3b379bf4232ee6c6ded8c310d73858",
+        "state_sha256": null,
+        "plan_sha256": "029f08ee0fcb4155dc60e67bdb61660bdbd5d655866d32a65bc1c2dc2a1c00dd",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "20a5f2c3011bcb61d0c247901bb26d8a6b2993f6bad93baf4e00fb65c2a5c92e"
+      },
+      "completed.txt": "frames=1000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "e96b0ac8be8d37d8d62e9d9c187a65a9a2bd85363f7dda524964ed893a007537"
+      }
+    },
+    {
+      "run": "q10_title_probe",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 12,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 0.767332224000711,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/hf6_release/Chocobo_EN_v1.1_HF6_TEST.ws"
+        ],
+        "rom_sha256": "87ecaab08786651ee9431d6e386b0b73147e759aee282c053f6a75249e820d73",
+        "state_sha256": null,
+        "plan_sha256": "80636a4440c483a86d49cf26c6f4a1cd6fc3618394c315703d54887e75ee020e",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "c8b6ebc251fe53f9307e20a3731e50b6ccc5195273ae3c40a79379718e1e9474"
+      },
+      "completed.txt": "frames=400",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "ec6f0dd4178b10efb2e5db72383df5a2bcf7cafda77b97df3606843fe52e7a98"
+      }
+    },
+    {
+      "run": "q10_title_spaced",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 16,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 1.7732010800027638,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "rom_sha256": "a068256a432d56a9f908ab668ee9b759eed9fe7ec258f85b9b53a969e382c417",
+        "state_sha256": null,
+        "plan_sha256": "029f08ee0fcb4155dc60e67bdb61660bdbd5d655866d32a65bc1c2dc2a1c00dd",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "488ab6a2bc4aa3354c813b332df4da1aa3025cc5a1ebeb11487dd5ca49fbd22f"
+      },
+      "completed.txt": "frames=1000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "e3aa80a3b0a40d104715d7b3e35ba7b31e018d237a3be0efa5873df807460383"
+      }
+    },
+    {
+      "run": "q10_title_spaced2",
+      "scope": "Diagnostic candidate only; not a final release PASS",
+      "files": 16,
+      "run.json": {
+        "exit": 0,
+        "elapsed": 1.9726022359973285,
+        "command": [
+          "/workspace/scratch/191cd4343452/profiles/q9_ui/Mesen",
+          "--testRunner",
+          "--timeout=20",
+          "--enableStdout",
+          "--doNotSaveSettings",
+          "--debug.scriptWindow.allowIoOsAccess=true",
+          "/workspace/scratch/191cd4343452/qa10/driver.lua",
+          "/workspace/scratch/191cd4343452/private_roms/qa10_title.ws"
+        ],
+        "rom_sha256": "773495a007835c296c0d6c25d3c95c4911e7796950c5dea65d9a5b8561716b68",
+        "state_sha256": null,
+        "plan_sha256": "029f08ee0fcb4155dc60e67bdb61660bdbd5d655866d32a65bc1c2dc2a1c00dd",
+        "script_sha256": "aadce17bdbcbd0801c2d4d7c86eb240bce6958305303c6d140e3818655257074",
+        "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+        "completed": true,
+        "native_save_after_sha256": "cd27d02471822823e705d26babf4904b49dc549d1bdeed35826a8cba58287884"
+      },
+      "completed.txt": "frames=1000",
+      "checkpoint_hashes": {
+        "checkpoint.mss": "5128a6c85a3b7e324b6da05b542bdc12cee160ce335fd241cd53d317fe32f9d5"
+      }
+    }
+  ]
+}

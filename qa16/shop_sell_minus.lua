@@ -1,0 +1,5 @@
+local p={frames=1800,capture_every=60,moves={{20,75,'up'},{100,104,'down'},{160,164,'a'},{450,454,'down'},{600,604,'a'},{1000,1004,'b'},{1200,1204,'b'},{1400,1404,'b'}}}
+p.setup=function()local sr=emu.memType.wsCartRam;for j,rec in ipairs({{1,136,99,0,16},{99,233,0,0,16},{1,157,157,0,16}})do for i,v in ipairs(rec)do emu.write(0x6c9f+(j-1)*5+i-1,v,sr)end end;emu.write16(0x72fd,0,sr);emu.write16(0x72ff,0,sr);emu.write16(0x7309,emu.read16(0x7309,sr)|0x10,sr);emu.write16(0x730d,emu.read16(0x730d,sr)|0x40,sr);emu.write16(0x7305,99,sr)end
+local changed=false
+emu.addMemoryCallback(function()local sr=emu.memType.wsCartRam;if not changed and emu.getState()['cpu.cs']==0x4000 and emu.read(0x649b,sr)==0xe1 and emu.read16(0x64a1,sr)==0x1da2 then emu.write(0x649b,0xe0,sr);emu.write16(0x64a1,0x0d0e,sr);changed=true end end,emu.callbackType.exec,0x4d160,0x4d160,emu.cpuType.ws)
+local o=assert(loadfile(os.getenv('LAYOUT_OBSERVER')))();p.tick=function(f,save,memory)o.tick(f,save,memory);if f==p.frames then save('injection.txt',tostring(changed));o.finish(save)end end;return p

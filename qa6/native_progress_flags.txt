@@ -1,0 +1,33 @@
+C88E mov al, byte ptr [0x7301]
+C891 cmp al, 0
+C893 je 0xc8c5
+C895 cmp al, 1
+C897 je 0xc8b9
+C899 cmp al, 2
+C89B je 0xc8ab
+C89D or word ptr [0x730a], 0x80
+C8A3 or word ptr [0x730c], 4
+C8A9 jmp 0xc8c5
+C8AB or word ptr [0x730a], 0x80
+C8B1 and word ptr [0x730c], 0xfffb
+C8B7 jmp 0xc8c5
+C8B9 and word ptr [0x730a], 0xff7f
+C8BF and word ptr [0x730c], 0xfffb
+C8C5 mov byte ptr [0x649c], 0
+C8CA ret 
+C8CB test word ptr [0x69cf], 0x10
+C8D1 je 0xc916
+C8D3 cmp byte ptr [0x652a], 0x87
+C8D8 je 0xc8ea
+C8DA cmp byte ptr [0x652a], 0x89
+C8DF je 0xc8ea
+C8E1 cmp byte ptr [0x652a], 0x8b
+C8E6 je 0xc8ea
+C8E8 jne 0xc916
+C8EA push ds
+C8EB push ds
+C8EC push es
+C8ED mov ax, 0x800
+C8F0 push ax
+C8F1 mov ax, 0x1000
+C8F4 mov es, ax

@@ -1,0 +1,208 @@
+
+OP 08 ptr D346
+D346 call 0xe1bc
+D349 push di
+D34A call 0xe1b0
+D34D pop di
+D34E mov byte ptr [di], al
+D350 ret 
+
+OP 0F ptr D392
+D392 mov al, 0
+D394 jmp 0xd149
+D397 nop 
+D398 call 0xe1bc
+D39B push di
+D39C call 0xe1b0
+D39F pop di
+D3A0 cmp al, byte ptr [di]
+D3A2 je 0xd392
+D3A4 jmp 0xd13e
+D3A7 nop 
+D3A8 call 0xe1bc
+D3AB push di
+D3AC call 0xe1bc
+D3AF mov ax, di
+D3B1 pop di
+D3B2 cmp ax, word ptr [di]
+D3B4 je 0xd392
+D3B6 jmp 0xd13e
+D3B9 nop 
+D3BA call 0xe1bc
+D3BD mov al, byte ptr [di]
+D3BF push ax
+D3C0 call 0xe1bc
+D3C3 pop ax
+D3C4 cmp al, byte ptr [di]
+D3C6 je 0xd392
+D3C8 jmp 0xd13e
+D3CB nop 
+D3CC call 0xe1bc
+D3CF mov al, byte ptr [di]
+D3D1 push ax
+D3D2 call 0xe1bc
+D3D5 pop ax
+D3D6 cmp al, byte ptr [di]
+D3D8 jne 0xd3dd
+D3DA jmp 0xd13e
+D3DD jmp 0xd392
+D3DF nop 
+D3E0 call 0xe1bc
+D3E3 mov ax, word ptr [di]
+D3E5 push ax
+D3E6 call 0xe1bc
+D3E9 pop ax
+D3EA cmp ax, word ptr [di]
+D3EC je 0xd392
+D3EE jmp 0xd13e
+D3F1 nop 
+D3F2 call 0xe1bc
+D3F5 mov ax, word ptr [di]
+D3F7 push ax
+D3F8 call 0xe1bc
+D3FB pop ax
+D3FC cmp ax, word ptr [di]
+D3FE jne 0xd403
+
+OP 37 ptr D60E
+D60E call 0xe1bc
+D611 push di
+D612 call 0xe1bc
+D615 mov ax, di
+D617 pop di
+D618 cmp word ptr [di], ax
+D61A jae 0xd61f
+D61C jmp 0xd13e
+D61F jmp 0xd392
+D622 call 0xe1bc
+D625 mov al, byte ptr [di]
+D627 push ax
+D628 call 0xe1bc
+D62B pop ax
+D62C cmp al, byte ptr [di]
+D62E jb 0xd633
+D630 jmp 0xd13e
+D633 jmp 0xd392
+D636 call 0xe1bc
+D639 mov al, byte ptr [di]
+D63B push ax
+D63C call 0xe1bc
+D63F pop ax
+D640 cmp al, byte ptr [di]
+D642 jae 0xd647
+D644 jmp 0xd13e
+D647 jmp 0xd392
+D64A call 0xe1bc
+D64D mov ax, word ptr [di]
+D64F push ax
+D650 call 0xe1bc
+D653 pop ax
+D654 cmp ax, word ptr [di]
+D656 jb 0xd65b
+D658 jmp 0xd13e
+D65B jmp 0xd392
+D65E call 0xe1bc
+D661 mov ax, word ptr [di]
+D663 push ax
+D664 call 0xe1bc
+D667 pop ax
+D668 cmp ax, word ptr [di]
+D66A jae 0xd66f
+D66C jmp 0xd13e
+D66F jmp 0xd392
+D672 call 0xe1bc
+D675 push di
+D676 call 0xe1bc
+D679 mov al, byte ptr [di]
+D67B pop di
+
+OP 4D ptr D3A8
+D3A8 call 0xe1bc
+D3AB push di
+D3AC call 0xe1bc
+D3AF mov ax, di
+D3B1 pop di
+D3B2 cmp ax, word ptr [di]
+D3B4 je 0xd392
+D3B6 jmp 0xd13e
+D3B9 nop 
+D3BA call 0xe1bc
+D3BD mov al, byte ptr [di]
+D3BF push ax
+D3C0 call 0xe1bc
+D3C3 pop ax
+D3C4 cmp al, byte ptr [di]
+D3C6 je 0xd392
+D3C8 jmp 0xd13e
+D3CB nop 
+D3CC call 0xe1bc
+D3CF mov al, byte ptr [di]
+D3D1 push ax
+D3D2 call 0xe1bc
+D3D5 pop ax
+D3D6 cmp al, byte ptr [di]
+D3D8 jne 0xd3dd
+D3DA jmp 0xd13e
+D3DD jmp 0xd392
+D3DF nop 
+D3E0 call 0xe1bc
+D3E3 mov ax, word ptr [di]
+D3E5 push ax
+D3E6 call 0xe1bc
+D3E9 pop ax
+D3EA cmp ax, word ptr [di]
+D3EC je 0xd392
+D3EE jmp 0xd13e
+D3F1 nop 
+D3F2 call 0xe1bc
+D3F5 mov ax, word ptr [di]
+D3F7 push ax
+D3F8 call 0xe1bc
+D3FB pop ax
+D3FC cmp ax, word ptr [di]
+D3FE jne 0xd403
+D400 jmp 0xd13e
+D403 jmp 0xd392
+D405 nop 
+D406 call 0xe1bc
+D409 push di
+D40A call 0xe1b0
+D40D pop di
+D40E and al, byte ptr [di]
+D410 je 0xd392
+D412 jmp 0xd13e
+D415 nop 
+
+OP 4F ptr D368
+D368 call 0xe1bc
+D36B mov word ptr [di], 0
+D36F ret 
+
+OP 71 ptr 004E
+004E pushaw 
+004F call 0xffffe1b0
+0052 cmp al, 0
+0054 jne 0x5b
+0056 mov bx, 0x7309
+0059 jmp 0x5e
+005B mov bx, 0x7329
+005E call 0xffffe1b0
+0061 xor ah, ah
+0063 mov dl, 0x10
+0065 div dl
+0067 mov cx, ax
+0069 mov cl, ch
+006B xor ch, ch
+006D xor ah, ah
+006F shl ax, 1
+0071 add bx, ax
+0073 mov ax, 1
+0076 shl ax, cl
+0078 mov dx, ax
+007A call 0xffffe1bc
+007D test word ptr [bx], dx
+007F je 0x85
+0081 mov word ptr [0x64a1], di
+0085 popaw 
+0086 mov byte ptr [0x649c], 0
+008B ret 

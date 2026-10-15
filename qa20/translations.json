@@ -1,0 +1,298 @@
+{
+  "G00:M005": {
+    "text": "Oh, come to think of it... Have you seen my husband?",
+    "reason": "Restaurar transición de recuerdo y referente marido."
+  },
+  "G00:M017": {
+    "text": "Oh, sorry. The shop is not ready yet.",
+    "reason": "Preparación de tienda, no inexistencia genérica de mercancía."
+  },
+  "G00:M018": {
+    "text": "With my husband gone, we have nothing to sell.",
+    "reason": "Restaurar causa explícita."
+  },
+  "G00:M021": {
+    "text": "I do not know where you got it. Will you sell it to me?",
+    "reason": "No presupone compra previa; restaurar destinataria."
+  },
+  "G00:M026": {
+    "text": "Thanks to all the items you bring back, the shop is doing well.",
+    "reason": "Eliminar ffffff y mejorar sintaxis causal."
+  },
+  "G00:M031": {
+    "text": "Papa was always so quiet and gentle...",
+    "reason": "Otonashii/odayaka: tranquilo y afable, no maduro."
+  },
+  "G00:M037": {
+    "text": "I wonder what will happen to {Atla}...",
+    "reason": "Pregunta por destino futuro, no por hecho pasado."
+  },
+  "G00:M040": {
+    "text": "What an unusual pot!",
+    "reason": "Hachi es maceta, no planta."
+  },
+  "G00:M044": {
+    "text": "Put the pot in a sunny spot.",
+    "reason": "Referente maceta."
+  },
+  "G00:M045": {
+    "text": "Once you decide what to plant, put it in the pot. I will take care of it.",
+    "reason": "Restituir instrucción de introducir semilla y cuidado."
+  },
+  "G00:M047": {
+    "text": "It has sprouted!",
+    "reason": "Brote, no crecimiento completo."
+  },
+  "G00:M048": {
+    "text": "What a pretty flower!",
+    "reason": "Restituir flor explícita."
+  },
+  "G00:M055": {
+    "text": "Grow it with this?",
+    "reason": "Kore de refiere al insumo, no al lugar."
+  },
+  "G00:M057": {
+    "text": "Your bag is full. Why not store some items?",
+    "reason": "Invitación a depositar fuera, no oferta de servicio local."
+  },
+  "G00:M060": {
+    "text": "I am sorry I put you in danger.",
+    "reason": "Restituir objeto y responsabilidad."
+  },
+  "G00:M061": {
+    "text": "After showing you the way, I dug up a purple crystal.",
+    "reason": "Dug up preciso, no solo found."
+  },
+  "G00:M065": {
+    "text": "Every heart has light and darkness. But the darkness must never take over.",
+    "reason": "Restituir prohibición de inversión, no aclarar oscuridad."
+  },
+  "G00:M067": {
+    "text": "I am lucky I was saved. And I am sorry.",
+    "reason": "Sujeto salvado, no elogio de habilidad."
+  },
+  "G00:M068": {
+    "text": "Now your friend has been possessed.",
+    "reason": "Concordancia temporal."
+  },
+  "G00:M072": {
+    "text": "Lately, having a dungeon here has started to feel normal.",
+    "reason": "Naturalidad sin omitir normalización."
+  },
+  "G00:M076": {
+    "text": "No one is possessed, yet the dungeon is still here. How strange.",
+    "reason": "Corregir gone por possessed."
+  },
+  "G00:M081": {
+    "text": "No one is possessed, but the dungeon is still there. Why...?",
+    "reason": "Restituir pregunta final."
+  },
+  "G01:M003": {
+    "text": "Huh? If no one knows, the treasure is all ours!",
+    "reason": "Restituir plural de posesión y lógica."
+  },
+  "G01:M006": {
+    "text": "I got a room ready for you over here, {Poulet}!",
+    "reason": "Room, no home."
+  },
+  "G01:M013": {
+    "text": "If you have lots to store, use the storehouse. I have already spoken to them.",
+    "reason": "Restituir gestión previa del almacén."
+  },
+  "G01:M018": {
+    "text": "Orbs and Magicite?",
+    "reason": "Omisión de orbes."
+  },
+  "G01:M021": {
+    "text": "Hmm... First it was {Camilla's Dad}. When we got pushed off, it was {Janita}.",
+    "reason": "Camilla papa es el padre de Camilla; restaurar empujón."
+  },
+  "G01:M025": {
+    "text": "The crystal was so pretty. I wondered what it was, then got all confused.",
+    "reason": "Confusión causada, no no recordar por qué."
+  },
+  "G01:M026": {
+    "text": "Well, I have said sorry. While I was possessed, I saw an amazing vision.",
+    "reason": "Ayamatta = disculparse, no error."
+  },
+  "G01:M027": {
+    "text": "In the knowledge of that crystal, there were lots of items unknown to us!",
+    "reason": "Knowledge, no conscience."
+  },
+  "G01:M029": {
+    "text": "I do not know why, but the mayor was making a fuss.",
+    "reason": "Sujeto alcalde haciendo alboroto, no buscar alcalde."
+  },
+  "G01:M030": {
+    "text": "{Rask} next door seems to be fixing a worn-out machine.",
+    "reason": "Next door, no dirección izquierda inventada."
+  },
+  "G01:M032": {
+    "text": "{Rask} next door seems to be looking for another Card.",
+    "reason": "Vecindad y modalidad."
+  },
+  "G01:M035": {
+    "text": "They are rare and useful. They may change how everyone lives.",
+    "reason": "Posibilidad futura, no pasado consumado."
+  },
+  "G01:M036": {
+    "text": "If we keep selling items, we will become famous too!",
+    "reason": "Juego de palabras fama, no comercializar nombres."
+  },
+  "G01:M041": {
+    "text": "Wow, this is great!",
+    "reason": "Ii ya positivo, no pregunta despectiva."
+  },
+  "G01:M045": {
+    "text": "What? You say you are fine? You can handle it?",
+    "reason": "Restituir respuestas referidas del interlocutor."
+  },
+  "G01:M053": {
+    "text": "Oh, man! No wonder you are all right.",
+    "reason": "Restituir relación explicativa."
+  },
+  "G01:M055": {
+    "text": "Otherwise...",
+    "reason": "Restituir condicional inacabado."
+  },
+  "G01:M056": {
+    "text": "I am counting on you!",
+    "reason": "Petición, no despedida."
+  },
+  "G02:M001": {
+    "text": "I forgot where I put my precious ring. I am at a loss.",
+    "reason": "Dejar, no dejar caer; valor sentimental y problema."
+  },
+  "G02:M002": {
+    "text": "If only I had an item that could tell me where things are...",
+    "reason": "Localización, no memoria."
+  },
+  "G02:M009": {
+    "text": "Thank you very much. ...",
+    "reason": "Gramática y residuo b."
+  },
+  "G03:M005": {
+    "text": "A healthy color...",
+    "reason": "Restituir color saludable."
+  },
+  "G03:M010": {
+    "text": "You are going to play in the dungeon with all those strange items, right?",
+    "reason": "Oniichan tratamiento al protagonista, no hermano ausente."
+  },
+  "G03:M012": {
+    "text": "Yay! Thank you!",
+    "reason": "Wah confundía alegría; evitar hermano literal no demostrado."
+  },
+  "G03:M013": {
+    "text": "Mom said not to play as a toad so much.",
+    "reason": "No agrega fuentes ausentes en este mensaje."
+  },
+  "G04:M003": {
+    "text": "That lively moogle went to the home of the mayor. I will start an unusual business soon. Come back then!",
+    "reason": "Restituir negocio inusual."
+  },
+  "G04:M013": {
+    "text": "I used the Card without asking.",
+    "reason": "Restituir ausencia de permiso."
+  },
+  "G04:M017": {
+    "text": "This machine mixes two hoes together to make a new hoe.",
+    "reason": "Kuwa literal: broma de azadas antes de aclarar Talons."
+  },
+  "G04:M019": {
+    "text": "Well, to put it simply...",
+    "reason": "Restituir simplificación."
+  },
+  "G04:M026": {
+    "text": "It is a secret?",
+    "reason": "Artículo ausente."
+  },
+  "G04:M031": {
+    "text": "I worry about {Camilla's Dad}, but I am curious about the dungeon too.",
+    "reason": "Padre de Camilla; curiosidad, no preocupación por dungeon."
+  },
+  "G04:M039": {
+    "text": "Thank you for all you do for {Rask}.",
+    "reason": "Invertido agente de ayuda; fórmula de gratitud a interlocutor."
+  },
+  "G04:M046": {
+    "text": "I made this on impulse, but I think you can use it.",
+    "reason": "Restituir acción impulsiva y probabilidad."
+  },
+  "G04:M047": {
+    "text": "It should carry one item somewhere above ground. If it works as planned, it will return to your house.",
+    "reason": "Restituir incertidumbre, cantidad uno y destino planeado."
+  },
+  "G04:M050": {
+    "text": "Actually, I upgraded the machine.",
+    "reason": "Mejora, no encendido."
+  },
+  "G04:M057": {
+    "text": "It has been a while! Children grow up so quickly.",
+    "reason": "Saludo omitido y verdad general."
+  },
+  "G04:M060": {
+    "text": "Bleh!",
+    "reason": "Burla con lengua, no silencio."
+  },
+  "G04:M061": {
+    "text": "Hey! {Kakia}, come back!",
+    "reason": "Detener huida, no esperar aquí."
+  },
+  "G04:M062": {
+    "text": "Honestly! Who does he take after?",
+    "reason": "Pregunta prepara respuesta Me; no frase rota."
+  },
+  "G04:M065": {
+    "text": "Everyone is safe, but the dungeon remains.",
+    "reason": "Naturalidad y contraste."
+  },
+  "G04:M066": {
+    "text": "The dungeon keeps my shop in business.",
+    "reason": "Relación causal natural."
+  },
+  "G04:M070": {
+    "text": "Is it fun?",
+    "reason": "Fun, no funny."
+  },
+  "G04:M074": {
+    "text": "No, you need to have enough money.",
+    "reason": "Requisito jugador, no necesidad del vendedor."
+  },
+  "G00:M025": {
+    "text": "Honestly, Dad! Where did you go? We have nothing left to sell.",
+    "reason": "Pérdida visible de out; conservar queja y mercancía agotada."
+  },
+  "G00:M082": {
+    "text": "Dungeons grow from the desires of someone. Whose desires could these be...?",
+    "reason": "Separar these are y recuperar expansión."
+  },
+  "G01:M010": {
+    "text": "Oh, is there anything you want to leave here?",
+    "reason": "Falta m en me; reformular sin pérdida."
+  },
+  "G01:M016": {
+    "text": "So, did anything happen?",
+    "reason": "Falta a en anything."
+  },
+  "G01:M034": {
+    "text": "{Poulet}, everyone is amazed by the items you bring back.",
+    "reason": "Restaurar everyone sin glifo perdido."
+  },
+  "G01:M054": {
+    "text": "{Poulet}, next time, find a way to get back on your own.",
+    "reason": "Restaurar separación to get."
+  },
+  "G04:M007": {
+    "text": "Ahhh! Th-that Card! What is it?",
+    "reason": "La pausa de tartamudeo elimina A en ejecución; reponer interjección legible."
+  },
+  "G04:M020": {
+    "text": "Those Talons you have... Put two in, and they become a new pair.",
+    "reason": "Separación Those Talons y naturalidad de resultado."
+  },
+  "G04:M038": {
+    "text": "Nice to meet you! I am {Sania}.",
+    "reason": "Separar presentación y nombre; mantener saludo de primer encuentro."
+  }
+}

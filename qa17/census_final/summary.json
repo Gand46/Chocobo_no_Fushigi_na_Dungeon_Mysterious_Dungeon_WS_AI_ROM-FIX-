@@ -1,0 +1,53 @@
+{
+  "HF12": {
+    "sha256": "ffb5561da6e9f15df0bdd3e028fe78b19f05a79916f88cc5503ea25216bfe3d1",
+    "getter_entries": 2333,
+    "getter_nonempty": 1972,
+    "getter_unterminated": 0,
+    "getter_shared_tails": [
+      "F00:I075",
+      "F00:I076"
+    ],
+    "getter_words": 11472,
+    "getter_words_with_terminators": 13805,
+    "story_groups": 14,
+    "story_entries": 3488,
+    "story_unique_pointers": 3472,
+    "story_nonempty": 3307,
+    "story_unterminated": 0,
+    "story_entries_with_literal_cells": 886,
+    "story_control_only_nonempty": 2421,
+    "story_dynamic_entries": 9,
+    "story_literal_over_13": [
+      "G01:M031",
+      "G06:M022",
+      "G09:M063",
+      "G16:M064"
+    ]
+  },
+  "JP": {
+    "sha256": "38fd168a8cefa4ed80db42eed9f720e42da5b8f71d551c707520b24060c14728",
+    "getter_entries": 2333,
+    "getter_nonempty": 1978,
+    "getter_unterminated": 0,
+    "getter_shared_tails": [
+      "F00:I075",
+      "F00:I076"
+    ],
+    "getter_words": 11772,
+    "getter_words_with_terminators": 14105,
+    "story_groups": 14,
+    "story_entries": 3488,
+    "story_unique_pointers": 3472,
+    "story_nonempty": 3307,
+    "story_unterminated": 0,
+    "story_entries_with_literal_cells": 886,
+    "story_control_only_nonempty": 2421,
+    "story_dynamic_entries": 9,
+    "story_literal_over_13": [
+      "G04:M034",
+      "G16:M004",
+      "G16:M064"
+    ]
+  }
+}

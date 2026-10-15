@@ -1,0 +1,41 @@
+[
+  {
+    "id": "F06:I019",
+    "pointer": "0x15caee",
+    "bytes": 26,
+    "words": [
+      209,
+      650,
+      517,
+      247,
+      715,
+      0,
+      678,
+      102,
+      5
+    ],
+    "text": "Strong vs undead",
+    "reason": "Eficacia contra enemigos no muertos; sustituye Strong to por Strong vs."
+  },
+  {
+    "id": "F06:I022",
+    "pointer": "0x15cb42",
+    "bytes": 24,
+    "words": [
+      209,
+      650,
+      517,
+      247,
+      715,
+      0,
+      550,
+      330,
+      517,
+      0,
+      230,
+      148
+    ],
+    "text": "Strong vs poison foes",
+    "reason": "Eficacia contra enemigos venenosos; no resistencia al estado veneno."
+  }
+]

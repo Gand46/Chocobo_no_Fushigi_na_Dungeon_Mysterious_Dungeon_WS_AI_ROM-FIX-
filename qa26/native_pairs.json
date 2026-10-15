@@ -1,0 +1,146 @@
+[
+  {
+    "id": "G00:M044",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G00_M044/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G00_M044/page_01.png",
+    "before_sha256": "40cfdf68f373b8a733687c6e26382759c7974d56772117be5742a9b1f439090e",
+    "after_sha256": "68d948af018f6b8c9cca16a908a086721fb3efa2b76b62de80a02c1de574fea6"
+  },
+  {
+    "id": "G04:M038",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G04_M038/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G04_M038/page_01.png",
+    "before_sha256": "c9dc2177c484d3c81d5e2491947bf9983f9518df51b3ab60ca57feb0a1c49402",
+    "after_sha256": "5690626f5b940c48f7ab6bec85724de410854bdab5f1c5fcdc874e2b3df40c22"
+  },
+  {
+    "id": "G04:M061",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G04_M061/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G04_M061/page_01.png",
+    "before_sha256": "d25c3126839cb0d38e697b1e4c656066b9d0bb6e95a15af1931e1379fefa2b14",
+    "after_sha256": "6dae274530a0f3cd50a76820e106fb261c8c3bb654d7f845de92541fe7d97cdf"
+  },
+  {
+    "id": "G06:M018",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G06_M018/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G06_M018/page_01.png",
+    "before_sha256": "38ce145cba93fe276fec064e359f3a652d5eedb685475702a9e3771a5a60cb3b",
+    "after_sha256": "de9d77d67f464d6bbc87b15b25297bd8be0d3d902c82ef907c0734ba6b12c943"
+  },
+  {
+    "id": "G06:M054",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G06_M054/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G06_M054/page_01.png",
+    "before_sha256": "2a305520cec8bb3dbb7d471b6ff523d34e8c10fdee03beb89379b8c569e85c30",
+    "after_sha256": "a69300ef8e16df7a1127c203b0844906c4e2e890faa99ffa9d35561f4db63128"
+  },
+  {
+    "id": "G06:M063",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G06_M063/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G06_M063/page_01.png",
+    "before_sha256": "02c348fa08469db07d4dfbcc7ddcc3b755e1e67f5cd86a87103945583925f31e",
+    "after_sha256": "c39afcd9f3c5fabb9bfc68baf648dbb3a49fcaea8401cc162919d05c4de0a772"
+  },
+  {
+    "id": "G07:M003",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G07_M003/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G07_M003/page_01.png",
+    "before_sha256": "f352f56c685c389188b295f53fe656d95751689739c7ec7d42eb17f49490d796",
+    "after_sha256": "7ca60ce255f32b5897fcbac05070c5d8c9d23eb2349b544ce69e66527b89cc28"
+  },
+  {
+    "id": "G08:M004",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G08_M004/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G08_M004/page_01.png",
+    "before_sha256": "2d6bfec3a6069e8442a6706fb7cfd2ca9e32ed997100b45b3d3a568c538abaa4",
+    "after_sha256": "b8dffea2f0eda7057dc495530336e2c2fe53d09cf711b3effd074d33883f22f4"
+  },
+  {
+    "id": "G08:M026",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G08_M026/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G08_M026/page_01.png",
+    "before_sha256": "6e49b1c3d9b7efc1decfd6524f92226c7c7128dceef7321de1a3c8932569f432",
+    "after_sha256": "6e49b1c3d9b7efc1decfd6524f92226c7c7128dceef7321de1a3c8932569f432"
+  },
+  {
+    "id": "G08:M026",
+    "page": 2,
+    "before": "evidence/qa26_runs/baseline_G08_M026/page_02.png",
+    "after": "evidence/qa26_runs/candidate_G08_M026/page_02.png",
+    "before_sha256": "19698f3cdaabe49c6c0ad76418d22a161dc2e4efcbef06780fffb4fa99cbfcc4",
+    "after_sha256": "ded35e61bf1fdd56e08f0f9e67b36d44b0cd8bfac0db1b6e316c4e4212fa98e2"
+  },
+  {
+    "id": "G08:M026",
+    "page": 3,
+    "before": "evidence/qa26_runs/baseline_G08_M026/page_03.png",
+    "after": "evidence/qa26_runs/candidate_G08_M026/page_03.png",
+    "before_sha256": "7daf0ad2f92af3698f1a8225ad5777702ae8d5af544607782c294ea5d81910e7",
+    "after_sha256": "7daf0ad2f92af3698f1a8225ad5777702ae8d5af544607782c294ea5d81910e7"
+  },
+  {
+    "id": "G09:M108",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G09_M108/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G09_M108/page_01.png",
+    "before_sha256": "2125badc2262d69bf7a0297fbfbd61bbe4e8227df734b792d2430e0bac653e92",
+    "after_sha256": "8656ff8d42eb305bdc9e7042d7272681f09368a165a2e3faf8e527878f47012f"
+  },
+  {
+    "id": "G09:M141",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G09_M141/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G09_M141/page_01.png",
+    "before_sha256": "3ba10ee58d65a3f3bd7e58798eb5e8e0feb918eb1f4002ac2210709c2de0472f",
+    "after_sha256": "7003dece285f8bfec5da094d2c4aad4b9aae4ab02d71e37971676835f4722cfa"
+  },
+  {
+    "id": "G09:M151",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G09_M151/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G09_M151/page_01.png",
+    "before_sha256": "987f8a12cd3f0fd647ddbc08d583fe196d278eadf2d9e11597fc13dff10cccff",
+    "after_sha256": "ffd5b29d4aff913ba9df3e71d656819e419bccaf6bcf549bab10122455ea9caf"
+  },
+  {
+    "id": "G10:M026",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G10_M026/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G10_M026/page_01.png",
+    "before_sha256": "732f079277d390a74a5f65011f9abe7575250b9d2afc53a794f469369c26e6db",
+    "after_sha256": "8ffc32562d5d629f1c3fbfddd9ba46744d48c2454689772826acdff7bd73511f"
+  },
+  {
+    "id": "G10:M032",
+    "page": 1,
+    "before": "evidence/qa26_runs/baseline_G10_M032/page_01.png",
+    "after": "evidence/qa26_runs/candidate_G10_M032/page_01.png",
+    "before_sha256": "e9c40890f4ebc83f6dfb4e5983a4c305c877101e5f8d2fed73d79c302cea58e5",
+    "after_sha256": "e9c40890f4ebc83f6dfb4e5983a4c305c877101e5f8d2fed73d79c302cea58e5"
+  },
+  {
+    "id": "G10:M032",
+    "page": 2,
+    "before": "evidence/qa26_runs/baseline_G10_M032/page_02.png",
+    "after": "evidence/qa26_runs/candidate_G10_M032/page_02.png",
+    "before_sha256": "3da8a3e39eafacb49514fee47cfdb8bd56713e339916cf8a00ff6296db7e5c3d",
+    "after_sha256": "7ff53462f9390e809dad07f228c5839b04c9b6f2ec10f39a29f7b1d0e032f3e3"
+  },
+  {
+    "id": "G10:M032",
+    "page": 3,
+    "before": "evidence/qa26_runs/baseline_G10_M032/page_03.png",
+    "after": "evidence/qa26_runs/candidate_G10_M032/page_03.png",
+    "before_sha256": "d935e36df3d041bcea5204635f25cf3073ef858230bbb9fbf0ac3e8153256122",
+    "after_sha256": "84c7182add49be0d303b996a50050b5b1b39097a9e053fdfbc728667c5da38ea"
+  }
+]

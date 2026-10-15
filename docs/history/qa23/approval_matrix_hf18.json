@@ -1,0 +1,59 @@
+{
+  "scope": "HF18 / QA23 / validación 5 de 5; las cinco particiones ejecutadas, aprobación global pendiente",
+  "authority": "HF18-QA23-V5",
+  "story_references_reviewed": 154,
+  "story_corrections": 65,
+  "getter_property_corrections": 2,
+  "scoped_synthetic_visual_linguistic_pass": 192,
+  "v3_context_pending": [
+    "G06:M100",
+    "G11:M011"
+  ],
+  "v2_context_pending": [
+    "G00:M252",
+    "G00:M253",
+    "G00:M254",
+    "G00:M255",
+    "G04:M033",
+    "G04:M034"
+  ],
+  "additional_context_pending": [
+    "G16:M073",
+    "preset32/F00:I053",
+    "G16:M000/M003/M004 consumer contexts"
+  ],
+  "v5_pending": null,
+  "runtime_scope": "V5: 154 selecciones sintéticas HF18 G14 y 2 nombres G09; 20706 cuadros, 156 imágenes; 89 imágenes sin edición idénticas a HF17; título 1001/1001 y créditos 14/14 idénticos a sus referencias históricas",
+  "natural_playthrough_approved": false,
+  "hardware_approved": false,
+  "second_emulator_approved": false,
+  "global_visual_approved": false,
+  "global_linguistic_approved": false,
+  "FINAL_APPROVED": false,
+  "historical_matrix": "docs/history/qa21/approval_matrix_inherited_hf9.json",
+  "story_references_reviewed_cumulative_by_validations": {
+    "V1": 83,
+    "V2": 248,
+    "V3": 207,
+    "V4": 194,
+    "V5": 154
+  },
+  "v4_story_references_reviewed": 194,
+  "v4_story_corrections": 43,
+  "v4_scoped_synthetic_visual_pass": 194,
+  "v4_scoped_synthetic_linguistic_pass": 192,
+  "v4_name_confirmation_pending": [],
+  "scoped_synthetic_visual_pass": 154,
+  "scoped_synthetic_linguistic_pass": 152,
+  "v4_names_reconciled_in_v5": [
+    "G09:M086",
+    "G09:M089"
+  ],
+  "v5_lexical_pending": [
+    "G14:M007",
+    "G14:M067"
+  ],
+  "cumulative_literal_references_reviewed": 886,
+  "cumulative_linguistic_scoped_pass_after_name_reconciliation": 875,
+  "cumulative_context_or_lexical_reservations": 11
+}

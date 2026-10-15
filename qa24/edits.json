@@ -1,0 +1,65 @@
+[
+  {
+    "id": "G00:M253_argument",
+    "offset": "0x1b30fd",
+    "before": "0001",
+    "after": "0100",
+    "reason": "Restore JP FFF4 selector 0001: 32-bit money from SRAM72FD/72FF, rather than selector0100 reading SRAM67C6."
+  },
+  {
+    "id": "G06:M100_payload",
+    "offset": "0x66c88",
+    "before": "faff0600c20083009f02cb00fb019f00feffca0095007502630379024c026403f701990049000f00fc00ad00faff0000f2ffffff",
+    "after": "faff0600c20083009f020000c6016600ad00feffd10079024c0200004b018e0000008a02050045011501faff0000f2ffffff0000",
+    "reason": "Natural English for デバッグモード！ここから交換へいく！！; preserve color and pause controls."
+  },
+  {
+    "id": "G11:M011_shared_payload",
+    "offset": "0x6ffe0",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "e30006024b020000090200006702000098017d023802ffff",
+    "reason": "Restore temporal あとで in identical JP suffix 階くらいあとで; retain approximate くらい. Shared payload in checked remaining bank06 free space. Natural composed host remains unproven."
+  },
+  {
+    "id": "G11:M011_pointer",
+    "offset": "0x6b738",
+    "before": "f8ba",
+    "after": "e0ff",
+    "reason": "Restore temporal あとで in identical JP suffix 階くらいあとで; retain approximate くらい. Shared payload in checked remaining bank06 free space. Natural composed host remains unproven."
+  },
+  {
+    "id": "G16:M073_pointer",
+    "offset": "0x6cc18",
+    "before": "aad5",
+    "after": "e0ff",
+    "reason": "Restore temporal あとで in identical JP suffix 階くらいあとで; retain approximate くらい. Shared payload in checked remaining bank06 free space. Natural composed host remains unproven."
+  },
+  {
+    "id": "F17:I067_getter_payload",
+    "offset": "0x19ff00",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "d000a102d701c1000f00e601d701ffff",
+    "reason": "Same Japanese 破動砲 glyph stream as G14:M067; reconcile the native getter sibling with the HF18 story label."
+  },
+  {
+    "id": "F17:I067_getter_pointer",
+    "offset": "0x19c04a",
+    "before": "bac3",
+    "after": "00ff",
+    "reason": "Same Japanese 破動砲 glyph stream as G14:M067; reconcile the native getter sibling with the HF18 story label."
+  },
+  {
+    "id": "F17:I152_getter_payload",
+    "offset": "0x19ff10",
+    "before": "ffffffffffffffffffffffffffffffff",
+    "after": "d50017000203c1000f00e601d701ffff",
+    "reason": "Same Japanese 波動砲 glyph stream as G14:M152; reconcile the native getter sibling with the HF18 story label."
+  },
+  {
+    "id": "F17:I152_getter_pointer",
+    "offset": "0x19c0f4",
+    "before": "b4c7",
+    "after": "10ff",
+    "reason": "Same Japanese 波動砲 glyph stream as G14:M152; reconcile the native getter sibling with the HF18 story label."
+  }
+]

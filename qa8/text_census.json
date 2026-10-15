@@ -1,0 +1,6 @@
+{
+  "families": 19,
+  "entries": 2333,
+  "cross_slot_candidates": [],
+  "scope": "Native getter descriptor families only; slot end inferred from next distinct pointer; candidates are not automatic defects or a global layout PASS."
+}

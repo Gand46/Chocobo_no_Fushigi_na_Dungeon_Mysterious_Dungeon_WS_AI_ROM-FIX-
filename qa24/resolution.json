@@ -1,0 +1,141 @@
+{
+  "scope": "11 resources, not universal consumers",
+  "authority": "HF19-QA24-ASTRA",
+  "reservations": [
+    {
+      "id": "G16:M073",
+      "action": "CORRECTED",
+      "english": "floors or so later",
+      "reason": "JP 階くらいあとで incluye aproximación y posterioridad. Se restauró later; comparte un payload con G11:M011.",
+      "linguistic_status": "PASS_RESOURCE_SCOPED",
+      "visual_status": "PASS_SYNTHETIC_SCOPED",
+      "access_method": "POINTER_INJECTION; WRAM_POKE for variables",
+      "natural_consumer_status": "NOT_VALIDATED",
+      "limit": "Frase anfitriona, singular/plural y rango numérico naturales no comprobados.",
+      "image": "evidence/qa24_runs/final_G16_M073_distinct/end_text.png"
+    },
+    {
+      "id": "G00:M252",
+      "action": "RETAINED",
+      "english": "37 Level / 65535 Level",
+      "reason": "Selector FFF4:0000 confirmado: SRAM67C6. Ambos valores se leen completos.",
+      "linguistic_status": "PASS_RESOURCE_SCOPED",
+      "visual_status": "PASS_SYNTHETIC_SCOPED",
+      "access_method": "POINTER_INJECTION; WRAM_POKE for variables",
+      "natural_consumer_status": "NOT_VALIDATED",
+      "limit": "65535 es extremo sintético del formateador; no nivel alcanzable demostrado.",
+      "image": "evidence/qa24_runs/final_G00_M252_distinct/page_01.png"
+    },
+    {
+      "id": "G00:M253",
+      "action": "CORRECTED",
+      "english": "Cost 123456 Gil / Cost 9999999 Gil",
+      "reason": "Restaurado FFF4:0001 japonés: dinero72FD/72FF. HF18 usaba0100 y mostraba el nivel37 en el caso diferencial.",
+      "linguistic_status": "PASS_RESOURCE_SCOPED",
+      "visual_status": "PASS_SYNTHETIC_SCOPED",
+      "access_method": "POINTER_INJECTION; WRAM_POKE for variables",
+      "natural_consumer_status": "NOT_VALIDATED",
+      "limit": "9999999 es extremo de siete dígitos del formateador; máximo natural de dinero no acreditado.",
+      "image": "evidence/qa24_runs/final_G00_M253_distinct/page_01.png"
+    },
+    {
+      "id": "G00:M254",
+      "action": "RETAINED",
+      "english": "Ore Items / Double KnockTalon Items",
+      "reason": "FFF8:0000 prepara buffer6440 con nombre F03 mediante índice64CB. Nombres mínimo/máximo de la muestra se presentan completos.",
+      "linguistic_status": "PASS_RESOURCE_SCOPED",
+      "visual_status": "PASS_SYNTHETIC_SCOPED",
+      "access_method": "POINTER_INJECTION; WRAM_POKE for variables",
+      "natural_consumer_status": "NOT_VALIDATED",
+      "limit": "Selección sintética de recurso/índice de objeto, no ruta natural de depuración.",
+      "image": "evidence/qa24_runs/final_G00_M254_distinct/page_01.png"
+    },
+    {
+      "id": "G00:M255",
+      "action": "RETAINED",
+      "english": "Name Ore / Name Double KnockTalon",
+      "reason": "FFF8:0001 consume buffer6440 ya preparado. El fallo anterior era fixture incompleto: se probó con palabras exactas de nombres ROM y alcanzó el terminador.",
+      "linguistic_status": "PASS_RESOURCE_SCOPED",
+      "visual_status": "PASS_SYNTHETIC_SCOPED",
+      "access_method": "POINTER_INJECTION; WRAM_POKE for variables",
+      "natural_consumer_status": "NOT_VALIDATED",
+      "limit": "Preparación explícita del búfer, no demostración de preparación natural.",
+      "image": "evidence/qa24_runs/final_G00_M255_distinct/page_01.png"
+    },
+    {
+      "id": "G04:M033",
+      "action": "RETAINED",
+      "english": "Are these 2 OK? / Are these 3 OK?",
+      "reason": "Dos preguntas completas con cantidades literales: no requieren variable externa para aprobar su traducción.",
+      "linguistic_status": "PASS_RESOURCE_SCOPED",
+      "visual_status": "PASS_SYNTHETIC_SCOPED",
+      "access_method": "POINTER_INJECTION; WRAM_POKE for variables",
+      "natural_consumer_status": "NOT_VALIDATED",
+      "limit": "No se confirmó un consumidor de forja que use este recurso.",
+      "image": "evidence/qa24_runs/final_G04_M033_distinct/page_01.png"
+    },
+    {
+      "id": "G04:M034",
+      "action": "RETAINED",
+      "english": "1000 Gil, OK? / 500 Gil, OK?",
+      "reason": "Dos confirmaciones de precios literales, fieles al japonés y legibles. Se corrige la descripción previa de precio dinámico.",
+      "linguistic_status": "PASS_RESOURCE_SCOPED",
+      "visual_status": "PASS_SYNTHETIC_SCOPED",
+      "access_method": "POINTER_INJECTION; WRAM_POKE for variables",
+      "natural_consumer_status": "NOT_VALIDATED",
+      "limit": "No se confirmó la selección natural de estas variantes en forja.",
+      "image": "evidence/qa24_runs/final_G04_M034_distinct/page_01.png"
+    },
+    {
+      "id": "G06:M100",
+      "action": "CORRECTED",
+      "english": "Debug mode! / Start item trading!",
+      "reason": "Redacción inglesa natural para デバッグモード！ここから交換へいく！！; controles y paleta heredada conservados.",
+      "linguistic_status": "PASS_RESOURCE_SCOPED",
+      "visual_status": "PASS_SYNTHETIC_SCOPED",
+      "access_method": "POINTER_INJECTION; WRAM_POKE for variables",
+      "natural_consumer_status": "NOT_VALIDATED",
+      "limit": "Consumidor de depuración con acceso sintético; no ejecución de intercambio real.",
+      "image": "evidence/qa24_runs/final_G06_M100_distinct/page_01.png"
+    },
+    {
+      "id": "G11:M011",
+      "action": "CORRECTED",
+      "english": "floors or so later",
+      "reason": "Mismo texto japonés que G16:M073. La traducción recupera あとで sin eliminar くらい.",
+      "linguistic_status": "PASS_RESOURCE_SCOPED",
+      "visual_status": "PASS_SYNTHETIC_SCOPED",
+      "access_method": "POINTER_INJECTION; WRAM_POKE for variables",
+      "natural_consumer_status": "NOT_VALIDATED",
+      "limit": "Frase anfitriona, singular/plural y rango numérico naturales no comprobados.",
+      "image": "evidence/qa24_runs/final_G11_M011_distinct/end_text.png"
+    },
+    {
+      "id": "G14:M007",
+      "action": "RETAINED",
+      "english": "Wither Hit",
+      "reason": "Lectura exacta ウィザーヒット. Duplicado F17:I007 byte-exacto; consumidor de bestiario confirmado con Treant (índice32).",
+      "linguistic_status": "PASS_RESOURCE_SCOPED",
+      "visual_status": "PASS_SYNTHETIC_SCOPED",
+      "access_method": "POINTER_INJECTION; WRAM_POKE for variables",
+      "natural_consumer_status": "NOT_VALIDATED",
+      "limit": "Selección de bestiario/monstruo y desplazamiento sintéticos; no inferir el efecto mecánico del ataque.",
+      "image": "evidence/qa24_runs/final_G14_M007_distinct/end_text.png"
+    },
+    {
+      "id": "G14:M067",
+      "action": "RETAINED_WITH_GETTER_CORRECTION",
+      "english": "Ruin Cannon",
+      "reason": "破動砲 se distingue gráficamente de 波動砲/Wave Cannon. Se conserva traducción literal diferenciada y se armonizan F17:I067/I152 (antes Guns/Aura).",
+      "linguistic_status": "PASS_RESOURCE_SCOPED",
+      "visual_status": "PASS_SYNTHETIC_SCOPED",
+      "access_method": "POINTER_INJECTION; WRAM_POKE for variables",
+      "natural_consumer_status": "NOT_VALIDATED",
+      "limit": "I067 no aparece en82listas del bestiario; su fila se inyecta. No demuestra habilidades distintas ni nombre inglés oficial.",
+      "image": "evidence/qa24_runs/final_G14_M067_distinct/end_text.png"
+    }
+  ],
+  "resource_reservations_open": 0,
+  "natural_and_host_contexts_still_open": true,
+  "FINAL_APPROVED": false
+}

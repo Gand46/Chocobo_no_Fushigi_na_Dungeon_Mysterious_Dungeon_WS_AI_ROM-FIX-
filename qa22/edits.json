@@ -1,0 +1,485 @@
+[
+  {
+    "id": "G09:M000_pointer",
+    "offset": "0x68a82",
+    "before": "828c",
+    "after": "08f7",
+    "reason": "El japonés reconoce al chocobo, no pregunta por un objeto."
+  },
+  {
+    "id": "G09:M000_payload",
+    "offset": "0x6f708",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cd00330100000100c100260150003000b700b700b700f2ffffff",
+    "reason": "El japonés reconoce al chocobo, no pregunta por un objeto."
+  },
+  {
+    "id": "G09:M002_payload",
+    "offset": "0x68cba",
+    "before": "d5001701b700b700b700e00218034a0164031c013d02b600feff4900fa01f901f7011c013d02ae0000000000f2ffffff",
+    "after": "d5003201b700b7000000e00218034a0100000100feffc10026015000300000001c013d02ae00f2ffffff000000000000",
+    "reason": "Conserva sorpresa y pregunta sobre el personaje."
+  },
+  {
+    "id": "G09:M009_payload",
+    "offset": "0x68e60",
+    "before": "d1001c020c004501f700fd01b500c700620384000d009701feff800293009e00580201008a0282006d023d02fcfffeff4200a3018500b600c000060277014501580393009f0000000000f2ffffff",
+    "after": "d2001c013d0200004a0100000100c000060277011c013d02b500feff010039023d0200008a0282006d023d02ad00f2ffffff00000000000000000000000000000000000000000000000000000000",
+    "reason": "Conserva descubrimiento del libro como tesoro."
+  },
+  {
+    "id": "G09:M011_payload",
+    "offset": "0x68f00",
+    "before": "bf007802e0004b0294025f03e301180365020d009701feff2602dd0238028e004b017402b800ac02b600580227039802fcfffefffc00780226008c029300b60078023d02050045011301feff4b0158022602dd023802fc008b0263038a020502fc005302f2ffffff",
+    "after": "c00006028a0100006c0213007802dd020c00b500000080028f00feff09010e0200001400000069030c0200003d020500b700f2ffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "reason": "Gramática y progresión causal del uso de libros."
+  },
+  {
+    "id": "G09:M012_payload",
+    "offset": "0x68f68",
+    "before": "bf0033015c0306027701150064031c01640344019f00fcfffdffc000020342003d02ec009701140069030c02feff0601ba000e02f501f2ffffff",
+    "after": "c70078024a010000fc008c024501f70098017d02b700feffc000020342003d02ec0097017000e6020000800293009f00f2ffffff000000000000",
+    "reason": "Restituye despedida y advertencia por la hora."
+  },
+  {
+    "id": "G09:M015_payload",
+    "offset": "0x68fc8",
+    "before": "c3003601f6fffeffc800ab0278026c0207022002de01b800370300000000f2ffffff",
+    "after": "c30036010000d7000c0200006c016c0200004200bc01feff7000e602ae00f2ffffff",
+    "reason": "降りてきただけって: no simple visita casual."
+  },
+  {
+    "id": "G09:M024_pointer",
+    "offset": "0x68ab2",
+    "before": "0691",
+    "after": "22f7",
+    "reason": "Instrucción de equipo y término Talons del glosario."
+  },
+  {
+    "id": "G09:M024_payload",
+    "offset": "0x6f722",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c5000b02000069030c023802d2000d00050258020f006100feffd10005006d0002039200a10227028500ae00f2ffffff",
+    "reason": "Instrucción de equipo y término Talons del glosario."
+  },
+  {
+    "id": "G09:M025_pointer",
+    "offset": "0x68ab4",
+    "before": "3491",
+    "after": "52f7",
+    "reason": "Referente plural Talons y Saddle, función de equipar."
+  },
+  {
+    "id": "G09:M025_payload",
+    "offset": "0x6f752",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2001c0118030502b00100001c01a7010000e0028f00feff69030c0200009200a102170280028e00ad00f2ffffff",
+    "reason": "Referente plural Talons y Saddle, función de equipar."
+  },
+  {
+    "id": "G09:M030_payload",
+    "offset": "0x691cc",
+    "before": "c700780239024a0194005c0397008d005802fd01feffc1009801eb02b600db01d10005006d009400b700000000000000f2ffffff",
+    "after": "c700780239024a0194000000800202039c01bd029701fd01feffd2000d00050258020f006100d10005006d009400b700f2ffffff",
+    "reason": "Unifica el término de equipo, antes Claws."
+  },
+  {
+    "id": "G09:M039_payload",
+    "offset": "0x6931c",
+    "before": "d20051020000d2000d000502b100d2000d000502feff0902d10005006d000203b100d10005006d0002035000b9011202f2ffffff",
+    "after": "c400ab0202038f02f701d2000d0005025802090200008f02f701feffd10005006d009400b700f2ffffff00000000000000000000",
+    "reason": "Explicación funcional de fusión del japonés."
+  },
+  {
+    "id": "G09:M043_pointer",
+    "offset": "0x68ad8",
+    "before": "b293",
+    "after": "80f7",
+    "reason": "せっかく見つけたのに: contratiempo tras hallazgo."
+  },
+  {
+    "id": "G09:M043_payload",
+    "offset": "0x6f780",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c7000000e000d801a3011803e600a602610001001c021300b301feff36007802c7000000730007021c0261004b01b700f2ffffff",
+    "reason": "せっかく見つけたのに: contratiempo tras hallazgo."
+  },
+  {
+    "id": "G09:M044_pointer",
+    "offset": "0x68ada",
+    "before": "de93",
+    "after": "b4f7",
+    "reason": "Restituye singular y búsqueda futura."
+  },
+  {
+    "id": "G09:M044_payload",
+    "offset": "0x6f7b4",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cd001701dd02a301b7000000c7000000e102a3010000e000db01feff0f000b021c015302f2ffffff",
+    "reason": "Restituye singular y búsqueda futura."
+  },
+  {
+    "id": "G09:M053_pointer",
+    "offset": "0x68aec",
+    "before": "f294",
+    "after": "dcf7",
+    "reason": "Además de la perla, se presenta la magia."
+  },
+  {
+    "id": "G09:M053_payload",
+    "offset": "0x6f7dc",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cd00330100008002930002034a010000cb0008003a014b010203feff87021502f2ffffff",
+    "reason": "Además de la perla, se presenta la magia."
+  },
+  {
+    "id": "G09:M059_payload",
+    "offset": "0x695b0",
+    "before": "d5004b01170180021500b5004b0175026103a1027d02feff39023d02b700f2ffffff",
+    "after": "cc000e0200008002150000004a010000010039023d02feff4b018e00ad00f2ffffff",
+    "reason": "これこそ: deíctico enfático, no conclusión causal."
+  },
+  {
+    "id": "G09:M060_payload",
+    "offset": "0x695d2",
+    "before": "d100f70180028f00b500f5ff80020a0202034b018e00580213000203feff3d02dc004a0285006403f7011400d2003d021400aa029400b700f2ffffff",
+    "after": "cd00330100007000000069030c0200004200a301feffa602ab02990297014b018e00580239023d0200004b018e007702f2ffffff0000000000000000",
+    "reason": "Pregunta por la denominación, no tesoros en general."
+  },
+  {
+    "id": "G09:M062_payload",
+    "offset": "0x69636",
+    "before": "c200f7012600b90013008700a40267034b0117012601d8020000feff6600910069030c0264033902bd02970145018702b600fcfffeff7600de019000f201f2ffffff",
+    "after": "d7000c02000060020c029b010000e6017802060100008702f701feff660091000000450187020000800202037600de019000f201f2ffffff00000000000000000000",
+    "reason": "Advertencia explícita sobre profundidad."
+  },
+  {
+    "id": "G09:M063_pointer",
+    "offset": "0x68b00",
+    "before": "8096",
+    "after": "00f8",
+    "reason": "Restituye regreso a la aldea y condición de seguridad."
+  },
+  {
+    "id": "G09:M063_payload",
+    "offset": "0x6f800",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c200f701e60178020d029300700000004b01b700feffd0009500aa02d7018702000080020203c102a30108009f00f2ffffff",
+    "reason": "Restituye regreso a la aldea y condición de seguridad."
+  },
+  {
+    "id": "G09:M070_pointer",
+    "offset": "0x68b0e",
+    "before": "3e97",
+    "after": "32f8",
+    "reason": "Corrige agente, encuentro y huida del hámster."
+  },
+  {
+    "id": "G09:M070_payload",
+    "offset": "0x6f832",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c7000000d902580279028001de0100004b0100000c027802feffe0028f0000000100c601ea017d02380211001c0213008500b700f2fffdffc7007802060178025b021300850000000f0061003902d701fefffd01a1006702bc01e00293009c00f2ffffff",
+    "reason": "Corrige agente, encuentro y huida del hámster."
+  },
+  {
+    "id": "G09:M079_pointer",
+    "offset": "0x68b20",
+    "before": "3c99",
+    "after": "96f8",
+    "reason": "羽根を広げて: indicación física."
+  },
+  {
+    "id": "G09:M079_payload",
+    "offset": "0x6f896",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2001c01d70168023d020500000069030c023802feffdc0015001c014b0200000100a0018c029c010000c6013d02b700f2ffffff",
+    "reason": "羽根を広げて: indicación física."
+  },
+  {
+    "id": "G09:M081_payload",
+    "offset": "0x69970",
+    "before": "cc000e02b500270398024200d70126019b01feffc6013d0259037d02ca015903ea013b010203fcfffefffd0169030c0238022200120100000000f2ffffff",
+    "after": "cc000e02000069030c023802dc0015001c0138022200f700feff26019b0158020100dc00d802c6013d0200004b018e007302f2ffffff0000000000000000",
+    "reason": "Conserva aumento moderado y ubicación de la bolsa."
+  },
+  {
+    "id": "G09:M083_pointer",
+    "offset": "0x68b28",
+    "before": "c499",
+    "after": "caf8",
+    "reason": "地上へ: a la superficie, no salida genérica."
+  },
+  {
+    "id": "G09:M083_payload",
+    "offset": "0x6f8ca",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2001c01d701c7000000e102a301000079027c0100002001b701feffa802000087020000800202036d023e0204009c00f2ffffff",
+    "reason": "地上へ: a la superficie, no salida genérica."
+  },
+  {
+    "id": "G09:M086_pointer",
+    "offset": "0x68b2e",
+    "before": "269a",
+    "after": "fef8",
+    "reason": "ドル君/Doru-kun en el original; Chip era otra entidad. Romanización provisional."
+  },
+  {
+    "id": "G09:M086_payload",
+    "offset": "0x6f8fe",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d200200158024200bc010000e90004020000faff0600c20009029802faff0000b500feff80020203c2006c01de0113003801d7011801ca017d025302f2ffffff",
+    "reason": "ドル君/Doru-kun en el original; Chip era otra entidad. Romanización provisional."
+  },
+  {
+    "id": "G09:M087_pointer",
+    "offset": "0x68b30",
+    "before": "589a",
+    "after": "3ef9",
+    "reason": "Restaura agente: el hámster encargó entregar el objeto."
+  },
+  {
+    "id": "G09:M087_payload",
+    "offset": "0x6f93e",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c60002035d02eb0100004b0100008702000080020f007701feff69030c020000e60038023d025b02a102de0100002001d201f2ffffff",
+    "reason": "Restaura agente: el hámster encargó entregar el objeto."
+  },
+  {
+    "id": "G09:M089_pointer",
+    "offset": "0x68b34",
+    "before": "b49a",
+    "after": "74f9",
+    "reason": "El consumidor menciona al mismo ドル君; no Chip."
+  },
+  {
+    "id": "G09:M089_payload",
+    "offset": "0x6f974",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c000a601d8024b0100000f006100faff0600c20009029802faff00000000e102a301feff33004501f70069030c0200000f0000004b018e00b700f2fffdffc70078025000bc015802e9000402fefffaff0600bf0084021e005802c2003d026b029300faff0000b700f2ffffff",
+    "reason": "El consumidor menciona al mismo ドル君; no Chip."
+  },
+  {
+    "id": "G09:M097_pointer",
+    "offset": "0x68b44",
+    "before": "e29b",
+    "after": "e0f9",
+    "reason": "思ったのに: expectativa truncada al cambiar el peligro a Atla."
+  },
+  {
+    "id": "G09:M097_payload",
+    "offset": "0x6f9e0",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "faff0600c1000e007a0098017502c2000500faff000000004a0100005902dc00b500feff36009302b700b700f2ffffff",
+    "reason": "思ったのに: expectativa truncada al cambiar el peligro a Atla."
+  },
+  {
+    "id": "G09:M108_pointer",
+    "offset": "0x68b5a",
+    "before": "a29d",
+    "after": "10fa",
+    "reason": "Corrige error gráfico de spelling; conserva misterio."
+  },
+  {
+    "id": "G09:M108_payload",
+    "offset": "0x6fa10",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d1008600000069030c02b7000000cb0018033b018f0081029102feff4a01000001005d0253009500b700f2ffffff",
+    "reason": "Corrige error gráfico de spelling; conserva misterio."
+  },
+  {
+    "id": "G09:M117_payload",
+    "offset": "0x69e64",
+    "before": "c70064032001e201c700b600a90182004301feffa60266004b027902db01b700d2001c01faff0600bc00aa02d8014600faff0000fcfffeff4a0160030e0293004501f700a802b7000000f2ffffff",
+    "after": "c70000005d029c000000d2001c010000faff0600ec00460204000203faff0000feff4a0100002602dd024102de010000a802ad00f2ffffff00000000000000000000000000000000000000000000",
+    "reason": "Restituye certeza tentativa y cambio del horno."
+  },
+  {
+    "id": "G09:M121_pointer",
+    "offset": "0x68b74",
+    "before": "269f",
+    "after": "3efa",
+    "reason": "Krehl habla en primera persona sobre avisar a Rask."
+  },
+  {
+    "id": "G09:M121_payload",
+    "offset": "0x6fa3e",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c700000060020c029b0100007d02a3010000faff0600d00014007701faff0000feff03000c02780280024a01000087021202f2ffffff",
+    "reason": "Krehl habla en primera persona sobre avisar a Rask."
+  },
+  {
+    "id": "G09:M135_pointer",
+    "offset": "0x68b90",
+    "before": "24a1",
+    "after": "74fa",
+    "reason": "帰るのさ: acción de regresar, omitida en inglés."
+  },
+  {
+    "id": "G09:M135_payload",
+    "offset": "0x6fa74",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c100040202030502b7000000ca0095000000ab0200000601feff2601bc01b700f2ffffff",
+    "reason": "帰るのさ: acción de regresar, omitida en inglés."
+  },
+  {
+    "id": "G09:M141_pointer",
+    "offset": "0x68b9c",
+    "before": "c4a1",
+    "after": "98fa",
+    "reason": "本当はイイヤツ: afirmación, no pregunta."
+  },
+  {
+    "id": "G09:M141_payload",
+    "offset": "0x6fa98",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d100f7011c0100003d020d00b00100004a01000001000601fb01feff0c011803b700f2ffffff",
+    "reason": "本当はイイヤツ: afirmación, no pregunta."
+  },
+  {
+    "id": "G09:M142_pointer",
+    "offset": "0x68b9e",
+    "before": "e6a1",
+    "after": "befa",
+    "reason": "いろいろある: experiencias, no pregunta sobre la relación."
+  },
+  {
+    "id": "G09:M142_payload",
+    "offset": "0x6fabe",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "bf000000a6017802180127028f005802e0028f00000069030c02feff13000203e102800200002001d30100002c013601f2ffffff",
+    "reason": "いろいろある: experiencias, no pregunta sobre la relación."
+  },
+  {
+    "id": "G09:M151_pointer",
+    "offset": "0x68bb0",
+    "before": "c6a2",
+    "after": "f2fa",
+    "reason": "Corrige la inversión tipográfica I'm y tono de la frase."
+  },
+  {
+    "id": "G09:M151_payload",
+    "offset": "0x6faf2",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c70000004200bc010000870200000001bd02000069030c02feff80024a01ad00f2ffffff",
+    "reason": "Corrige la inversión tipográfica I'm y tono de la frase."
+  },
+  {
+    "id": "G09:M159_payload",
+    "offset": "0x6a3f0",
+    "before": "c700bc000c02db01b600e60180029300feff23020f007802260296020000f2ffffff",
+    "after": "c7000000e600a60261000f000b021c013802feffe3000e02930026029602f2ffffff",
+    "reason": "鉢植え: maceta, no planta nueva confirmada."
+  },
+  {
+    "id": "G09:M163_pointer",
+    "offset": "0x68bc8",
+    "before": "86a4",
+    "after": "16fb",
+    "reason": "Cadena causal y sujeto del original."
+  },
+  {
+    "id": "G09:M163_payload",
+    "offset": "0x6fb16",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d2001c010000d2002a033801d701c10051026c020d00feff030067023a0258021c0207029c01b700f2fffdffd2001c0149010000e102600294000000e6004502feff7600de019000ea01b700f2ffffff",
+    "reason": "Cadena causal y sujeto del original."
+  },
+  {
+    "id": "G09:M168_pointer",
+    "offset": "0x68bd2",
+    "before": "98a5",
+    "after": "66fb",
+    "reason": "分身: copias del cristal, información omitida."
+  },
+  {
+    "id": "G09:M168_payload",
+    "offset": "0x6fb66",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c700780236004b028b02b50000005d02db014501f700feff5000200294000000040047026b02000080020203e70244027c00f2ffffff",
+    "reason": "分身: copias del cristal, información omitida."
+  },
+  {
+    "id": "G09:M172_payload",
+    "offset": "0x6a64e",
+    "before": "c70064032001e20159037802cc016c02b8000203e600a6027d00feff2600e6003d02590378022c02a301580245010000fcfffeff6702bc01050202038d005d02ad0000000000f2ffffff",
+    "after": "c700000067029f022b0100004b0100002600e6003d0200004b01feff870202020000b600f001050202038d005d02b700f2ffffff00000000000000000000000000000000000000000000",
+    "reason": "Restituye primera persona y anterioridad."
+  },
+  {
+    "id": "G09:M177_pointer",
+    "offset": "0x68be4",
+    "before": "fea6",
+    "after": "9cfb",
+    "reason": "Conserva interés por Atla y curiosidad por objetos."
+  },
+  {
+    "id": "G09:M177_payload",
+    "offset": "0x6fb9c",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "d7000c02000042003d02000003000c027802faff0600bf0084020100faff0000b500feff36007802a0017c0100008002940002034b018e00580287021602f2ffffff",
+    "reason": "Conserva interés por Atla y curiosidad por objetos."
+  },
+  {
+    "id": "G09:M185_payload",
+    "offset": "0x6a85a",
+    "before": "c000ac025c0315008d003403c700bc00090206017802feffe002150064031c01ba00ac0218034a01b700f2ffffff",
+    "after": "ca0015008d001803c7000000e6003f020b020000e0021500feff800215000000760091020000d9027302f2ffffff",
+    "reason": "Matiz temporal y memoria del deber."
+  },
+  {
+    "id": "G09:M186_payload",
+    "offset": "0x6a888",
+    "before": "c700b600b7018002020350004a02a8027d026100fcfffeff1c0113007802fd015f03dc0164030c008f00feff3a0064031c01d2002a033801d701c10051026c020d00b700fcfffeffc700780253003c015802e60038021c01a701b7000000f2ffffff",
+    "after": "d1005f03bc0105029e0058021c0113007802d9025802feff8f024a017d0261003a0000008002020353002b037902b201f2fffdffc70000000e0000008002150000001c0113009502580253001803feffe60038021c01a701b700f2ffffff00000000",
+    "reason": "El hablante es la petición de ayuda misma, no sólo un corazón corrupto."
+  },
+  {
+    "id": "G09:M187_payload",
+    "offset": "0x6a8ea",
+    "before": "cb001a00260059039502580226026b0239019c01bc000902feffbc016403f7018a0217008d00bc004702b70180020203fcfffeff7600de019000d701870269030c023802e70244027d00feff36007802c700d401670382009201f2ffffff",
+    "after": "c70000004200d7010601000026008f028600d70180020203feff7600de019000d7010f006100800202036d023e0204009c00f2fffdffc000ac020000c70000004200e5010b020000e000ff009302f2ffffff000000000000000000000000",
+    "reason": "戦うことはできない: incapacidad de combatir, no debilidad genérica."
+  },
+  {
+    "id": "G09:M188_pointer",
+    "offset": "0x68bfa",
+    "before": "48a9",
+    "after": "defb",
+    "reason": "探すコト: búsqueda de auxilio."
+  },
+  {
+    "id": "G09:M188_payload",
+    "offset": "0x6fbde",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "cb0018037600910200004a010000870200005d028c00feff6702bc0105020203e002f7014200d7011c01a701b700f2ffffff",
+    "reason": "探すコト: búsqueda de auxilio."
+  },
+  {
+    "id": "G09:M189_pointer",
+    "offset": "0x68bfc",
+    "before": "72a9",
+    "after": "10fc",
+    "reason": "No pide que el jugador lo saque del calabozo."
+  },
+  {
+    "id": "G09:M189_payload",
+    "offset": "0x6fc10",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "c70000001c01a701000069030c020000e000db01feff80020a020203dc0185004501f7003d025b029d02b700f2ffffff",
+    "reason": "No pide que el jugador lo saque del calabozo."
+  },
+  {
+    "id": "G09:M192_pointer",
+    "offset": "0x68c02",
+    "before": "dca9",
+    "after": "40fc",
+    "reason": "Corrige inversión grave de rescatador y rescatado."
+  },
+  {
+    "id": "G09:M192_payload",
+    "offset": "0x6fc40",
+    "before": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "after": "faff0600bf0084020100faff000000004a01000014008001de01000069030c02feff870200005902bd0200002001d201f2fffdffcb00180347029c0100004a010000870200001c01a701feff69030c0200007000000080021500b700f2ffffff",
+    "reason": "Corrige inversión grave de rescatador y rescatado."
+  }
+]

@@ -1,0 +1,81 @@
+
+qa18/private/code18c600.bin:     file format binary
+
+
+Disassembly of section .data:
+
+0000c600 <.data>:
+    c600:	40                   	inc    ax
+    c601:	7e 10                	jle    0xc613
+    c603:	7f 10                	jg     0xc615
+    c605:	80 10 81             	adc    BYTE PTR [bx+si],0x81
+    c608:	10 82 10 83          	adc    BYTE PTR [bp+si-0x7cf0],al
+    c60c:	10 84 30 87          	adc    BYTE PTR [si-0x78d0],al
+    c610:	20 89 10 8a          	and    BYTE PTR [bx+di-0x75f0],cl
+    c614:	10 8b 20 8d          	adc    BYTE PTR [bp+di-0x72e0],cl
+    c618:	10 8e 10 8f          	adc    BYTE PTR [bp-0x70f0],cl
+    c61c:	10 90 10 91          	adc    BYTE PTR [bx+si-0x6ef0],dl
+    c620:	20 93 20 95          	and    BYTE PTR [bp+di-0x6ae0],dl
+    c624:	10 96 20 98          	adc    BYTE PTR [bp-0x67e0],dl
+    c628:	10 99 10 9a          	adc    BYTE PTR [bx+di-0x65f0],bl
+    c62c:	10 9b 20 9d          	adc    BYTE PTR [bp+di-0x62e0],bl
+    c630:	10 9e 10 9f          	adc    BYTE PTR [bp-0x60f0],bl
+    c634:	20 a1 10 a2          	and    BYTE PTR [bx+di-0x5df0],ah
+    c638:	20 a4 10 a5          	and    BYTE PTR [si-0x5af0],ah
+    c63c:	10 a6 10 a7          	adc    BYTE PTR [bp-0x58f0],ah
+    c640:	10 a8 10 a9          	adc    BYTE PTR [bx+si-0x56f0],ch
+    c644:	10 aa 20 ac          	adc    BYTE PTR [bp+si-0x53e0],ch
+    c648:	10 ad 10 ae          	adc    BYTE PTR [di-0x51f0],ch
+    c64c:	20 b0 20 b2          	and    BYTE PTR [bx+si-0x4de0],dh
+    c650:	20 b4 20 b6          	and    BYTE PTR [si-0x49e0],dh
+    c654:	20 b8 20 ba          	and    BYTE PTR [bx+si-0x45e0],bh
+    c658:	20 bc 10 bd          	and    BYTE PTR [si-0x42f0],bh
+    c65c:	10 be 20 c0          	adc    BYTE PTR [bp-0x3fe0],bh
+    c660:	20 c2                	and    dl,al
+    c662:	20 c4                	and    ah,al
+    c664:	20 c6                	and    dh,al
+    c666:	20 c8                	and    al,cl
+    c668:	20 ca                	and    dl,cl
+    c66a:	20 cc                	and    ah,cl
+    c66c:	20 ce                	and    dh,cl
+    c66e:	20 d0                	and    al,dl
+    c670:	20 d2                	and    dl,dl
+    c672:	10 d3                	adc    bl,dl
+    c674:	10 d4                	adc    ah,dl
+    c676:	20 d6                	and    dh,dl
+    c678:	20 d8                	and    al,bl
+    c67a:	20 da                	and    dl,bl
+    c67c:	10 db                	adc    bl,bl
+    c67e:	10 dc                	adc    ah,bl
+    c680:	10 dd                	adc    ch,bl
+    c682:	10 de                	adc    dh,bl
+    c684:	10 df                	adc    bh,bl
+    c686:	20 e1                	and    cl,ah
+    c688:	10 e2                	adc    dl,ah
+    c68a:	10 e3                	adc    bl,ah
+    c68c:	10 e4                	adc    ah,ah
+    c68e:	20 e6                	and    dh,ah
+    c690:	10 e7                	adc    bh,ah
+    c692:	20 e9                	and    cl,ch
+    c694:	10 ea                	adc    dl,ch
+    c696:	10 eb                	adc    bl,ch
+    c698:	20 ed                	and    ch,ch
+    c69a:	20 ef                	and    bh,ch
+    c69c:	20 f1                	and    cl,dh
+    c69e:	10 f2                	adc    dl,dh
+    c6a0:	20 f4                	and    ah,dh
+    c6a2:	20 f6                	and    dh,dh
+    c6a4:	10 f7                	adc    bh,dh
+    c6a6:	10 f8                	adc    al,bh
+    c6a8:	10 f9                	adc    cl,bh
+    c6aa:	20 fb                	and    bl,bh
+    c6ac:	20 fd                	and    ch,bh
+    c6ae:	20 ff                	and    bh,bh
+    c6b0:	10 00                	adc    BYTE PTR [bx+si],al
+    c6b2:	11 01                	adc    WORD PTR [bx+di],ax
+    c6b4:	21 03                	and    WORD PTR [bp+di],ax
+    c6b6:	21 05                	and    WORD PTR [di],ax
+    c6b8:	21 07                	and    WORD PTR [bx],ax
+    c6ba:	11 08                	adc    WORD PTR [bx+si],cx
+    c6bc:	21 0a                	and    WORD PTR [bp+si],cx
+    c6be:	11 0b                	adc    WORD PTR [bp+di],cx

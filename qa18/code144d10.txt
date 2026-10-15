@@ -1,0 +1,64 @@
+
+qa18/private/code144d10.bin:     file format binary
+
+
+Disassembly of section .data:
+
+00004d10 <.data>:
+    4d10:	25 ff 00             	and    ax,0xff
+    4d13:	03 f8                	add    di,ax
+    4d15:	8a 85 d8 1e          	mov    al,BYTE PTR [di+0x1ed8]
+    4d19:	24 03                	and    al,0x3
+    4d1b:	eb 12                	jmp    0x4d2f
+    4d1d:	b4 00                	mov    ah,0x0
+    4d1f:	eb 1e                	jmp    0x4d3f
+    4d21:	b4 10                	mov    ah,0x10
+    4d23:	eb 1a                	jmp    0x4d3f
+    4d25:	b4 20                	mov    ah,0x20
+    4d27:	eb 16                	jmp    0x4d3f
+    4d29:	b4 30                	mov    ah,0x30
+    4d2b:	eb 12                	jmp    0x4d3f
+    4d2d:	eb 10                	jmp    0x4d3f
+    4d2f:	3c 00                	cmp    al,0x0
+    4d31:	74 ea                	je     0x4d1d
+    4d33:	3c 01                	cmp    al,0x1
+    4d35:	74 ea                	je     0x4d21
+    4d37:	3c 02                	cmp    al,0x2
+    4d39:	74 ea                	je     0x4d25
+    4d3b:	3c 03                	cmp    al,0x3
+    4d3d:	74 ea                	je     0x4d29
+    4d3f:	8a 85 d8 1e          	mov    al,BYTE PTR [di+0x1ed8]
+    4d43:	c0 e8 02             	shr    al,0x2
+    4d46:	eb 0e                	jmp    0x4d56
+    4d48:	b0 00                	mov    al,0x0
+    4d4a:	eb 16                	jmp    0x4d62
+    4d4c:	b0 10                	mov    al,0x10
+    4d4e:	eb 12                	jmp    0x4d62
+    4d50:	b0 20                	mov    al,0x20
+    4d52:	eb 0e                	jmp    0x4d62
+    4d54:	eb 0c                	jmp    0x4d62
+    4d56:	3c 00                	cmp    al,0x0
+    4d58:	74 ee                	je     0x4d48
+    4d5a:	3c 01                	cmp    al,0x1
+    4d5c:	74 ee                	je     0x4d4c
+    4d5e:	3c 02                	cmp    al,0x2
+    4d60:	74 ee                	je     0x4d50
+    4d62:	51                   	push   cx
+    4d63:	52                   	push   dx
+    4d64:	8a ad e2 1e          	mov    ch,BYTE PTR [di+0x1ee2]
+    4d68:	8a 8d ec 1e          	mov    cl,BYTE PTR [di+0x1eec]
+    4d6c:	8a b5 f6 1e          	mov    dh,BYTE PTR [di+0x1ef6]
+    4d70:	8a 95 00 1f          	mov    dl,BYTE PTR [di+0x1f00]
+    4d74:	fe ce                	dec    dh
+    4d76:	fe ca                	dec    dl
+    4d78:	02 f5                	add    dh,ch
+    4d7a:	02 d1                	add    dl,cl
+    4d7c:	fe cd                	dec    ch
+    4d7e:	fe c9                	dec    cl
+    4d80:	fe c6                	inc    dh
+    4d82:	fe c2                	inc    dl
+    4d84:	02 ec                	add    ch,ah
+    4d86:	02 f4                	add    dh,ah
+    4d88:	02 c8                	add    cl,al
+    4d8a:	02 d0                	add    dl,al
+    4d8c:	89 0e eb 1f          	mov    WORD PTR ds:0x1feb,cx
